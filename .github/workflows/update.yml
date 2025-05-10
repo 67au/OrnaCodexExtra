@@ -42,6 +42,7 @@ jobs:
       - name: Update Repo
         run: uv run --directory ./crawler main.py update_extra --extra ../data
       - name: Push Changes
+        id: push
         shell: bash
         run: |
           git add data
