@@ -1,0 +1,3878 @@
+# Aaru Armor / 雅卢盔甲 / 雅盧盔甲
+aaru-armor = 1
+# Aaru Boots / 雅卢长靴 / 雅盧長靴
+aaru-boots = 1
+# Aaru Garb / 雅卢皮甲 / 雅盧皮甲
+aaru-garb = 1
+# Aaru Headwrap / 雅卢头饰 / 雅盧頭飾
+aaru-headwrap = 1
+# Aaru Helmet / 雅卢头盔 / 雅盧頭盔
+aaru-helmet = 1
+# Aaru Hood / 雅卢兜帽 / 雅盧兜帽
+aaru-hood = 1
+# Aaru Leggings / 雅卢腿甲 / 雅盧腿甲
+aaru-leggings = 1
+# Aaru Robe / 雅卢法袍 / 雅盧法袍
+aaru-robe = 1
+# Aaru Skirt / 雅卢裙装 / 雅盧裙
+aaru-skirt = 1
+# Abyssal Armor / 深渊盔甲 / 深淵盔甲
+abyssal-armor = 1
+# Abyssal Axe / 深渊之斧 / 深淵之斧
+abyssal-axe = 1
+# Abyssal Greaves / 深渊护胫 / 深淵護脛
+abyssal-greaves = 1
+# Abyssal Helmet / 深渊头盔 / 深淵頭盔
+abyssal-helmet = 1
+# Achlys Razor / 艾柯吕斯剃刀 / 艾柯呂斯的剃刀
+achlys-razor = 1
+# Acolyte Hood / 追随者兜帽 / 追隨者兜帽
+acolyte-hood = -1
+# Acolyte Robe / 追随者法袍 / 追隨者法袍
+acolyte-robe = -1
+# Acolyte Shoes / 追随者之鞋 / 追隨者之鞋
+acolyte-shoes = -1
+# Acolyte Staff / 追随者法杖 / 追隨者法杖
+acolyte-staff = -1
+# Adamantine Armor / 精金盔甲 / 精金盔甲
+adamantine-armor = -1
+# Adamantine Helmet / 精金头盔 / 精金頭盔
+adamantine-helmet = -1
+# Adamantine Leggings / 精金腿甲 / 精金腿甲
+adamantine-leggings = -1
+# Adamantine Staff / 精金法杖 / 精金法杖
+adamantine-staff = -1
+# Aegis / 神盾 / 神盾
+aegis = -1
+# Aegis of Athena / 雅典娜神盾 / 雅典娜的神盾
+aegis-of-athena = 1
+# Aengus Og's Lute / 安格斯奥格鲁特琴 / 安格斯奧格魯特琴
+aengus-ogs-lute = 1
+# Agathodaemon Hammer / 阿伽忒俄斯之锤 / 阿伽忒俄斯之鎚
+agathodaemon-hammer = 1
+# Age-Old Mimic Head / 古老宝箱怪头套 / 古老寶箱怪的頭
+age-old-mimic-head = 1
+# Aglovale / 阿格罗瓦尔 / 阿格羅瓦爾
+aglovale = 1
+# Aine's Axe / 艾涅的斧 / 艾涅的斧
+aines-axe = -1
+# Aldon's Hat / 阿尔登之帽 / 阿爾登的帽
+aldons-hat = -1
+# Alpha Myrddin / α梅尔丁 / α梅爾丁
+alpha-myrddin = 1
+# Alpha Myrddin Cloak / α梅尔丁斗篷 / α梅爾丁披風
+alpha-myrddin-cloak = 1
+# Alpha Myrddin Cowl / α梅尔丁风帽 / α梅爾丁風帽
+alpha-myrddin-cowl = 1
+# Alpha Myrddin Hood / α梅尔丁兜帽 / α梅爾丁兜帽
+alpha-myrddin-hood = 1
+# Alpha Myrddin Robe / α梅尔丁法袍 / α梅爾丁法袍
+alpha-myrddin-robe = 1
+# Alpha Myrddin Shield / α梅尔丁之盾 / α梅爾丁盾
+alpha-myrddin-shield = 1
+# Alpha Olympia Archistaff / α奥林匹亚权杖 / α奧林匹亞權杖
+alpha-olympia-archistaff = 1
+# Alpha Olympia Boots / α奥林匹亚长靴 / α奧林匹亞長靴
+alpha-olympia-boots = 1
+# Alpha Olympia Cowl / α奥林匹亚风帽 / α奧林匹亞風帽
+alpha-olympia-cowl = 1
+# Alpha Olympia Cuirass / α奥林匹亚胸甲 / α奧林匹亞胸甲
+alpha-olympia-cuirass = 1
+# Alpha Olympia Garb / α奥林匹亚皮甲 / α奧林匹亞皮甲
+alpha-olympia-garb = 1
+# Alpha Olympia Greaves / α奥林匹亚护胫 / α奧林匹亞護脛
+alpha-olympia-greaves = 1
+# Alpha Olympia Helmet / α奥林匹亚头盔 / α奧林匹亞頭盔
+alpha-olympia-helmet = 1
+# Alpha Olympia Hood / α奥林匹亚兜帽 / α奧林匹亞兜帽
+alpha-olympia-hood = 1
+# Alpha Olympia Shoes / α奥林匹亚鞋 / α奧林匹亞鞋
+alpha-olympia-shoes = 1
+# Alpha Olympia Vestment / α奥林匹亚圣衣 / α奧林匹亞法衣
+alpha-olympia-vestment = 1
+# Alpha Olympia Warbow / α奥林匹亚战弓 / α奧林匹亞戰弓
+alpha-olympia-warbow = 1
+# Alpha Olympia Warsword / α奥林匹亚战刃 / α奧林匹亞戰刃
+alpha-olympia-warsword = 1
+# Amadan's Staff / 阿玛丹法杖 / 阿瑪丹的法杖
+amadans-staff = -1
+# Amergin's Razor / 阿默金的剃刀 / 阿默金的剃刀
+amergins-razor = -1
+# Ancient Boots / 远古长靴 / 遠古長靴
+ancient-boots = -1
+# Ancient Hood / 远古兜帽 / 遠古兜帽
+ancient-hood = -1
+# Ancient Jinn Staff / 远古神灯精灵法杖 / 遠古神燈精靈法杖
+ancient-jinn-staff = -1
+# Ancient Mimic Head / 远古宝箱怪头套 / 遠古寶箱怪的頭
+ancient-mimic-head = -1
+# Ancient Robe / 远古法袍 / 遠古法袍
+ancient-robe = -1
+# Ankh / 生命之符 / 生命之符
+ankh = 1
+# Annwn Rapier / 安温刺剑 / 安溫刺劍
+annwn-rapier = 1
+# Annwn Shotel / 安温短刀 / 安溫短刀
+annwn-shotel = 1
+# Antlers / 鹿角盔 / 鹿角盔
+antlers = -1
+# Apprentice Hood / 学徒兜帽 / 學徒兜帽
+apprentice-hood = -1
+# Apprentice Robe / 学徒法袍 / 學徒法袍
+apprentice-robe = -1
+# Apprentice Shoes / 学徒鞋子 / 學徒鞋子
+apprentice-shoes = -1
+# Arc / 弧光 / 弧光
+arc = -1
+# Arcane Arrows / 奥术箭矢 / 奧術箭矢
+arcane-arrows = -1
+# Arcane Boots / 奥术长靴 / 奧術長靴
+arcane-boots = -1
+# Arcane Hat / 奥术之帽 / 奧術帽
+arcane-hat = -1
+# Arcane Robe / 奥术长袍 / 奧術長袍
+arcane-robe = -1
+# Arcane Scroll / 奥术卷轴 / 奧術卷軸
+arcane-scroll = -1
+# Arcane Wand / 奥术魔杖 / 奧術棍棒
+arcane-wand = -1
+# Arch-Blessed Rune Armor / 高等祝福符文盔甲 / 高等祝福符文盔甲
+arch-blessed-rune-armor = -1
+# Arch-Blessed Rune Helmet / 高等祝福符文头盔 / 高等祝福符文頭盔
+arch-blessed-rune-helmet = -1
+# Arch-Blessed Rune Leggings / 高等祝福符文腿甲 / 高等祝福符文腿甲
+arch-blessed-rune-leggings = -1
+# Arch-Rune Armor / 奥术符文盔甲 / 奧術符文盔甲
+arch-rune-armor = -1
+# Arch-Rune Helmet / 奥术符文头盔 / 奧術符文頭盔
+arch-rune-helmet = -1
+# Arch-Rune Leggings / 奥术符文腿甲 / 奧術符文腿甲
+arch-rune-leggings = -1
+# Arch-Rune Shield / 奥术符文盾 / 奧術符文盾
+arch-rune-shield = -1
+# Arch-Rune Sword / 奥术符文剑 / 奧術符文劍
+arch-rune-sword = -1
+# Archmage's Scroll / 大法师卷轴 / 大法師的卷軸
+archmages-scroll = -1
+# Argent Armor / 银饰盔甲 / 銀飾盔甲
+argent-armor = -1
+# Argent Helmet / 银饰头盔 / 銀飾頭盔
+argent-helmet = -1
+# Argent Leggings / 银饰腿甲 / 銀飾腿甲
+argent-leggings = -1
+# Argent Shield / 白银盾 / 白銀盾
+argent-shield = -1
+# Argos / 阿尔戈斯 / 阿爾戈斯
+argos = 1
+# Aries' Hood / 亚力士兜帽 / 亞力士的兜帽
+aries-hood = 1
+# Aries' Horns / 亚力士之角 / 亞力士的角
+aries-horns = 1
+# Aries' Legs / 亚力士之腿 / 亞力士的腿
+aries-legs = 1
+# Arisen Aaru Armor / 重生雅卢盔甲 / 重生雅盧盔甲
+arisen-aaru-armor = 1
+# Arisen Aaru Boots / 重生雅卢长靴 / 重生雅盧長靴
+arisen-aaru-boots = 1
+# Arisen Aaru Garb / 重生雅卢皮甲 / 重生雅盧皮甲
+arisen-aaru-garb = 1
+# Arisen Aaru Headwrap / 重生雅卢头饰 / 重生雅盧頭飾
+arisen-aaru-headwrap = 1
+# Arisen Aaru Helmet / 重生雅卢头盔 / 重生雅盧頭盔
+arisen-aaru-helmet = 1
+# Arisen Aaru Hood / 重生雅卢兜帽 / 重生雅盧兜帽
+arisen-aaru-hood = 1
+# Arisen Aaru Leggings / 重生雅卢腿甲 / 重生雅盧腿甲
+arisen-aaru-leggings = 1
+# Arisen Aaru Robe / 重生雅卢法袍 / 重生雅盧法袍
+arisen-aaru-robe = 1
+# Arisen Aaru Skirt / 重生雅卢裙装 / 重生雅盧裙子
+arisen-aaru-skirt = 1
+# Arisen Ankh / 重生生命之符 / 重生生命之符
+arisen-ankh = 1
+# Arisen Armor / 重生盔甲 / 重生盔甲
+arisen-armor = 1
+# Arisen Askr Armor / 重生阿斯克盔甲 / 重生阿斯克盔甲
+arisen-askr-armor = 1
+# Arisen Askr Boots / 重生阿斯克长靴 / 重生阿斯克鞋
+arisen-askr-boots = 1
+# Arisen Askr Cowl / 重生阿斯克风帽 / 重生阿斯克風帽
+arisen-askr-cowl = 1
+# Arisen Askr Garb / 重生阿斯克皮甲 / 重生阿斯克皮甲
+arisen-askr-garb = 1
+# Arisen Askr Helmet / 重生阿斯克头盔 / 重生阿斯克頭盔
+arisen-askr-helmet = 1
+# Arisen Askr Leggings / 重生阿斯克腿甲 / 重生阿斯克腿甲
+arisen-askr-leggings = 1
+# Arisen Avalon Armor / 重生阿瓦隆盔甲 / 重生阿瓦隆盔甲
+arisen-avalon-armor = 1
+# Arisen Avalon Helmet / 重生阿瓦隆头盔 / 重生阿瓦隆頭盔
+arisen-avalon-helmet = 1
+# Arisen Avalon Leggings / 重生阿瓦隆腿甲 / 重生阿瓦隆腿甲
+arisen-avalon-leggings = 1
+# Arisen Axe of Tiamat / 重生提亚马特之斧 / 重生提亞馬特的斧
+arisen-axe-of-tiamat = 1
+# Arisen Axe of Typhon / 重生堤丰之斧 / 重生堤豐之斧
+arisen-axe-of-typhon = 1
+# Arisen Badb Catha / 重生芭德布渡鸦 / 重生芭德布渡鴉
+arisen-badb-catha = 1
+# Arisen Balor Crown / 重生巴罗尔王冠 / 重生巴羅爾王冠
+arisen-balor-crown = 1
+# Arisen Balor Dagger / 重生巴罗尔匕首 / 重生巴羅爾匕首
+arisen-balor-dagger = 1
+# Arisen Banshee Boots / 重生报丧女妖长靴 / 重生報喪女妖長靴
+arisen-banshee-boots = 1
+# Arisen Banshee Boots Diabolus / 恶神重生报丧女妖长靴 / 惡神重生報喪女妖長靴
+arisen-banshee-boots-diabolus = 1
+# Arisen Banshee Robe / 重生报丧女妖法袍 / 重生報喪女妖法袍
+arisen-banshee-robe = 1
+# Arisen Banshee Robe Diabolus / 恶神重生报丧女妖法袍 / 惡神重生報喪女妖法袍
+arisen-banshee-robe-diabolus = 1
+# Arisen Banshee Veil / 重生报丧女妖面罩 / 重生報喪女妖面罩
+arisen-banshee-veil = 1
+# Arisen Banshee Veil Diabolus / 恶神重生宝石女妖面罩 / 惡神重生報喪女妖面罩
+arisen-banshee-veil-diabolus = 1
+# Arisen Batwing Bow / 重生蝙蝠翼弓 / 重生蝙蝠翼弓
+arisen-batwing-bow = 1
+# Arisen Bloodwarg Grimoire / 重生嗜血座狼魔法书 / 重生血腥座狼魔法書
+arisen-bloodwarg-grimoire = 1
+# Arisen Bone Shield / 重生骨盾 / 重生骨盾
+arisen-bone-shield = 1
+# Arisen Bonecrusher / 重生碎骨者 / 重生碎骨者
+arisen-bonecrusher = 1
+# Arisen Boots / 重生长靴 / 重生的長靴
+arisen-boots = 1
+# Arisen Bow of Scales / 重生鳞之弓 / 重生鱗之弓
+arisen-bow-of-scales = 1
+# Arisen Bow of Tiamat / 重生提亚马特之弓 / 重生提亞馬特的弓
+arisen-bow-of-tiamat = 1
+# Arisen Bow of Typhon / 重生堤丰之弓 / 重生堤豐之弓
+arisen-bow-of-typhon = 1
+# Arisen Candy Cane / 重生拐杖糖 / 重生拐杖糖
+arisen-candy-cane = 1
+# Arisen Caroling Lute / 重生圣诞颂琴 / 重生聖誕頌琴
+arisen-caroling-lute = 1
+# Arisen Charon's Staff / 重生卡戎之杖 / 重生凱倫的法杖
+arisen-charons-staff = 1
+# Arisen Clurichaun Blade / 重生酒精灵之刃 / 重生酒精靈之刃
+arisen-clurichaun-blade = 1
+# Arisen Colada / 重生科拉达 / 重生科拉達
+arisen-colada = 1
+# Arisen Cowl / 重生风帽 / 重生風帽
+arisen-cowl = 1
+# Arisen Crowsong / 重生渡鸦葬歌 / 重生渡鴉葬歌
+arisen-crowsong = 1
+# Arisen Cursed Aengus Og's Lute / 重生诅咒的安格斯奥格鲁特琴 / 重生受詛咒的安格斯奧格魯特琴
+arisen-cursed-aengus-ogs-lute = 1
+# Arisen Cursed Artio's Hide / 重生诅咒的阿尔提奥皮肩 / 重生受詛咒的阿蒂奧皮草
+arisen-cursed-artios-hide = 1
+# Arisen Cursed Atepomarus Mail / 重生诅咒的阿特波玛鲁斯链甲 / 重生受詛咒的阿特波馬羅斯鏈甲
+arisen-cursed-atepomarus-mail = 1
+# Arisen Cursed Autumna Crested Shield / 重生诅咒的奥图娜纹章盾 / 重生受詛咒的阿圖娜紋章盾
+arisen-cursed-autumna-crested-shield = 1
+# Arisen Cursed Belenus's Boots / 重生诅咒的百勒努斯长靴 / 重生受詛咒的貝里努斯長靴
+arisen-cursed-belenuss-boots = 1
+# Arisen Cursed Bormana's Mantle / 重生诅咒的波尔玛纳披风 / 重生受詛咒的波爾瑪納披風
+arisen-cursed-bormanas-mantle = 1
+# Arisen Cursed Caticatona Cuirass / 重生诅咒的卡蒂卡托娜胸甲 / 重生受詛咒的卡卡托娜胸甲
+arisen-cursed-caticatona-cuirass = 1
+# Arisen Cursed Caturix's Robe / 重生诅咒的卡图里克斯法袍 / 重生受詛咒的卡圖里克斯長袍
+arisen-cursed-caturixs-robe = 1
+# Arisen Cursed Clota's Garb / 重生诅咒的克洛塔皮甲 / 重生受詛咒的克洛塔皮甲
+arisen-cursed-clotas-garb = 1
+# Arisen Cursed Damona's Shield / 重生诅咒的达默纳之盾 / 重生受詛咒的達摩娜之盾
+arisen-cursed-damonas-shield = 1
+# Arisen Cursed Eostre's Circlet / 重生诅咒的厄俄斯特头饰 / 重生受詛咒的俄斯特髮環
+arisen-cursed-eostres-circlet = 1
+# Arisen Cursed Esus's Pillar / 重生诅咒的埃苏斯支柱 / 重生受詛咒的埃蘇斯之柱
+arisen-cursed-esuss-pillar = 1
+# Arisen Cursed Fomoria Plated Boots / 重生诅咒的弗摩尔镀金长靴 / 重生受詛咒的弗摩爾族板甲靴
+arisen-cursed-fomoria-plated-boots = 1
+# Arisen Cursed Fomoria Plated Boots / 重生诅咒的弗摩尔镀金长靴 / 重生受詛咒的弗摩爾族板甲靴
+arisen-cursed-fomoria-plated-boots-4de3e61d = 1
+# Arisen Cursed Fomoria Plated Boots / 重生诅咒的弗摩尔镀金长靴 / 重生受詛咒的弗摩爾族板甲靴
+arisen-cursed-fomoria-plated-boots-56e4841c = 1
+# Arisen Cursed Fomoria Plated Boots / 重生诅咒的弗摩尔镀金长靴 / 重生受詛咒的弗摩爾族板甲靴
+arisen-cursed-fomoria-plated-boots-b2c283ff = 1
+# Arisen Cursed Fomoria Plated Robe / 重生诅咒的弗摩尔镀金法袍 / 重生受詛咒的弗摩爾族板甲袍
+arisen-cursed-fomoria-plated-robe = 1
+# Arisen Cursed Fomoria Plated Robe / 重生诅咒的弗摩尔镀金法袍 / 重生受詛咒的弗摩爾族板甲袍
+arisen-cursed-fomoria-plated-robe-954d6525 = 1
+# Arisen Cursed Fomoria Plated Robe / 重生诅咒的弗摩尔镀金法袍 / 重生受詛咒的弗摩爾族板甲袍
+arisen-cursed-fomoria-plated-robe-9a5a1cdd = 1
+# Arisen Cursed Fomoria Plated Robe / 重生诅咒的弗摩尔镀金法袍 / 重生受詛咒的弗摩爾族板甲袍
+arisen-cursed-fomoria-plated-robe-d5d338d8 = 1
+# Arisen Cursed Fomor's Crown / 重生诅咒的弗摩尔王冠 / 重生受詛咒的弗摩爾王冠
+arisen-cursed-fomors-crown = 1
+# Arisen Cursed Fomor's Crown / 重生诅咒的弗摩尔王冠 / 重生受詛咒的弗摩爾王冠
+arisen-cursed-fomors-crown-2cb9b4e6 = 1
+# Arisen Cursed Fomor's Crown / 重生诅咒的弗摩尔王冠 / 重生受詛咒的弗摩爾王冠
+arisen-cursed-fomors-crown-3a4a918b = 1
+# Arisen Cursed Fomor's Crown / 重生诅咒的弗摩尔王冠 / 重生受詛咒的弗摩爾王冠
+arisen-cursed-fomors-crown-612a024c = 1
+# Arisen Cursed Gobannos' Heavy Boots / 重生诅咒的戈班诺斯重靴 / 重生受詛咒的戈班諾斯重靴
+arisen-cursed-gobannos-heavy-boots = 1
+# Arisen Cursed Goibhniu Armguard / 重生诅咒的戈夫努护臂 / 重生受詛咒的戈夫紐護臂
+arisen-cursed-goibhniu-armguard = 1
+# Arisen Cursed Imona's Slippers / 重生诅咒的伊莫娜布鞋 / 重生受詛咒的埃莫那拖鞋
+arisen-cursed-imonas-slippers = 1
+# Arisen Cursed Lero's Hood / 重生诅咒的勒罗兜帽 / 重生受詛咒的勒羅兜帽
+arisen-cursed-leros-hood = 1
+# Arisen Cursed Mullo's Blinders / 重生诅咒的穆洛眼罩 / 重生受詛咒的穆洛眼罩
+arisen-cursed-mullos-blinders = 1
+# Arisen Cursed Niskus' Boots / 重生诅咒的尼斯库斯长靴 / 重生受詛咒的尼斯庫斯長靴
+arisen-cursed-niskus-boots = 1
+# Arisen Cursed Nocturna Crested Shield / 重生诅咒的诺特纳纹章盾 / 重生受詛咒的諾克圖娜紋章盾
+arisen-cursed-nocturna-crested-shield = 1
+# Arisen Cursed Ogmios' Satin Robe / 重生诅咒的奥格米欧斯缎袍 / 重生受詛咒的奧米奧斯緞袍
+arisen-cursed-ogmios-satin-robe = 1
+# Arisen Cursed Sabrina's Cowl / 重生诅咒的萨布丽娜风帽 / 重生受詛咒的莎賓娜風帽
+arisen-cursed-sabrinas-cowl = 1
+# Arisen Cursed Sequana's Chestpiece / 重生诅咒的塞夸纳板甲 / 重生受詛咒的塞夸納胸甲
+arisen-cursed-sequanas-chestpiece = 1
+# Arisen Cursed Sumner Crested Shield / 重生诅咒的萨姆纳纹章盾 / 重生受詛咒的薩姆納紋章盾
+arisen-cursed-sumner-crested-shield = 1
+# Arisen Cursed Wintara Crested Shield / 重生诅咒的温塔拉纹章盾 / 重生受詛咒的溫塔拉紋章盾
+arisen-cursed-wintara-crested-shield = 1
+# Arisen Dagda Armor / 重生达格达盔甲 / 重生達格達盔甲
+arisen-dagda-armor = 1
+# Arisen Dagda Boots / 重生达格达长靴 / 重生達格達長靴
+arisen-dagda-boots = 1
+# Arisen Dagda Cowl / 重生达格达风帽 / 重生達格達風帽
+arisen-dagda-cowl = 1
+# Arisen Dagda Garb / 重生达格达皮甲 / 重生達格達皮甲
+arisen-dagda-garb = 1
+# Arisen Dagda Helmet / 重生达格达头盔 / 重生達格達頭盔
+arisen-dagda-helmet = 1
+# Arisen Dagda Hood / 重生达格达兜帽 / 重生達格達兜帽
+arisen-dagda-hood = 1
+# Arisen Dagda Leggings / 重生达格达腿甲 / 重生達格達腿甲
+arisen-dagda-leggings = 1
+# Arisen Dagda Robe / 重生达格达长袍 / 重生達格達長袍
+arisen-dagda-robe = 1
+# Arisen Dagda Shoes / 重生达格达之鞋 / 重生達格達之鞋
+arisen-dagda-shoes = 1
+# Arisen Deathbringer / 重生死亡使者 / 重生死亡使者
+arisen-deathbringer = 1
+# Arisen Demeter's Halberd / 重生狄蜜特之戟 / 重生狄蜜特之戟
+arisen-demeters-halberd = 1
+# Arisen Demeter's Staff / 重生狄蜜特法杖 / 重生狄蜜特法杖
+arisen-demeters-staff = 1
+# Arisen Draconian Archistaff / 重生德肯尼亚族权杖 / 重生德肯尼亞族權杖
+arisen-draconian-archistaff = 1
+# Arisen Embla Hood / 重生恩布拉兜帽 / 重生安布拉兜帽
+arisen-embla-hood = 1
+# Arisen Embla Robe / 重生恩布拉法袍 / 重生安布拉法袍
+arisen-embla-robe = 1
+# Arisen Embla Shoes / 重生恩布拉之鞋 / 重生安布拉鞋
+arisen-embla-shoes = 1
+# Arisen Fairy's Tanto / 重生的妖精小刀 / 重生妖精的小刀
+arisen-fairys-tanto = 1
+# Arisen Fairy's Wand / 重生妖精魔杖 / 重生妖精的棒棒
+arisen-fairys-wand = 1
+# Arisen Feral Archistaff / 重生野性权杖 / 重生野性權杖
+arisen-feral-archistaff = 1
+# Arisen Feral Claws / 重生野性之爪 / 重生野性之爪
+arisen-feral-claws = 1
+# Arisen Feral Hood / 重生野性兜帽 / 重生野性兜帽
+arisen-feral-hood = 1
+# Arisen Feral Warsword / 重生野性战刃 / 重生野性戰刃
+arisen-feral-warsword = 1
+# Arisen Fey Badb Catha / 重生变异芭德布渡鸦 / 重生變異芭德布渡鴉
+arisen-fey-badb-catha = 1
+# Arisen Fey Banshee Boots / 重生变异报丧女妖长靴 / 重生變異報喪女妖長靴
+arisen-fey-banshee-boots = 1
+# Arisen Fey Banshee Robe / 重生变异报丧女妖法袍 / 重生變異報喪女妖法袍
+arisen-fey-banshee-robe = 1
+# Arisen Fey Banshee Veil / 重生变异报丧女妖面罩 / 重生變異報喪女妖面罩
+arisen-fey-banshee-veil = 1
+# Arisen Fey Crowsong / 重生变异渡鸦葬歌 / 重生變異渡鴉葬歌
+arisen-fey-crowsong = 1
+# Arisen Fey Macha Pillar / 重生变异玛查支柱 / 重生變異瑪查支柱
+arisen-fey-macha-pillar = 1
+# Arisen Fey Neman Havoc / 重生变异妮潘凶祸 / 重生變異妮潘凶禍
+arisen-fey-neman-havoc = 1
+# Arisen Fey Plagued Cuirass / 重生变异瘟疫胸甲 / 重生變異瘟疫胸甲
+arisen-fey-plagued-cuirass = 1
+# Arisen Fey Plagued Greaves / 重生变异瘟疫护胫 / 重生變異瘟疫護脛
+arisen-fey-plagued-greaves = 1
+# Arisen Fey Plagued Helmet / 重生变异瘟疫头盔 / 重生變異瘟疫頭盔
+arisen-fey-plagued-helmet = 1
+# Arisen Fey Raven Boots / 重生变异渡鸦长靴 / 重生變異渡鴉長靴
+arisen-fey-raven-boots = 1
+# Arisen Fey Raven Garb / 重生变异渡鸦皮甲 / 重生變異渡鴉皮甲
+arisen-fey-raven-garb = 1
+# Arisen Fey Raven Veil / 重生变异渡鸦面罩 / 重生變異渡鴉面罩
+arisen-fey-raven-veil = 1
+# Arisen Fog Blade / 重生雾之刃 / 重生霧刃
+arisen-fog-blade = 1
+# Arisen Gandring / 重生甘德林 / 重生甘德林
+arisen-gandring = 1
+# Arisen Garb / 重生皮甲 / 重生皮甲
+arisen-garb = 1
+# Arisen Gazing Staff / 重生凝视法杖 / 重生凝視法杖
+arisen-gazing-staff = 1
+# Arisen Genius / 重生吉尼尔斯 / 重生吉尼爾斯
+arisen-genius = 1
+# Arisen Gerd's Bullwhip / 重生葛德牛鞭 / 重生葛德的牛鞭
+arisen-gerds-bullwhip = 1
+# Arisen Gerd's Chestguard / 重生葛德胸铠 / 重生葛德胸鎧
+arisen-gerds-chestguard = 1
+# Arisen Gerd's Headdress / 重生葛德头饰 / 重生葛德頭巾
+arisen-gerds-headdress = 1
+# Arisen Gerd's Horsewhip / 重生葛德马鞭 / 重生葛德的馬鞭
+arisen-gerds-horsewhip = 1
+# Arisen Gerd's Legwraps / 重生葛德裹腿 / 重生葛德裹腿
+arisen-gerds-legwraps = 1
+# Arisen Globe Holder / 重生天球仪座 / 重生惑星之軸
+arisen-globe-holder = 1
+# Arisen Greaves / 重生护胫 / 重生護脛
+arisen-greaves = 1
+# Arisen Helhest / 重生海斯特 / 重生海斯特
+arisen-helhest = 1
+# Arisen Helmet / 重生头盔 / 重生頭盔
+arisen-helmet = 1
+# Arisen Hel's Boots / 重生赫尔之靴 / 重生赫爾之靴
+arisen-hels-boots = 1
+# Arisen Hel's Feathers / 重生赫尔羽毛 / 重生赫爾的羽毛
+arisen-hels-feathers = 1
+# Arisen Hel's Garb / 重生赫尔皮甲 / 重生赫爾皮甲
+arisen-hels-garb = 1
+# Arisen Hel's Veil / 重生赫尔面罩 / 重生赫爾面罩
+arisen-hels-veil = 1
+# Arisen Hood / 重生兜帽 / 重生兜帽
+arisen-hood = 1
+# Arisen Horror / 重生恐惧杖 / 重生恐懼杖
+arisen-horror = 1
+# Arisen Hydra Staff / 重生九头蛇之杖 / 重生九頭蛇之杖
+arisen-hydra-staff = 1
+# Arisen Imagination / 重生空想幻境 / 重生空想幻境
+arisen-imagination = 1
+# Arisen Ithra's Blade / 重生以斯拉之剑 / 重生以斯拉之劍
+arisen-ithras-blade = 1
+# Arisen Ithra's Staff / 重生以斯拉法杖 / 重生以斯拉法杖
+arisen-ithras-staff = 1
+# Arisen Jolly Stockings / 重生欢乐长袜 / 重生歡樂長襪
+arisen-jolly-stockings = 1
+# Arisen Kaladanda / 重生阎摩魔杖 / 重生閻摩魔杖
+arisen-kaladanda = 1
+# Arisen Kerberos Claws / 重生刻耳柏洛斯之爪 / 重生刻耳柏洛斯之爪
+arisen-kerberos-claws = 1
+# Arisen Kerberos Hood / 重生刻耳柏洛斯兜帽 / 重生刻耳柏洛斯兜帽
+arisen-kerberos-hood = 1
+# Arisen Kerberos Staff / 重生刻耳柏洛斯法杖 / 重生刻耳柏洛斯法杖
+arisen-kerberos-staff = 1
+# Arisen Kerberos Sword / 重生刻耳柏洛斯之剑 / 重生刻耳柏洛斯之劍
+arisen-kerberos-sword = 1
+# Arisen Khopesh / 重生镰形刀 / 重生鐮形刀
+arisen-khopesh = 1
+# Arisen King's Crown / 重生王者之冠 / 重生王者之冠
+arisen-kings-crown = 1
+# Arisen King's Sceptre / 重生王者之权杖 / 重生王者之權杖
+arisen-kings-sceptre = 1
+# Arisen Labrys / 重生双头斧 / 重生雙頭斧
+arisen-labrys = 1
+# Arisen Macha Pillar / 重生玛查支柱 / 重生瑪查支柱
+arisen-macha-pillar = 1
+# Arisen Manablades / 重生魔力链刃 / 重生魔力雙刃
+arisen-manablades = 1
+# Arisen Masamune / 重生正宗 / 重生正宗
+arisen-masamune = 1
+# Arisen Menja's Battlerobe / 重生门妮雅战斗法袍 / 重生梅加戰鬥法袍
+arisen-menjas-battlerobe = 1
+# Arisen Menja's Hood / 重生门妮雅兜帽 / 重生梅加兜帽
+arisen-menjas-hood = 1
+# Arisen Menja's Shield / 重生门妮雅之盾 / 重生梅加的盾
+arisen-menjas-shield = 1
+# Arisen Menja's Warstaff / 重生门妮雅征杖 / 重生梅加征杖
+arisen-menjas-warstaff = 1
+# Arisen Minotaur Axe / 重生牛头怪斧 / 重生的牛頭怪斧
+arisen-minotaur-axe = 1
+# Arisen Morrigan's Scroll / 重生摩莉甘卷轴 / 重生的摩莉甘卷軸
+arisen-morrigans-scroll = 1
+# Arisen Nagamaki / 重生长卷 / 重生長卷
+arisen-nagamaki = 1
+# Arisen Naggeneen's Hat / 重生纳根因帽子 / 重生納根因的帽子
+arisen-naggeneens-hat = 1
+# Arisen Neman Havoc / 重生妮潘凶祸 / 重生妮潘凶禍
+arisen-neman-havoc = 1
+# Arisen North Pole / 重生北极 / 重生北極棒
+arisen-north-pole = 1
+# Arisen North Star / 重生北极之星 / 重生北方之星
+arisen-north-star = 1
+# Arisen Olympia Armor / 重生奥林匹亚盔甲 / 重生奧林匹亞盔甲
+arisen-olympia-armor = 1
+# Arisen Olympia Headdress / 重生奥林匹亚头巾 / 重生奧林匹亞頭巾
+arisen-olympia-headdress = 1
+# Arisen Olympia Helmet / 重生奥林匹亚头盔 / 重生奧林匹亞頭盔
+arisen-olympia-helmet = 1
+# Arisen Olympia Hood / 重生奥林匹亚兜帽 / 重生奧林匹亞兜帽
+arisen-olympia-hood = 1
+# Arisen Olympia Leggings / 重生奥林匹亚腿甲 / 重生奧林匹亞腿甲
+arisen-olympia-leggings = 1
+# Arisen Olympia Legwraps / 重生奥林匹亚裹腿 / 重生奧林匹亞裹腿
+arisen-olympia-legwraps = 1
+# Arisen Olympia Mantle / 重生奥林匹亚披风 / 重生奧林匹亞披風
+arisen-olympia-mantle = 1
+# Arisen Olympia Robe / 重生奥林匹亚法袍 / 重生奧林匹亞法袍
+arisen-olympia-robe = 1
+# Arisen Olympia Shoes / 重生奥林匹亚之鞋 / 重生奧林匹亞鞋子
+arisen-olympia-shoes = 1
+# Arisen Olympian Joist / 重生奥林匹亚的托梁 / 重生奧林匹亞托樑
+arisen-olympian-joist = 1
+# Arisen Ophion Banner / 重生俄菲翁之麾 / 重生俄菲翁旌旗
+arisen-ophion-banner = 1
+# Arisen Oxen Axe / 重生牛斧 / 重生牛斧
+arisen-oxen-axe = 1
+# Arisen Palm Branch / 重生棕榈枝 / 重生棕櫚樹枝
+arisen-palm-branch = 1
+# Arisen Plagued Cuirass / 重生瘟疫胸甲 / 重生瘟疫胸甲
+arisen-plagued-cuirass = 1
+# Arisen Plagued Cuirass Diabolus / 恶神重生瘟疫胸甲 / 惡神重生瘟疫胸甲
+arisen-plagued-cuirass-diabolus = 1
+# Arisen Plagued Greaves / 重生瘟疫护胫 / 重生瘟疫護脛
+arisen-plagued-greaves = 1
+# Arisen Plagued Greaves Diabolus / 恶神重生瘟疫护胫 / 惡神重生護脛瘟疫
+arisen-plagued-greaves-diabolus = 1
+# Arisen Plagued Helmet / 重生瘟疫头盔 / 重生瘟疫頭盔
+arisen-plagued-helmet = 1
+# Arisen Plagued Helmet Diabolus / 恶神重生瘟疫头盔 / 惡神重生瘟疫頭盔
+arisen-plagued-helmet-diabolus = 1
+# Arisen Pumpkin / 重生南瓜 / 重生南瓜
+arisen-pumpkin = 1
+# Arisen Pumpkinless Armor / 重生无头骑士盔甲 / 重生南無瓜盔甲
+arisen-pumpkinless-armor = 1
+# Arisen Pumpkinless Leggings / 重生无头骑士腿甲 / 重生南無瓜腿甲
+arisen-pumpkinless-leggings = 1
+# Arisen Qatvanga / 重生喀章嘎天杖 / 重生的夸特班加
+arisen-qatvanga = 1
+# Arisen Raven Boots / 重生渡鸦长靴 / 重生渡鴉長靴
+arisen-raven-boots = 1
+# Arisen Raven Boots Diabolus / 恶神重生渡鸦长靴 / 惡神重生渡鴉長靴
+arisen-raven-boots-diabolus = 1
+# Arisen Raven Garb / 重生渡鸦皮甲 / 重生渡鴉皮甲
+arisen-raven-garb = 1
+# Arisen Raven Garb Diabolus / 恶神重生渡鸦皮甲 / 惡神重生渡鴉皮甲
+arisen-raven-garb-diabolus = 1
+# Arisen Raven Veil / 重生渡鸦面罩 / 重生渡鴉面罩
+arisen-raven-veil = 1
+# Arisen Raven Veil Diabolus / 恶神重生渡鸦面罩 / 惡神重生渡鴉面罩
+arisen-raven-veil-diabolus = 1
+# Arisen Realm Katar / 重生域界拳刃 / 重生域界卡塔拉
+arisen-realm-katar = 1
+# Arisen Reinbow / 重生虹弓 / 重生聖誕弓
+arisen-reinbow = 1
+# Arisen Rhada Greatshield / 重生拉达巨盾 / 重生拉達大盾
+arisen-rhada-greatshield = -1
+# Arisen Rhada Greatsword / 重生拉达巨剑 / 重生拉達巨劍
+arisen-rhada-greatsword = 1
+# Arisen Rift Armor / 重生裂隙盔甲 / 重生裂痕盔甲
+arisen-rift-armor = 1
+# Arisen Rift Boots / 重生裂隙长靴 / 重生裂痕長靴
+arisen-rift-boots = 1
+# Arisen Rift Chestguard / 重生裂隙胸铠 / 重生裂痕胸鎧
+arisen-rift-chestguard = 1
+# Arisen Rift Chestplate / 重生裂隙护甲 / 重生裂痕胸甲
+arisen-rift-chestplate = 1
+# Arisen Rift Cowl / 重生裂隙风帽 / 重生裂痕風帽
+arisen-rift-cowl = 1
+# Arisen Rift Headdress / 重生裂隙头饰 / 重生裂痕頭巾
+arisen-rift-headdress = 1
+# Arisen Rift Helmet / 重生裂隙头盔 / 重生裂痕頭盔
+arisen-rift-helmet = 1
+# Arisen Rift Leggings / 重生裂隙腿甲 / 重生裂痕腿甲
+arisen-rift-leggings = 1
+# Arisen Rift Legwraps / 重生裂隙裹腿 / 重生裂痕裹腿
+arisen-rift-legwraps = 1
+# Arisen Rift Summoner Boots / 重生裂隙召唤师长靴 / 重生裂痕召喚師長靴
+arisen-rift-summoner-boots = 1
+# Arisen Rift Summoner Helmet / 重生裂隙召唤师头盔 / 重生裂痕召喚師頭盔
+arisen-rift-summoner-helmet = 1
+# Arisen Rift Summoner Plate / 重生裂隙召唤师护甲 / 重生裂痕召喚師之板甲
+arisen-rift-summoner-plate = 1
+# Arisen Riftguard Armor / 重生裂隙守卫盔甲 / 重生裂痕守衛盔甲
+arisen-riftguard-armor = 1
+# Arisen Riftguard Helmet / 重生裂隙守卫头盔 / 重生裂痕守衛頭盔
+arisen-riftguard-helmet = 1
+# Arisen Riftguard Leggings / 重生裂隙守卫腿甲 / 重生裂痕守衛腿甲
+arisen-riftguard-leggings = 1
+# Arisen Riftrazor / 重生裂隙剃刀 / 重生裂痕剃刀
+arisen-riftrazor = 1
+# Arisen Riftrogue Boots / 重生裂隙侠盗长靴 / 重生裂痕俠盜長靴
+arisen-riftrogue-boots = 1
+# Arisen Riftrogue Chestplate / 重生裂隙侠盗胸甲 / 重生裂痕俠盜的胸甲
+arisen-riftrogue-chestplate = 1
+# Arisen Riftrogue Helmet / 重生裂隙侠盗头盔 / 重生裂痕俠盜頭盔
+arisen-riftrogue-helmet = 1
+# Arisen Riftshield / 重生裂隙巨盾 / 重生裂痕盾
+arisen-riftshield = -1
+# Arisen Riftstaff / 重生裂隙法杖 / 重生裂痕法杖
+arisen-riftstaff = 1
+# Arisen Riftsword / 重生裂隙巨剑 / 重生裂痕長劍
+arisen-riftsword = 1
+# Arisen Robe / 重生法袍 / 重生法袍
+arisen-robe = 1
+# Arisen Satis / 重生萨提斯 / 重生薩蒂斯
+arisen-satis = 1
+# Arisen Sea Axe / 重生深海之斧 / 重生深海斧
+arisen-sea-axe = 1
+# Arisen Shadeblades / 重生冥影链刃 / 重生影刃
+arisen-shadeblades = 1
+# Arisen Shield / 重生之盾 / 重生之盾
+arisen-shield = 1
+# Arisen Shoes / 重生之鞋 / 重生之鞋
+arisen-shoes = 1
+# Arisen Silk Crossbow / 重生丝制十字弓 / 重生絲質十字弓
+arisen-silk-crossbow = 1
+# Arisen Sleighblade / 重生雪橇刃 / 重生雪橇刃
+arisen-sleighblade = 1
+# Arisen Spiritgarm Grimoire / 重生幽灵加姆魔法书 / 重生靈獸加姆魔法書
+arisen-spiritgarm-grimoire = 1
+# Arisen Staff of Tiamat / 重生提亚马特法杖 / 重生提亞馬特的法杖
+arisen-staff-of-tiamat = 1
+# Arisen Staff of Typhon / 重生堤丰法杖 / 重生堤豐法杖
+arisen-staff-of-typhon = 1
+# Arisen Staff of Wolves / 重生群狼法杖 / 重生群狼法杖
+arisen-staff-of-wolves = 1
+# Arisen Stone Dagger / 重生石化匕首 / 重生石化匕首
+arisen-stone-dagger = 1
+# Arisen Stonewarg Grimoire / 重生岩石座狼魔法书 / 重生岩石座狼魔法書
+arisen-stonewarg-grimoire = 1
+# Arisen Surtr's Boots / 重生史尔特尔长靴 / 重生史爾特爾的長靴
+arisen-surtrs-boots = 1
+# Arisen Surtr's Cuirass / 重生史尔特尔胸甲 / 重生史爾特爾的胸甲
+arisen-surtrs-cuirass = 1
+# Arisen Surtr's Helmet / 重生史尔特尔头盔 / 重生史爾特爾的頭盔
+arisen-surtrs-helmet = 1
+# Arisen Surtr's Shield / 重生史尔特尔之盾 / 重生史爾特爾的盾
+arisen-surtrs-shield = 1
+# Arisen Surtr's Sword / 重生史尔特尔之剑 / 重生史爾特爾的劍
+arisen-surtrs-sword = 1
+# Arisen Terror / 重生恐慌杖 / 重生恐慌杖
+arisen-terror = 1
+# Arisen Thor's Arc / 重生索尔之弓 / 重生索爾之弓
+arisen-thors-arc = 1
+# Arisen Thor's Hammer / 重生索尔之锤 / 重生索爾之錘
+arisen-thors-hammer = 1
+# Arisen Tizona / 重生提佐纳 / 重生提佐納
+arisen-tizona = 1
+# Arisen Top Hat / 重生高帽子 / 重生高帽子
+arisen-top-hat = 1
+# Arisen Treecutter / 重生伐木者 / 重生伐木者
+arisen-treecutter = 1
+# Arisen Trevelyan's Archistaff / 重生特里维廉的权杖 / 重生特里維廉的權杖
+arisen-trevelyans-archistaff = 1
+# Arisen Trevelyan's Hood / 重生特里维廉的兜帽 / 重生特里維廉的兜帽
+arisen-trevelyans-hood = 1
+# Arisen Trevelyan's Robe / 重生特里维廉的法袍 / 重生特里維廉的法袍
+arisen-trevelyans-robe = 1
+# Arisen Trevelyan's Shoes / 重生特里维廉之鞋 / 重生特里維廉之鞋
+arisen-trevelyans-shoes = 1
+# Arisen Vandal's Veil / 重生汪达尔面罩 / 重生汪達爾面罩
+arisen-vandals-veil = 1
+# Arisen Vulcan's Archistaff / 重生瓦肯权杖 / 重生瓦肯之權杖
+arisen-vulcans-archistaff = 1
+# Arisen Vulcan's Longsword / 重生瓦肯长剑 / 重生的瓦肯長劍
+arisen-vulcans-longsword = 1
+# Arisen Willow Branch / 重生垂柳枝 / 重生柳樹枝
+arisen-willow-branch = 1
+# Arisen Witch's Hat / 重生女巫之帽 / 重生女巫之帽
+arisen-witchs-hat = 1
+# Arisen Witch's Scroll / 重生女巫卷轴 / 重生女巫的卷軸
+arisen-witchs-scroll = 1
+# Arisen Witch's Staff / 重生女巫法杖 / 重生女巫法杖
+arisen-witchs-staff = 1
+# Arisen Wolfbane / 重生狼之灾 / 重生狼之災
+arisen-wolfbane = 1
+# Arisen Wolven Tower Shield / 重生狼塔盾 / 重生狼塔盾
+arisen-wolven-tower-shield = 1
+# Artifice Gada / 阿帝菲斯金刚杵 / 阿提菲斯金剛杵
+artifice-gada = 1
+# Artio's Hide / 阿尔提奥皮肩 / 阿蒂奧皮草
+artios-hide = 1
+# Ascalon / 圣剑阿斯卡隆 / 阿斯卡隆聖劍
+ascalon = -1
+# Asgard Armor / 阿斯嘉盔甲 / 阿斯嘉盔甲
+asgard-armor = -1
+# Asgard Greaves / 阿斯嘉护胫 / 阿斯嘉護脛
+asgard-greaves = -1
+# Asgard Helmet / 阿斯嘉头盔 / 阿斯嘉頭盔
+asgard-helmet = -1
+# Asgard Shield / 阿斯嘉之盾 / 阿斯嘉之盾
+asgard-shield = -1
+# Asgard's Summit / 阿斯嘉之巅 / 阿斯嘉之巔
+asgards-summit = -1
+# Ash-Plumed Boots / 灰烬羽织长靴 / 灰燼羽織長靴
+ash-plumed-boots = 1
+# Ash-Plumed Cowl / 灰烬羽织风帽 / 灰燼羽織風帽
+ash-plumed-cowl = 1
+# Ash-Plumed Cuirass / 灰烬羽织胸甲 / 灰燼羽織胸甲
+ash-plumed-cuirass = 1
+# Ash-Plumed Garb / 灰烬羽织皮甲 / 灰燼羽織皮甲
+ash-plumed-garb = 1
+# Ash-Plumed Greaves / 灰烬羽织护胫 / 灰燼羽織護脛
+ash-plumed-greaves = 1
+# Ash-Plumed Helmet / 灰烬羽织头盔 / 灰燼羽織頭盔
+ash-plumed-helmet = 1
+# Ash-Plumed Hood / 灰烬羽织兜帽 / 灰燼羽織兜帽
+ash-plumed-hood = 1
+# Ash-Plumed Robe / 灰烬羽织法袍 / 灰燼羽織法袍
+ash-plumed-robe = 1
+# Ash-Plumed Shoes / 灰烬羽织之鞋 / 灰燼羽織之鞋
+ash-plumed-shoes = 1
+# Ashen Boots / 苍白长靴 / 蒼白長靴
+ashen-boots = 1
+# Ashen Hat / 苍白帽子 / 蒼白帽子
+ashen-hat = 1
+# Ashen Phoenician Boots / 苍白凤凰长靴 / 蒼白鳳凰長靴
+ashen-phoenician-boots = 1
+# Ashen Phoenician Cowl / 苍白凤凰风帽 / 蒼白鳳凰的風帽
+ashen-phoenician-cowl = 1
+# Ashen Phoenician Cuirass / 苍白凤凰胸甲 / 蒼白鳳凰胸甲
+ashen-phoenician-cuirass = 1
+# Ashen Phoenician Garb / 苍白凤凰皮甲 / 蒼白鳳凰皮甲
+ashen-phoenician-garb = 1
+# Ashen Phoenician Greaves / 苍白凤凰护胫 / 蒼白鳳凰護脛
+ashen-phoenician-greaves = 1
+# Ashen Phoenician Helmet / 苍白凤凰头盔 / 蒼白鳳凰頭盔
+ashen-phoenician-helmet = 1
+# Ashen Phoenician Hood / 苍白凤凰兜帽 / 蒼白鳳凰兜帽
+ashen-phoenician-hood = 1
+# Ashen Phoenician Robe / 苍白凤凰法袍 / 蒼白鳳凰法袍
+ashen-phoenician-robe = 1
+# Ashen Phoenician Shield / 苍白凤凰之盾 / 蒼白鳳凰的盾
+ashen-phoenician-shield = 1
+# Ashen Phoenician Shoes / 苍白凤凰之鞋 / 蒼白鳳凰的鞋
+ashen-phoenician-shoes = 1
+# Ashen Robe / 苍白法袍 / 蒼白法袍
+ashen-robe = 1
+# Ashen Staff / 苍白法杖 / 蒼白法杖
+ashen-staff = 1
+# Askr Armor / 阿斯克盔甲 / 阿斯克盔甲
+askr-armor = 1
+# Askr Boots / 阿斯克长靴 / 阿斯克長靴
+askr-boots = 1
+# Askr Cowl / 阿斯克风帽 / 阿斯克風帽
+askr-cowl = 1
+# Askr Garb / 阿斯克皮甲 / 阿斯克皮甲
+askr-garb = 1
+# Askr Helmet / 阿斯克头盔 / 阿斯克頭盔
+askr-helmet = 1
+# Askr Leggings / 阿斯克腿甲 / 阿斯克腿甲
+askr-leggings = 1
+# Atepomarus Mail / 阿特波玛鲁斯链甲 / 阿特波馬羅斯鏈甲
+atepomarus-mail = 1
+# Atgeir / 维京矛 / 維京矛
+atgeir = 1
+# Atlas / 阿特拉斯 / 阿特拉斯
+atlas = -1
+# Attuning Hood / 调律兜帽 / 調教兜帽
+attuning-hood = -1
+# Attuning Robe / 调律长袍 / 調教長袍
+attuning-robe = -1
+# Attuning Shoes / 调律之鞋 / 調教鞋子
+attuning-shoes = -1
+# Autumna Crested Shield / 奥图娜纹章盾 / 阿圖娜紋章盾
+autumna-crested-shield = 1
+# Avalon Armor / 阿瓦隆盔甲 / 阿瓦隆盔甲
+avalon-armor = 1
+# Avalon Crown / 阿瓦隆王冠 / 阿瓦隆王冠
+avalon-crown = 1
+# Avalon Helmet / 阿瓦隆头盔 / 阿瓦隆頭盔
+avalon-helmet = 1
+# Avalon Knight Armor / 阿瓦隆骑士盔甲 / 阿瓦隆騎士盔甲
+avalon-knight-armor = 1
+# Avalon Knight Helmet / 阿瓦隆骑士头盔 / 阿瓦隆騎士頭盔
+avalon-knight-helmet = 1
+# Avalon Knight Leggings / 阿瓦隆骑士腿甲 / 阿瓦隆騎士腿甲
+avalon-knight-leggings = 1
+# Avalon Leggings / 阿瓦隆腿甲 / 阿瓦隆腿甲
+avalon-leggings = 1
+# Avalon Melody / 阿瓦隆旋律 / 阿瓦隆旋律
+avalon-melody = 1
+# Axe / 斧头 / 斧頭
+axe = -1
+# Axe of Gilgamesh / 吉尔伽美什之斧 / 吉爾伽美什之斧
+axe-of-gilgamesh = 1
+# Axe of Night / 夜之斧 / 夜之斧
+axe-of-night = 1
+# Axe of the Chimera / 奇美拉之斧 / 奇美拉之斧
+axe-of-the-chimera = 1
+# Axe of Tiamat / 提亚马特之斧 / 提亞馬特的斧
+axe-of-tiamat = 1
+# Axe of Typhon / 堤丰之斧 / 堤豐的斧
+axe-of-typhon = 1
+# Azure Twinbow / 蔚蓝双子弓 / 蔚藍雙子弓
+azure-twinbow = 1
+# Badb Boots / 芭德布长靴 / 芭德布長靴
+badb-boots = 1
+# Badb Catha / 芭德布渡鸦 / 芭德布渡鴉
+badb-catha = 1
+# Badb Garb / 芭德布皮甲 / 芭德布皮甲
+badb-garb = 1
+# Badb Veil / 芭德布面罩 / 芭德布面罩
+badb-veil = 1
+# Badb Warbow / 芭德布战弓 / 芭德布戰弓
+badb-warbow = 1
+# Badb's Feathers / 芭德布之羽 / 芭德布之羽
+badbs-feathers = 1
+# Bag of Tricks / 惊奇袋 / 驚奇袋
+bag-of-tricks = 1
+# Balanced Epee / 平衡锐剑 / 平衡銳劍
+balanced-epee = 1
+# Baldr Battlerobe / 巴德尔战斗法袍 / 巴德爾戰鬥法袍
+baldr-battlerobe = 1
+# Baldr Boots / 巴德尔长靴 / 巴德爾長靴
+baldr-boots = 1
+# Baldr Hood / 巴德尔兜帽 / 巴德爾兜帽
+baldr-hood = 1
+# Balin's Left / 巴林左剑 / 巴林左劍
+balins-left = 1
+# Balin's Left / 巴林左剑 / 巴林左劍
+balins-left-b2db2fdb = 1
+# Balin's Right / 巴林右刃 / 巴林右刃
+balins-right = 1
+# Balor Archistaff / 巴罗尔权杖 / 巴羅爾權杖
+balor-archistaff = -1
+# Balor Armor / 巴罗尔盔甲 / 巴羅爾盔甲
+balor-armor = -1
+# Balor Crown / 巴罗尔王冠 / 巴羅爾王冠
+balor-crown = 1
+# Balor Dagger / 巴罗尔匕首 / 巴羅爾匕首
+balor-dagger = 1
+# Balor Helmet / 巴罗尔头盔 / 巴羅爾頭盔
+balor-helmet = -1
+# Balor Katana / 巴罗尔武士刀 / 巴羅爾武士刀
+balor-katana = -1
+# Balor Leggings / 巴罗尔腿甲 / 巴羅爾腿甲
+balor-leggings = -1
+# Balor Robe / 巴罗尔法袍 / 巴羅爾法袍
+balor-robe = -1
+# Balor Shield / 巴罗尔盾牌 / 巴羅爾盾牌
+balor-shield = -1
+# Balor Sword / 巴罗尔之剑 / 巴羅爾之劍
+balor-sword = -1
+# Bandit's Axe / 土匪之斧 / 土匪之斧
+bandits-axe = 1
+# Bandit's Cloak / 土匪斗篷 / 土匪的披風
+bandits-cloak = -1
+# Bandit's Dagger / 土匪匕首 / 土匪匕首
+bandits-dagger = -1
+# Bandit's Hood / 土匪兜帽 / 土匪兜帽
+bandits-hood = -1
+# Baneblade / 毁灭之刃 / 毀滅之刃
+baneblade = -1
+# Banhammer / 制裁铁锤 / Ban不見槌槌
+banhammer = 1
+# Banshee Boots / 报丧女妖长靴 / 報喪女妖長靴
+banshee-boots = 1
+# Banshee Robe / 报丧女妖法袍 / 報喪女妖法袍
+banshee-robe = 1
+# Banshee Veil / 报丧女妖面罩 / 報喪女妖面罩
+banshee-veil = 1
+# Basilisk Talons / 巴西利斯克之爪 / 巴西利斯克之爪
+basilisk-talons = -1
+# Basilisk Tooth / 巴西利斯克之牙 / 巴西利斯克之牙
+basilisk-tooth = 1
+# Battle Axe / 战斧 / 戰斧
+battle-axe = -1
+# Battlemage Armor / 战斗法师盔甲 / 戰鬥法師盔甲
+battlemage-armor = -1
+# Battlemage Boots / 战斗法师长靴 / 戰鬥法師長靴
+battlemage-boots = -1
+# Battlemage Helmet / 战斗法师头盔 / 戰鬥法師頭盔
+battlemage-helmet = -1
+# Batwing Bow / 蝙蝠翼弓 / 蝙蝠翼弓
+batwing-bow = 1
+# Beag's Lute / 蓓格的鲁特琴 / 蓓格的魯特琴
+beags-lute = -1
+# Bearclaw / 熊爪 / 熊爪
+bearclaw = -1
+# Bearskin / 熊皮 / 熊皮
+bearskin = -1
+# Beastfelled Boots / 兽伐长靴 / 獸獵祭長靴
+beastfelled-boots = 1
+# Beastfelled Cowl / 兽伐风帽 / 獸獵祭風帽
+beastfelled-cowl = 1
+# Beastfelled Cuirass / 兽伐胸甲 / 獸獵祭胸甲
+beastfelled-cuirass = 1
+# Beastfelled Garb / 兽伐皮甲 / 獸獵祭皮甲
+beastfelled-garb = 1
+# Beastfelled Helmet / 兽伐头盔 / 獸獵祭頭盔
+beastfelled-helmet = 1
+# Beastfelled Hood / 兽伐兜帽 / 獸獵祭兜帽
+beastfelled-hood = 1
+# Beastfelled Leggings / 兽伐腿甲 / 獸獵祭腿甲
+beastfelled-leggings = 1
+# Beastfelled Robe / 兽伐法袍 / 獸獵祭法袍
+beastfelled-robe = 1
+# Beastfelled Shoes / 兽伐之鞋 / 獸獵祭鞋子
+beastfelled-shoes = 1
+# Beatrice's Staff / 碧翠丝法杖 / 碧翠絲的法杖
+beatrices-staff = 1
+# Bedsheet / 床单 / 床包
+bedsheet = 1
+# Beguiled Armor / 着魔盔甲 / 著魔盔甲
+beguiled-armor = 1
+# Beguiled Armor X / 着魔盔甲X / 著魔盔甲 X
+beguiled-armor-x = 1
+# Beguiled Armor Y / 着魔盔甲Y / 著魔盔甲 Y
+beguiled-armor-y = 1
+# Beguiled Axe / 着魔重斧 / 著魔斧頭
+beguiled-axe = 1
+# Beguiled Axe X / 着魔重斧X / 著魔斧頭 X
+beguiled-axe-x = 1
+# Beguiled Axe Y / 着魔重斧Y / 著魔斧頭 Y
+beguiled-axe-y = 1
+# Beguiled Blade / 着魔锋刃 / 著魔之刃
+beguiled-blade = 1
+# Beguiled Blade X / 着魔锋刃X / 著魔之刃 X
+beguiled-blade-x = 1
+# Beguiled Blade Y / 着魔锋刃Y / 著魔之刃 Y
+beguiled-blade-y = 1
+# Beguiled Boots / 着魔长靴 / 著魔長靴
+beguiled-boots = 1
+# Beguiled Boots X / 着魔长靴X / 著魔長靴 X
+beguiled-boots-x = 1
+# Beguiled Boots Y / 着魔长靴Y / 著魔長靴 Y
+beguiled-boots-y = 1
+# Beguiled Cowl / 着魔风帽 / 著魔風帽
+beguiled-cowl = 1
+# Beguiled Cowl X / 着魔风帽X / 著魔風帽 X
+beguiled-cowl-x = 1
+# Beguiled Cowl Y / 着魔风帽Y / 著魔風帽 Y
+beguiled-cowl-y = 1
+# Beguiled Garb / 着魔皮甲 / 著魔皮甲
+beguiled-garb = 1
+# Beguiled Garb X / 着魔皮甲X / 著魔皮甲 X
+beguiled-garb-x = 1
+# Beguiled Garb Y / 着魔皮甲Y / 著魔皮甲 Y
+beguiled-garb-y = 1
+# Beguiled Heavy Boots / 着魔重靴 / 著魔重靴
+beguiled-heavy-boots = 1
+# Beguiled Heavy Boots X / 着魔重靴X / 著魔重靴 X
+beguiled-heavy-boots-x = 1
+# Beguiled Heavy Boots Y / 着魔重靴Y / 著魔重靴 Y
+beguiled-heavy-boots-y = 1
+# Beguiled Helmet / 着魔头盔 / 著魔頭盔
+beguiled-helmet = 1
+# Beguiled Helmet X / 着魔头盔X / 著魔頭盔 X
+beguiled-helmet-x = 1
+# Beguiled Helmet Y / 着魔头盔Y / 著魔頭盔 Y
+beguiled-helmet-y = 1
+# Beguiled Hood / 着魔兜帽 / 著魔兜帽
+beguiled-hood = 1
+# Beguiled Hood X / 着魔兜帽X / 著魔兜帽 X
+beguiled-hood-x = 1
+# Beguiled Hood Y / 着魔兜帽Y / 著魔兜帽 Y
+beguiled-hood-y = 1
+# Beguiled Lute / 着魔鲁特琴 / 著魔魯特琴
+beguiled-lute = 1
+# Beguiled Lute X / 着魔鲁特琴X / 著魔魯特琴 X
+beguiled-lute-x = 1
+# Beguiled Lute Y / 着魔鲁特琴Y / 著魔魯特琴 Y
+beguiled-lute-y = 1
+# Beguiled Mystic Katar / 着魔的秘术拳刃 / 著魔的秘術卡塔拉
+beguiled-mystic-katar = 1
+# Beguiled Mystic Katar X / 着魔的秘术拳刃X / 著魔秘術卡塔拉 X
+beguiled-mystic-katar-x = 1
+# Beguiled Mystic Katar Y / 着魔的秘术拳刃Y / 著魔秘術卡塔拉 Y
+beguiled-mystic-katar-y = 1
+# Beguiled Quarterstaff / 着魔长杖 / 著魔短桿
+beguiled-quarterstaff = 1
+# Beguiled Quarterstaff X / 着魔长杖X / 著魔短桿 X
+beguiled-quarterstaff-x = 1
+# Beguiled Quarterstaff Y / 着魔长杖Y / 著魔短桿 Y
+beguiled-quarterstaff-y = 1
+# Beguiled Robe / 着魔长袍 / 著魔長袍
+beguiled-robe = 1
+# Beguiled Robe X / 着魔长袍X / 著魔長袍 X
+beguiled-robe-x = 1
+# Beguiled Robe Y / 着魔长袍Y / 著魔長袍 Y
+beguiled-robe-y = 1
+# Beguiled Shoes / 着魔鞋子 / 著魔鞋子
+beguiled-shoes = 1
+# Beguiled Shoes X / 着魔鞋子X / 著魔鞋子 X
+beguiled-shoes-x = 1
+# Beguiled Shoes Y / 着魔鞋子Y / 著魔鞋子 Y
+beguiled-shoes-y = 1
+# Beguiled Staff / 着魔法杖 / 著魔法杖
+beguiled-staff = 1
+# Beguiled Staff X / 着魔法杖X / 著魔法杖 X
+beguiled-staff-x = 1
+# Beguiled Staff Y / 着魔法杖Y / 著魔法杖 Y
+beguiled-staff-y = 1
+# Beithir's Staff / 贝希尔法杖 / 貝西爾的法杖
+beithirs-staff = 1
+# Belenus's Boots / 百勒努斯长靴 / 貝里努斯長靴
+belenuss-boots = 1
+# Beta Myrddin / β梅尔丁 / β梅爾丁
+beta-myrddin = 1
+# Beta Myrddin Cloak / β梅尔丁斗篷 / β梅爾丁披風
+beta-myrddin-cloak = 1
+# Beta Myrddin Cowl / β梅尔丁风帽 / β梅爾丁風帽
+beta-myrddin-cowl = 1
+# Beta Myrddin Hood / β梅尔丁兜帽 / β梅爾丁兜帽
+beta-myrddin-hood = 1
+# Beta Myrddin Robe / β梅尔丁法袍 / β梅爾丁法袍
+beta-myrddin-robe = 1
+# Beta Myrddin Shield / β梅尔丁之盾 / β梅爾丁盾
+beta-myrddin-shield = 1
+# Bident / 双叉戟 / 雙叉戟
+bident = 1
+# Black Dragon Armor / 黑龙盔甲 / 黑龍盔甲
+black-dragon-armor = -1
+# Black Dragon Greaves / 黑龙护胫 / 黑龍護脛
+black-dragon-greaves = -1
+# Black Dragon Helmet / 黑龙头盔 / 黑龍頭盔
+black-dragon-helmet = -1
+# Black Witch Staff / 黑女巫法杖 / 黑女巫法杖
+black-witch-staff = 1
+# Blessed Rune Armor / 祝福符文盔甲 / 祝福符文盔甲
+blessed-rune-armor = -1
+# Blessed Rune Helmet / 祝福符文头盔 / 祝福符文頭盔
+blessed-rune-helmet = -1
+# Blessed Rune Leggings / 祝福符文腿甲 / 祝福符文腿甲
+blessed-rune-leggings = -1
+# Blight Arrows / 枯萎箭矢 / 枯萎箭矢
+blight-arrows = 1
+# Blinders / 战马眼罩 / 馬眼罩
+blinders = -1
+# Blood Sword / 血剑 / 血劍
+blood-sword = -1
+# Bloodwarg Grimoire / 嗜血座狼魔法书 / 血腥座狼魔法書
+bloodwarg-grimoire = 1
+# Blue Dagger / 蓝色短刀 / 藍色短刀
+blue-dagger = -1
+# Blue Wand / 蓝色魔杖 / 藍魔杖
+blue-wand = -1
+# Bolt / 魔法之箭 / 魔法箭
+bolt = -1
+# Bone Shield / 骨盾 / 骨盾
+bone-shield = 1
+# Bonecrusher / 碎骨者 / 碎骨者
+bonecrusher = 1
+# Bonesong / 骨歌 / 骨歌
+bonesong = 1
+# Book of Darkness / 暗之书 / 闇之書
+book-of-darkness = -1
+# Book of Darkness X / 暗之书X / 暗之書 X
+book-of-darkness-x = -1
+# Book of Earth / 地之书 / 地之書
+book-of-earth = -1
+# Book of Earth X / 地之书X / 地之書 X
+book-of-earth-x = -1
+# Book of Fire / 火之书 / 火之書
+book-of-fire = -1
+# Book of Fire X / 火之书X / 火之書 X
+book-of-fire-x = -1
+# Book of Light / 光之书 / 光之書
+book-of-light = -1
+# Book of Light X / 光之书X / 光之書 X
+book-of-light-x = -1
+# Book of Lightning / 雷之书 / 雷之書
+book-of-lightning = -1
+# Book of Lightning X / 雷之书X / 雷之書 X
+book-of-lightning-x = -1
+# Book of the Arcane / 奥术之书 / 奧術之書
+book-of-the-arcane = -1
+# Book of the Arcane X / 奥术之书X / 奧術之書 X
+book-of-the-arcane-x = -1
+# Book of the Dragon / 龙之书 / 龍之書
+book-of-the-dragon = -1
+# Book of the Dragon X / 龙之书X / 龍之書 X
+book-of-the-dragon-x = -1
+# Book of Water / 水之书 / 水之書
+book-of-water = -1
+# Book of Water X / 水之书X / 水之書 X
+book-of-water-x = -1
+# Boots of Earth / 大地长靴 / 大地長靴
+boots-of-earth = -1
+# Boots of Fire / 火之长靴 / 火靴
+boots-of-fire = -1
+# Boots of Storm / 风暴长靴 / 風暴長靴
+boots-of-storm = -1
+# Boots of the Sea / 海之长靴 / 海之長靴
+boots-of-the-sea = -1
+# Boots of Wolves / 群狼长靴 / 狼之長靴
+boots-of-wolves = -1
+# Boreal's Staff / 波蕾尔之杖 / 波蕾爾之杖
+boreals-staff = 1
+# Bormana's Mantle / 波尔玛纳披风 / 波爾瑪納披風
+bormanas-mantle = 1
+# Boulderbold / 博尔德博德 / 博爾德博德
+boulderbold = 1
+# Bow / 弓 / 弓
+bow = -1
+# Bow of Diana / 戴安娜之弓 / 戴安娜之弓
+bow-of-diana = -1
+# Bow of Scales / 鳞之弓 / 鱗之弓
+bow-of-scales = 1
+# Bow of the Chimera / 奇美拉之弓 / 奇美拉之弓
+bow-of-the-chimera = 1
+# Bow of Tiamat / 提亚马特之弓 / 提亞馬特之弓
+bow-of-tiamat = 1
+# Bow of Typhon / 堤丰之弓 / 堤豐之弓
+bow-of-typhon = 1
+# Bricriu's Bow / 布里克留的弓 / 布里克留的弓
+bricrius-bow = -1
+# Brilliant Feathers / 辉煌之羽 / 輝煌之羽
+brilliant-feathers = 1
+# Broadsword / 阔剑 / 闊劍
+broadsword = -1
+# Buckler / 小盾 / 小盾
+buckler = -1
+# Bulwark / 护体 / 護體
+bulwark = -1
+# Caladbolg / 螺旋剑 / 螺旋劍
+caladbolg = -1
+# Candle-pike / 烛台 / 燭台
+candle-pike = 1
+# Candle-staff / 蜡烛法杖 / 蠟燭法杖
+candle-staff = 1
+# Candy Cane / 枴杖糖 / 枴杖糖
+candy-cane = 1
+# Cane / 杖 / 杖
+cane = -1
+# Carl's Dagger / 卡尔匕首 / 卡爾的匕首
+carls-dagger = -1
+# Carnwennan / 白柄匕首 / 白柄匕首
+carnwennan = -1
+# Caroling Lute / 圣诞颂琴 / 聖誕頌琴
+caroling-lute = 1
+# Castor's Archistaff / 卡斯托耳的权杖 / 卡斯托耳的權杖
+castors-archistaff = 1
+# Caticatona Cuirass / 卡蒂卡托娜胸甲 / 卡卡托娜胸甲
+caticatona-cuirass = 1
+# Caturix's Robe / 卡图里克斯法袍 / 卡圖里克斯長袍
+caturixs-robe = 1
+# Celestial Archistaff / 天辉权杖 / 天外權杖
+celestial-archistaff = -1
+# Celestial Axe / 天辉之斧 / 天外之斧
+celestial-axe = -1
+# Celestial Bow / 天辉之弓 / 天外之弓
+celestial-bow = -1
+# Celestial Greatbow / 天辉长弓 / 天外長弓
+celestial-greatbow = -1
+# Celestial Hammer / 天辉之锤 / 天外之錘
+celestial-hammer = -1
+# Celestial Lute / 天辉鲁特琴 / 天外魯特琴
+celestial-lute = -1
+# Celestial Quarterstaff / 天辉长杖 / 天外短桿
+celestial-quarterstaff = -1
+# Celestial Scythe / 天辉镰刀 / 天外鐮刀
+celestial-scythe = -1
+# Celestial Staff / 天辉法杖 / 天外法杖
+celestial-staff = -1
+# Celestial Thinblade / 天辉细剑 / 天外薄刃
+celestial-thinblade = -1
+# Chained Shadeblades / 冥影链刃 / 連鎖影刃
+chained-shadeblades = 1
+# Chained Shadowblades / 暗影链刃 / 連鎖影刃
+chained-shadowblades = 1
+# Chainmail / 锁子甲 / 鎖子甲
+chainmail = -1
+# Chainmail Leggings / 锁子腿甲 / 鎖子腿甲
+chainmail-leggings = -1
+# Charon's Grimoire / 卡戎的魔导书 / 凱倫的魔法書
+charons-grimoire = -1
+# Charon's Shade Staff / 卡戎冥影法杖 / 凱倫的影之法杖
+charons-shade-staff = 1
+# Charon's Shadow Staff / 卡戎暗影法杖 / 凱倫的暗影法杖
+charons-shadow-staff = 1
+# Chef Pants / 厨师裤 / 廚師褲
+chef-pants = 1
+# Chestguard of Dynasty / 王朝胸铠 / 王朝胸鎧
+chestguard-of-dynasty = 1
+# Chimera Armor / 奇美拉盔甲 / 奇美拉盔甲
+chimera-armor = -1
+# Chimera Greaves / 奇美拉护胫 / 奇美拉護脛
+chimera-greaves = -1
+# Chimera Helmet / 奇美拉头盔 / 奇美拉頭盔
+chimera-helmet = -1
+# Chimera Stacatto / 奇美拉之符 / 奇美拉之符
+chimera-stacatto = -1
+# Claymore / 宽刃剑 / 寬刃劍
+claymore = -1
+# Cliffside Cuirass / 绝壁胸甲 / 絕壁胸甲
+cliffside-cuirass = 1
+# Clogs of Dynasty / 王朝木屐 / 王朝木屐
+clogs-of-dynasty = 1
+# Clota's Garb / 克洛塔皮甲 / 克洛塔皮甲
+clotas-garb = 1
+# Clurichaun Arrows / 酒精灵箭矢 / 酒精靈箭矢
+clurichaun-arrows = 1
+# Clurichaun Soul Blade / 酒精灵灵魂之刃 / 酒精靈靈魂之刃
+clurichaun-soul-blade = 1
+# Cockatrice Mail / 鸡蛇链甲 / 雞蛇胸甲
+cockatrice-mail = 1
+# Coiled Shield / 盘蛇盾 / 盤蛇盾
+coiled-shield = 1
+# Colada / 科拉达 / 科拉達
+colada = 1
+# Colossal Armor / 巨像盔甲 / 巨像盔甲
+colossal-armor = -1
+# Colossal Helmet / 巨像头盔 / 巨像頭盔
+colossal-helmet = -1
+# Colossal Leggings / 巨像腿甲 / 巨像腿甲
+colossal-leggings = -1
+# Conall's Wand / 科纳尔的魔杖 / 科納爾的棍棒
+conalls-wand = -1
+# Coral Armor / 珊瑚盔甲 / 珊瑚盔甲
+coral-armor = -1
+# Coral Boots / 珊瑚长靴 / 珊瑚長靴
+coral-boots = -1
+# Coral Cowl / 珊瑚风帽 / 珊瑚風帽
+coral-cowl = -1
+# Coral Garb / 珊瑚皮甲 / 珊瑚皮甲
+coral-garb = -1
+# Coral Helmet / 珊瑚头盔 / 珊瑚頭盔
+coral-helmet = -1
+# Coral Hood / 珊瑚兜帽 / 珊瑚兜帽
+coral-hood = -1
+# Coral Robe / 珊瑚长袍 / 珊瑚長袍
+coral-robe = -1
+# Cormac's Shotel / 康马克的钩刀 / 康馬克的鈎刀
+cormacs-shotel = -1
+# Count's Garment / 伯爵服装 / 伯爵的服裝
+counts-garment = -1
+# Count's Hood / 伯爵兜帽 / 伯爵的兜帽
+counts-hood = -1
+# Court Jester's Outfit / 宫廷小丑服 / 宮廷小丑服
+court-jesters-outfit = -1
+# Court Staff / 宫廷之杖 / 宮廷之杖
+court-staff = -1
+# Covyn's Dark Armor / Covyn暗黑盔甲 / Covyn的黑暗盔甲
+covyns-dark-armor = 1
+# Covyn's Dark Leggings / Covyn暗黑腿甲 / Covyn的黑暗腿甲
+covyns-dark-leggings = 1
+# Covyn's Dark Mask / Covyn暗黑面具 / Covyn的黑暗面具
+covyns-dark-mask = 1
+# Covyn's Great Scythe / Covyn大镰 / Covyn 的大鐮
+covyns-great-scythe = 1
+# Covyn's Hemmed Robe / Covym褶边长袍 / Covyn 的百褶長袍
+covyns-hemmed-robe = 1
+# Covyn's Hemmed Skirt / Covyn褶边裙 / Covyn 的百褶裙
+covyns-hemmed-skirt = 1
+# Covyn's Hood / Covyn兜帽 / Covyn 的兜帽
+covyns-hood = 1
+# Covyn's Robe / Covyn长袍 / Covyn 的法袍
+covyns-robe = 1
+# Covyn's Scythe / Covyn镰刀 / Covyn 的鐮刀
+covyns-scythe = 1
+# Covyn's Skirt / Covyn之裙 / Covyn 的裙子
+covyns-skirt = 1
+# Covyn's Soul Hunt Scythe / Covyn狩魂镰刀 / Covyn的狩魂鐮刀
+covyns-soul-hunt-scythe = 1
+# Covyn's Wolven Hood / Covyn群狼兜帽 / Covyn 的狼頭兜帽
+covyns-wolven-hood = 1
+# Coward's Blade / 懦夫之刃 / 懦夫刀刃
+cowards-blade = 1
+# Coward's Boots / 懦夫长靴 / 懦夫長靴
+cowards-boots = 1
+# Coward's Cloak / 懦夫斗篷 / 懦夫披風
+cowards-cloak = 1
+# Coward's Cowl / 懦夫风帽 / 懦夫風帽
+cowards-cowl = 1
+# Cowl of Dynasty / 王朝风帽 / 王朝風帽
+cowl-of-dynasty = 1
+# Cracked Mirror / 破裂的镜子 / 破裂的鏡子
+cracked-mirror = 1
+# Crest of Avalon / 阿瓦隆纹章 / 阿瓦隆的紋章
+crest-of-avalon = 1
+# Crook and Flail / 牧羊杖与连枷 / 壞蛋與連枷
+crook-and-flail = 1
+# Crooked Shotel / 弯曲短刀 / 彎曲短刀
+crooked-shotel = 1
+# Crossbow / 弩 / 弩
+crossbow = -1
+# Crow's Feathers / 乌鸦的羽毛 / 烏鴉的羽毛
+crows-feathers = -1
+# Crowsong / 渡鸦葬歌 / 渡鴉葬歌
+crowsong = 1
+# Crucifix / 耶稣受难像 / 耶穌受難像
+crucifix = -1
+# Crusading Armor / 征战盔甲 / 運動裝甲
+crusading-armor = -1
+# Crusading Boots / 征战长靴 / 運動長靴
+crusading-boots = -1
+# Crusading Helmet / 征战头盔 / 運動頭盔
+crusading-helmet = -1
+# Crystal Halberd / 水晶戟 / 水晶戟
+crystal-halberd = -1
+# Crystal Staff / 水晶法杖 / 水晶法杖
+crystal-staff = -1
+# Crystalis / 水晶剑 / 水晶劍
+crystalis = 1
+# Cuirass of Dynasty / 王朝胸甲 / 王朝胸甲
+cuirass-of-dynasty = 1
+# Cursed Aengus Og's Lute / 诅咒的安格斯奥格鲁特琴 / 受詛咒的安格斯奧格魯特琴
+cursed-aengus-ogs-lute = 1
+# Cursed Artio's Hide / 诅咒的阿尔提奥皮肩 / 受詛咒的阿蒂奧皮草
+cursed-artios-hide = 1
+# Cursed Atepomarus Mail / 诅咒的阿特波玛鲁斯链甲 / 受詛咒的阿特波馬羅斯鏈甲
+cursed-atepomarus-mail = 1
+# Cursed Autumna Crested Shield / 诅咒的奥图娜纹章盾 / 受詛咒的阿圖娜紋章盾
+cursed-autumna-crested-shield = 1
+# Cursed Belenus's Boots / 诅咒的百勒努斯长靴 / 受詛咒的貝里努斯長靴
+cursed-belenuss-boots = 1
+# Cursed Boots / 诅咒长靴 / 詛咒長靴
+cursed-boots = -1
+# Cursed Bormana's Mantle / 诅咒的波尔玛纳披风 / 受詛咒的波爾瑪納披風
+cursed-bormanas-mantle = 1
+# Cursed Caticatona Cuirass / 诅咒的卡蒂卡托娜胸甲 / 受詛咒的卡卡托娜胸甲
+cursed-caticatona-cuirass = 1
+# Cursed Caturix's Robe / 诅咒的卡图里克斯法袍 / 受詛咒的卡圖里克斯長袍
+cursed-caturixs-robe = 1
+# Cursed Clota's Garb / 诅咒的克洛塔皮甲 / 受詛咒的克洛塔皮甲
+cursed-clotas-garb = 1
+# Cursed Damona's Shield / 诅咒的达默纳之盾 / 受詛咒的達摩娜之盾
+cursed-damonas-shield = 1
+# Cursed Eostre's Circlet / 诅咒的厄俄斯特头饰 / 受詛咒的俄斯特髮環
+cursed-eostres-circlet = 1
+# Cursed Esus's Pillar / 诅咒的埃苏斯支柱 / 受詛咒的埃蘇斯之柱
+cursed-esuss-pillar = 1
+# Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
+cursed-fomoria-plated-boots = 1
+# Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
+cursed-fomoria-plated-boots-7a9f5efc = 1
+# Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
+cursed-fomoria-plated-boots-c6787dd8 = 1
+# Cursed Fomoria Plated Boots / 诅咒的弗摩尔镀金长靴 / 受詛咒的弗摩爾族板甲靴
+cursed-fomoria-plated-boots-e03e2c7a = 1
+# Cursed Fomoria Plated Robe / 诅咒的弗摩尔镀金法袍 / 受詛咒的弗摩爾族板甲袍
+cursed-fomoria-plated-robe = 1
+# Cursed Fomoria Plated Robe / 诅咒的弗摩尔镀金法袍 / 受詛咒的弗摩爾族板甲袍
+cursed-fomoria-plated-robe-5d09a4d7 = 1
+# Cursed Fomoria Plated Robe / 诅咒的弗摩尔镀金法袍 / 受詛咒的弗摩爾族板甲袍
+cursed-fomoria-plated-robe-62b00ff5 = 1
+# Cursed Fomoria Plated Robe / 诅咒的弗摩尔镀金法袍 / 受詛咒的弗摩爾族板甲袍
+cursed-fomoria-plated-robe-858bfe6c = 1
+# Cursed Fomor's Crown / 诅咒的弗摩尔王冠 / 受詛咒的弗摩爾王冠
+cursed-fomors-crown = 1
+# Cursed Fomor's Crown / 诅咒的弗摩尔王冠 / 受詛咒的弗摩爾王冠
+cursed-fomors-crown-440afac8 = 1
+# Cursed Fomor's Crown / 诅咒的弗摩尔王冠 / 受詛咒的弗摩爾王冠
+cursed-fomors-crown-af8c4b7d = 1
+# Cursed Fomor's Crown / 诅咒的弗摩尔王冠 / 受詛咒的弗摩爾王冠
+cursed-fomors-crown-e4efc526 = 1
+# Cursed Gobannos' Heavy Boots / 诅咒的戈班诺斯重靴 / 受詛咒的戈班諾斯重靴
+cursed-gobannos-heavy-boots = 1
+# Cursed Goibhniu Armguard / 诅咒的戈夫努护臂 / 受詛咒的戈夫紐護臂
+cursed-goibhniu-armguard = 1
+# Cursed Hood / 诅咒兜帽 / 詛咒兜帽
+cursed-hood = -1
+# Cursed Imona's Slippers / 诅咒的伊莫娜布鞋 / 受詛咒的埃莫那拖鞋
+cursed-imonas-slippers = 1
+# Cursed Lero's Hood / 诅咒的勒罗兜帽 / 受詛咒的勒羅兜帽
+cursed-leros-hood = 1
+# Cursed Mullo's Blinders / 诅咒的穆洛眼罩 / 受詛咒的穆洛眼罩
+cursed-mullos-blinders = 1
+# Cursed Niskus' Boots / 诅咒的尼斯库斯长靴 / 受詛咒的尼斯庫斯長靴
+cursed-niskus-boots = 1
+# Cursed Nocturna Crested Shield / 诅咒的诺特纳纹章盾 / 受詛咒的諾克圖娜紋章盾
+cursed-nocturna-crested-shield = 1
+# Cursed Ogmios' Satin Robe / 诅咒的奥格米欧斯缎袍 / 受詛咒的奧米奧斯緞袍
+cursed-ogmios-satin-robe = 1
+# Cursed Robe / 诅咒法袍 / 詛咒法袍
+cursed-robe = -1
+# Cursed Sabrina's Cowl / 诅咒的萨布丽娜风帽 / 受詛咒的莎賓娜風帽
+cursed-sabrinas-cowl = 1
+# Cursed Sequana's Chestpiece / 诅咒的塞夸纳板甲 / 受詛咒的塞夸納胸甲
+cursed-sequanas-chestpiece = 1
+# Cursed Sumner Crested Shield / 诅咒的萨姆纳纹章盾 / 受詛咒的薩姆納紋章盾
+cursed-sumner-crested-shield = 1
+# Cursed Wintara Crested Shield / 诅咒的温塔拉纹章盾 / 溫塔拉紋章盾受詛咒的
+cursed-wintara-crested-shield = 1
+# Cutlass / 短弯刀 / 彎刀
+cutlass = -1
+# Dagda Armor / 达格达盔甲 / 達格達盔甲
+dagda-armor = 1
+# Dagda Boots / 达格达长靴 / 達格達長靴
+dagda-boots = 1
+# Dagda Cowl / 达格达风帽 / 達格達風帽
+dagda-cowl = 1
+# Dagda Garb / 达格达皮甲 / 達格達皮甲
+dagda-garb = 1
+# Dagda Helmet / 达格达头盔 / 達格達頭盔
+dagda-helmet = 1
+# Dagda Hood / 达格达兜帽 / 達格達兜帽
+dagda-hood = 1
+# Dagda Leggings / 达格达腿甲 / 達格達腿甲
+dagda-leggings = 1
+# Dagda Robe / 达格达长袍 / 達格達長袍
+dagda-robe = 1
+# Dagda Shoes / 达格达之鞋 / 達格達之鞋
+dagda-shoes = 1
+# Dagger / 匕首 / 匕首
+dagger = -1
+# Dalan's Hood / 达兰兜帽 / 達藍的兜帽
+dalans-hood = 1
+# Dalan's Robe / 达兰长袍 / 達藍長袍
+dalans-robe = 1
+# Damona's Shield / 达默纳之盾 / 達摩娜之盾
+damonas-shield = 1
+# Dangy's Arisen Glasses / Dangy的重生眼镜 / Dangy的重生眼鏡
+dangys-arisen-glasses = 1
+# Dangy's Chinos / Dangy的卡其裤 / Dangy的窄褲
+dangys-chinos = 1
+# Dangy's Fancy T-shirt / Dangy的新潮T-shirt / Dangy的潮T
+dangys-fancy-t-shirt = 1
+# Dangy's Glasses / Dangy的眼镜 / Dangy的眼鏡
+dangys-glasses = 1
+# Dangy's Laptop / Dangy的笔记本电脑 / Dangy的筆電
+dangys-laptop = 1
+# Dangy's T-shirt / Dangy的T-shirt / Dangy的T恤
+dangys-t-shirt = 1
+# Dangy's Tan Chinos / Dangy的斜纹卡其裤 / Dangy的卡其褲
+dangys-tan-chinos = 1
+# Dark Elf Boots / 黑暗精灵长靴 / 黑暗精靈長靴
+dark-elf-boots = -1
+# Dark Elf Cowl / 黑暗精灵风帽 / 黑暗精靈的風帽
+dark-elf-cowl = -1
+# Dark Elf Garb / 黑暗精灵皮甲 / 黑暗精靈皮甲
+dark-elf-garb = -1
+# Dark Elf Hood / 黑暗精灵兜帽 / 黑暗精靈兜帽
+dark-elf-hood = -1
+# Dark Elf Robe / 黑暗精灵法袍 / 黑暗精靈法袍
+dark-elf-robe = -1
+# Dark Elven Katana / 暗黑精灵武士刀 / 暗黑精靈武士刀
+dark-elven-katana = 1
+# Dark Garb / 黑暗皮甲 / 黑暗皮甲
+dark-garb = -1
+# Dark Mage Hood / 暗黑法师兜帽 / 暗黑法師兜帽
+dark-mage-hood = -1
+# Dark Mage Robe / 暗黑法师长袍 / 暗黑法師長袍
+dark-mage-robe = -1
+# Dark Staff / 黑暗法杖 / 黑暗法杖
+dark-staff = -1
+# Darkest Garb / 深渊皮甲 / 深淵皮甲
+darkest-garb = -1
+# Dawn Armor / 破晓盔甲 / 破曉盔甲
+dawn-armor = 1
+# Dawn Boots / 破晓长靴 / 破曉長靴
+dawn-boots = 1
+# Dawn Cowl / 破晓风帽 / 破曉風帽
+dawn-cowl = 1
+# Dawn Garb / 破晓皮甲 / 破曉皮甲
+dawn-garb = 1
+# Dawn Helmet / 破晓头盔 / 破曉頭盔
+dawn-helmet = 1
+# Dawn Hood / 破晓兜帽 / 破曉兜帽
+dawn-hood = 1
+# Dawn Robe / 破晓法袍 / 破曉長袍
+dawn-robe = 1
+# Dawnbreaker / 拂晓 / 破曉者
+dawnbreaker = 1
+# Dawnbreaker / 拂晓 / 破曉者
+dawnbreaker-29962248 = 1
+# Dawnbreaker / 拂晓 / 破曉者
+dawnbreaker-93ca602e = 1
+# Daybreak / 破晓 / 破曉
+daybreak = 1
+# Daybreak / 破晓 / 破曉
+daybreak-187acb44 = 1
+# Daybreak / 破晓 / 破曉
+daybreak-fbe009b8 = 1
+# Deadwood Staff / 死木法杖 / 死木法杖
+deadwood-staff = -1
+# Deathbringer / 死亡使者 / 死亡使者
+deathbringer = 1
+# Del Chliss / 德尔克利斯 / 德爾克里斯
+del-chliss = 1
+# Delta Myrddin / δ梅尔丁 / δ梅爾丁
+delta-myrddin = 1
+# Delta Myrddin Cloak / δ梅尔丁斗篷 / δ梅爾丁披風
+delta-myrddin-cloak = 1
+# Delta Myrddin Cowl / δ梅尔丁风帽 / δ梅爾丁風帽
+delta-myrddin-cowl = 1
+# Delta Myrddin Hood / δ梅尔丁兜帽 / δ梅爾丁兜帽
+delta-myrddin-hood = 1
+# Delta Myrddin Robe / δ梅尔丁法袍 / δ梅爾丁法袍
+delta-myrddin-robe = 1
+# Delta Myrddin Shield / δ梅尔丁之盾 / δ梅爾丁盾
+delta-myrddin-shield = 1
+# Delta Olympia Archistaff / δ奥林匹亚权杖 / δ奧林匹亞權杖
+delta-olympia-archistaff = 1
+# Delta Olympia Boots / δ奥林匹亚长靴 / δ奧林匹亞長靴
+delta-olympia-boots = 1
+# Delta Olympia Cowl / δ奥林匹亚风帽 / δ奧林匹亞風帽
+delta-olympia-cowl = 1
+# Delta Olympia Cuirass / δ奥林匹亚胸甲 / δ奧林匹亞胸甲
+delta-olympia-cuirass = 1
+# Delta Olympia Garb / δ奥林匹亚皮甲 / δ奧林匹亞皮甲
+delta-olympia-garb = 1
+# Delta Olympia Greaves / δ奥林匹亚护胫 / δ奧林匹亞護脛
+delta-olympia-greaves = 1
+# Delta Olympia Helmet / δ奥林匹亚头盔 / δ奧林匹亞頭盔
+delta-olympia-helmet = 1
+# Delta Olympia Hood / δ奥林匹亚兜帽 / δ奧林匹亞兜帽
+delta-olympia-hood = 1
+# Delta Olympia Shoes / δ奥林匹亚之鞋 / δ奧林匹亞鞋
+delta-olympia-shoes = 1
+# Delta Olympia Vestment / δ奥林匹亚圣衣 / δ奧林匹亞法衣
+delta-olympia-vestment = 1
+# Delta Olympia Warbow / δ奥林匹亚战弓 / δ奧林匹亞戰弓
+delta-olympia-warbow = 1
+# Delta Olympia Warsword / δ奥林匹亚战刃 / δ奧林匹亞戰刃
+delta-olympia-warsword = 1
+# Demeter's Halberd / 狄蜜特之戟 / 狄蜜特之戟
+demeters-halberd = 1
+# Demeter's Staff / 狄蜜特法杖 / 狄蜜特法杖
+demeters-staff = 1
+# Demonic Blade / 恶魔刀刃 / 惡魔刀刃
+demonic-blade = 1
+# Dingy Robe / 肮脏的长袍 / 骯髒的長袍
+dingy-robe = -1
+# Dioscuri Archistaff / 狄奥斯库洛伊权杖 / 狄奧斯庫洛伊權杖
+dioscuri-archistaff = 1
+# Dioscuri Greataxe / 狄奥斯库洛伊大斧 / 狄奧斯庫洛伊大斧
+dioscuri-greataxe = 1
+# Dioscuri Greatbow / 狄奥斯库洛伊长弓 / 狄奧斯庫洛伊長弓
+dioscuri-greatbow = 1
+# Dirk / 苏格兰短剑 / 蘇格蘭短劍
+dirk = -1
+# Distorted Manablades / 扭曲魔力链刃 / 扭曲魔力雙刃
+distorted-manablades = 1
+# Distorted Rift Armor / 扭曲裂隙胸甲 / 扭曲裂痕盔甲
+distorted-rift-armor = 1
+# Distorted Rift Boots / 扭曲裂隙长靴 / 扭曲裂痕長靴
+distorted-rift-boots = 1
+# Distorted Rift Chestguard / 扭曲裂隙胸铠 / 扭曲裂痕胸鎧
+distorted-rift-chestguard = 1
+# Distorted Rift Chestplate / 扭曲裂隙护甲 / 扭曲裂痕胸甲
+distorted-rift-chestplate = 1
+# Distorted Rift Cowl / 扭曲裂隙风帽 / 扭曲裂痕風帽
+distorted-rift-cowl = 1
+# Distorted Rift Headdress / 扭曲裂隙头饰 / 扭曲裂痕頭巾
+distorted-rift-headdress = 1
+# Distorted Rift Helmet / 扭曲裂隙头盔 / 扭曲裂痕頭盔
+distorted-rift-helmet = 1
+# Distorted Rift Leggings / 扭曲裂隙腿甲 / 扭曲裂痕腿甲
+distorted-rift-leggings = 1
+# Distorted Rift Legwraps / 扭曲裂隙裹腿 / 扭曲裂痕裹腿
+distorted-rift-legwraps = 1
+# Distorted Riftshield / 扭曲裂隙巨盾 / 扭曲裂痕盾
+distorted-riftshield = 1
+# Distorted Riftstaff / 扭曲裂隙法杖 / 扭曲裂痕法杖
+distorted-riftstaff = 1
+# Distorted Riftsword / 扭曲裂隙巨剑 / 扭曲裂痕長劍
+distorted-riftsword = 1
+# Dokkalfar Armor / 夜之精灵盔甲 / 夜之精靈盔甲
+dokkalfar-armor = -1
+# Dokkalfar Boots / 夜之精灵长靴 / 夜之精靈長靴
+dokkalfar-boots = -1
+# Dokkalfar Cowl / 夜之精灵风帽 / 夜之精靈風帽
+dokkalfar-cowl = -1
+# Dokkalfar Gada / 夜之精灵金刚杵 / 夜之精靈金剛杵
+dokkalfar-gada = 1
+# Dokkalfar Garb / 夜之精灵皮甲 / 夜之精靈皮甲
+dokkalfar-garb = -1
+# Dokkalfar Helmet / 夜之精灵头盔 / 夜之精靈頭盔
+dokkalfar-helmet = -1
+# Dokkalfar Hood / 夜之精灵兜帽 / 夜之精靈兜帽
+dokkalfar-hood = -1
+# Dokkalfar Robe / 夜之精灵长袍 / 夜之精靈法袍
+dokkalfar-robe = -1
+# Dokkalfar Staff / 夜之精灵法杖 / 夜之精靈法杖
+dokkalfar-staff = -1
+# Dokkalfar Sword / 夜之精灵长剑 / 夜之精靈劍
+dokkalfar-sword = -1
+# Donta's Shield / 唐塔之盾 / 唐塔之盾
+dontas-shield = -1
+# Dracon Bow / 德肯之弓 / 德肯弓
+dracon-bow = 1
+# Dracon Shield / 德肯之盾 / 德肯盾
+dracon-shield = 1
+# Dracon Staff / 德肯之杖 / 德肯法杖
+dracon-staff = 1
+# Dracon Sword / 德肯之剑 / 德肯劍
+dracon-sword = 1
+# Draconian Archistaff / 德肯尼亚族权杖 / 德肯尼亞族權杖
+draconian-archistaff = 1
+# Draconian Armor / 德肯尼亚族盔甲 / 德肯尼亞族盔甲
+draconian-armor = -1
+# Draconian Boots / 德肯尼亚族长靴 / 德肯尼亞族長靴
+draconian-boots = -1
+# Draconian Bow / 德肯尼亚族之弓 / 德肯尼亞族之弓
+draconian-bow = -1
+# Draconian Cowl / 德肯尼亚族风帽 / 德肯尼亞族風帽
+draconian-cowl = -1
+# Draconian Garb / 德肯尼亚族皮甲 / 德肯尼亞族皮甲
+draconian-garb = -1
+# Draconian Hood / 德肯尼亚族兜帽 / 德肯尼亞族兜帽
+draconian-hood = -1
+# Draconian Leggings / 德肯尼亚族腿甲 / 德肯尼亞族腿甲
+draconian-leggings = -1
+# Draconian Robe / 德肯尼亚族法袍 / 德肯尼亞族法袍
+draconian-robe = -1
+# Draconian Sceptre / 德肯尼亚权杖 / 德肯尼亞族之笏
+draconian-sceptre = -1
+# Draconian Staff / 德肯尼亚族法杖 / 德肯尼亞族法杖
+draconian-staff = -1
+# Draconian Sword / 德肯尼亚族之剑 / 德肯尼亞族之劍
+draconian-sword = -1
+# Dragon Crested Shield / 龙纹盾 / 龍紋盾
+dragon-crested-shield = -1
+# Dragon Dagger / 龙匕首 / 龍匕首
+dragon-dagger = -1
+# Dragon Scroll / 龙之卷轴 / 龍之卷軸
+dragon-scroll = 1
+# Dragon Sword / 龙剑 / 龍劍
+dragon-sword = -1
+# Dragon's Arc / 龙之弓 / 龍之弓
+dragons-arc = -1
+# Dragonsong / 千年龙诗 / 千年龍詩
+dragonsong = -1
+# Drake Armor / 龙兽盔甲 / 龍獸盔甲
+drake-armor = -1
+# Drake Boots / 龙兽长靴 / 龍獸長靴
+drake-boots = -1
+# Drake Helmet / 龙兽头盔 / 龍獸頭盔
+drake-helmet = -1
+# Drake Leggings / 龙兽腿甲 / 龍獸腿甲
+drake-leggings = -1
+# Draugr Staff / 尸鬼法杖 / 屍鬼法杖
+draugr-staff = -1
+# Dudley's Hammer / 杜德利之锤 / 達利的錘
+dudleys-hammer = 1
+# Duke's Shield / 公爵盾 / 公爵盾
+dukes-shield = -1
+# Dune Blade / 沙丘之刃 / 沙丘之刃
+dune-blade = 1
+# Durandal / 名剑迪朗达尔 / 迪朗達爾
+durandal = 1
+# Dusk Armor / 薄暮盔甲 / 薄暮盔甲
+dusk-armor = 1
+# Dusk Boots / 薄暮长靴 / 薄暮長靴
+dusk-boots = 1
+# Dusk Cowl / 薄暮风帽 / 薄暮風帽
+dusk-cowl = 1
+# Dusk Garb / 薄暮皮甲 / 薄暮皮甲
+dusk-garb = 1
+# Dusk Helmet / 薄暮头盔 / 薄暮頭盔
+dusk-helmet = 1
+# Dusk Hood / 薄暮兜帽 / 薄暮兜帽
+dusk-hood = 1
+# Dusk Robe / 薄暮长袍 / 薄暮長袍
+dusk-robe = 1
+# Duskbreaker / 破暮 / 破暮者
+duskbreaker = 1
+# Duskbreaker / 破暮 / 破暮者
+duskbreaker-ec7a531c = 1
+# Duskbreaker / 破暮 / 破暮者
+duskbreaker-ef96cc6a = 1
+# Dynasty / 王朝 / 王朝
+dynasty = 1
+# Dyrnwyn / 白柄 / 白柄
+dyrnwyn = -1
+# Earthen Arrows / 大地箭矢 / 大地箭矢
+earthen-arrows = -1
+# Earthen Pike / 大地长枪 / 大地長矛
+earthen-pike = -1
+# Earthen Sceptre / 大地权杖 / 大地權杖
+earthen-sceptre = -1
+# Eastern Regalia / 东方王权象征 / 東方王權
+eastern-regalia = 1
+# Ebon Candy Cane / 黑之拐杖糖 / 黑之拐杖糖
+ebon-candy-cane = 1
+# Ebon Caroling Lute / 黑之圣诞颂琴 / 黑之聖誕頌琴
+ebon-caroling-lute = 1
+# Ebon Jolly Stockings / 黑之欢乐长袜 / 黑之歡樂長襪
+ebon-jolly-stockings = 1
+# Ebon North Star / 黑之北极星 / 黑之北極星
+ebon-north-star = 1
+# Ebon Reinbow / 黑之虹弓 / 黑之虹弓
+ebon-reinbow = 1
+# Ebon Sleighblade / 黑之雪橇刃 / 黑之雪橇刃
+ebon-sleighblade = 1
+# Ebon Top Hat / 黑之高帽 / 黑之高帽
+ebon-top-hat = 1
+# Elite Balor Archistaff / 精英巴罗尔权杖 / 高端巴羅爾權杖
+elite-balor-archistaff = -1
+# Elite Balor Armor / 精英巴罗尔盔甲 / 高端巴羅爾盔甲
+elite-balor-armor = -1
+# Elite Balor Helmet / 精英巴罗尔头盔 / 高端巴羅爾頭盔
+elite-balor-helmet = -1
+# Elite Balor Katana / 精英巴罗尔武士刀 / 高端巴羅爾武士刀
+elite-balor-katana = -1
+# Elite Balor Leggings / 精英巴罗尔腿甲 / 高端巴羅爾腿甲
+elite-balor-leggings = -1
+# Elite Balor Robe / 精英巴罗尔长袍 / 高端巴羅爾長袍
+elite-balor-robe = -1
+# Elite Balor Shield / 精英巴罗尔之盾 / 高端巴羅爾之盾
+elite-balor-shield = -1
+# Elite Balor Sword / 精英巴罗尔之剑 / 高端巴羅爾之劍
+elite-balor-sword = -1
+# Elite Draconian Armor / 精英德肯尼亚族盔甲 / 高端德肯尼亞族盔甲
+elite-draconian-armor = -1
+# Elite Draconian Boots / 精英德肯尼亚族长靴 / 高端德肯尼亞族長靴
+elite-draconian-boots = -1
+# Elite Draconian Cowl / 精英德肯尼亚族风帽 / 高端德肯尼亞族風帽
+elite-draconian-cowl = -1
+# Elite Draconian Garb / 精英德肯尼亚族皮甲 / 高端德肯尼亞族皮甲
+elite-draconian-garb = -1
+# Elite Draconian Hood / 精英德肯尼亚族兜帽 / 高端德肯尼亞族兜帽
+elite-draconian-hood = -1
+# Elite Draconian Leggings / 精英德肯尼亚族腿甲 / 高端德肯尼亞族腿甲
+elite-draconian-leggings = -1
+# Elite Draconian Robe / 精英德肯尼亚族长袍 / 高端德肯尼亞族長袍
+elite-draconian-robe = -1
+# Elite Draconian Staff / 精英德肯尼亚族法杖 / 高端德肯尼亞族法杖
+elite-draconian-staff = -1
+# Elite Draconian Sword / 精英德肯尼亚族之剑 / 高端德肯尼亞族之劍
+elite-draconian-sword = -1
+# Elite Dune Blade / 精英沙丘之刃 / 高端沙丘之刃
+elite-dune-blade = 1
+# Elite Fomorian Armor / 精英弗摩尔族盔甲 / 高端弗摩爾族盔甲
+elite-fomorian-armor = -1
+# Elite Fomorian Boots / 精英弗摩尔族长靴 / 高端弗摩爾族長靴
+elite-fomorian-boots = -1
+# Elite Fomorian Cowl / 精英弗摩尔族风帽 / 高端弗摩爾族風帽
+elite-fomorian-cowl = -1
+# Elite Fomorian Garb / 精英弗摩尔族皮甲 / 高端弗摩爾族皮甲
+elite-fomorian-garb = -1
+# Elite Fomorian Hood / 精英弗摩尔族兜帽 / 高端弗摩爾族兜帽
+elite-fomorian-hood = -1
+# Elite Fomorian Leggings / 精英弗摩尔族腿甲 / 高端弗摩爾族腿甲
+elite-fomorian-leggings = -1
+# Elite Fomorian Robe / 精英弗摩尔族长袍 / 高端弗摩爾族長袍
+elite-fomorian-robe = -1
+# Elite Fomorian Staff / 精英弗摩尔族法杖 / 高端弗摩爾族法杖
+elite-fomorian-staff = -1
+# Elite Fomorian Sword / 精英弗摩尔族之剑 / 高端弗摩爾族之劍
+elite-fomorian-sword = -1
+# Elite Nothren Armor / 精英北族盔甲 / 高端北族盔甲
+elite-nothren-armor = -1
+# Elite Nothren Boots / 精英北族长靴 / 高端北族長靴
+elite-nothren-boots = -1
+# Elite Nothren Cowl / 精英北族风帽 / 高端北族風帽
+elite-nothren-cowl = -1
+# Elite Nothren Garb / 精英北族皮甲 / 高端北族皮甲
+elite-nothren-garb = -1
+# Elite Nothren Greaves / 精英北族护胫 / 高端北族護脛
+elite-nothren-greaves = -1
+# Elite Nothren Helmet / 精英北族头盔 / 高端北族頭盔
+elite-nothren-helmet = -1
+# Elite Nothren Hood / 精英北族兜帽 / 高端北族兜帽
+elite-nothren-hood = -1
+# Elite Nothren Robe / 精英北族法袍 / 高端北族法袍
+elite-nothren-robe = -1
+# Elite Nothren Shield / 精英北族之盾 / 高端北族之盾
+elite-nothren-shield = -1
+# Elite Nothren Shoes / 精英北族鞋子 / 高端北族鞋子
+elite-nothren-shoes = -1
+# Elven Katana / 精灵武士刀 / 精靈武士刀
+elven-katana = -1
+# Elven Staff / 精灵法杖 / 精靈法杖
+elven-staff = -1
+# Elven Sword / 精灵剑 / 精靈劍
+elven-sword = -1
+# Ember-Plumed Boots / 余火羽织长靴 / 餘火羽織長靴
+ember-plumed-boots = 1
+# Ember-Plumed Cowl / 余火羽织风帽 / 餘火羽織風帽
+ember-plumed-cowl = 1
+# Ember-Plumed Cuirass / 余火羽织胸甲 / 餘火羽織胸甲
+ember-plumed-cuirass = 1
+# Ember-Plumed Garb / 余火羽织皮甲 / 餘火羽織皮甲
+ember-plumed-garb = 1
+# Ember-Plumed Greaves / 余火羽织护胫 / 餘火羽織護脛
+ember-plumed-greaves = 1
+# Ember-Plumed Helmet / 余火羽织头盔 / 餘火羽織頭盔
+ember-plumed-helmet = 1
+# Ember-Plumed Hood / 余火羽织兜帽 / 餘火羽織兜帽
+ember-plumed-hood = 1
+# Ember-Plumed Robe / 余火羽织法袍 / 餘火羽織法袍
+ember-plumed-robe = 1
+# Ember-Plumed Shoes / 余火羽织之鞋 / 餘火羽織之鞋
+ember-plumed-shoes = 1
+# Embla Hood / 恩布拉兜帽 / 安布拉兜帽
+embla-hood = 1
+# Embla Robe / 恩布拉法袍 / 安布拉法袍
+embla-robe = 1
+# Embla Shoes / 恩布拉之鞋 / 安布拉鞋
+embla-shoes = 1
+# Endbringer / 终焉使者 / 終焉使者
+endbringer = -1
+# Eostre's Circlet / 厄俄斯特头饰 / 俄斯特髮環
+eostres-circlet = 1
+# Estoc / 穿甲刺剑 / 穿甲刺劍
+estoc = -1
+# Esus's Pillar / 埃苏斯支柱 / 埃蘇斯之柱
+esuss-pillar = 1
+# Everlasting Torch / 不灭火炬 / 不滅火炬
+everlasting-torch = -1
+# Excalibur / 誓约圣剑 / 誓約聖劍
+excalibur = 1
+# Excalibur / 誓约圣剑 / 誓約聖劍
+excalibur-eec7bf3e = 1
+# Eye of the Feyger / 变异凝视者之眼 / 變異凝視者之眼
+eye-of-the-feyger = 1
+# Fail-not / 必中之弓 / 不敗
+fail-not = 1
+# Fairy's Scroll / 仙女卷轴 / 仙女的卷軸
+fairys-scroll = -1
+# Fairy's Tanto / 妖精小刀 / 妖精的小刀
+fairys-tanto = 1
+# Fairy's Wand / 妖精魔杖 / 妖精的棒棒
+fairys-wand = 1
+# Falchion / 宽刃砍刀 / 寬刃刀
+falchion = -1
+# Fallen Archistaff / 堕落权杖 / 墮落權杖
+fallen-archistaff = -1
+# Fallen Armor / 堕落盔甲 / 墮落盔甲
+fallen-armor = 1
+# Fallen Boots / 堕落长靴 / 墮落長靴
+fallen-boots = 1
+# Fallen Cowl / 堕落风帽 / 墮落風帽
+fallen-cowl = 1
+# Fallen Druid's Staff / 堕落德鲁伊法杖 / 墮落德魯伊的法杖
+fallen-druids-staff = -1
+# Fallen Garb / 堕落皮甲 / 墮落皮甲
+fallen-garb = 1
+# Fallen Helmet / 堕落头盔 / 墮落頭盔
+fallen-helmet = 1
+# Fallen Hood / 堕落兜帽 / 墮落兜帽
+fallen-hood = 1
+# Fallen Knight's Axe / 堕落骑士之斧 / 墮落騎士的斧
+fallen-knights-axe = -1
+# Fallen Leggings / 堕落腿甲 / 墮落腿甲
+fallen-leggings = 1
+# Fallen Mage's Staff / 堕落法师之杖 / 墮落法師之杖
+fallen-mages-staff = -1
+# Fallen Mystic's Staff / 堕落秘术士之杖 / 墮落祕法師的杖
+fallen-mystics-staff = -1
+# Fallen Robe / 堕落法袍 / 墮落法袍
+fallen-robe = 1
+# Fallen Rogue's Bow / 堕落侠盗之弓 / 墮落俠盜的弓
+fallen-rogues-bow = -1
+# Fallen Shield / 堕落盾牌 / 墮落盾牌
+fallen-shield = 1
+# Fallen Shoes / 堕落鞋子 / 墮落鞋子
+fallen-shoes = 1
+# Fallen Sky Armor / 堕天盔甲 / 墮天盔甲
+fallen-sky-armor = 1
+# Fallen Sky Boots / 堕天长靴 / 墮天長靴
+fallen-sky-boots = 1
+# Fallen Sky Cowl / 堕天风帽 / 墮天風帽
+fallen-sky-cowl = 1
+# Fallen Sky Garb / 堕天皮甲 / 墮天皮甲
+fallen-sky-garb = 1
+# Fallen Sky Headdress / 堕天头巾 / 墮天頭巾
+fallen-sky-headdress = 1
+# Fallen Sky Helmet / 堕天头盔 / 墮天頭盔
+fallen-sky-helmet = 1
+# Fallen Sky Hood / 堕天兜帽 / 墮天兜帽
+fallen-sky-hood = 1
+# Fallen Sky Leggings / 堕天腿甲 / 墮天腿甲
+fallen-sky-leggings = 1
+# Fallen Sky Legwraps / 堕天裹腿 / 墮天裹腿
+fallen-sky-legwraps = 1
+# Fallen Sky Mail / 堕天链甲 / 墮天鏈甲
+fallen-sky-mail = 1
+# Fallen Sky Robe / 堕天长袍 / 墮天長袍
+fallen-sky-robe = 1
+# Fallen Sky Shoes / 堕天鞋子 / 墮天鞋子
+fallen-sky-shoes = 1
+# Fallen Thief's Dagger / 堕落盗贼的匕首 / 墮落盜賊的匕首
+fallen-thiefs-dagger = -1
+# Fallen Wanderer's Dagger / 堕落流浪者匕首 / 墮落流浪漢的短刀
+fallen-wanderers-dagger = -1
+# Fallen Warrior's Sword / 堕落战士之剑 / 墮落戰士之劍
+fallen-warriors-sword = -1
+# False King's Crown / 伪王之冠 / 偽王之冠
+false-kings-crown = 1
+# False King's Sceptre / 伪王之权杖 / 偽王之權杖
+false-kings-sceptre = 1
+# Feral Archistaff / 野性权杖 / 野性權杖
+feral-archistaff = 1
+# Feral Claws / 野性之爪 / 野性之爪
+feral-claws = 1
+# Feral Hood / 野性兜帽 / 野性兜帽
+feral-hood = 1
+# Feral Warsword / 野性战刃 / 野性戰刃
+feral-warsword = 1
+# Fergus's Hammer / 弗格斯的锤 / 弗格斯的錘
+ferguss-hammer = -1
+# Ferocious Bull / 凶残公牛 / 兇殘的公牛
+ferocious-bull = 1
+# Ferocious Hood / 凶残兜帽 / 兇殘的兜帽
+ferocious-hood = 1
+# Fey Arrows / 变异箭矢 / 變異箭矢
+fey-arrows = -1
+# Fey Badb Boots / 变异芭德布长靴 / 變異芭德布長靴
+fey-badb-boots = 1
+# Fey Badb Catha / 变异芭德布渡鸦 / 變異芭德布渡鴉
+fey-badb-catha = 1
+# Fey Badb Garb / 变异芭德布皮甲 / 變異芭德布皮甲
+fey-badb-garb = 1
+# Fey Badb Veil / 变异芭德布面罩 / 變異芭德布面罩
+fey-badb-veil = 1
+# Fey Badb Warbow / 变异芭德布战弓 / 變異芭德布戰弓
+fey-badb-warbow = 1
+# Fey Banshee Boots / 变异报丧女妖长靴 / 變異報喪女妖長靴
+fey-banshee-boots = 1
+# Fey Banshee Robe / 变异报丧女妖法袍 / 變異報喪女妖法袍
+fey-banshee-robe = 1
+# Fey Banshee Veil / 变异报丧女妖面罩 / 變異報喪女妖面罩
+fey-banshee-veil = 1
+# Fey Bloodwarg Grimoire / 变异嗜血座狼魔法书 / 變異血腥座狼魔法書
+fey-bloodwarg-grimoire = 1
+# Fey Chimera Armor / 变异奇美拉盔甲 / 變異奇美拉盔甲
+fey-chimera-armor = 1
+# Fey Chimera Greaves / 变异奇美拉护胫 / 變異奇美拉護脛
+fey-chimera-greaves = 1
+# Fey Chimera Helmet / 变异奇美拉头盔 / 變異奇美拉頭盔
+fey-chimera-helmet = 1
+# Fey Crowsong / 变异渡鸦葬歌 / 變異渡鴉葬歌
+fey-crowsong = 1
+# Fey Dragon Armor / 变异巨龙盔甲 / 變異龍甲
+fey-dragon-armor = 1
+# Fey Dragon Boots / 变异巨龙长靴 / 變異龍靴
+fey-dragon-boots = 1
+# Fey Dragon Chestmail / 变异巨龙链甲 / 變異龍鎖鏈甲
+fey-dragon-chestmail = 1
+# Fey Dragon Cowl / 变异巨龙风帽 / 變異龍風帽
+fey-dragon-cowl = 1
+# Fey Dragon Helmet / 变异巨龙头盔 / 變異龍盔
+fey-dragon-helmet = 1
+# Fey Dragon Hood / 变异巨龙兜帽 / 變異龍兜帽
+fey-dragon-hood = 1
+# Fey Dragon Leggings / 变异巨龙腿甲 / 變異龍腿甲
+fey-dragon-leggings = 1
+# Fey Dragon Mage's Boots / 变异巨龙法靴 / 變異龍法靴
+fey-dragon-mages-boots = 1
+# Fey Dragon Robe / 变异巨龙法袍 / 變異龍袍
+fey-dragon-robe = 1
+# Fey Gazing Staff / 变异凝视者法杖 / 變異凝視者法杖
+fey-gazing-staff = 1
+# Fey Gerd's Bullwhip / 变异葛德牛鞭 / 變異葛德的牛鞭
+fey-gerds-bullwhip = 1
+# Fey Gerd's Chestguard / 变异葛德胸铠 / 變異葛德胸鎧
+fey-gerds-chestguard = 1
+# Fey Gerd's Headdress / 变异葛德头饰 / 變異葛德的頭巾
+fey-gerds-headdress = 1
+# Fey Gerd's Horsewhip / 变异葛德马鞭 / 變異葛德的馬鞭
+fey-gerds-horsewhip = 1
+# Fey Gerd's Legwraps / 变异葛德裹腿 / 變異葛德裹腿
+fey-gerds-legwraps = 1
+# Fey Helhest / 变异海斯特 / 變異海斯特
+fey-helhest = 1
+# Fey Hellfire Armor / 变异狱炎盔甲 / 變異獄炎盔甲
+fey-hellfire-armor = -1
+# Fey Hellfire Boots / 变异狱炎长靴 / 變異獄炎長靴
+fey-hellfire-boots = -1
+# Fey Hellfire Cowl / 变异狱炎风帽 / 變異獄炎風帽
+fey-hellfire-cowl = -1
+# Fey Hellfire Garb / 变异狱炎皮甲 / 變異獄炎皮甲
+fey-hellfire-garb = -1
+# Fey Hellfire Helmet / 变异狱炎头盔 / 變異獄炎頭盔
+fey-hellfire-helmet = -1
+# Fey Hellfire Hood / 变异狱炎兜帽 / 變異獄炎兜帽
+fey-hellfire-hood = -1
+# Fey Hellfire Leggings / 变异狱炎腿甲 / 變異獄炎腿甲
+fey-hellfire-leggings = -1
+# Fey Hellfire Robe / 变异狱炎长袍 / 變異獄炎長袍
+fey-hellfire-robe = -1
+# Fey Hellfire Shoes / 变异狱炎之鞋 / 變異獄炎鞋子
+fey-hellfire-shoes = -1
+# Fey Hel's Boots / 变异赫尔长靴 / 變異赫爾長靴
+fey-hels-boots = 1
+# Fey Hel's Feathers / 变异赫尔羽毛 / 變異赫爾的羽毛
+fey-hels-feathers = 1
+# Fey Hel's Garb / 变异赫尔皮甲 / 變異赫爾皮甲
+fey-hels-garb = 1
+# Fey Hel's Veil / 变异赫尔面罩 / 變異赫爾面罩
+fey-hels-veil = 1
+# Fey Macha Boots / 变异玛查长靴 / 變異瑪查長靴
+fey-macha-boots = 1
+# Fey Macha Pillar / 变异玛查支柱 / 變異瑪查支柱
+fey-macha-pillar = 1
+# Fey Macha Robe / 变异玛查法袍 / 變異瑪查法袍
+fey-macha-robe = 1
+# Fey Macha Veil / 变异玛查面罩 / 變異瑪查面罩
+fey-macha-veil = 1
+# Fey Macha Warstaff / 变异玛查征杖 / 變異瑪查征杖
+fey-macha-warstaff = 1
+# Fey Menja's Battlerobe / 变异门妮雅战斗法袍 / 變異梅加戰鬥法袍
+fey-menjas-battlerobe = 1
+# Fey Menja's Hood / 变异门妮雅兜帽 / 變異梅加兜帽
+fey-menjas-hood = 1
+# Fey Menja's Shield / 变异门妮雅之盾 / 變異梅加的盾
+fey-menjas-shield = 1
+# Fey Menja's Warstaff / 变异门妮雅征杖 / 變異梅加征杖
+fey-menjas-warstaff = 1
+# Fey Neman Cuirass / 变异妮潘胸甲 / 變異妮潘胸甲
+fey-neman-cuirass = 1
+# Fey Neman Greaves / 变异妮潘护胫 / 變異妮潘護脛
+fey-neman-greaves = -1
+# Fey Neman Havoc / 变异妮潘凶祸 / 變異妮潘凶禍
+fey-neman-havoc = 1
+# Fey Neman Helmet / 变异妮潘头盔 / 變異妮潘頭盔
+fey-neman-helmet = 1
+# Fey Neman Warsword / 变异妮潘战刃 / 變異妮潘戰刃
+fey-neman-warsword = 1
+# Fey Plagued Cuirass / 变异瘟疫胸甲 / 變異瘟疫胸甲
+fey-plagued-cuirass = 1
+# Fey Plagued Greaves / 变异瘟疫护胫 / 變異瘟疫護脛
+fey-plagued-greaves = 1
+# Fey Plagued Helmet / 变异瘟疫头盔 / 變異瘟疫頭盔
+fey-plagued-helmet = 1
+# Fey Raven Boots / 变异渡鸦长靴 / 變異渡鴉長靴
+fey-raven-boots = 1
+# Fey Raven Garb / 变异渡鸦皮甲 / 變異渡鴉皮甲
+fey-raven-garb = 1
+# Fey Raven Veil / 变异渡鸦面罩 / 變異渡鴉面罩
+fey-raven-veil = 1
+# Fey Scroll / 变异卷轴 / 變異卷軸
+fey-scroll = -1
+# Fey Spiritgarm Grimoire / 变异幽灵加姆魔法书 / 變異靈獸加姆魔法書
+fey-spiritgarm-grimoire = 1
+# Fey Stonewarg Grimoire / 变异岩石座狼魔法书 / 變異岩石座狼魔法書
+fey-stonewarg-grimoire = 1
+# Fey Surtr's Boots / 变异史尔特尔长靴 / 變異史爾特爾的長靴
+fey-surtrs-boots = 1
+# Fey Surtr's Cuirass / 变异史尔特尔胸甲 / 變異史爾特爾胸甲
+fey-surtrs-cuirass = 1
+# Fey Surtr's Helmet / 变异史尔特尔头盔 / 變異史爾特爾的頭盔
+fey-surtrs-helmet = 1
+# Fey Surtr's Shield / 变异史尔特尔之盾 / 變異史爾特爾的盾
+fey-surtrs-shield = 1
+# Fey Surtr's Sword / 变异史尔特尔之剑 / 變異史爾特爾的劍
+fey-surtrs-sword = 1
+# Fey Yeti Coat / 变异雪怪大衣 / 變異雪怪大衣
+fey-yeti-coat = 1
+# Fey Yeti Horns / 变异雪怪角 / 變異雪怪角
+fey-yeti-horns = 1
+# Final Horseman's Armor / 最终骑士盔甲 / 最終騎士的盔甲
+final-horsemans-armor = 1
+# Final Horseman's Boots / 最终骑士长靴 / 最終騎士的長靴
+final-horsemans-boots = 1
+# Final Horseman's Cloak / 最终骑士斗篷 / 最終騎士的披風
+final-horsemans-cloak = 1
+# Final Horseman's Hood / 最终骑士兜帽 / 最終騎士的兜帽
+final-horsemans-hood = 1
+# Final Horseman's Scythe / 最终骑士镰刀 / 最終騎士的鐮刀
+final-horsemans-scythe = 1
+# Fine Greatsword / 精致巨剑 / 精巧大劍
+fine-greatsword = 1
+# Finesse Katana / 芬尼斯武士刀 / 芬尼斯武士刀
+finesse-katana = 1
+# Finesse's Enchanted Epee / 芬尼斯的迷人刺剑 / 芬尼斯的迷人刺劍
+finesses-enchanted-epee = 1
+# Finesse's Greatsword / 芬尼斯的巨剑 / 芬尼斯的巨劍
+finesses-greatsword = 1
+# Finesse's Katana / 芬尼斯的武士刀 / 芬尼斯的武士刀
+finesses-katana = 1
+# Finesse's Shotel / 芬尼斯的短刀 / 芬尼斯的短刀
+finesses-shotel = 1
+# Finn's Spear / 芬恩的矛 / 芬恩的矛
+finns-spear = -1
+# Fire Arrows / 火焰箭矢 / 火焰箭矢
+fire-arrows = -1
+# Firepike / 火枪 / 火槍
+firepike = 1
+# First Horseman's Armor / 第一骑士盔甲 / 第一騎士的盔甲
+first-horsemans-armor = 1
+# First Horseman's Boots / 第一骑士长靴 / 第一騎士的長靴
+first-horsemans-boots = 1
+# First Horseman's Cloak / 第一骑士斗篷 / 第一騎士的披風
+first-horsemans-cloak = 1
+# First Horseman's Hood / 第一骑士兜帽 / 第一騎士的兜帽
+first-horsemans-hood = 1
+# First Horseman's Spear / 第一骑士长矛 / 第一騎士的長矛
+first-horsemans-spear = 1
+# Fishing Hat / 渔夫帽 / 漁夫帽
+fishing-hat = -1
+# Fjalar Mantle / 法亚拉披风 / 法亞拉披風
+fjalar-mantle = -1
+# Flamberge / 焰形剑 / 弗蘭伯基
+flamberge = -1
+# Flameguard / 烈焰守卫 / 烈焰守衛
+flameguard = -1
+# Flax44's Monocle / Flax44单片眼镜 / Flax44的單片眼鏡
+flax44s-monocle = 1
+# Flax44's Robe / Flax44长袍 / Flax44的長袍
+flax44s-robe = 1
+# Flax44's Shoes / Flax44之鞋 / Flax44的鞋
+flax44s-shoes = 1
+# Flax44's Staff / Flax44法杖 / Flax44的法杖
+flax44s-staff = 1
+# Flute / 长笛 / 長笛
+flute = -1
+# Fog Blade / 雾之刃 / 霧刃
+fog-blade = 1
+# Fomor Katana / 弗摩尔武士刀 / 弗摩爾武士刀
+fomor-katana = 1
+# Fomor Shield / 弗摩尔之盾 / 弗摩爾盾
+fomor-shield = 1
+# Fomor Staff / 弗摩尔法杖 / 弗摩爾法杖
+fomor-staff = 1
+# Fomor Sword / 弗摩尔之剑 / 弗摩爾劍
+fomor-sword = 1
+# Fomoria Plated Boots / 弗摩尔镀金长靴 / 弗摩爾族板甲靴
+fomoria-plated-boots = 1
+# Fomoria Plated Boots / 弗摩尔镀金长靴 / 弗摩爾族板甲靴
+fomoria-plated-boots-12aa0ab8 = 1
+# Fomoria Plated Boots / 弗摩尔镀金长靴 / 弗摩爾族板甲靴
+fomoria-plated-boots-8a5bd211 = 1
+# Fomoria Plated Boots / 弗摩尔镀金长靴 / 弗摩爾族板甲靴
+fomoria-plated-boots-b9357c84 = 1
+# Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
+fomoria-plated-robe = 1
+# Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
+fomoria-plated-robe-272802ec = 1
+# Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
+fomoria-plated-robe-427f8b42 = 1
+# Fomoria Plated Robe / 弗摩尔镀金长袍 / 弗摩爾族板甲袍
+fomoria-plated-robe-fb3188b6 = 1
+# Fomorian Armor / 弗摩尔族盔甲 / 弗摩爾族盔甲
+fomorian-armor = -1
+# Fomorian Boots / 弗摩尔族长靴 / 弗摩爾族長靴
+fomorian-boots = -1
+# Fomorian Bow / 弗摩尔族之弓 / 弗摩爾族之弓
+fomorian-bow = -1
+# Fomorian Dagger / 弗摩尔族匕首 / 弗摩爾族匕首
+fomorian-dagger = -1
+# Fomorian Garb / 弗摩尔族皮甲 / 弗摩爾族皮甲
+fomorian-garb = -1
+# Fomorian Hood / 弗摩尔族兜帽 / 弗摩爾族兜帽
+fomorian-hood = -1
+# Fomorian Leggings / 弗摩尔族腿甲 / 弗摩爾族腿甲
+fomorian-leggings = -1
+# Fomorian Robe / 弗摩尔族长袍 / 弗摩爾族長袍
+fomorian-robe = -1
+# Fomorian Staff / 弗摩尔族法杖 / 弗摩爾族法杖
+fomorian-staff = -1
+# Fomorian Sword / 弗摩尔族长剑 / 弗摩爾族長劍
+fomorian-sword = -1
+# Fomor's Crown / 弗摩尔王冠 / 弗摩爾王冠
+fomors-crown = 1
+# Fomor's Crown / 弗摩尔王冠 / 弗摩爾王冠
+fomors-crown-2cca9537 = 1
+# Fomor's Crown / 弗摩尔王冠 / 弗摩爾王冠
+fomors-crown-d8f79592 = 1
+# Fomor's Crown / 弗摩尔王冠 / 弗摩爾王冠
+fomors-crown-faad302c = 1
+# Footpads of Dynasty / 王朝鞋垫 / 王朝腳墊
+footpads-of-dynasty = 1
+# Forest Goat Panflute / 林中白羊排箫 / 森林牡羊排簫
+forest-goat-panflute = 1
+# Forest Goat Staff / 林中白羊法杖 / 森林牡羊法杖
+forest-goat-staff = -1
+# Forest Goat's Hood / 林中白羊兜帽 / 森林牡羊的兜帽
+forest-goats-hood = 1
+# Forest Goat's Horns / 林中白羊之角 / 森林牡羊的角
+forest-goats-horns = 1
+# Forest Goat's Legs / 林中白羊之腿 / 森林牡羊的腿
+forest-goats-legs = 1
+# Frilled Naga Halberd / 褶伞娜迦之戟 / 褶傘那伽戟
+frilled-naga-halberd = -1
+# Frilled Naga Staff / 褶伞娜迦法杖 / 褶傘那伽法杖
+frilled-naga-staff = -1
+# Frosty Daggers / 霜之匕首 / 霧之匕首
+frosty-daggers = -1
+# Fur Coat / 毛皮大衣 / 毛皮大衣
+fur-coat = -1
+# Furious Bull / 狂怒公牛 / 狂怒公牛
+furious-bull = 1
+# Furious Cuirass / 狂怒胸甲 / 狂怒胸甲
+furious-cuirass = 1
+# Furious Helmet / 狂怒头盔 / 狂怒頭盔
+furious-helmet = 1
+# Gaia Robe / 盖亚长袍 / 蓋亞長袍
+gaia-robe = -1
+# Gale's Spear / 凯尔长矛 / 凱爾的長矛
+gales-spear = 1
+# Gamma Myrddin / γ梅尔丁 / γ梅爾丁
+gamma-myrddin = 1
+# Gamma Myrddin Cloak / γ梅尔丁斗篷 / γ梅爾丁披風
+gamma-myrddin-cloak = 1
+# Gamma Myrddin Cowl / γ梅尔丁风帽 / γ梅爾丁風帽
+gamma-myrddin-cowl = 1
+# Gamma Myrddin Hood / γ梅尔丁兜帽 / γ梅爾丁兜帽
+gamma-myrddin-hood = 1
+# Gamma Myrddin Robe / γ梅尔丁法袍 / γ梅爾丁法袍
+gamma-myrddin-robe = 1
+# Gamma Myrddin Shield / γ梅尔丁之盾 / γ梅爾丁盾
+gamma-myrddin-shield = 1
+# Gamma Olympia Archistaff / γ奥林匹亚权杖 / γ奧林匹亞權杖
+gamma-olympia-archistaff = 1
+# Gamma Olympia Boots / γ奥林匹亚长靴 / γ奧林匹亞長靴
+gamma-olympia-boots = 1
+# Gamma Olympia Cowl / γ奥林匹亚风帽 / γ奧林匹亞風帽
+gamma-olympia-cowl = 1
+# Gamma Olympia Cuirass / γ奥林匹亚胸甲 / γ奧林匹亞胸甲
+gamma-olympia-cuirass = 1
+# Gamma Olympia Garb / γ奥林匹亚皮甲 / γ奧林匹亞皮甲
+gamma-olympia-garb = 1
+# Gamma Olympia Greaves / γ奥林匹亚护胫 / γ奧林匹亞護脛
+gamma-olympia-greaves = 1
+# Gamma Olympia Helmet / γ奥林匹亚头盔 / γ奧林匹亞頭盔
+gamma-olympia-helmet = 1
+# Gamma Olympia Hood / γ奥林匹亚兜帽 / γ奧林匹亞兜帽
+gamma-olympia-hood = 1
+# Gamma Olympia Shoes / γ奥林匹亚之鞋 / γ奧林匹亞鞋
+gamma-olympia-shoes = 1
+# Gamma Olympia Vestment / γ奥林匹亚圣衣 / γ奧林匹亞法衣
+gamma-olympia-vestment = 1
+# Gamma Olympia Warbow / γ奥林匹亚战弓 / γ奧林匹亞戰弓
+gamma-olympia-warbow = 1
+# Gamma Olympia Warsword / γ奥林匹亚战刃 / γ奧林匹亞戰刃
+gamma-olympia-warsword = 1
+# Gandring / 甘德林 / 甘德林
+gandring = 1
+# Gargouille's Dagger / 石像鬼匕首 / 石像鬼的匕首
+gargouilles-dagger = 1
+# Gazing Staff / 凝视法杖 / 凝視法杖
+gazing-staff = 1
+# Genius / 吉尼尔斯 / 吉尼爾斯
+genius = 1
+# Gerd's Bullwhip / 葛德牛鞭 / 葛德的牛鞭
+gerds-bullwhip = 1
+# Gerd's Chestguard / 葛德胸铠 / 葛德胸鎧
+gerds-chestguard = 1
+# Gerd's Headdress / 葛德头饰 / 葛德頭巾
+gerds-headdress = 1
+# Gerd's Horsewhip / 葛德马鞭 / 葛德的馬鞭
+gerds-horsewhip = 1
+# Gerd's Legwraps / 葛德裹腿 / 葛德裹腿
+gerds-legwraps = 1
+# Glacial Staff / 冰河法杖 / 冰河法杖
+glacial-staff = -1
+# Gladiator's Shotel / 角斗士短刀 / 角鬥士短刀
+gladiators-shotel = -1
+# Gladiator's Sword / 角斗士之剑 / 角鬥士之劍
+gladiators-sword = -1
+# Glaive / 关刀 / 關刀
+glaive = -1
+# Globe Holder / 天球仪座 / 惑星之軸
+globe-holder = 1
+# Gnome's Hat / 侏儒帽 / 侏儒帽
+gnomes-hat = -1
+# Goat's Hood / 白羊兜帽 / 羊羊兜帽
+goats-hood = 1
+# Goat's Horns / 白羊之角 / 羊角
+goats-horns = 1
+# Goat's Legs / 白羊护腿 / 羊腿
+goats-legs = 1
+# Gobannos' Heavy Boots / 戈班诺斯重靴 / 戈班諾斯重靴
+gobannos-heavy-boots = 1
+# Goblin Armor / 哥布林盔甲 / 哥布林盔甲
+goblin-armor = -1
+# Goblin Boots / 哥布林长靴 / 哥布林長靴
+goblin-boots = -1
+# Goblin Lord's Staff / 哥布林领主法杖 / 哥布林領主的法杖
+goblin-lords-staff = 1
+# Goibhniu Armguard / 戈夫努护臂 / 戈夫紐護臂
+goibhniu-armguard = 1
+# Gorgon's Head / 戈尔贡头颅 / 戈爾貢的頭
+gorgons-head = 1
+# Gorgon's Staff / 戈尔贡之杖 / 戈爾貢之杖
+gorgons-staff = -1
+# Gorgonslayer's Chestplate / 戈尔贡杀手胸甲 / 戈爾貢殺手的胸甲
+gorgonslayers-chestplate = 1
+# Gorgonslayer's Cowl / 戈尔贡杀手风帽 / 戈爾貢殺手的風帽
+gorgonslayers-cowl = 1
+# Gorgonslayer's Legwear / 戈尔贡杀手护腿 / 戈爾貢殺手的腿甲
+gorgonslayers-legwear = 1
+# Gradlon's Archistaff / 格拉德隆之权杖 / 格拉德隆之權杖
+gradlons-archistaff = 1
+# Grand Armor / 高级铠甲 / 大鎧
+grand-armor = -1
+# Grand Attuning Hood / 高阶调律师兜帽 / 調教大師兜帽
+grand-attuning-hood = -1
+# Grand Attuning Robe / 高阶调律师法袍 / 調教大師法袍
+grand-attuning-robe = -1
+# Grand Attuning Shoes / 高阶调律师之鞋 / 調教大師鞋子
+grand-attuning-shoes = -1
+# Grand Helmet / 高级头盔 / 大頭盔
+grand-helmet = -1
+# Grand Leggings / 高级腿甲 / 高級腿甲
+grand-leggings = -1
+# Grand Summoner's Hood / 冠位召唤师兜帽 / 冠位召喚師的兜帽
+grand-summoners-hood = -1
+# Grand Summoner's Robe / 冠位召唤师法袍 / 冠位召喚師的法袍
+grand-summoners-robe = -1
+# Grand Summoner's Shoes / 冠位召唤师之鞋 / 冠位召喚師的鞋子
+grand-summoners-shoes = -1
+# Grand Sword / 大剑 / 大劍
+grand-sword = -1
+# Great Antlers / 强大的鹿角 / 強大的鹿角
+great-antlers = -1
+# Great Bearskin / 完美的熊皮肩 / 完美的熊皮肩
+great-bearskin = -1
+# Great Fishing Hat / 高级渔夫帽 / 大漁夫帽
+great-fishing-hat = -1
+# Great Jinn Staff / 大神灯精灵法杖 / 大神燈精靈法杖
+great-jinn-staff = 1
+# Great Lizarr Armor / 强大蜥蜴人盔甲 / 強大蜥蜴人盔甲
+great-lizarr-armor = -1
+# Great Lizarr Blade / 上级蜥蜴人宽剑 / 上級蜥蜴人寬劍
+great-lizarr-blade = -1
+# Great Lizarr Boots / 强大蜥蜴人长靴 / 強大蜥蜴人長靴
+great-lizarr-boots = -1
+# Great Lizarr Leggings / 强大蜥蜴人的腿甲 / 強大蜥蜴人的腿甲
+great-lizarr-leggings = -1
+# Great Mimic Head / 强大的宝箱怪头套 / 強大的寶箱怪的頭
+great-mimic-head = -1
+# Great Monoceros Cowl / 强大的一角兽风帽 / 強大的一角獸風帽
+great-monoceros-cowl = -1
+# Great Monoceros Garb / 强大的一角兽皮甲 / 強大的一角獸皮甲
+great-monoceros-garb = -1
+# Great Monoceros Hoofs / 强大的一角兽之蹄 / 強大的一角獸蹄子
+great-monoceros-hoofs = -1
+# Great Orcish Axe / 强大的半兽人之斧 / 強大的半獸人之斧
+great-orcish-axe = -1
+# Great Orcish Blade / 强大的半兽人大刀 / 巨魔大劍
+great-orcish-blade = -1
+# Great Phoenician Boots / 强大凤凰长靴 / 強大的鳳凰長靴
+great-phoenician-boots = 1
+# Great Phoenician Cowl / 强大凤凰风帽 / 強大的鳳凰風帽
+great-phoenician-cowl = 1
+# Great Phoenician Cuirass / 強大凤凰胸甲 / 強大鳳凰胸甲
+great-phoenician-cuirass = 1
+# Great Phoenician Garb / 强大凤凰皮甲 / 強大的鳳凰皮甲
+great-phoenician-garb = 1
+# Great Phoenician Greaves / 强大凤凰护胫 / 強大的鳳凰護脛
+great-phoenician-greaves = 1
+# Great Phoenician Helmet / 强大凤凰头盔 / 強大鳳凰頭盔
+great-phoenician-helmet = 1
+# Great Phoenician Hood / 强大凤凰兜帽 / 強大的鳳凰兜帽
+great-phoenician-hood = 1
+# Great Phoenician Robe / 强大凤凰法袍 / 強大的鳳凰法袍
+great-phoenician-robe = 1
+# Great Phoenician Shield / 强大凤凰之盾 / 強大的鳳凰盾
+great-phoenician-shield = 1
+# Great Phoenician Shoes / 强大凤凰之鞋 / 強大鳳凰的鞋
+great-phoenician-shoes = 1
+# Great Phoenixsong / 强大的凤曲 / 強大的鳳曲
+great-phoenixsong = 1
+# Great Staff / 强大法杖 / 強大法杖
+great-staff = -1
+# Greatbow / 大弓 / 大弓
+greatbow = -1
+# Greater Wisp Staff / 上级幽光法杖 / 上級幽光法杖
+greater-wisp-staff = -1
+# Greatsword / 巨剑 / 巨劍
+greatsword = -1
+# Greaves of Dynasty / 王朝护胫 / 王朝護脛
+greaves-of-dynasty = 1
+# Griffin Crested Shield / 格里芬纹章盾 / 格里芬紋章盾
+griffin-crested-shield = 1
+# Grioarvolr / 魔杖格里欧尔芙 / 格里歐爾芙
+grioarvolr = -1
+# Gungnir / 冈格尼尔 / 岡格尼爾
+gungnir = 1
+# Halberd / 戟 / 戟
+halberd = -1
+# Hallowed Blade / 万圣剑 / 萬聖劍
+hallowed-blade = -1
+# Hallowed Witch's Hat / 万圣女巫帽 / 萬聖女巫帽
+hallowed-witchs-hat = 1
+# Hammer / 锤 / 錘
+hammer = -1
+# Hard Leather Armor / 硬质皮革盔甲 / 重皮革盔甲
+hard-leather-armor = -1
+# Hard Leather Boots / 坚硬皮革长靴 / 堅硬皮革長靴
+hard-leather-boots = -1
+# Hardwood Lute / 硬木鲁特琴 / 硬木魯特琴
+hardwood-lute = -1
+# Harpy's Feathers / 鹰身女妖的羽毛 / 哈比的羽毛
+harpys-feathers = -1
+# Havel's Cuirass / Havel胸甲 / Havel的胸甲
+havels-cuirass = 1
+# Havel's Helmet / Havel头盔 / Havel的頭盔
+havels-helmet = 1
+# Havel's Leggings / Havel护胫 / Havel的腿甲
+havels-leggings = 1
+# Havel's Old Cuirass / Havel旧胸甲 / Havel的舊胸甲
+havels-old-cuirass = 1
+# Havel's Old Helmet / Havel旧头盔 / Havel的舊頭盔
+havels-old-helmet = 1
+# Havel's Old Leggings / Havel旧腿甲 / Havel的舊腿甲
+havels-old-leggings = 1
+# Havel's Old Shield / Havel之旧盾 / Havel的舊盾牌
+havels-old-shield = 1
+# Havel's Old Sword / Havel之旧剑 / Havel的舊劍
+havels-old-sword = 1
+# Havel's Shield / Havel之盾 / Havel的盾
+havels-shield = 1
+# Havel's Sword / Havel之剑 / Havel的劍
+havels-sword = 1
+# Heavy Arrows / 重箭矢 / 重箭矢
+heavy-arrows = -1
+# Heavy Boots / 重型长靴 / 重型長靴
+heavy-boots = -1
+# Heimdall's Shield / 海姆达尔之盾 / 海姆達爾之盾
+heimdalls-shield = 1
+# Helhest / 海斯特 / 海斯特
+helhest = 1
+# Hellfire Armor / 狱炎盔甲 / 獄炎盔甲
+hellfire-armor = 1
+# Hellfire Boots / 狱炎长靴 / 獄炎長靴
+hellfire-boots = 1
+# Hellfire Cowl / 狱炎风帽 / 獄炎風帽
+hellfire-cowl = 1
+# Hellfire Garb / 狱炎皮甲 / 獄炎皮甲
+hellfire-garb = 1
+# Hellfire Helmet / 狱炎头盔 / 獄炎頭盔
+hellfire-helmet = 1
+# Hellfire Hood / 狱炎兜帽 / 獄炎兜帽
+hellfire-hood = 1
+# Hellfire Leggings / 狱炎腿甲 / 獄炎腿甲
+hellfire-leggings = 1
+# Hellfire Robe / 狱炎长袍 / 獄炎長袍
+hellfire-robe = 1
+# Hellfire Shoes / 狱炎之鞋 / 獄炎鞋子
+hellfire-shoes = 1
+# Helmet of Dynasty / 王朝头盔 / 王朝頭盔
+helmet-of-dynasty = 1
+# Hel's Boots / 赫尔之靴 / 赫爾之靴
+hels-boots = 1
+# Hel's Feathers / 赫尔羽毛 / 赫爾的羽毛
+hels-feathers = 1
+# Hel's Garb / 赫尔皮甲 / 赫爾皮甲
+hels-garb = 1
+# Hel's Veil / 赫尔面罩 / 赫爾面罩
+hels-veil = 1
+# Heretic's Robe / 赫勒提克法袍 / 赫勒提克法袍
+heretics-robe = -1
+# High Draconian Armor / 高等德肯尼亚族盔甲 / 高等德肯尼亞族盔甲
+high-draconian-armor = -1
+# High Draconian Boots / 高等德肯尼亚族长靴 / 高等德肯尼亞族長靴
+high-draconian-boots = -1
+# High Draconian Cowl / 高等德肯尼亚族风帽 / 高等德肯尼亞族風帽
+high-draconian-cowl = -1
+# High Draconian Garb / 高等德肯尼亚族皮甲 / 高等德肯尼亞族皮甲
+high-draconian-garb = -1
+# High Draconian Hood / 高等德肯尼亚族兜帽 / 高等德肯尼亞族兜帽
+high-draconian-hood = -1
+# High Draconian Leggings / 高等德肯尼亚族腿甲 / 高等德肯尼亞族腿甲
+high-draconian-leggings = -1
+# High Draconian Robe / 高等德肯尼亚族长袍 / 高等德肯尼亞族長袍
+high-draconian-robe = -1
+# High Draconian Staff / 高等德肯尼亚族法杖 / 高等德肯尼亞族法杖
+high-draconian-staff = -1
+# High Draconian Sword / 高等德肯尼亚族之剑 / 高等德肯尼亞族之劍
+high-draconian-sword = -1
+# High Fomorian Armor / 高等弗摩尔族盔甲 / 高等弗摩爾族盔甲
+high-fomorian-armor = -1
+# High Fomorian Boots / 高等弗摩尔族长靴 / 高等弗摩爾族長靴
+high-fomorian-boots = -1
+# High Fomorian Cowl / 高等弗摩尔族风帽 / 高等弗摩爾族風帽
+high-fomorian-cowl = -1
+# High Fomorian Garb / 高等弗摩尔族皮甲 / 高等弗摩爾族皮甲
+high-fomorian-garb = -1
+# High Fomorian Hood / 高等弗摩尔族兜帽 / 高等弗摩爾族兜帽
+high-fomorian-hood = -1
+# High Fomorian Leggings / 高等弗摩尔族腿甲 / 高等弗摩爾族腿甲
+high-fomorian-leggings = -1
+# High Fomorian Robe / 高等弗摩尔族长袍 / 高等弗摩爾族長袍
+high-fomorian-robe = -1
+# High Fomorian Staff / 高等弗摩尔族法杖 / 高等弗摩爾族法杖
+high-fomorian-staff = -1
+# High Fomorian Sword / 高等弗摩尔族之剑 / 高等弗摩爾族之劍
+high-fomorian-sword = -1
+# High Phoenician Boots / 高等凤凰长靴 / 高等鳳凰長靴
+high-phoenician-boots = 1
+# High Phoenician Cowl / 高等凤凰风帽 / 高等鳳凰風帽
+high-phoenician-cowl = 1
+# High Phoenician Cuirass / 高等凤凰胸甲 / 高等鳳凰胸甲
+high-phoenician-cuirass = 1
+# High Phoenician Garb / 高等凤凰皮甲 / 高等鳳凰皮甲
+high-phoenician-garb = 1
+# High Phoenician Greaves / 高等凤凰护胫 / 高等鳳凰護脛
+high-phoenician-greaves = 1
+# High Phoenician Helmet / 高等凤凰头盔 / 高等鳳凰頭盔
+high-phoenician-helmet = 1
+# High Phoenician Hood / 高等凤凰兜帽 / 高等鳳凰兜帽
+high-phoenician-hood = 1
+# High Phoenician Robe / 高等凤凰法袍 / 高等鳳凰法袍
+high-phoenician-robe = 1
+# High Phoenician Shield / 高等凤凰之盾 / 高等鳳凰盾
+high-phoenician-shield = 1
+# High Phoenician Shoes / 高等凤凰之鞋 / 高等鳳凰的鞋
+high-phoenician-shoes = 1
+# High Phoenixsong / 高等凤曲 / 高等鳳曲
+high-phoenixsong = 1
+# Hiltless / 无柄刀 / 無柄刀
+hiltless = 1
+# Hobgoblin Armor / 巨型哥布林盔甲 / 巨型哥布林盔甲
+hobgoblin-armor = -1
+# Hobgoblin Boots / 巨型哥布林长靴 / 巨型哥布林長靴
+hobgoblin-boots = -1
+# Hood / 兜帽 / 兜帽
+hood = -1
+# Hood of Dynasty / 王朝兜帽 / 王朝兜帽
+hood-of-dynasty = 1
+# Hood of Wolves / 群狼兜帽 / 群狼的兜帽
+hood-of-wolves = -1
+# Horned Armor / 角铠 / 角鎧
+horned-armor = 1
+# Horned Helmet / 尖角头盔 / 尖角頭盔
+horned-helmet = 1
+# Horned Hood / 有角兜帽 / 有角的兜帽
+horned-hood = 1
+# Horror / 恐惧杖 / 恐懼杖
+horror = 1
+# Horus's Robe / 荷鲁斯法袍 / 荷魯斯的法袍
+horuss-robe = -1
+# Houserobe of Dynasty / 王朝睡袍 / 王朝睡袍
+houserobe-of-dynasty = 1
+# Hurricane Arc / 飓风弓 / 颶風弓
+hurricane-arc = 1
+# Hydra Staff / 九头蛇之杖 / 九頭蛇之杖
+hydra-staff = 1
+# Hyperion Boots / 亥伯龙长靴 / 海柏利昂長靴
+hyperion-boots = 1
+# Hyperion Cowl / 亥伯龙风帽 / 海柏利昂風帽
+hyperion-cowl = 1
+# Hyperion Cuirass / 亥伯龙胸甲 / 海柏利昂胸甲
+hyperion-cuirass = 1
+# Hyperion Garb / 亥伯龙皮甲 / 海柏利昂皮甲
+hyperion-garb = 1
+# Hyperion Greaves / 亥伯龙护胫 / 海柏利昂護脛
+hyperion-greaves = 1
+# Hyperion Helmet / 亥伯龙头盔 / 海柏利昂頭盔
+hyperion-helmet = 1
+# Hyperion Hood / 亥伯龙兜帽 / 海柏利昂兜帽
+hyperion-hood = 1
+# Hyperion Robe / 亥伯龙法袍 / 海柏利昂法袍
+hyperion-robe = 1
+# Hyperion Shoes / 亥伯龙之鞋 / 海柏利昂之鞋
+hyperion-shoes = 1
+# Hyperion Slingshot / 亥伯龙弹弓 / 海柏利昂彈弓
+hyperion-slingshot = 1
+# Hyperion Staff / 亥伯龙法杖 / 海柏利昂法杖
+hyperion-staff = 1
+# Hyperion Sword / 亥伯龙长剑 / 海柏利昂之劍
+hyperion-sword = 1
+# Ice Arrows / 寒冰箭矢 / 寒冰箭矢
+ice-arrows = -1
+# Ichaival / 魔弓伊奇巴尔 / 魔弓
+ichaival = -1
+# Ifrit's Feet / 伊芙利特之靴 / 伊夫利特之靴
+ifrits-feet = -1
+# Imagination / 空想幻境 / 空想幻境
+imagination = -1
+# Immortal Boots / 不朽长靴 / 不朽長靴
+immortal-boots = -1
+# Immortal Garb / 不朽皮甲 / 不朽皮甲
+immortal-garb = -1
+# Immortal Hat / 不朽帽子 / 不朽帽子
+immortal-hat = -1
+# Immortal Hood / 不朽兜帽 / 不朽兜帽
+immortal-hood = -1
+# Immortal Katana / 不朽武士刀 / 不朽武士刀
+immortal-katana = -1
+# Immortal Robe / 不朽法袍 / 不朽法袍
+immortal-robe = -1
+# Imona's Slippers / 伊莫娜布鞋 / 埃莫那拖鞋
+imonas-slippers = 1
+# Incarnate Archistaff / 化身权杖 / 化身權杖
+incarnate-archistaff = 1
+# Incarnate Boots / 化身长靴 / 化身長靴
+incarnate-boots = 1
+# Incarnate Hood / 化身兜帽 / 化身兜帽
+incarnate-hood = 1
+# Incarnate Robe / 化身法袍 / 化身法袍
+incarnate-robe = 1
+# Infernal Boots / 炼狱长靴 / 煉獄長靴
+infernal-boots = -1
+# Iron Armor / 铁甲 / 鐵甲
+iron-armor = -1
+# Iron Hammer / 铁锤 / 鐵鎚
+iron-hammer = -1
+# Iron Helmet / 铁头盔 / 鐵頭盔
+iron-helmet = -1
+# Iron Shield / 铁盾 / 鐵盾
+iron-shield = -1
+# Ithra's Blade / 以斯拉之剑 / 以斯拉之劍
+ithras-blade = 1
+# Ithra's Staff / 以斯拉法杖 / 以斯拉法杖
+ithras-staff = 1
+# Jester's Outfit / 小丑衣 / 小丑衣
+jesters-outfit = -1
+# Jinn Staff / 神灯精灵法杖 / 神燈精靈法杖
+jinn-staff = -1
+# Jolly Stockings / 欢乐长袜 / 歡樂長襪
+jolly-stockings = 1
+# Kaladanda / 阎摩魔杖 / 閻摩魔杖
+kaladanda = 1
+# Kerberos Archistaff / 刻耳柏洛斯权杖 / 刻耳柏洛斯權杖
+kerberos-archistaff = 1
+# Kerberos Claws / 刻耳柏洛斯之爪 / 刻耳柏洛斯之爪
+kerberos-claws = 1
+# Kerberos Claws / 刻耳柏洛斯之爪 / 刻耳柏洛斯之爪
+kerberos-claws-e7f61ea1 = 1
+# Kerberos Greatsword / 刻耳柏洛斯巨剑 / 刻耳柏洛斯巨劍
+kerberos-greatsword = 1
+# Kerberos Hood / 刻耳柏洛斯兜帽 / 刻耳柏洛斯兜帽
+kerberos-hood = 1
+# Kerberos Hood / 刻耳柏洛斯兜帽 / 刻耳柏洛斯兜帽
+kerberos-hood-a1f843d0 = 1
+# Kerberos Staff / 刻耳柏洛斯法杖 / 刻耳柏洛斯法杖
+kerberos-staff = 1
+# Kerberos Staff / 刻耳柏洛斯法杖 / 刻耳柏洛斯法杖
+kerberos-staff-23282b8f = 1
+# Kerberos Sword / 刻耳柏洛斯之剑 / 刻耳柏洛斯之劍
+kerberos-sword = 1
+# Kerberos Sword / 刻耳柏洛斯之剑 / 刻耳柏洛斯之劍
+kerberos-sword-fa67ff37 = 1
+# Kerberos Veil / 刻耳柏洛斯面罩 / 刻耳柏洛斯面罩
+kerberos-veil = 1
+# Khopesh / 镰形刀 / 鐮形刀
+khopesh = 1
+# King's Boots / 王之长靴 / 王之長靴
+kings-boots = 1
+# King's Hood / 王之兜帽 / 國王的兜帽
+kings-hood = 1
+# King's Robe / 王之长袍 / 國王的長袍
+kings-robe = 1
+# Kobold Armor / 地精盔甲 / 地精盔甲
+kobold-armor = -1
+# Kobold Boots / 地精长靴 / 地精長靴
+kobold-boots = -1
+# Kobold Cloak / 地精斗篷 / 地精披風
+kobold-cloak = -1
+# Kobold Hood / 地精兜帽 / 地精兜帽
+kobold-hood = -1
+# Kunai / 苦无 / 苦無
+kunai = -1
+# Labrys / 双头斧 / 雙頭斧
+labrys = 1
+# Lady of the Lake / 湖中妖女 / 湖中妖女
+lady-of-the-lake = -1
+# Lass of the Lake / 湖中少女 / 湖中少女
+lass-of-the-lake = 1
+# Last Martyr's Armor / 最后殉道者盔甲 / 最終烈士的盔甲
+last-martyrs-armor = 1
+# Last Martyr's Baton / 最后殉道者指挥棒 / 最終烈士的杵
+last-martyrs-baton = 1
+# Last Martyr's Boots / 最后殉道者长靴 / 最終烈士的長靴
+last-martyrs-boots = 1
+# Last Martyr's Chestguard / 最后殉道者胸铠 / 最終烈士的胸鎧
+last-martyrs-chestguard = 1
+# Last Martyr's Cowl / 最后殉道者风帽 / 最終烈士的風帽
+last-martyrs-cowl = 1
+# Last Martyr's Flame / 最后殉道者之炎 / 最終烈士的火焰
+last-martyrs-flame = 1
+# Last Martyr's Garb / 最后殉道者皮甲 / 最終烈士的皮甲
+last-martyrs-garb = 1
+# Last Martyr's Headdress / 最后殉道者头巾 / 最終烈士的頭巾
+last-martyrs-headdress = 1
+# Last Martyr's Helmet / 最后殉道者头盔 / 最終烈士的頭盔
+last-martyrs-helmet = 1
+# Last Martyr's Hood / 最后殉道者兜帽 / 最終烈士的兜帽
+last-martyrs-hood = 1
+# Last Martyr's Leggings / 最后殉道者护胫 / 最終烈士的腿甲
+last-martyrs-leggings = 1
+# Last Martyr's Legwraps / 最后殉道者裹腿 / 最終烈士的裹腿
+last-martyrs-legwraps = 1
+# Last Martyr's Longbow / 最后殉道者长弓 / 最終烈士的長弓
+last-martyrs-longbow = 1
+# Last Martyr's Robe / 最后殉道者法袍 / 最終烈士的長袍
+last-martyrs-robe = 1
+# Last Martyr's Skirt / 最后殉道者之裙 / 最終烈士的裙子
+last-martyrs-skirt = 1
+# Last Martyr's Sword / 最后殉道者之剑 / 最終烈士的劍
+last-martyrs-sword = 1
+# Leach / 吸血匕首 / 利奇
+leach = -1
+# Leaches / 渗透刃 / 滲透刃
+leaches = -1
+# Leather Boots / 皮靴 / 皮靴
+leather-boots = -1
+# Leather Hat / 皮革帽子 / 皮革帽子
+leather-hat = -1
+# Leather Jacket / 皮革外套 / 皮外套
+leather-jacket = -1
+# Lero's Hood / 勒罗兜帽 / 勒羅兜帽
+leros-hood = -1
+# Leviathan Cuirass / 利维坦胸甲 / 利維坦胸甲
+leviathan-cuirass = -1
+# Lich's Staff / 巫妖法杖 / 巫妖法杖
+lichs-staff = -1
+# Lifeshaker / 撼命者 / 撼命者
+lifeshaker = 1
+# Lizarr Armor / 蜥蜴人盔甲 / 蜥蜴人盔甲
+lizarr-armor = -1
+# Lizarr Blade / 蜥蜴人之刃 / 蜥蜴人之刃
+lizarr-blade = -1
+# Lizarr Boots / 蜥蜴人长靴 / 蜥蜴人長靴
+lizarr-boots = -1
+# Lizarr Leggings / 蜥蜴人腿甲 / 蜥蜴人腿甲
+lizarr-leggings = -1
+# Ljosalfar Armor / 日之精灵盔甲 / 日之精靈盔甲
+ljosalfar-armor = -1
+# Ljosalfar Boots / 日之精灵长靴 / 日之精靈長靴
+ljosalfar-boots = -1
+# Ljosalfar Cowl / 日之精灵风帽 / 日之精靈風帽
+ljosalfar-cowl = -1
+# Ljosalfar Garb / 日之精灵皮甲 / 日之精靈皮甲
+ljosalfar-garb = -1
+# Ljosalfar Helmet / 日之精灵头盔 / 日之精靈頭盔
+ljosalfar-helmet = -1
+# Ljosalfar Hood / 日之精灵兜帽 / 日之精靈兜帽
+ljosalfar-hood = -1
+# Ljosalfar Robe / 日之精灵法袍 / 日之精靈法袍
+ljosalfar-robe = -1
+# Ljosalfar Sceptre / 日之精灵权杖 / 日之精靈權杖
+ljosalfar-sceptre = 1
+# Ljosalfar Staff / 日之精灵法杖 / 日之精靈法杖
+ljosalfar-staff = -1
+# Ljosalfar Sword / 日之精灵长剑 / 日精靈之劍
+ljosalfar-sword = -1
+# Longbow / 长弓 / 長弓
+longbow = -1
+# Longsword / 长剑 / 長劍
+longsword = -1
+# Lost Art / 失落之术 / 失落的藝術
+lost-art = -1
+# Lost Helmet / 失落头盔 / 失落頭盔
+lost-helmet = -1
+# Lunar Boots / 太阴长靴 / 太陰長靴
+lunar-boots = 1
+# Lunar Dagger / 太阴匕首 / 太陰匕首
+lunar-dagger = 1
+# Lunar Garb / 太阴皮甲 / 太陰皮甲
+lunar-garb = 1
+# Lunar Helmet / 太阴头盔 / 太陰頭盔
+lunar-helmet = 1
+# Lute / 鲁特琴 / 魯特琴
+lute = -1
+# Lynx Labrys / 猞猁双头斧 / 大山貓貓雙頭斧
+lynx-labrys = 1
+# Lyonesse Boots / 里昂内斯长靴 / 里昂內斯長靴
+lyonesse-boots = -1
+# Lyonesse Cowl / 里昂内斯风帽 / 里昂內斯風帽
+lyonesse-cowl = -1
+# Lyonesse Crown / 里昂内斯王冠 / 里昂內斯王冠
+lyonesse-crown = 1
+# Lyonesse Cuirass / 里昂内斯胸甲 / 里昂內斯胸甲
+lyonesse-cuirass = -1
+# Lyonesse Garb / 里昂内斯皮甲 / 里昂內斯皮甲
+lyonesse-garb = -1
+# Lyonesse Greaves / 里昂内斯护胫 / 里昂內斯護脛
+lyonesse-greaves = -1
+# Lyonesse Helmet / 里昂内斯头盔 / 里昂內斯頭盔
+lyonesse-helmet = -1
+# Lyonesse Hood / 里昂内斯兜帽 / 里昂內斯兜帽
+lyonesse-hood = -1
+# Lyonesse Robe / 里昂内斯长袍 / 里昂內斯長袍
+lyonesse-robe = -1
+# Lyonesse Shield / 里昂内斯之盾 / 里昂內斯盾
+lyonesse-shield = -1
+# Lyonesse Shoes / 里昂内斯之鞋 / 里昂內斯之鞋
+lyonesse-shoes = -1
+# Lyonesse Staff / 里昂内斯法杖 / 里昂內斯法杖
+lyonesse-staff = -1
+# Lyonesse Sword / 里昂内斯之剑 / 里昂內斯之劍
+lyonesse-sword = -1
+# Mace / 狼牙棒 / 狼牙棒
+mace = -1
+# Macha Boots / 玛查长靴 / 瑪查長靴
+macha-boots = 1
+# Macha Pillar / 玛查支柱 / 瑪查支柱
+macha-pillar = 1
+# Macha Robe / 玛查法袍 / 瑪查法袍
+macha-robe = 1
+# Macha Veil / 玛查面罩 / 瑪查面罩
+macha-veil = 1
+# Macha Warstaff / 玛查征杖 / 瑪查征杖
+macha-warstaff = 1
+# Macha's Scroll / 玛查卷轴 / 瑪查之卷軸
+machas-scroll = 1
+# Mage's Boots / 法师长靴 / 法師長靴
+mages-boots = -1
+# Mage's Scroll / 法师卷轴 / 法師卷軸
+mages-scroll = -1
+# Magh Meall / 欢乐平原 / 愉悅原野
+magh-meall = 1
+# Magician's Hood / 魔法使的兜帽 / 魔法使的兜帽
+magicians-hood = -1
+# Magician's Robe / 魔法使的长袍 / 魔法使的長袍
+magicians-robe = -1
+# Magician's Shoes / 魔法使的鞋子 / 魔法師鞋
+magicians-shoes = -1
+# Mammon's Sword / 玛门之剑 / 瑪門之劍
+mammons-sword = 1
+# Mana Bow / 魔力之弓 / 魔力弓
+mana-bow = -1
+# Manticore Boots / 蝎狮长靴 / 蠍獅長靴
+manticore-boots = 1
+# Manticore Hood / 蝎狮兜帽 / 蠍獅兜帽
+manticore-hood = 1
+# Manticore Robe / 蝎狮法袍 / 蠍獅法袍
+manticore-robe = 1
+# Masamune / 正宗 / 正宗
+masamune = 1
+# Medusa's Bow / 美杜莎之弓 / 梅杜莎的弓
+medusas-bow = 1
+# Medusa's Chestplate / 美杜莎胸甲 / 梅杜莎的胸甲
+medusas-chestplate = 1
+# Menja's Battlerobe / 门妮雅战斗法袍 / 梅加戰鬥法袍
+menjas-battlerobe = 1
+# Menja's Hood / 门妮雅兜帽 / 梅加兜帽
+menjas-hood = 1
+# Menja's Shield / 门妮雅之盾 / 梅加的盾
+menjas-shield = 1
+# Menja's Warstaff / 门妮雅征杖 / 梅加征杖
+menjas-warstaff = 1
+# Merlin's Scroll / 梅林的卷轴 / 梅林的卷軸
+merlins-scroll = 1
+# Meteor Armor / 陨星盔甲 / 隕星盔甲
+meteor-armor = 1
+# Meteor Hammer / 陨星锤 / 隕星錘
+meteor-hammer = 1
+# Meteor Helmet / 陨星头盔 / 隕星頭盔
+meteor-helmet = 1
+# Meteor Leggings / 陨星腿甲 / 隕星腿甲
+meteor-leggings = 1
+# Might / 强力 / 強力
+might = -1
+# Mightiest Mimic Head / 超究极宝箱怪头套 / 超究極寶箱怪的頭
+mightiest-mimic-head = 1
+# Mighty Ensemble / 强大的剑盾 / 強大的劍盾
+mighty-ensemble = -1
+# Mighty Griffin Shield / 究极格里芬之盾 / 究極格里芬之盾
+mighty-griffin-shield = 1
+# Mighty Mimic Head / 究极宝箱怪头套 / 究極寶箱怪的頭
+mighty-mimic-head = 1
+# Mighty Tempest / 迅疾如风 / 迅疾如風
+mighty-tempest = 1
+# Mimic Head / 宝箱怪头套 / 寶箱怪的頭
+mimic-head = -1
+# Mimic King Head / 宝箱王头套 / 寶箱王的頭
+mimic-king-head = 1
+# Mimic King of Kings Head / 箱王之王头套 / 箱王之王的頭
+mimic-king-of-kings-head = 1
+# Minotaur Axe / 牛头怪斧 / 牛頭怪斧
+minotaur-axe = 1
+# Mirror / 镜子 / 鏡子
+mirror = -1
+# Mochi's Boots of Mercy / Mochi's Boots of Mercy / Mochi's Boots of Mercy
+mochis-boots-of-mercy = 1
+# Mochi's Claws / Mochi's Claws / Mochi's Claws
+mochis-claws = 1
+# Mochi's Cowl of Mercy / Mochi's Cowl of Mercy / Mochi's Cowl of Mercy
+mochis-cowl-of-mercy = 1
+# Mochi's Garb of Mercy / Mochi's Garb of Mercy / Mochi's Garb of Mercy
+mochis-garb-of-mercy = 1
+# Monoceros Cowl / 一角兽风帽 / 一角獸風帽
+monoceros-cowl = -1
+# Monoceros Garb / 一角兽皮甲 / 一角獸皮甲
+monoceros-garb = -1
+# Monoceros Hoofs / 一角兽之蹄 / 一角獸蹄子
+monoceros-hoofs = -1
+# Moon Boots / 月亮长靴 / 月之長靴
+moon-boots = 1
+# Moon Hat / 月亮之帽 / 月之帽
+moon-hat = 1
+# Moon Robe / 月亮长袍 / 月亮長袍
+moon-robe = 1
+# Moon Staff / 月亮法杖 / 月之杖
+moon-staff = 1
+# Morning Star / 晨星 / 晨星
+morning-star = -1
+# Morrigan's Scroll / 摩莉甘卷轴 / 摩莉甘的卷軸
+morrigans-scroll = 1
+# Mullo's Blinders / 穆洛眼罩 / 穆洛眼罩
+mullos-blinders = 1
+# Myrddin Harp / 梅尔丁竖琴 / 梅爾丁豎琴
+myrddin-harp = 1
+# Mystic Katar / 秘术拳刃 / 秘術卡塔拉
+mystic-katar = 1
+# Mythril Armor / 秘银盔甲 / 秘銀盔甲
+mythril-armor = -1
+# Mythril Bow / 秘银弓 / 秘銀弓
+mythril-bow = -1
+# Mythril Dagger / 秘银匕首 / 秘銀匕首
+mythril-dagger = -1
+# Mythril Hammer / 秘银之锤 / 秘銀錘
+mythril-hammer = -1
+# Mythril Helmet / 秘银头盔 / 秘銀頭盔
+mythril-helmet = -1
+# Mythril Leggings / 秘银护腿 / 秘銀腿甲
+mythril-leggings = -1
+# Mythril Sword / 秘银剑 / 秘銀劍
+mythril-sword = -1
+# Naga Halberd / 娜迦之戟 / 那伽戟
+naga-halberd = -1
+# Naga Staff / 娜迦法杖 / 那伽法杖
+naga-staff = -1
+# Nagamaki / 长卷 / 長卷
+nagamaki = 1
+# Naggeneen's Hat / 纳根因的帽子 / 納根因的帽子
+naggeneens-hat = 1
+# Naggeneen's Song / 纳根因之歌 / 納根因之歌
+naggeneens-song = 1
+# Needles / 飞针 / 飛針
+needles = -1
+# Nekromancer's Staff / 死灵法师之杖 / 死靈法師之杖
+nekromancers-staff = -1
+# Neman Cuirass / 妮潘胸甲 / 妮潘胸甲
+neman-cuirass = 1
+# Neman Greaves / 妮潘护胫 / 妮潘護脛
+neman-greaves = 1
+# Neman Havoc / 妮潘凶祸 / 妮潘凶禍
+neman-havoc = 1
+# Neman Helmet / 妮潘头盔 / 妮潘頭盔
+neman-helmet = 1
+# Neman Warsword / 妮潘战刃 / 妮潘戰刃
+neman-warsword = 1
+# Neman's Protection / 妮潘之护 / 妮潘的加護
+nemans-protection = 1
+# Nightbreak / 夜幕降临 / 夜幕降臨
+nightbreak = 1
+# Nightbreak / 夜幕降临 / 夜幕降臨
+nightbreak-71e7e93d = 1
+# Nightbreak / 夜幕降临 / 夜幕降臨
+nightbreak-9492da49 = 1
+# Niskus' Boots / 尼斯库斯长靴 / 尼斯庫斯長靴
+niskus-boots = 1
+# Nocturna Crested Shield / 诺特纳纹章盾 / 諾克圖娜紋章盾
+nocturna-crested-shield = 1
+# Nolan's Staff / 诺兰之杖 / 諾蘭之杖
+nolans-staff = 1
+# North Pole / 北极 / 北極棒
+north-pole = 1
+# North Star / 北极之星 / 北方之星
+north-star = 1
+# Nothren Armor / 北族盔甲 / 北族盔甲
+nothren-armor = -1
+# Nothren Boots / 北族长靴 / 北族長靴
+nothren-boots = -1
+# Nothren Cowl / 北族风帽 / 北族風帽
+nothren-cowl = -1
+# Nothren Garb / 北族皮甲 / 北族皮甲
+nothren-garb = -1
+# Nothren Greaves / 北族护胫 / 北族護脛
+nothren-greaves = -1
+# Nothren Helmet / 北族头盔 / 北族頭盔
+nothren-helmet = -1
+# Nothren Hood / 北族兜帽 / 北族兜帽
+nothren-hood = -1
+# Nothren Robe / 北族长袍 / 北族長袍
+nothren-robe = -1
+# Nothren Shield / 北族之盾 / 北族之盾
+nothren-shield = -1
+# Nothren Shoes / 北族之鞋 / 北族之鞋
+nothren-shoes = -1
+# Nu Olympia Archistaff / ν奥林匹亚权杖 / ν奧林匹亞權杖
+nu-olympia-archistaff = 1
+# Nu Olympia Boots / ν奥林匹亚长靴 / ν奧林匹亞長靴
+nu-olympia-boots = 1
+# Nu Olympia Cowl / ν奥林匹亚风帽 / ν奧林匹亞風帽
+nu-olympia-cowl = 1
+# Nu Olympia Cuirass / ν奥林匹亚胸甲 / ν奧林匹亞胸甲
+nu-olympia-cuirass = 1
+# Nu Olympia Garb / ν奥林匹亚皮甲 / ν奧林匹亞皮甲
+nu-olympia-garb = 1
+# Nu Olympia Greaves / ν奥林匹亚护胫 / ν奧林匹亞護脛
+nu-olympia-greaves = 1
+# Nu Olympia Helmet / ν奥林匹亚头盔 / ν奧林匹亞頭盔
+nu-olympia-helmet = 1
+# Nu Olympia Hood / ν奥林匹亚兜帽 / ν奧林匹亞兜帽
+nu-olympia-hood = 1
+# Nu Olympia Shoes / ν奥林匹亚之鞋 / ν奧林匹亞鞋
+nu-olympia-shoes = 1
+# Nu Olympia Vestment / ν奥林匹亚圣衣 / ν奧林匹亞法衣
+nu-olympia-vestment = 1
+# Nu Olympia Warbow / ν奥林匹亚战弓 / ν奧林匹亞戰弓
+nu-olympia-warbow = 1
+# Nu Olympia Warsword / ν奥林匹亚战刃 / ν奧林匹亞戰刃
+nu-olympia-warsword = 1
+# Oceanic Boots / 海洋长靴 / 海洋長靴
+oceanic-boots = -1
+# Ogma / 奥格玛 / 歐格馬
+ogma = 1
+# Ogmios' Satin Robe / 奥格米欧斯缎袍 / 奧米奧斯緞袍
+ogmios-satin-robe = 1
+# Ogre Axe / 食人魔之斧 / 食人魔之斧
+ogre-axe = -1
+# Oisin Crown / 欧辛王冠 / 歐辛王冠
+oisin-crown = -1
+# Old Hallowed Blade / 远古万圣剑 / 遠古萬聖劍
+old-hallowed-blade = 1
+# Old Mace / 老旧的狼牙棒 / 老舊的狼牙棒
+old-mace = -1
+# Old Nothren Crown / 老北族王冠 / 老北族王冠
+old-nothren-crown = 1
+# Old Olympia Armor / 古奥林匹亚盔甲 / 古奧林匹亞盔甲
+old-olympia-armor = 1
+# Old Olympia Headdress / 古奥林匹亚头巾 / 古奧林匹亞頭巾
+old-olympia-headdress = 1
+# Old Olympia Helmet / 古奥林匹亚头盔 / 古奧林匹亞頭盔
+old-olympia-helmet = 1
+# Old Olympia Hood / 古奥林匹亚兜帽 / 古奧林匹亞兜帽
+old-olympia-hood = 1
+# Old Olympia Leggings / 古奥林匹亚腿甲 / 古奧林匹亞腿甲
+old-olympia-leggings = 1
+# Old Olympia Legwraps / 古奥林匹亚裹腿 / 古奧林匹亞裹腿
+old-olympia-legwraps = 1
+# Old Olympia Mantle / 古奥林匹亚披风 / 古奧林匹亞披風
+old-olympia-mantle = 1
+# Old Olympia Robe / 古奥林匹亚法袍 / 古奧林匹亞法袍
+old-olympia-robe = 1
+# Old Olympia Shoes / 古奥林匹亚之鞋 / 古奧林匹亞鞋子
+old-olympia-shoes = 1
+# Old Spear / 老枪 / 老槍
+old-spear = -1
+# Olympian Tower Joist / 奥林匹亚之塔的托梁 / 奧林匹亞塔托樑
+olympian-tower-joist = 1
+# Omega Myrddin / Ω梅尔丁 / Ω梅爾丁
+omega-myrddin = 1
+# Omega Myrddin Cloak / Ω梅尔丁斗篷 / Ω梅爾丁披風
+omega-myrddin-cloak = 1
+# Omega Myrddin Cowl / Ω梅尔丁风帽 / Ω梅爾丁風帽
+omega-myrddin-cowl = 1
+# Omega Myrddin Harp / Ω梅尔丁竖琴 / Ω梅爾丁豎琴
+omega-myrddin-harp = 1
+# Omega Myrddin Hood / Ω梅尔丁兜帽 / Ω梅爾丁兜帽
+omega-myrddin-hood = 1
+# Omega Myrddin Robe / Ω梅尔丁法袍 / Ω梅爾丁法袍
+omega-myrddin-robe = 1
+# Omega Myrddin Shield / Ω梅尔丁之盾 / Ω梅爾丁盾
+omega-myrddin-shield = 1
+# Omega Olympia Archistaff / Ω奥林匹亚权杖 / Ω奧林匹亞權杖
+omega-olympia-archistaff = 1
+# Omega Olympia Boots / Ω奥林匹亚长靴 / Ω奧林匹亞長靴
+omega-olympia-boots = 1
+# Omega Olympia Cowl / Ω奥林匹亚风帽 / Ω奧林匹亞風帽
+omega-olympia-cowl = 1
+# Omega Olympia Cuirass / Ω奥林匹亚胸甲 / Ω奧林匹亞胸甲
+omega-olympia-cuirass = 1
+# Omega Olympia Garb / Ω奥林匹亚皮甲 / Ω奧林匹亞皮甲
+omega-olympia-garb = 1
+# Omega Olympia Greaves / Ω奥林匹亚护胫 / Ω奧林匹亞護脛
+omega-olympia-greaves = 1
+# Omega Olympia Helmet / Ω奥林匹亚头盔 / Ω奧林匹亞頭盔
+omega-olympia-helmet = 1
+# Omega Olympia Hood / Ω奥林匹亚兜帽 / Ω奧林匹亞兜帽
+omega-olympia-hood = 1
+# Omega Olympia Shoes / Ω奥林匹亚之鞋 / Ω奧林匹亞鞋
+omega-olympia-shoes = 1
+# Omega Olympia Vestment / Ω奥林匹亚圣衣 / Ω奧林匹亞法衣
+omega-olympia-vestment = 1
+# Omega Olympia Warbow / Ω奥林匹亚战弓 / Ω奧林匹亞戰弓
+omega-olympia-warbow = 1
+# Omega Olympia Warsword / Ω奥林匹亚战刃 / Ω奧林匹亞戰刃
+omega-olympia-warsword = 1
+# Ophion Banner / 俄菲翁之麾 / 俄菲翁旌旗
+ophion-banner = 1
+# Orcish Axe / 半兽人之斧 / 半獸人的斧
+orcish-axe = -1
+# Orcish Blade / 半兽人刀刃 / 半獸人刀鋒
+orcish-blade = -1
+# Orichalcum Armor / 奥利哈钢盔甲 / 奧利哈鋼盔甲
+orichalcum-armor = -1
+# Orichalcum Helmet / 奥利哈钢头盔 / 奧利哈鋼頭盔
+orichalcum-helmet = -1
+# Orichalcum Leggings / 奥利哈钢腿甲 / 奧利哈鋼腿甲
+orichalcum-leggings = -1
+# Ortanite Armor / 欧坦尼盔甲 / 歐坦尼盔甲
+ortanite-armor = -1
+# Ortanite Greaves / 欧坦尼护胫 / 歐坦尼護脛
+ortanite-greaves = -1
+# Ortanite Helmet / 欧坦尼头盔 / 歐坦尼頭盔
+ortanite-helmet = -1
+# Oxen Axe / 牛斧 / 牛斧
+oxen-axe = 1
+# Pale Armor / 淡白盔甲 / 淡白盔甲
+pale-armor = 1
+# Pale Beard / 白胡子 / 白鬍子
+pale-beard = 1
+# Pale Helmet / 淡白头盔 / 淡白頭盔
+pale-helmet = 1
+# Pale Leggings / 淡白腿甲 / 淡白腿甲
+pale-leggings = 1
+# Paleblade / 淡白之刃 / 蒼白之刃
+paleblade = 1
+# Palm Tree Branch / 棕榈枝 / 棕櫚樹枝
+palm-tree-branch = 1
+# Parrying Dagger / 招架匕首 / 招架匕首
+parrying-dagger = -1
+# Perseus' Chestplate / 珀尔修斯胸甲 / 柏修斯的胸甲
+perseus-chestplate = 1
+# Perseus' Cowl / 珀尔修斯风帽 / 柏修斯的風帽
+perseus-cowl = 1
+# Perseus' Legwear / 珀尔修斯护腿 / 柏修斯的腿甲
+perseus-legwear = 1
+# Phantom Blinders / 幻影眼罩 / 幻影眼罩
+phantom-blinders = 1
+# Phoenician Boots / 凤凰长靴 / 鳳凰長靴
+phoenician-boots = 1
+# Phoenician Cowl / 凤凰风帽 / 鳳凰風帽
+phoenician-cowl = 1
+# Phoenician Cuirass / 凤凰胸甲 / 鳳凰胸甲
+phoenician-cuirass = 1
+# Phoenician Garb / 凤凰皮甲 / 鳳凰皮甲
+phoenician-garb = 1
+# Phoenician Greaves / 凤凰护胫 / 鳳凰護脛
+phoenician-greaves = 1
+# Phoenician Helmet / 凤凰头盔 / 鳳凰頭盔
+phoenician-helmet = 1
+# Phoenician Hood / 凤凰兜帽 / 鳳凰兜帽
+phoenician-hood = 1
+# Phoenician Robe / 凤凰法袍 / 鳳凰法袍
+phoenician-robe = 1
+# Phoenician Shield / 凤凰的盾 / 鳳凰的盾
+phoenician-shield = 1
+# Phoenician Shoes / 凤凰之鞋 / 鳳凰的鞋
+phoenician-shoes = 1
+# Phoenixsong / 凤曲 / 鳳曲
+phoenixsong = 1
+# Pizza / 比萨 / 披薩
+pizza = -1
+# Pizza Peel / 披萨小铲 / 披薩小鏟
+pizza-peel = 1
+# Pizza Stained Apron / 披萨渍染围裙 / 披薩污漬的圍裙
+pizza-stained-apron = 1
+# Plagued Cuirass / 瘟疫胸甲 / 瘟疫胸甲
+plagued-cuirass = 1
+# Plagued Greaves / 瘟疫护胫 / 瘟疫護脛
+plagued-greaves = 1
+# Plagued Helmet / 瘟疫头盔 / 瘟疫頭盔
+plagued-helmet = 1
+# Poison Arrows / 淬毒箭矢 / 淬毒箭矢
+poison-arrows = -1
+# Poison Dagger / 毒匕首 / 毒匕首
+poison-dagger = -1
+# Polished Aegis / 抛光神盾 / 拋光神盾
+polished-aegis = -1
+# Polished Mirror / 抛光镜 / 拋光鏡
+polished-mirror = -1
+# Pollux's Greataxe / 波鲁克斯的大斧 / 波魯克斯的大斧
+polluxs-greataxe = 1
+# Psi Olympia Archistaff / ψ奥林匹亚权杖 / Ψ奧林匹亞權杖
+psi-olympia-archistaff = 1
+# Psi Olympia Boots / ψ奥林匹亚长靴 / Ψ奧林匹亞長靴
+psi-olympia-boots = 1
+# Psi Olympia Cowl / ψ奥林匹亚风帽 / Ψ奧林匹亞風帽
+psi-olympia-cowl = 1
+# Psi Olympia Cuirass / ψ奥林匹亚胸甲 / Ψ奧林匹亞胸甲
+psi-olympia-cuirass = 1
+# Psi Olympia Garb / ψ奥林匹亚皮甲 / Ψ奧林匹亞皮甲
+psi-olympia-garb = 1
+# Psi Olympia Greaves / ψ奥林匹亚护胫 / Ψ奧林匹亞護脛
+psi-olympia-greaves = 1
+# Psi Olympia Helmet / ψ奥林匹亚头盔 / Ψ奧林匹亞頭盔
+psi-olympia-helmet = 1
+# Psi Olympia Hood / ψ奥林匹亚兜帽 / Ψ奧林匹亞兜帽
+psi-olympia-hood = 1
+# Psi Olympia Shoes / ψ奥林匹亚之鞋 / Ψ奧林匹亞鞋
+psi-olympia-shoes = 1
+# Psi Olympia Vestment / ψ奥林匹亚圣衣 / Ψ奧林匹亞法衣
+psi-olympia-vestment = 1
+# Psi Olympia Warbow / ψ奥林匹亚战弓 / Ψ奧林匹亞戰弓
+psi-olympia-warbow = 1
+# Psi Olympia Warsword / ψ奥林匹亚战刃 / Ψ奧林匹亞戰刃
+psi-olympia-warsword = 1
+# Pumpkin / 南瓜 / 南瓜
+pumpkin = 1
+# Pumpkinless Armor / 无头骑士盔甲 / 南無瓜盔甲
+pumpkinless-armor = 1
+# Pumpkinless Leggings / 无头骑士腿甲 / 南無瓜腿甲
+pumpkinless-leggings = 1
+# Purrly's Favourite Staff / Purrly挚爱法杖 / Purrly最愛的法杖
+purrlys-favourite-staff = 1
+# Purrly's Hood / Purrly兜帽 / Purrly的兜帽
+purrlys-hood = 1
+# Purrly's Legguards / Purrly腿甲 / Purrly的護腿
+purrlys-legguards = 1
+# Purrly's Less Favourite Staff / Purrly挚爱副手法杖 / Purrly沒那麼愛的法杖
+purrlys-less-favourite-staff = 1
+# Purrly's Old Hat / Purrly旧帽子 / Purrly的舊帽子
+purrlys-old-hat = 1
+# Purrly's Old Robe / Purrly旧法袍 / Purrly的舊長袍
+purrlys-old-robe = 1
+# Purrly's Old Staff / Purrly旧法杖 / Purrly的舊法杖
+purrlys-old-staff = 1
+# Purrly's Robe / Purrly长袍 / Purrly的長袍
+purrlys-robe = 1
+# Qatvanga / 喀章嘎天杖 / 夸特班加
+qatvanga = 1
+# Questing Axe / 追迹之斧 / 追跡之斧
+questing-axe = 1
+# Questing Bow / 追迹之弓 / 追跡之弓
+questing-bow = 1
+# Questing Staff / 追迹之杖 / 追跡之杖
+questing-staff = 1
+# Racul Blade / 路卡尔之刃 / 路卡爾之劍
+racul-blade = 1
+# Raging Bull / 暴怒公牛 / 暴怒公牛
+raging-bull = 1
+# Ranger's Greatbow / 游侠大弓 / 遊俠的大弓
+rangers-greatbow = -1
+# Rapier / 刺剑 / 刺劍
+rapier = -1
+# Ra's Cane / 拉之手杖 / 拉之手杖
+ras-cane = 1
+# Raven Boots / 渡鸦长靴 / 渡鴉長靴
+raven-boots = 1
+# Raven Garb / 渡鸦皮甲 / 渡鴉皮甲
+raven-garb = 1
+# Raven Veil / 渡鸦面罩 / 渡鴉面罩
+raven-veil = 1
+# Raven's Feathers / 渡鸦之羽 / 渡鴉之羽
+ravens-feathers = -1
+# Realm Boots / 域界长靴 / 域界長靴
+realm-boots = 1
+# Realm Cowl / 域界风帽 / 域界風帽
+realm-cowl = 1
+# Realm Garb / 域界皮甲 / 域界皮甲
+realm-garb = 1
+# Realm Katana / 域界武士刀 / 域界武士刀
+realm-katana = 1
+# Realm Katar / 域界拳刃 / 域界卡塔拉
+realm-katar = 1
+# Realmspikes / 域界荆棘 / 域界荊棘
+realmspikes = 1
+# Reaper's Robe / 死神法袍 / 死神的法袍
+reapers-robe = 1
+# Reaper's Scythe / 死神镰刀 / 死神的鐮刀
+reapers-scythe = -1
+# Reaping Sickle / 收割者镰刀 / 死神鐮刀
+reaping-sickle = -1
+# Red Dagger / 红色匕首 / 紅色短刀
+red-dagger = -1
+# Reinbow / 虹弓 / 虹弓
+reinbow = 1
+# Rhada Shade Greatshield / 拉达冥影巨盾 / 拉達影之盾牌
+rhada-shade-greatshield = -1
+# Rhada Shade Greatsword / 拉达冥影巨剑 / 拉達影之巨劍
+rhada-shade-greatsword = 1
+# Rhada Shadow Greatshield / 拉达暗影巨盾 / 拉達暗影大盾
+rhada-shadow-greatshield = 1
+# Rhada Shadow Greatsword / 拉达暗影巨剑 / 拉達暗影巨劍
+rhada-shadow-greatsword = 1
+# Rhongomiant / 终焉圣枪 / 終焉聖槍
+rhongomiant = 1
+# Rift Summoner Boots / 裂隙召唤师长靴 / 裂痕召喚師長靴
+rift-summoner-boots = 1
+# Rift Summoner Helmet / 裂隙召唤师头盔 / 裂痕召喚師頭盔
+rift-summoner-helmet = 1
+# Rift Summoner Plate / 裂隙召唤师护甲 / 裂痕召喚師之板甲
+rift-summoner-plate = 1
+# Riftguard Armor / 裂隙守卫盔甲 / 裂痕守衛盔甲
+riftguard-armor = 1
+# Riftguard Helmet / 裂隙守卫头盔 / 裂痕守衛頭盔
+riftguard-helmet = 1
+# Riftguard Leggings / 裂隙守卫腿甲 / 裂痕守衛腿甲
+riftguard-leggings = 1
+# Riftrogue Boots / 裂隙侠盗长靴 / 裂痕俠盜長靴
+riftrogue-boots = 1
+# Riftrogue Chestplate / 裂隙侠盗胸甲 / 裂痕俠盜胸甲
+riftrogue-chestplate = 1
+# Riftrogue Helmet / 裂隙侠盗头盔 / 裂痕俠盜頭盔
+riftrogue-helmet = 1
+# Robe of the North / 北方法袍 / 北方的法袍
+robe-of-the-north = -1
+# Robe of Wolves / 群狼法袍 / 群狼的法袍
+robe-of-wolves = -1
+# Rosewood Lute / 红木鲁特琴 / 紅木魯特琴
+rosewood-lute = -1
+# Royal Boots / 皇家长靴 / 皇家長靴
+royal-boots = -1
+# Royal Chestplate / 皇家胸甲 / 皇家胸甲
+royal-chestplate = -1
+# Royal Dagger / 皇家匕首 / 皇家匕首
+royal-dagger = -1
+# Royal Helmet / 皇家头盔 / 皇家頭盔
+royal-helmet = -1
+# Royal Hood / 皇家兜帽 / 皇家兜帽
+royal-hood = -1
+# Royal Longbow / 皇家长弓 / 皇家長弓
+royal-longbow = -1
+# Royal Shield / 皇家盾牌 / 皇家盾牌
+royal-shield = -1
+# Royalty / 王权 / 王權
+royalty = -1
+# Ruby Wand / 红宝石魔杖 / 紅寶石魔杖
+ruby-wand = -1
+# Ruggiero's Armor / 鲁杰罗盔甲 / 魯傑羅的盔甲
+ruggieros-armor = 1
+# Ruggiero's Helmet / 鲁杰罗头盔 / 魯傑羅的頭盔
+ruggieros-helmet = 1
+# Rune Armor / 符文盔甲 / 符文盔甲
+rune-armor = -1
+# Rune Helmet / 符文头盔 / 符文頭盔
+rune-helmet = -1
+# Rune Leggings / 符文腿甲 / 符文腿甲
+rune-leggings = -1
+# Rune Shield / 符文盾 / 符文盾
+rune-shield = -1
+# Rune Staff / 符文法杖 / 符文法杖
+rune-staff = -1
+# Rune Sword / 符文剑 / 符文劍
+rune-sword = -1
+# Runic Boots / 卢恩长靴 / 盧恩長靴
+runic-boots = 1
+# Runic Hat / 卢恩帽子 / 盧恩帽子
+runic-hat = -1
+# Runic Robe / 卢恩法袍 / 盧恩法袍
+runic-robe = 1
+# Rusty Sword / 生锈的剑 / 生鏽的劍
+rusty-sword = -1
+# Sabrina's Cowl / 萨布丽娜风帽 / 莎賓娜風帽
+sabrinas-cowl = 1
+# Sage's Cane / 贤者之杖 / 賢者之杖
+sages-cane = -1
+# Sala's Hood / 萨拉兜帽 / 莎拉的兜帽
+salas-hood = 1
+# Sala's Robe / 萨拉法袍 / 莎拉的法袍
+salas-robe = 1
+# Sandstorm / 沙尘暴 / 沙塵暴
+sandstorm = 1
+# Sanguine Archistaff / 血红权杖 / 血紅權杖
+sanguine-archistaff = 1
+# Sanguine Staff / 血红法杖 / 血紅法杖
+sanguine-staff = -1
+# Sanguine Sword / 血红长剑 / 血紅長劍
+sanguine-sword = -1
+# Satis / 萨提斯 / 薩蒂斯
+satis = 1
+# Satis Antlers / 萨提斯鹿角盔 / 薩蒂斯鹿角盔
+satis-antlers = -1
+# Scimitar / 马刀 / 馬刀
+scimitar = -1
+# Scorcher / 灼烧者 / 灼燒者
+scorcher = -1
+# Scroll / 卷轴 / 卷軸
+scroll = -1
+# Scroll of Earth / 大地卷轴 / 大地卷軸
+scroll-of-earth = -1
+# Scroll of Fire / 火之卷轴 / 火焰卷軸
+scroll-of-fire = -1
+# Scroll of Ice / 冰之卷轴 / 冰之卷軸
+scroll-of-ice = -1
+# Scroll of Lightning / 闪电卷轴 / 閃電卷軸
+scroll-of-lightning = -1
+# Scroll of Poison / 毒术卷轴 / 毒術卷軸
+scroll-of-poison = -1
+# Scythe / 镰刀 / 鐮刀
+scythe = -1
+# Sea Axe / 海之斧 / 海之斧
+sea-axe = 1
+# Second Horseman's Armor / 第二骑士盔甲 / 第二騎士的盔甲
+second-horsemans-armor = 1
+# Second Horseman's Boots / 第二骑士长靴 / 第二騎士的長靴
+second-horsemans-boots = 1
+# Second Horseman's Cloak / 第二骑士斗篷 / 第二騎士的披風
+second-horsemans-cloak = 1
+# Second Horseman's Hood / 第二骑士兜帽 / 第二騎士的兜帽
+second-horsemans-hood = 1
+# Second Horseman's Staff / 第二骑士法杖 / 第二騎士的法杖
+second-horsemans-staff = 1
+# Sempre Forte / 重音吉他 / 重音吉他
+sempre-forte = 1
+# Sequana's Chestpiece / 塞夸纳板甲 / 塞夸納胸甲
+sequanas-chestpiece = 1
+# Serpent Arrows / 飞蛇箭矢 / 巨蟒箭矢
+serpent-arrows = 1
+# Serpentslayer's Chestplate / 巨蟒杀手胸甲 / 巨蟒殺手的胸甲
+serpentslayers-chestplate = 1
+# Serpentslayer's Cowl / 巨蟒杀手风帽 / 巨蟒殺手的風帽
+serpentslayers-cowl = 1
+# Serpentslayer's Legwear / 巨蟒杀手护腿 / 巨蟒殺手的腿甲
+serpentslayers-legwear = 1
+# Shadow Boots / 影之长靴 / 影子長靴
+shadow-boots = 1
+# Shadow Garb / 影之皮甲 / 影之皮甲
+shadow-garb = 1
+# Shadow Hood / 影之兜帽 / 影之兜帽
+shadow-hood = 1
+# Shadow Katana / 影刀 / 影刀
+shadow-katana = 1
+# Sharpened Kerberos Claws / 尖锐的刻耳柏洛斯之爪 / 尖銳的刻耳柏洛斯之爪
+sharpened-kerberos-claws = 1
+# Shiva's Bow / 湿婆之弓 / 溼婆之弓
+shivas-bow = -1
+# Short Sword / 短剑 / 短劍
+short-sword = -1
+# Side-arm / 侧臂 / 側臂
+side-arm = -1
+# Sigma Olympia Archistaff / σ奥林匹亚权杖 / Σ奧林匹亞權杖
+sigma-olympia-archistaff = 1
+# Sigma Olympia Boots / σ奥林匹亚长靴 / Σ奧林匹亞長靴
+sigma-olympia-boots = 1
+# Sigma Olympia Cowl / σ奥林匹亚风帽 / Σ奧林匹亞風帽
+sigma-olympia-cowl = 1
+# Sigma Olympia Cuirass / σ奥林匹亚胸甲 / Σ奧林匹亞胸甲
+sigma-olympia-cuirass = 1
+# Sigma Olympia Garb / σ奥林匹亚皮甲 / Σ奧林匹亞皮甲
+sigma-olympia-garb = 1
+# Sigma Olympia Greaves / σ奥林匹亚护胫 / Σ奧林匹亞護脛
+sigma-olympia-greaves = 1
+# Sigma Olympia Helmet / σ奥林匹亚头盔 / Σ奧林匹亞頭盔
+sigma-olympia-helmet = 1
+# Sigma Olympia Hood / σ奥林匹亚兜帽 / Σ奧林匹亞兜帽
+sigma-olympia-hood = 1
+# Sigma Olympia Shoes / σ奥林匹亚之鞋 / Σ奧林匹亞鞋
+sigma-olympia-shoes = 1
+# Sigma Olympia Vestment / σ奥林匹亚圣衣 / Σ奧林匹亞法衣
+sigma-olympia-vestment = 1
+# Sigma Olympia Warbow / σ奥林匹亚战弓 / Σ奧林匹亞戰弓
+sigma-olympia-warbow = 1
+# Sigma Olympia Warsword / σ奥林匹亚战刃 / Σ奧林匹亞戰刃
+sigma-olympia-warsword = 1
+# Silk Crossbow / 丝制十字弓 / 絲綢十字弓
+silk-crossbow = 1
+# Silver Crossbow / 银质十字弓 / 銀質十字弓
+silver-crossbow = -1
+# Silver Dagger / 银质匕首 / 銀質匕首
+silver-dagger = -1
+# Silver Kris / 银质马来短剑 / 銀質馬來短劍
+silver-kris = -1
+# Simple Hood / 简易的兜帽 / 簡易兜帽
+simple-hood = -1
+# Simple Robe / 简易的长袍 / 簡易的長袍
+simple-robe = -1
+# Simple Shoes / 简易的鞋 / 簡單的鞋
+simple-shoes = -1
+# Ski Boots / 滑雪长靴 / 滑雪靴
+ski-boots = 1
+# Ski Helmet / 滑雪头盔 / 滑雪帽
+ski-helmet = 1
+# Ski Pole / 滑雪杆 / 滑雪杆
+ski-pole = 1
+# Ski Stick / 滑雪杖 / 滑雪杖
+ski-stick = 1
+# Ski Suit / 滑雪服 / 滑雪裝
+ski-suit = 1
+# Skyshard Dagger / 星天匕首 / 星天匕首
+skyshard-dagger = -1
+# Skyshard Lute / 星天鲁特琴 / 星天魯特琴
+skyshard-lute = -1
+# Skyshard Quarterstaff / 星天长杖 / 星天短桿
+skyshard-quarterstaff = -1
+# Skyshard Staff / 星天法杖 / 星天法杖
+skyshard-staff = -1
+# Skyshard Sword / 星天之剑 / 星天之劍
+skyshard-sword = -1
+# Sleighblade / 雪橇刃 / 雪橇刃
+sleighblade = 1
+# Smelly Shoes / 恶臭鞋子 / 惡臭鞋子
+smelly-shoes = 1
+# Snakeskin Armor / 蛇皮盔甲 / 蛇皮盔甲
+snakeskin-armor = -1
+# Snakeskin Cowl / 蛇皮风帽 / 蛇皮風帽
+snakeskin-cowl = -1
+# Solar Boots / 太阳长靴 / 太陽靴
+solar-boots = 1
+# Solar Bow / 太阳之弓 / 太陽弓
+solar-bow = 1
+# Solar Garb / 太阳皮甲 / 太陽皮甲
+solar-garb = 1
+# Solar Hood / 太阳兜帽 / 太陽兜帽
+solar-hood = 1
+# Sorcerer's Scroll / 巫师卷轴 / 巫師的卷軸
+sorcerers-scroll = -1
+# Soul Blade / 灵魂之刃 / 魂之刃
+soul-blade = 1
+# Spear / 矛 / 矛
+spear = -1
+# Spectral Armor / 幽鬼盔甲 / 幽鬼盔甲
+spectral-armor = 1
+# Spectral Boots / 幽鬼长靴 / 幽鬼長靴
+spectral-boots = 1
+# Spectral Cowl / 幽鬼风帽 / 幽鬼風帽
+spectral-cowl = 1
+# Spectral Garb / 幽鬼皮甲 / 幽鬼皮甲
+spectral-garb = 1
+# Spectral Heavy Boots / 幽鬼重靴 / 幽鬼重靴
+spectral-heavy-boots = 1
+# Spectral Helmet / 幽鬼头盔 / 幽鬼頭盔
+spectral-helmet = 1
+# Spectral Hood / 幽鬼兜帽 / 幽鬼兜帽
+spectral-hood = 1
+# Spectral Robe / 幽鬼长袍 / 幽鬼長袍
+spectral-robe = 1
+# Spectral Shoes / 幽鬼鞋子 / 幽鬼鞋子
+spectral-shoes = 1
+# Spelunking Staff / 洞穴探求者之杖 / 洞穴探求者之杖
+spelunking-staff = 1
+# Spiked Greatshield / 荆棘巨盾 / 荊棘大盾
+spiked-greatshield = 1
+# Spirit of the Wood / 木之灵 / 木之靈
+spirit-of-the-wood = 1
+# Spiritgarm Grimoire / 幽灵加姆魔法书 / 靈獸加姆魔法書
+spiritgarm-grimoire = 1
+# Staff / 法杖 / 法杖
+staff = -1
+# Staff of the Chimera / 奇美拉之杖 / 奇美拉之杖
+staff-of-the-chimera = 1
+# Staff of Tiamat / 提亚马特法杖 / 提亞馬特的法杖
+staff-of-tiamat = 1
+# Staff of Typhon / 堤丰法杖 / 堤豐法杖
+staff-of-typhon = 1
+# Staff of Wolves / 群狼法杖 / 狼之杖
+staff-of-wolves = 1
+# Staff of Zaltys / 萨勒蒂斯法杖 / 薩勒蒂斯的法杖
+staff-of-zaltys = 1
+# Steel Armor / 钢制盔甲 / 鋼之盔
+steel-armor = -1
+# Steel Leggings / 钢制腿甲 / 鋼質腿甲
+steel-leggings = -1
+# Steelguard / 铁卫 / 鐵衛
+steelguard = -1
+# Stilettos / 弹簧刀 / 彈簧刀
+stilettos = -1
+# Stone Dagger / 石化匕首 / 石化匕首
+stone-dagger = 1
+# Stonewarg Grimoire / 岩石座狼魔法书 / 岩石座狼魔法書
+stonewarg-grimoire = 1
+# Storm Arrows / 风暴箭矢 / 風暴箭矢
+storm-arrows = -1
+# Storm Sceptre / 风暴权杖 / 風暴權杖
+storm-sceptre = -1
+# Succubus Mantle / 魅魔披风 / 魅魔披風
+succubus-mantle = -1
+# Summoner's Hood / 召唤师兜帽 / 召喚師的兜帽
+summoners-hood = -1
+# Summoner's Robe / 召唤师法袍 / 召喚師的法袍
+summoners-robe = -1
+# Summoner's Shoes / 召唤师之鞋 / 召喚師的鞋子
+summoners-shoes = -1
+# Sumner Crested Shield / 萨姆纳纹章盾 / 薩姆納紋章盾
+sumner-crested-shield = 1
+# Sun Boots / 日光长靴 / 陽光之靴
+sun-boots = 1
+# Sun Hat / 日光之帽 / 遮陽帽
+sun-hat = 1
+# Sun Robe / 日光法袍 / 太陽法袍
+sun-robe = 1
+# Sun Staff / 日光法杖 / 太陽法杖
+sun-staff = 1
+# Surtr's Boots / 史尔特尔长靴 / 史爾特爾的長靴
+surtrs-boots = 1
+# Surtr's Cuirass / 史尔特尔胸甲 / 史爾特爾的胸甲
+surtrs-cuirass = 1
+# Surtr's Helmet / 史尔特尔头盔 / 史爾特爾的頭盔
+surtrs-helmet = 1
+# Surtr's Shield / 史尔特尔之盾 / 史爾特爾的盾
+surtrs-shield = 1
+# Surtr's Sword / 史尔特尔之剑 / 史爾特爾的劍
+surtrs-sword = 1
+# Swansong / 天鹅终曲 / 天鵝終曲
+swansong = 1
+# Sword and Shield / 剑盾 / 劍盾
+sword-and-shield = -1
+# Taranis Hood / 塔拉尼斯兜帽 / 塔拉尼斯兜帽
+taranis-hood = -1
+# Tarnished King's Crown / 被玷污的王者之冠 / 被玷污的王者之冠
+tarnished-kings-crown = 1
+# Tempest Boots / 暴风长靴 / 暴風長靴
+tempest-boots = -1
+# Templar Shield / 圣殿骑士盾 / 聖殿騎士盾
+templar-shield = -1
+# Terra Boots / 自然之靴 / 自然之靴
+terra-boots = -1
+# Tethra / 泰斯拉 / 特斯蘭
+tethra = 1
+# Theta Olympia Archistaff / θ奥林匹亚权杖 / θ奧林匹亞權杖
+theta-olympia-archistaff = 1
+# Theta Olympia Boots / θ奥林匹亚长靴 / θ奧林匹亞長靴
+theta-olympia-boots = 1
+# Theta Olympia Cowl / θ奥林匹亚风帽 / θ奧林匹亞風帽
+theta-olympia-cowl = 1
+# Theta Olympia Cuirass / θ奥林匹亚胸甲 / θ奧林匹亞胸甲
+theta-olympia-cuirass = 1
+# Theta Olympia Garb / θ奥林匹亚皮甲 / θ奧林匹亞皮甲
+theta-olympia-garb = 1
+# Theta Olympia Greaves / θ奥林匹亚护胫 / θ奧林匹亞護脛
+theta-olympia-greaves = 1
+# Theta Olympia Helmet / θ奥林匹亚头盔 / θ奧林匹亞頭盔
+theta-olympia-helmet = 1
+# Theta Olympia Hood / θ奥林匹亚兜帽 / θ奧林匹亞兜帽
+theta-olympia-hood = 1
+# Theta Olympia Shoes / θ奥林匹亚之鞋 / θ奧林匹亞鞋
+theta-olympia-shoes = 1
+# Theta Olympia Vestment / θ奥林匹亚圣衣 / θ奧林匹亞法衣
+theta-olympia-vestment = 1
+# Theta Olympia Warbow / θ奥林匹亚战弓 / θ奧林匹亞之弓
+theta-olympia-warbow = 1
+# Theta Olympia Warsword / θ奥林匹亚战刃 / θ奧林匹亞戰刃
+theta-olympia-warsword = 1
+# Third Horseman's Armor / 第三骑士盔甲 / 第三騎士的盔甲
+third-horsemans-armor = 1
+# Third Horseman's Boots / 第三骑士长靴 / 第三騎士的長靴
+third-horsemans-boots = 1
+# Third Horseman's Cloak / 第三骑士斗篷 / 第三騎士的披風
+third-horsemans-cloak = 1
+# Third Horseman's Gada / 第三骑士金刚杵 / 第三騎士的金剛杵
+third-horsemans-gada = 1
+# Third Horseman's Hood / 第三骑士兜帽 / 第三騎士的兜帽
+third-horsemans-hood = 1
+# Thorn / 刺 / 刺
+thorn = -1
+# Thorns / 荆棘 / 荊棘
+thorns = -1
+# Thor's Arc / 索尔之弓 / 索爾之弓
+thors-arc = 1
+# Thor's Hammer / 索尔之锤 / 索爾之錘
+thors-hammer = 1
+# Titan Armor / 泰坦盔甲 / 泰坦裝甲
+titan-armor = 1
+# Titan Axe / 泰坦巨斧 / 泰坦巨斧
+titan-axe = 1
+# Titan Helmet / 泰坦头盔 / 泰坦頭盔
+titan-helmet = 1
+# Titan Leggings / 泰坦腿甲 / 泰坦腿甲
+titan-leggings = 1
+# Tizona / 提佐纳 / 提佐納
+tizona = 1
+# Top Hat / 高帽子 / 高帽子
+top-hat = 1
+# Toque Blanche / 厨师白帽 / 廚師帽
+toque-blanche = 1
+# Tower Shield / 塔盾 / 塔盾
+tower-shield = -1
+# Treecutter / 伐木者 / 伐木者
+treecutter = 1
+# Trenfher / 特伦弗 / 川福爾
+trenfher = 1
+# Trevelyan's Archistaff / 特里维廉的权杖 / 特里維廉的權杖
+trevelyans-archistaff = 1
+# Trevelyan's Hood / 特里维廉的兜帽 / 特里維廉的兜帽
+trevelyans-hood = 1
+# Trevelyan's Robe / 特里维廉的法袍 / 特里維廉的法袍
+trevelyans-robe = 1
+# Trevelyan's Shoes / 特里维廉之鞋 / 特里維廉之鞋
+trevelyans-shoes = 1
+# Trialing Axe / 试炼之斧 / 試探之斧
+trialing-axe = 1
+# Trialing Bow / 试炼之弓 / 試探之弓
+trialing-bow = 1
+# Trialing Staff / 试炼之杖 / 試探之杖
+trialing-staff = 1
+# True Aegis of Athena / 真•雅典娜神盾 / 雅典娜的神盾．真打
+true-aegis-of-athena = 1
+# Tundric Katana / 冻原武士刀 / 凍原武士刀
+tundric-katana = -1
+# Tundric Staff / 冻原法杖 / 凍原法杖
+tundric-staff = -1
+# Tundric Sword / 冻原之剑 / 凍原之劍
+tundric-sword = -1
+# Twilight Blade / 暮光之刃 / 暮光之刃
+twilight-blade = 1
+# Uchigatana / 打刀 / 打刀
+uchigatana = -1
+# Untamed Bull / 桀骜公牛 / 桀驁公牛
+untamed-bull = 1
+# Vajra / 金刚杵 / 金剛杵
+vajra = -1
+# Valhallan Armor / 瓦尔哈拉盔甲 / 瓦爾哈蘭盔甲
+valhallan-armor = -1
+# Valhallan Greaves / 瓦尔哈拉护胫 / 瓦爾哈蘭護脛
+valhallan-greaves = -1
+# Valhallan Helmet / 瓦尔哈拉头盔 / 瓦爾哈蘭頭盔
+valhallan-helmet = -1
+# Valhallan Shield / 瓦尔哈拉之盾 / 瓦爾哈蘭盾
+valhallan-shield = -1
+# Valhalla's Rise / 瓦尔哈拉之跃 / 瓦爾哈蘭之躍
+valhallas-rise = -1
+# Vampiric Blade / 吸血鬼之刃 / 吸血鬼之刃
+vampiric-blade = 1
+# Vandal's Veil / 汪达尔面罩 / 汪達爾面罩
+vandals-veil = 1
+# Venin / 鼠毒棒 / 鼠毒棒
+venin = 1
+# Viper Armor / 蛇龙盔甲 / 蛇龍盔甲
+viper-armor = -1
+# Viper Boots / 蛇龙长靴 / 蛇龍長靴
+viper-boots = -1
+# Viper Chestmail / 蛇龙链甲 / 蛇龍鎖鏈甲
+viper-chestmail = -1
+# Viper Cowl / 蛇龙风帽 / 蛇龍風帽
+viper-cowl = -1
+# Viper Dagger / 蛇龙短刀 / 蛇龍短刀
+viper-dagger = -1
+# Viper Helmet / 蛇龙头盔 / 蛇龍頭盔
+viper-helmet = -1
+# Viper Hood / 蛇龙兜帽 / 蛇龍兜帽
+viper-hood = -1
+# Viper Leggings / 蛇龙腿甲 / 蛇龍腿甲
+viper-leggings = -1
+# Viper Mage's Boots / 蛇龙法靴 / 蛇龍法師的長靴
+viper-mages-boots = -1
+# Viper Robe / 蛇龙法袍 / 蛇龍法袍
+viper-robe = -1
+# Vipersong / 蛇龙咏歌 / 蛇龍詠歌
+vipersong = -1
+# Vulcan Boots / 瓦肯长靴 / 瓦肯長靴
+vulcan-boots = 1
+# Vulcan Buckler / 瓦肯圆盾 / 瓦肯小盾
+vulcan-buckler = 1
+# Vulcan Cuirass / 瓦肯胸甲 / 瓦肯胸甲
+vulcan-cuirass = 1
+# Vulcan Helmet / 瓦肯头盔 / 瓦肯頭盔
+vulcan-helmet = 1
+# Vulcan's Archistaff / 瓦肯权杖 / 瓦肯之權杖
+vulcans-archistaff = 1
+# Vulcan's Longsword / 瓦肯长剑 / 瓦肯的長劍
+vulcans-longsword = 1
+# Wading Boots / 防水靴 / 防水靴
+wading-boots = -1
+# War Blinders / 战马眼罩 / 戰馬眼罩
+war-blinders = -1
+# War-mage Armor / 战法盔甲 / 戰法盔甲
+war-mage-armor = -1
+# War-mage Boots / 战法长靴 / 戰法長靴
+war-mage-boots = -1
+# War-mage Helmet / 战法头盔 / 戰法頭盔
+war-mage-helmet = -1
+# Warlock Boots / 术士长靴 / 術士長靴
+warlock-boots = -1
+# Warlock Hat / 术士之帽 / 術士帽
+warlock-hat = -1
+# Warlock Robe / 术士长袍 / 術士長袍
+warlock-robe = -1
+# Warlock Staff / 术士法杖 / 術士法杖
+warlock-staff = -1
+# Was / 旧日权杖 / 權杖
+was = 1
+# Whisper / 低语 / 低語
+whisper = -1
+# Willow Tree Branch / 垂柳枝 / 柳樹枝
+willow-tree-branch = 1
+# Windtamer Hood / 驭风者兜帽 / 御風使兜帽
+windtamer-hood = 1
+# Windtamer Lance / 驭风者长枪 / 御風使之槍
+windtamer-lance = 1
+# Windtamer Robe / 驭风者长袍 / 御風使長袍
+windtamer-robe = 1
+# Windtamer Shield / 驭风者之盾 / 御風使之盾
+windtamer-shield = 1
+# Windtamer Shoes / 驭风者之鞋 / 御風使之鞋
+windtamer-shoes = 1
+# Wintara Crested Shield / 温塔拉纹章盾 / 溫塔拉紋章盾
+wintara-crested-shield = 1
+# Wisp Staff / 幽光法杖 / 幽光法杖
+wisp-staff = -1
+# Witch's Archistaff / 女巫权杖 / 女巫的權杖
+witchs-archistaff = 1
+# Witch's Hat / 女巫帽 / 女巫帽
+witchs-hat = -1
+# Witch's Scroll / 女巫卷轴 / 女巫的卷軸
+witchs-scroll = 1
+# Wolfbane / 狼之灾 / 狼之災
+wolfbane = 1
+# Wolfskin / 狼皮 / 狼皮
+wolfskin = -1
+# Wolven Tower Shield / 狼塔盾 / 狼塔盾
+wolven-tower-shield = 1
+# Woodblade / 木刀 / 木刀
+woodblade = -1
+# Wooden Shield / 木盾 / 木盾
+wooden-shield = -1
+# Wooden Staff / 木制法杖 / 木製法杖
+wooden-staff = -1
+# Woodland Staff / 林地法杖 / 林地法杖
+woodland-staff = -1
+# World Eater / 世界吞噬者 / 吞世者
+world-eater = 1
+# Wyvern Armor / 飞龙盔甲 / 飛龍盔甲
+wyvern-armor = -1
+# Wyvern Blades / 飞龙双刃 / 飛龍長劍
+wyvern-blades = -1
+# Wyvern Boots / 飞龙长靴 / 飛龍長靴
+wyvern-boots = -1
+# Wyvern Chestmail / 飞龙链甲 / 飛龍鎖甲
+wyvern-chestmail = -1
+# Wyvern Cowl / 飞龙风帽 / 飛龍風帽
+wyvern-cowl = -1
+# Wyvern Helmet / 飞龙头盔 / 飛龍頭盔
+wyvern-helmet = -1
+# Wyvern Hood / 飞龙兜帽 / 飛龍兜帽
+wyvern-hood = -1
+# Wyvern Leggings / 飞龙腿甲 / 飛龍腿甲
+wyvern-leggings = -1
+# Wyvern Mage's Boots / 飞龙法靴 / 飛龍法師的長靴
+wyvern-mages-boots = -1
+# Wyvern Robe / 飞龙法袍 / 飛龍法袍
+wyvern-robe = -1
+# Xi Olympia Archistaff / ξ奥林匹亚权杖 / ξ奧林匹亞權杖
+xi-olympia-archistaff = 1
+# Xi Olympia Boots / ξ奥林匹亚长靴 / ξ奧林匹亞長靴
+xi-olympia-boots = 1
+# Xi Olympia Cowl / ξ奥林匹亚风帽 / ξ奧林匹亞風帽
+xi-olympia-cowl = 1
+# Xi Olympia Cuirass / ξ奥林匹亚胸甲 / ξ奧林匹亞胸甲
+xi-olympia-cuirass = 1
+# Xi Olympia Garb / ξ奥林匹亚皮甲 / ξ奧林匹亞皮甲
+xi-olympia-garb = 1
+# Xi Olympia Greaves / ξ奥林匹亚护胫 / ξ奧林匹亞護脛
+xi-olympia-greaves = 1
+# Xi Olympia Helmet / ξ奥林匹亚头盔 / ξ奧林匹亞頭盔
+xi-olympia-helmet = 1
+# Xi Olympia Hood / ξ奥林匹亚兜帽 / ξ奧林匹亞兜帽
+xi-olympia-hood = 1
+# Xi Olympia Shoes / ξ奥林匹亚之鞋 / ξ奧林匹亞鞋
+xi-olympia-shoes = 1
+# Xi Olympia Vestment / ξ奥林匹亚圣衣 / ξ奧林匹亞法衣
+xi-olympia-vestment = 1
+# Xi Olympia Warbow / ξ奥林匹亚战弓 / ξ奧林匹亞戰弓
+xi-olympia-warbow = 1
+# Xi Olympia Warsword / ξ奥林匹亚战刃 / ξ奧林匹亞戰刃
+xi-olympia-warsword = 1
+# Yeti Coat / 雪怪外套 / 雪怪外套
+yeti-coat = -1
+# Yeti Mightycoat / 极暖雪人大衣 / 極暖雪人大衣
+yeti-mightycoat = -1
+# Yeti Overcoat / 雪怪大衣 / 雪怪大衣
+yeti-overcoat = -1
+# Ymir Agathodaemon Hammer / 原初阿伽忒俄斯之锤 / 原初阿伽忒俄斯之鎚
+ymir-agathodaemon-hammer = 1
+# Ymir Beithir's Staff / 原初贝希尔法杖 / 原初貝西爾的法杖
+ymir-beithirs-staff = 1
+# Ymir Brilliant Feathers / 原初辉煌之羽 / 原初輝煌之羽
+ymir-brilliant-feathers = 1
+# Ymir Cliffside Cuirass / 原初绝壁胸甲 / 原初絕壁胸甲
+ymir-cliffside-cuirass = 1
+# Ymir Coiled Shield / 原初盘蛇盾 / 原初盤蛇盾
+ymir-coiled-shield = 1
+# Ymir Staff of Zaltys / 原初萨勒蒂斯法杖 / 薩勒蒂斯的原初法杖
+ymir-staff-of-zaltys = 1
+# Ymir World Eater / 原初世界吞噬者 / 原初吞世者
+ymir-world-eater = 1
+# Yokai's Staff / 妖怪法杖 / 妖怪法杖
+yokais-staff = -1
+# Zeta Myrddin / ζ梅尔丁 / ζ梅爾丁
+zeta-myrddin = 1
+# Zeta Myrddin Cloak / ζ梅尔丁斗篷 / ζ梅爾丁披風
+zeta-myrddin-cloak = 1
+# Zeta Myrddin Cowl / ζ梅尔丁风帽 / ζ梅爾丁風帽
+zeta-myrddin-cowl = 1
+# Zeta Myrddin Hood / ζ梅尔丁兜帽 / ζ梅爾丁兜帽
+zeta-myrddin-hood = 1
+# Zeta Myrddin Robe / ζ梅尔丁法袍 / ζ梅爾丁法袍
+zeta-myrddin-robe = 1
+# Zeta Myrddin Shield / ζ梅尔丁之盾 / ζ梅爾丁盾
+zeta-myrddin-shield = 1
+# Zeta Olympia Archistaff / ζ奥林匹亚权杖 / ζ奧林匹亞權杖
+zeta-olympia-archistaff = 1
+# Zeta Olympia Boots / ζ奥林匹亚长靴 / ζ奧林匹亞長靴
+zeta-olympia-boots = 1
+# Zeta Olympia Cowl / ζ奥林匹亚风帽 / ζ奧林匹亞風帽
+zeta-olympia-cowl = 1
+# Zeta Olympia Cuirass / ζ奥林匹亚胸甲 / ζ奧林匹亞胸甲
+zeta-olympia-cuirass = 1
+# Zeta Olympia Garb / ζ奥林匹亚皮甲 / ζ奧林匹亞皮甲
+zeta-olympia-garb = 1
+# Zeta Olympia Greaves / ζ奥林匹亚护胫 / ζ奧林匹亞護脛
+zeta-olympia-greaves = 1
+# Zeta Olympia Helmet / ζ奥林匹亚头盔 / ζ奧林匹亞頭盔
+zeta-olympia-helmet = 1
+# Zeta Olympia Hood / ζ奥林匹亚兜帽 / ζ奧林匹亞兜帽
+zeta-olympia-hood = 1
+# Zeta Olympia Shoes / ζ奥林匹亚之鞋 / ζ奧林匹亞鞋
+zeta-olympia-shoes = 1
+# Zeta Olympia Vestment / ζ奥林匹亚圣衣 / ζ奧林匹亞法衣
+zeta-olympia-vestment = 1
+# Zeta Olympia Warbow / ζ奥林匹亚战弓 / ζ奧林匹亞戰弓
+zeta-olympia-warbow = 1
+# Zeta Olympia Warsword / ζ奥林匹亚战刃 / ζ梅爾丁戰刃
+zeta-olympia-warsword = 1
