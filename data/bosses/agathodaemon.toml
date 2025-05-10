@@ -1,0 +1,10 @@
+# Agathodaemon / 阿伽忒俄斯 / 阿伽忒俄斯
+id = "agathodaemon"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

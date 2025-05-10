@@ -1,0 +1,10 @@
+# Twilight Wisp / 黎明幽光 / 黎明幽光
+id = "twilight-wisp"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

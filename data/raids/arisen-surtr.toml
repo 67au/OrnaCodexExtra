@@ -1,0 +1,10 @@
+# Arisen Surtr / 重生史尔特尔 / 重生的史爾特爾
+id = "arisen-surtr"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

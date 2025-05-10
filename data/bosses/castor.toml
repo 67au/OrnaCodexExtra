@@ -1,0 +1,10 @@
+# Castor / 卡斯托耳 / 卡斯托耳
+id = "castor"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

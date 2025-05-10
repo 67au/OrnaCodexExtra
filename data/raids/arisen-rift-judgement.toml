@@ -1,0 +1,10 @@
+# Arisen Rift Judgement / 重生裂隙审判 / 重生裂痕審判
+id = "arisen-rift-judgement"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

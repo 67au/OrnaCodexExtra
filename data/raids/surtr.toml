@@ -1,0 +1,10 @@
+# Surtr / 史尔特尔 / 史爾特爾
+id = "surtr"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Lero of Fomoria / 弗摩尔之勒罗 / 弗摩爾族之勒羅
+id = "lero-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

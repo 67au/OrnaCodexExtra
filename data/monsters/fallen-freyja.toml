@@ -1,0 +1,10 @@
+# Fallen Freyja / 堕落弗蕾亚 / 墮落弗蕾亞
+id = "fallen-freyja"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Skeleton Rogue / 骷髅侠盗 / 骷髏俠盜
+id = "skeleton-rogue"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

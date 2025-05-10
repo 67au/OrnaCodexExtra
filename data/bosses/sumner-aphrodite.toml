@@ -1,0 +1,10 @@
+# Sumner Aphrodite / 「选手」阿佛洛狄忒 / 夏運阿芙蘿黛蒂
+id = "sumner-aphrodite"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

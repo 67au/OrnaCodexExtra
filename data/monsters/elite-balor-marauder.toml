@@ -1,0 +1,10 @@
+# Elite Balor Marauder / 精英巴罗尔掠夺者 / 高端巴羅爾掠奪者
+id = "elite-balor-marauder"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

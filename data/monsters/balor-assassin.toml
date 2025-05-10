@@ -1,0 +1,10 @@
+# Balor Assassin / 巴罗尔刺客 / 巴羅爾刺客
+id = "balor-assassin"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

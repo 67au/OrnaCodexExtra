@@ -1,0 +1,10 @@
+# Spider / 蜘蛛 / 蜘蛛
+id = "spider"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Fallen King Arthus / 堕落亚瑟王 / 墮落亞瑟王
+id = "fallen-king-arthus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

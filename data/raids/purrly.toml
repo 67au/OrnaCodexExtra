@@ -1,0 +1,10 @@
+# Purrly / Purrly / Purrly
+id = "purrly"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

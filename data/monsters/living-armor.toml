@@ -1,0 +1,10 @@
+# Living Armor / 活盔甲 / 會動的盔甲
+id = "living-armor"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

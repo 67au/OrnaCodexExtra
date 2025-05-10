@@ -1,0 +1,10 @@
+# Bloodwarg / 嗜血座狼 / 血腥座狼
+id = "bloodwarg"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

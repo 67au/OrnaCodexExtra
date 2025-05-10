@@ -1,0 +1,10 @@
+# Ancient Gazer / 远古凝视者 / 遠古凝視者
+id = "ancient-gazer"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

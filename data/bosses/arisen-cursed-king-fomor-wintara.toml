@@ -1,0 +1,10 @@
+# Arisen Cursed King Fomor, Wintara / 重生诅咒的弗摩尔王温塔拉 / 重生受詛咒的弗摩爾王，溫塔拉
+id = "arisen-cursed-king-fomor-wintara"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

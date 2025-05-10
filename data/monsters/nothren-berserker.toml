@@ -1,0 +1,10 @@
+# Nothren Berserker / 北族狂战士 / 北族狂戰士
+id = "nothren-berserker"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

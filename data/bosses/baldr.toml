@@ -1,0 +1,10 @@
+# Baldr / 巴德尔 / 巴德爾
+id = "baldr"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

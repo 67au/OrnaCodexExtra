@@ -1,0 +1,10 @@
+# The Mightiest Mimic / 超究极宝箱怪 / 超究極寶箱怪
+id = "the-mightiest-mimic"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

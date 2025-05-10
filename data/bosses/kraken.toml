@@ -1,0 +1,10 @@
+# Kraken / 克拉肯 / 克拉肯
+id = "kraken"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

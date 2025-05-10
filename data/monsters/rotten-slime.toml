@@ -1,0 +1,10 @@
+# Rotten Slime / 腐烂史莱姆 / 腐爛史萊姆
+id = "rotten-slime"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

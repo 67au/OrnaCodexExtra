@@ -1,0 +1,10 @@
+# Scary Skeleton / 恐怖骷髅 / 恐怖骷髏
+id = "scary-skeleton"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

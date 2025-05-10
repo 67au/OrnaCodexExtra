@@ -1,0 +1,10 @@
+# Alfar Mage / 古精灵法师 / 古精靈法師
+id = "alfar-mage-fe8adf12"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

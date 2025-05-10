@@ -1,0 +1,10 @@
+# First Horseman / 第一骑士 / 第一騎士
+id = "first-horseman"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

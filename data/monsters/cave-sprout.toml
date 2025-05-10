@@ -1,0 +1,10 @@
+# Cave Sprout / 穴居新芽 / 穴居新芽
+id = "cave-sprout"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

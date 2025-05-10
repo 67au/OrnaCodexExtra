@@ -1,0 +1,10 @@
+# Fallen Wanderer / 堕落流浪者 / 墮落遊人
+id = "fallen-wanderer"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

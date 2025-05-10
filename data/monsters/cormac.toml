@@ -1,0 +1,10 @@
+# Cormac / 康马克 / 康馬克
+id = "cormac"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

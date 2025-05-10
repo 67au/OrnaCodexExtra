@@ -1,0 +1,10 @@
+# Seer / 眼怪 / 眼怪
+id = "seer"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

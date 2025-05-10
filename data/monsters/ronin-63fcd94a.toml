@@ -1,0 +1,10 @@
+# Ronin (Arisen) / 浪人 (重生者) / 浪人 (重生者)
+id = "ronin-63fcd94a"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

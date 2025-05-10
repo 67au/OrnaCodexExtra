@@ -1,0 +1,10 @@
+# Arisen Cursed Bormana of Fomoria / 弗摩尔之重生诅咒的波尔玛纳 / 重生受詛咒的弗摩爾族之波爾瑪納
+id = "arisen-cursed-bormana-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Pumpkinhead / 南瓜头 / 南瓜頭
+id = "pumpkinhead"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

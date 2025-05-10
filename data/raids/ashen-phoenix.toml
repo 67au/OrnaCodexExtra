@@ -1,0 +1,10 @@
+# Ashen Phoenix / 苍白凤凰 / 蒼白鳳凰
+id = "ashen-phoenix"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

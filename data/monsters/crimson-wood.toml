@@ -1,0 +1,10 @@
+# Crimson Wood / 深红木 / 深紅木
+id = "crimson-wood"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

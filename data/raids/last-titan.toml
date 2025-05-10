@@ -1,0 +1,10 @@
+# Last Titan / 最后的泰坦 / 最後的泰坦
+id = "last-titan"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

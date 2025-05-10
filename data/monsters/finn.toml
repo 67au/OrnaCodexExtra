@@ -1,0 +1,10 @@
+# Finn / 芬恩 / 芬恩
+id = "finn"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

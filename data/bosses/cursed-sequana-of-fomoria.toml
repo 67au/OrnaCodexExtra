@@ -1,0 +1,10 @@
+# Cursed Sequana of Fomoria / 弗摩尔之诅咒的塞夸纳 / 受詛咒的弗摩爾族之塞夸納
+id = "cursed-sequana-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

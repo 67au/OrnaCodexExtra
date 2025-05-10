@@ -1,0 +1,10 @@
+# Dark Mage / 暗黑法师 / 黑暗法師
+id = "dark-mage"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Fallen Merlin / 堕落梅林 / 墮落梅林
+id = "fallen-merlin"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

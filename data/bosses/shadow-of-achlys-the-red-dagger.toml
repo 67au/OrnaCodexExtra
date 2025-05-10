@@ -1,0 +1,10 @@
+# Shadow of Achlys, the Red Dagger / 赤刃艾柯吕斯之影 / 赤刃艾柯呂斯之暗影
+id = "shadow-of-achlys-the-red-dagger"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

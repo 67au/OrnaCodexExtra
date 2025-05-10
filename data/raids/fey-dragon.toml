@@ -1,0 +1,10 @@
+# Fey Dragon / 变异巨龙 / 變異巨龍
+id = "fey-dragon"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

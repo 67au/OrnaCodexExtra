@@ -1,0 +1,10 @@
+# Cthulhu / 克苏鲁 / 克蘇魯
+id = "cthulhu"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

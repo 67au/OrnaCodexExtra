@@ -1,0 +1,10 @@
+# Ratman / 鼠男 / 鼠男
+id = "ratman"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

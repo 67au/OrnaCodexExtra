@@ -1,0 +1,10 @@
+# Darkest Demon / 深渊恶魔 / 深淵惡魔
+id = "darkest-demon"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

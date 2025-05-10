@@ -1,0 +1,10 @@
+# Great Eel / 巨鳗 / 巨鰻
+id = "great-eel"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

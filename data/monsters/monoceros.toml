@@ -1,0 +1,10 @@
+# Monoceros / 一角兽 / 一角獸
+id = "monoceros"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Sumner Zeus / 「选手」宙斯 / 夏運宙斯
+id = "sumner-zeus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

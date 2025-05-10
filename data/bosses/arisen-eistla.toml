@@ -1,0 +1,10 @@
+# Arisen Eistla / 重生艾斯特拉 / 重生艾斯特拉
+id = "arisen-eistla"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

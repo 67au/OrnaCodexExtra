@@ -1,0 +1,10 @@
+# Elite Nothren Warlock / 精英北族术士 / 高端北族術士
+id = "elite-nothren-warlock"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

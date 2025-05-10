@@ -1,0 +1,10 @@
+# Cerus Acolyte / 凯鲁斯侍从 / 凱魯斯追隨者
+id = "cerus-acolyte-73d59be2"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

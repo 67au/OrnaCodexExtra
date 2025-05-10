@@ -1,0 +1,10 @@
+# Beag / 蓓格 / 蓓格
+id = "beag"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

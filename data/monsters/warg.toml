@@ -1,0 +1,10 @@
+# Warg / 座狼 / 座狼
+id = "warg"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

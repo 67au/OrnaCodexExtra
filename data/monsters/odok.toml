@@ -1,0 +1,10 @@
+# Odok / 亡骸 / 亡骸
+id = "odok"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

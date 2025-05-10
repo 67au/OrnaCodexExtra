@@ -1,0 +1,10 @@
+# Amergin / 阿默金 / 阿默金
+id = "amergin"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

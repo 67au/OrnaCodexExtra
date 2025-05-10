@@ -1,0 +1,10 @@
+# Red Tatzelwurm / 红塔佐蠕虫 / 紅塔佐蠕蟲
+id = "red-tatzelwurm"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

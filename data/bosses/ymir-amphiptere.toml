@@ -1,0 +1,10 @@
+# Ymir Amphiptere / 原初翼蛇 / 原初翼蛇
+id = "ymir-amphiptere"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

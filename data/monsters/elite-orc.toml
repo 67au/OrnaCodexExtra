@@ -1,0 +1,10 @@
+# Elite Orc / 精英半兽人 / 高端半獸人
+id = "elite-orc"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

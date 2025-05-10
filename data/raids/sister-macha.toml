@@ -1,0 +1,10 @@
+# Sister Macha / 玛查 / 瑪查
+id = "sister-macha"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

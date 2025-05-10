@@ -1,0 +1,10 @@
+# Raven / 渡鸦 / 渡鴉
+id = "raven"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

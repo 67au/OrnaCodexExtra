@@ -1,0 +1,10 @@
+# Runeblade of Finesse / 芬尼斯的符文剑士 / 芬尼斯的符文劍士
+id = "runeblade-of-finesse-c7b29611"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

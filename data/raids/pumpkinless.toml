@@ -1,0 +1,10 @@
+# Pumpkinless / 南瓜头 -无头骑士- / 南無瓜
+id = "pumpkinless"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

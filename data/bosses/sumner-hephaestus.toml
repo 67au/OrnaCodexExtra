@@ -1,0 +1,10 @@
+# Sumner Hephaestus / 「选手」赫菲斯托斯 / 夏運赫菲斯托斯
+id = "sumner-hephaestus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

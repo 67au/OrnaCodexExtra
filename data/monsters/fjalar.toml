@@ -1,0 +1,10 @@
+# Fjalar / 法亚拉 / 法亞拉
+id = "fjalar"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

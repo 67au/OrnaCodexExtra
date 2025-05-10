@@ -1,0 +1,10 @@
+# Legionnaire / 军团士兵 / 軍團士兵
+id = "legionnaire"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

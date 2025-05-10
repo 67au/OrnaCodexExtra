@@ -1,0 +1,10 @@
+# Harpy / 鹰身女妖 / 鷹身女妖
+id = "harpy"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Failed Phoenix / 失格凤凰 / 衰敗鳳凰
+id = "failed-phoenix"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

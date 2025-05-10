@@ -1,0 +1,10 @@
+# Bandit / 土匪 / 土匪
+id = "bandit"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

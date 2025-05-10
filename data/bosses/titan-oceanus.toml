@@ -1,0 +1,10 @@
+# Titan Oceanus / 泰坦俄刻阿诺斯 / 泰坦奧克亞諾斯
+id = "titan-oceanus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# King Gradlon / 格拉德隆王 / 格拉德隆王
+id = "king-gradlon"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

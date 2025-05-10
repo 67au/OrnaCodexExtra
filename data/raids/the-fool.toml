@@ -1,0 +1,10 @@
+# The Fool / 愚人 / 愚人
+id = "the-fool"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Fallen Ra, the Seer / 堕落先知-拉 / 墮落先知-拉
+id = "fallen-ra-the-seer"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

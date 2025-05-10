@@ -1,0 +1,10 @@
+# Elite Draconian Warrior / 精英德肯尼亚族战士 / 高端德肯尼亞戰士
+id = "elite-draconian-warrior"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

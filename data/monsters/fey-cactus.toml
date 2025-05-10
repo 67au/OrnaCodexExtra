@@ -1,0 +1,10 @@
+# Fey Cactus / 变异仙人掌 / 變異仙人掌
+id = "fey-cactus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

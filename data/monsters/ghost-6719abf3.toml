@@ -1,0 +1,10 @@
+# Ghost / 鬼 / 鬼
+id = "ghost-6719abf3"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

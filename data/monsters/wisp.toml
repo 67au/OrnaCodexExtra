@@ -1,0 +1,10 @@
+# Wisp / 幽光 / 幽光
+id = "wisp"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

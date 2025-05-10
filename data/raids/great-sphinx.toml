@@ -1,0 +1,10 @@
+# Great Sphinx / 斯芬克斯 / 強大的斯芬克斯
+id = "great-sphinx"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

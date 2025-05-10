@@ -1,0 +1,10 @@
+# Perseus / 珀尔修斯 / 柏修斯
+id = "perseus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

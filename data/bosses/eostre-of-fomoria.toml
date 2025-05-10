@@ -1,0 +1,10 @@
+# Eostre of Fomoria / 弗摩尔之厄俄斯特 / 弗摩爾族的俄斯特
+id = "eostre-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

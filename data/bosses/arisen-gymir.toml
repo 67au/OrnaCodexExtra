@@ -1,0 +1,10 @@
+# Arisen Gymir / 重生盖密尔 / 重生蓋密爾
+id = "arisen-gymir"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

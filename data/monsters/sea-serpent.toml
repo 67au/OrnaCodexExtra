@@ -1,0 +1,10 @@
+# Sea Serpent / 海蛇 / 海蛇
+id = "sea-serpent"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

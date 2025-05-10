@@ -1,0 +1,10 @@
+# Small Mollusc / 小章鱼 / 小軟體動物
+id = "small-mollusc"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Anteros Warrior / 安忒洛斯战士 / 安特羅斯戰士
+id = "anteros-warrior"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

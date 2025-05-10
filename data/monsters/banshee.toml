@@ -1,0 +1,10 @@
+# Banshee / 报丧女妖 / 報喪女妖
+id = "banshee"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

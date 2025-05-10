@@ -1,0 +1,10 @@
+# Untarnished Perseus / 无瑕之珀尔修斯 / 無瑕的柏修斯
+id = "untarnished-perseus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

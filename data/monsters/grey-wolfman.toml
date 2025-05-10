@@ -1,0 +1,10 @@
+# Grey Wolfman / 灰狼人 / 灰狼人
+id = "grey-wolfman"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

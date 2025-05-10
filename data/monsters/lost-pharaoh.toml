@@ -1,0 +1,10 @@
+# Lost Pharaoh (Arisen) / 失落的法老王 (重生者) / 失落的法老王 (重生者)
+id = "lost-pharaoh"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

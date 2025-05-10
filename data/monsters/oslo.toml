@@ -1,0 +1,10 @@
+# Oslo / 奥斯陆 / 奧斯陸
+id = "oslo"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

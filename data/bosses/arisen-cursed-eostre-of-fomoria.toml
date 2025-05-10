@@ -1,0 +1,10 @@
+# Arisen Cursed Eostre of Fomoria / 弗摩尔之重生诅咒的厄俄斯特 / 重生受詛咒的弗摩爾族之俄斯特
+id = "arisen-cursed-eostre-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

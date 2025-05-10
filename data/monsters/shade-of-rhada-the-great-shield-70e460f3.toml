@@ -1,0 +1,10 @@
+# Shade of Rhada, the Great Shield (Arisen) / 巨盾拉达之冥影 (重生者) / 大盾拉達之影 (重生者)
+id = "shade-of-rhada-the-great-shield-70e460f3"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

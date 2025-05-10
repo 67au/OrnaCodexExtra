@@ -1,0 +1,10 @@
+# Zeus / 宙斯 / 宙斯
+id = "zeus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

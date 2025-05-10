@@ -1,0 +1,10 @@
+# Manticore / 蝎狮 / 蠍獅
+id = "manticore"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

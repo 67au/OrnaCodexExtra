@@ -1,0 +1,10 @@
+# Naggeneen / 纳根因 / 納根因
+id = "naggeneen"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

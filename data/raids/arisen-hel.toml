@@ -1,0 +1,10 @@
+# Arisen Hel / 重生赫尔 / 重生赫爾
+id = "arisen-hel"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

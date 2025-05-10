@@ -1,0 +1,10 @@
+# Ancient Draugr / 远古尸鬼 / 遠古屍鬼
+id = "ancient-draugr"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

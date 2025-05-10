@@ -1,0 +1,10 @@
+# Orc Marauder / 半兽人掠夺者 / 巨魔掠奪者
+id = "orc-marauder"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

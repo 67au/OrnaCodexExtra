@@ -1,0 +1,10 @@
+# Carrion Crow / 腐肉乌鸦 / 腐肉烏鴉
+id = "carrion-crow"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Fafnir / 法夫纳 / 法夫納
+id = "fafnir-66402ab7"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

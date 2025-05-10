@@ -1,0 +1,10 @@
+# Perseus Acolyte / 珀尔修斯侍从 / 柏修斯追隨者
+id = "perseus-acolyte-f1d8afb3"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

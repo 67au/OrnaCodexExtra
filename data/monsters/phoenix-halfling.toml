@@ -1,0 +1,10 @@
+# Phoenix Halfling / 凤凰翼人 / 鳳凰翼人
+id = "phoenix-halfling"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

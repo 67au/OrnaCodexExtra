@@ -1,0 +1,10 @@
+# Arisen Cursed Lero of Fomoria / 弗摩尔之重生诅咒的勒罗 / 重生受詛咒的弗摩爾族之勒羅
+id = "arisen-cursed-lero-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

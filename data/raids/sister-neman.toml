@@ -1,0 +1,10 @@
+# Sister Neman / 妮潘 / 妮潘
+id = "sister-neman"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Odok Golem / 亡骸魔像 / 亡骸魔像
+id = "odok-golem"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

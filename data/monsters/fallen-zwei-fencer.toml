@@ -1,0 +1,10 @@
+# Fallen Zwei-Fencer / 堕落重武悍将 / 墮落重武悍將
+id = "fallen-zwei-fencer"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

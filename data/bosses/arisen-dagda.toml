@@ -1,0 +1,10 @@
+# Arisen Dagda / 重生达格达 / 重生的達格達
+id = "arisen-dagda"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

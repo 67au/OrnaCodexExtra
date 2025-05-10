@@ -1,0 +1,10 @@
+# Jelly / 果冻 / 果凍
+id = "jelly"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Great Ancient Dragon / 原始巨龙 / 古老巨龍
+id = "great-ancient-dragon"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

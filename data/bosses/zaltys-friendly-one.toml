@@ -1,0 +1,10 @@
+# Zaltys, Friendly One / 善意之萨勒蒂斯 / 善意之薩勒蒂斯
+id = "zaltys-friendly-one"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Scorcher / 灼烧者 / 灼燒者
+id = "scorcher"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

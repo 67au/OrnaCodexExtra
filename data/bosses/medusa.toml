@@ -1,0 +1,10 @@
+# Medusa / 美杜莎 / 梅杜莎
+id = "medusa"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

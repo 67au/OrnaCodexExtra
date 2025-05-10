@@ -1,0 +1,10 @@
+# False King Meliodas / 伪王梅里欧达斯 / 偽王梅里歐達斯
+id = "false-king-meliodas"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

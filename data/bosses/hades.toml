@@ -1,0 +1,10 @@
+# Hades / 黑帝斯 / 黑帝斯
+id = "hades"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

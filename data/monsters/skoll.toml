@@ -1,0 +1,10 @@
+# Skoll / 斯刻尔 / 斯科爾
+id = "skoll"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

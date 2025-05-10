@@ -1,0 +1,10 @@
+# Buried / 活埋者 / 活埋者
+id = "buried"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

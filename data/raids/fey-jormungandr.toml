@@ -1,0 +1,10 @@
+# Fey Jormungandr / 变异耶梦加得 / 變異耶夢加德
+id = "fey-jormungandr"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

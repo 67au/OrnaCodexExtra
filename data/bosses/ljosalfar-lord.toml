@@ -1,0 +1,10 @@
+# Ljosalfar Lord / 日之精灵领主 / 日之精靈領主
+id = "ljosalfar-lord"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

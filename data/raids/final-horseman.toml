@@ -1,0 +1,10 @@
+# Final Horseman / 终末骑士 / 終末騎士
+id = "final-horseman"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

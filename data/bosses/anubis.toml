@@ -1,0 +1,10 @@
+# Anubis / 阿努比斯 / 阿努比斯
+id = "anubis"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Lich / 巫妖 / 巫妖
+id = "lich"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

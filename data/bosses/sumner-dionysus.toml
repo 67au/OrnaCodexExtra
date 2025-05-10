@@ -1,0 +1,10 @@
+# Sumner Dionysus / 「选手」狄俄尼索斯 / 夏運戴歐尼修斯
+id = "sumner-dionysus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

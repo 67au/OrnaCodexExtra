@@ -1,0 +1,10 @@
+# Fey Yeti / 变异雪怪 / 變異雪怪
+id = "fey-yeti"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

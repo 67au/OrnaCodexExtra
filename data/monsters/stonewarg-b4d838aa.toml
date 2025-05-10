@@ -1,0 +1,10 @@
+# Stonewarg / 岩石座狼 / 岩石座狼
+id = "stonewarg-b4d838aa"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

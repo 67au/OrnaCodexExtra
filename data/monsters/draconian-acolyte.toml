@@ -1,0 +1,10 @@
+# Draconian Acolyte / 德肯尼亚族追随者 / 德肯尼亞族追隨者
+id = "draconian-acolyte"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

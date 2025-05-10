@@ -1,0 +1,10 @@
+# Tiamat / 提亚马特 / 提亞馬特
+id = "tiamat"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

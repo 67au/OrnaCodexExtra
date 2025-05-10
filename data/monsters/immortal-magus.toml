@@ -1,0 +1,10 @@
+# Immortal Magus / 不朽术师 / 不朽術師
+id = "immortal-magus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Sumner Hera / 「选手」赫拉 / 夏運赫拉
+id = "sumner-hera"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

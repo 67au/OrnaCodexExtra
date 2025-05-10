@@ -1,0 +1,10 @@
+# Flax44 / Flax44 / Flax44
+id = "flax44"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

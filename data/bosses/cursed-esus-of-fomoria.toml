@@ -1,0 +1,10 @@
+# Cursed Esus of Fomoria / 弗摩尔之诅咒的埃苏斯 / 受詛咒的弗摩爾族之埃蘇斯
+id = "cursed-esus-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

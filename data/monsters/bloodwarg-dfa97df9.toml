@@ -1,0 +1,10 @@
+# Bloodwarg (Arisen) / 嗜血座狼 (重生者) / 血腥座狼 (重生者)
+id = "bloodwarg-dfa97df9"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

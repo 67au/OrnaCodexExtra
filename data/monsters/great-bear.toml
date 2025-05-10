@@ -1,0 +1,10 @@
+# Great Bear / 强大的熊 / 強大的熊
+id = "great-bear"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

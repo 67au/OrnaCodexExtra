@@ -1,0 +1,10 @@
+# Dangy / Dangy / Dangy
+id = "dangy"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

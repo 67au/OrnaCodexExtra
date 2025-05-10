@@ -1,0 +1,10 @@
+# Hobgoblin Mage / 巨型哥布林法师 / 巨型哥布林法師
+id = "hobgoblin-mage"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

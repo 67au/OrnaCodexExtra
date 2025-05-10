@@ -1,0 +1,10 @@
+# Beithir / 贝希尔 / 貝西爾
+id = "beithir"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

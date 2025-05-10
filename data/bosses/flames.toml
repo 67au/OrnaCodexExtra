@@ -1,0 +1,10 @@
+# Flames / 火焰团 / 火焰
+id = "flames"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

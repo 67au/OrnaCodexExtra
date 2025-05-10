@@ -1,0 +1,10 @@
+# Terrifying Ghost / 恐慌幽灵 / 恐慌幽靈
+id = "terrifying-ghost"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

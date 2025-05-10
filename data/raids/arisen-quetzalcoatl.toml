@@ -1,0 +1,10 @@
+# Arisen Quetzalcoatl / 重生羽蛇神 / 重生羽蛇神
+id = "arisen-quetzalcoatl"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

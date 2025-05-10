@@ -1,0 +1,10 @@
+# Arisen Mammon / 重生玛门 / 重生瑪門
+id = "arisen-mammon"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

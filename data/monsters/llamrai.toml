@@ -1,0 +1,10 @@
+# Llamrai / 拉姆莱 / 拉姆萊
+id = "llamrai"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

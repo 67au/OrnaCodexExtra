@@ -1,0 +1,10 @@
+# Nothren Valkyrie / 北族女武神 / 北族女武神
+id = "nothren-valkyrie"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

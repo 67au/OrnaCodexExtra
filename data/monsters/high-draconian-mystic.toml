@@ -1,0 +1,10 @@
+# High Draconian Mystic / 高等德肯尼亚族秘术士 / 高等德肯尼亞族秘術士
+id = "high-draconian-mystic"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

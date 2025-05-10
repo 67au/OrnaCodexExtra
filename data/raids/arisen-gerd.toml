@@ -1,0 +1,10 @@
+# Arisen Gerd / 重生葛德 / 重生葛德
+id = "arisen-gerd"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

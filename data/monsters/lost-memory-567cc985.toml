@@ -1,0 +1,10 @@
+# Lost Memory / 失落记忆 / 失落記憶
+id = "lost-memory-567cc985"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

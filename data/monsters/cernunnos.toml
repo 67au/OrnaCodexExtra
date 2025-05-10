@@ -1,0 +1,10 @@
+# Cernunnos / 科尔努诺斯 / 科爾努諾斯
+id = "cernunnos"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

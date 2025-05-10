@@ -1,0 +1,10 @@
+# Arisen Warlock Trevelyan / 重生术士特里维廉 / 重生術士特里維廉
+id = "arisen-warlock-trevelyan"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

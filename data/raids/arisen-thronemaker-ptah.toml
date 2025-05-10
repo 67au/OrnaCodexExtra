@@ -1,0 +1,10 @@
+# Arisen Thronemaker Ptah / 重生造王者普塔 / 重生造王者普塔
+id = "arisen-thronemaker-ptah"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

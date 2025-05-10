@@ -1,0 +1,10 @@
+# Storm Core / 风暴之核 / 風暴核心
+id = "storm-core"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

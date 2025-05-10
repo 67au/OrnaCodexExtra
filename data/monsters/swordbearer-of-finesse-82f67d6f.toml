@@ -1,0 +1,10 @@
+# Swordbearer of Finesse / 芬尼斯的负剑者 / 芬尼斯的長劍職人
+id = "swordbearer-of-finesse-82f67d6f"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

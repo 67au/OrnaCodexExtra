@@ -1,0 +1,10 @@
+# Onryo / 怨灵 / 怨靈
+id = "onryo"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

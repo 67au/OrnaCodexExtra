@@ -1,0 +1,10 @@
+# Orc Lord (Arisen) / 半兽人领主 (重生者) / 半獸人君王 (重生者)
+id = "orc-lord"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

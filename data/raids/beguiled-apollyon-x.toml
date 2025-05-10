@@ -1,0 +1,10 @@
+# Beguiled Apollyon X / 着魔的亚玻伦X / 著魔的亞坡倫 X
+id = "beguiled-apollyon-x"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

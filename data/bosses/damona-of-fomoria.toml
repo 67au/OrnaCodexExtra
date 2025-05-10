@@ -1,0 +1,10 @@
+# Damona of Fomoria / 弗摩尔之达默纳 / 弗摩爾族之達摩娜
+id = "damona-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

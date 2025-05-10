@@ -1,0 +1,10 @@
+# Blue Flame / 蓝色火焰 / 藍色火焰
+id = "blue-flame"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

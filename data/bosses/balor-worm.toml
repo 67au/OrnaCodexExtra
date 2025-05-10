@@ -1,0 +1,10 @@
+# Balor Worm / 巴罗尔蠕虫 / 巴羅爾蠕蟲
+id = "balor-worm"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Arisen Cursed Aengus Og of Fomoria / 弗摩尔之重生诅咒的安格斯奥格 / 重生受詛咒的弗摩爾族之安格斯奧格
+id = "arisen-cursed-aengus-og-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

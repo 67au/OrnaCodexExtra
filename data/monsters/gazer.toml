@@ -1,0 +1,10 @@
+# Gazer / 凝视者 / 凝視者
+id = "gazer"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

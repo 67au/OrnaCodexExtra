@@ -1,0 +1,10 @@
+# Sumner Hades / 「选手」黑帝斯 / 夏運黑帝斯
+id = "sumner-hades"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

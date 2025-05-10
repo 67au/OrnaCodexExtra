@@ -1,0 +1,10 @@
+# Hengreon / 亨格隆 / 亨格隆
+id = "hengreon"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

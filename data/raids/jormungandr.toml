@@ -1,0 +1,10 @@
+# Jormungandr / 耶梦加得 / 耶夢加德
+id = "jormungandr"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

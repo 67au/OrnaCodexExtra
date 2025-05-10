@@ -1,0 +1,10 @@
+# Tatzelwurms / 塔佐蠕虫 / 塔佐蠕蟲
+id = "tatzelwurms"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Great Murk / 巨型泥沼怪 / 強大的淤濁
+id = "great-murk"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

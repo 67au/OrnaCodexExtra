@@ -1,0 +1,10 @@
+# Arisen Cursed Mullo of Fomoria / 弗摩尔之重生诅咒的穆洛 / 重生受詛咒的弗摩爾族之穆洛
+id = "arisen-cursed-mullo-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Lord of Wolves (Arisen) / 群狼之主 (重生者) / 群狼之主 (重生者)
+id = "lord-of-wolves"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

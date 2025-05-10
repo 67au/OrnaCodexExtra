@@ -1,0 +1,10 @@
+# Gull / 海鸥 / 海鷗
+id = "gull"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

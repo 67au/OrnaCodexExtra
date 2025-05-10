@@ -1,0 +1,10 @@
+# Tricky Aries / 狡诈之亚力士 / 狡詐的亞力士
+id = "tricky-aries"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Cursed Clota of Fomoria / 弗摩尔之诅咒的克洛塔 / 受詛咒的弗摩爾族之克洛塔
+id = "cursed-clota-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

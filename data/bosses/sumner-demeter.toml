@@ -1,0 +1,10 @@
+# Sumner Demeter / 「选手」狄蜜特 / 夏運狄蜜特
+id = "sumner-demeter"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

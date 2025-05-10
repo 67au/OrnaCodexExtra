@@ -1,0 +1,10 @@
+# Rift Judgement / 裂隙审判 / 裂痕審判
+id = "rift-judgement"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

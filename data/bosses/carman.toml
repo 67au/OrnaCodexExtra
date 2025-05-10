@@ -1,0 +1,10 @@
+# Carman / 卡门 / 卡門
+id = "carman"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Orc Lord / 半兽人领主 / 半獸人君王
+id = "orc-lord-aae6c979"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

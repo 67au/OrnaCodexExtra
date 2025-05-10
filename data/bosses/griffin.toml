@@ -1,0 +1,10 @@
+# Griffin / 格里芬 / 格里芬
+id = "griffin"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

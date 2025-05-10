@@ -1,0 +1,10 @@
+# Ortanite Golem / 欧坦尼魔像 / 歐坦尼魔像
+id = "ortanite-golem"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

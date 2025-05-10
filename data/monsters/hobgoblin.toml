@@ -1,0 +1,10 @@
+# Hobgoblin / 巨型哥布林 / 巨型哥布林
+id = "hobgoblin"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

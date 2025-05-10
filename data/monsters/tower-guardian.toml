@@ -1,0 +1,10 @@
+# Tower Guardian / 塔之守护者 / 塔之守護者
+id = "tower-guardian"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Rift Summoner / 裂隙召唤师 / 裂痕召喚師
+id = "rift-summoner"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

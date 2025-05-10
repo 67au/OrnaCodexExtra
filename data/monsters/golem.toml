@@ -1,0 +1,10 @@
+# Golem / 魔像 / 魔像
+id = "golem"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

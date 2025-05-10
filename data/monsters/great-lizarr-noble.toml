@@ -1,0 +1,10 @@
+# Great Lizarr Noble / 强大的蜥蜴人贵族 / 強大的蜥蜴人貴族
+id = "great-lizarr-noble"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

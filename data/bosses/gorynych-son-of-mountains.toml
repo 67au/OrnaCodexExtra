@@ -1,0 +1,10 @@
+# Gorynych, Son of Mountains / 群山之子戈里尼奇 / 群山之子戈里尼奇
+id = "gorynych-son-of-mountains"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

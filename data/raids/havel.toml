@@ -1,0 +1,10 @@
+# Havel / Havel / Havel
+id = "havel"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

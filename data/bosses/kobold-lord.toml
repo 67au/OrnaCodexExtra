@@ -1,0 +1,10 @@
+# Kobold Lord / 地精领主 / 地精領主
+id = "kobold-lord"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

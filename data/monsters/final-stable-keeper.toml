@@ -1,0 +1,10 @@
+# Final Stable Keeper / 最终随从 / 最終隨從
+id = "final-stable-keeper"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

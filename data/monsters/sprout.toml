@@ -1,0 +1,10 @@
+# Sprout / 初芽 / 初芽
+id = "sprout"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Fenja / 芬妮雅 / 芬雅
+id = "fenja"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

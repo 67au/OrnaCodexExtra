@@ -1,0 +1,10 @@
+# Ferocious Cerus / 凶残金牛凯鲁斯 / 兇殘凱魯斯
+id = "ferocious-cerus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

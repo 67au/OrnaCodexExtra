@@ -1,0 +1,10 @@
+# Illuyanka, Made of Stone / 铁石之伊卢扬卡 / 鐵石之伊盧揚卡
+id = "illuyanka-made-of-stone"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

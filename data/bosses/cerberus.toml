@@ -1,0 +1,10 @@
+# Cerberus / 地狱三头犬 / 地獄三頭犬
+id = "cerberus"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

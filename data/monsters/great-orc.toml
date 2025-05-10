@@ -1,0 +1,10 @@
+# Great Orc / 强大的半兽人 / 強大的半獸人
+id = "great-orc"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

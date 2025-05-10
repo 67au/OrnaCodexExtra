@@ -1,0 +1,10 @@
+# Elite Kobold Mage / 精英地精法师 / 高端地精法師
+id = "elite-kobold-mage"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

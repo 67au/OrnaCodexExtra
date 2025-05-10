@@ -1,0 +1,10 @@
+# Elite Balor Flame / 精英巴罗尔火焰 / 高端巴羅爾火焰
+id = "elite-balor-flame"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

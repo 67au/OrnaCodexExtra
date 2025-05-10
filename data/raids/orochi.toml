@@ -1,0 +1,10 @@
+# Orochi / 八岐大蛇 / 八岐大蛇
+id = "orochi"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Orc / 半兽人 / 半獸人
+id = "orc"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

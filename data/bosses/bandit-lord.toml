@@ -1,0 +1,10 @@
+# Bandit Lord / 山贼王 / 山賊王
+id = "bandit-lord"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

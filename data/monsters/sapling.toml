@@ -1,0 +1,10 @@
+# Sapling / 树苗 / 樹苗
+id = "sapling"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

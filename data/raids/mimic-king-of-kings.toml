@@ -1,0 +1,10 @@
+# Mimic King of Kings / 箱王之王 / 箱王之王
+id = "mimic-king-of-kings"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

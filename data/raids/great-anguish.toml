@@ -1,0 +1,10 @@
+# Great Anguish / 苦难主宰 / 煎熬之主
+id = "great-anguish"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

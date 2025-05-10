@@ -1,0 +1,10 @@
+# Eistla / 艾斯特拉 / 艾斯特拉
+id = "eistla"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Arisen Pumpkinhead / 重生南瓜头 / 重生南瓜頭
+id = "arisen-pumpkinhead"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

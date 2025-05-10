@@ -1,0 +1,10 @@
+# Vampire (zzz) / 吸血鬼（zzz） / 吸血鬼 (zzz)
+id = "vampire-zzz"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

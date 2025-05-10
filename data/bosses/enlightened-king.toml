@@ -1,0 +1,10 @@
+# Enlightened King / 启蒙者之王 / 啟蒙者之王
+id = "enlightened-king"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

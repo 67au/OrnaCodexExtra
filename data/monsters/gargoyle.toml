@@ -1,0 +1,10 @@
+# Gargoyle / 石像鬼 / 石像魔
+id = "gargoyle"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

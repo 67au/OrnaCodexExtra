@@ -1,0 +1,10 @@
+# Skeleton Warrior / 骷髅战士 / 骷髏戰士
+id = "skeleton-warrior"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

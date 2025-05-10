@@ -1,0 +1,10 @@
+# Wolfman Warrior / 狼人战士 / 狼人戰士
+id = "wolfman-warrior"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

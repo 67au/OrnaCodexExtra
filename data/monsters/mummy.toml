@@ -1,0 +1,10 @@
+# Mummy / 木乃伊 / 木乃伊
+id = "mummy"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

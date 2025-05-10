@@ -1,0 +1,10 @@
+# Sluagh (Arisen) / 勾魂者 (重生者) / 勾魂者 (重生者)
+id = "sluagh"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

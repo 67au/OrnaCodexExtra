@@ -1,0 +1,10 @@
+# Fallen Taranis / 堕落塔拉尼斯 / 墮落塔拉尼斯
+id = "fallen-taranis"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

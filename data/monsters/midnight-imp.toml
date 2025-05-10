@@ -1,0 +1,10 @@
+# Midnight Imp / 暗夜小恶魔 / 暗夜小惡魔
+id = "midnight-imp"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

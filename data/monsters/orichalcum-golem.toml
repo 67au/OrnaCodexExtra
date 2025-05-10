@@ -1,0 +1,10 @@
+# Orichalcum Golem / 奥利哈钢魔像 / 奧利哈鋼魔像
+id = "orichalcum-golem"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

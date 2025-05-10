@@ -1,0 +1,10 @@
+# Frightening Skeleton / 惊恐骷髅 / 驚恐骷髏
+id = "frightening-skeleton"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

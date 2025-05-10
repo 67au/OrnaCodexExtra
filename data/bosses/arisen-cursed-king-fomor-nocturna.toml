@@ -1,0 +1,10 @@
+# Arisen Cursed King Fomor, Nocturna / 重生诅咒的弗摩尔王诺特纳 / 重生受詛咒的弗摩爾王，諾克圖娜
+id = "arisen-cursed-king-fomor-nocturna"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

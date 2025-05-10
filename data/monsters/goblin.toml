@@ -1,0 +1,10 @@
+# Goblin / 哥布林 / 哥布林
+id = "goblin"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

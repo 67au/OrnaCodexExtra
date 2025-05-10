@@ -1,0 +1,10 @@
+# Amadan / 阿玛丹 / 阿瑪丹
+id = "amadan"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Dokkalfar / 夜之精灵 / 夜之精靈
+id = "dokkalfar"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Ogre / 食人魔 / 食人魔
+id = "ogre"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

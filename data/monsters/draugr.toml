@@ -1,0 +1,10 @@
+# Draugr / 尸鬼 / 屍鬼
+id = "draugr"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

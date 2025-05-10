@@ -1,0 +1,10 @@
+# Fey Gazer / 变异凝视者 / 變異凝視者
+id = "fey-gazer"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

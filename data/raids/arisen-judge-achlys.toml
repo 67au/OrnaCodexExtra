@@ -1,0 +1,10 @@
+# Arisen Judge Achlys / 重生判官艾柯吕斯 / 重生判官艾柯呂斯
+id = "arisen-judge-achlys"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

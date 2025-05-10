@@ -1,0 +1,10 @@
+# Fallen Ifrit / 堕落伊芙利特 / 墮落伊夫利特
+id = "fallen-ifrit"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

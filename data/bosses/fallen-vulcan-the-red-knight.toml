@@ -1,0 +1,10 @@
+# Fallen Vulcan, the Red Knight / 堕落赤骑士瓦肯 / 墮落赤騎瓦肯
+id = "fallen-vulcan-the-red-knight"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

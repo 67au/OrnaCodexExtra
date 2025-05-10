@@ -1,0 +1,10 @@
+# Gnome / 侏儒 / 侏儒
+id = "gnome"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

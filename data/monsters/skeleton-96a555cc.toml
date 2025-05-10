@@ -1,0 +1,10 @@
+# Skeleton / 骷髅 / 骷髏頭
+id = "skeleton-96a555cc"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

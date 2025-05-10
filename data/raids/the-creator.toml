@@ -1,0 +1,10 @@
+# The Creator / 造物者 / 造物者
+id = "the-creator"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

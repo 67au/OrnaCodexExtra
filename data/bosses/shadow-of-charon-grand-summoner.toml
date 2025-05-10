@@ -1,0 +1,10 @@
+# Shadow of Charon, Grand Summoner / 冠位召唤师卡戎之影 / 冠位召喚師凱倫之暗影
+id = "shadow-of-charon-grand-summoner"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Almighty Balin / 全能巴林 / 全能的巴林
+id = "almighty-balin"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

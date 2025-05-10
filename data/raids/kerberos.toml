@@ -1,0 +1,10 @@
+# Kerberos / 刻耳柏洛斯 / 刻耳柏洛斯
+id = "kerberos"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

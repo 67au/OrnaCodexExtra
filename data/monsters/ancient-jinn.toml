@@ -1,0 +1,10 @@
+# Ancient Jinn / 远古神灯精灵 / 遠古神燈精靈
+id = "ancient-jinn"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

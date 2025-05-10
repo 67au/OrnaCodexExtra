@@ -1,0 +1,10 @@
+# Undead Golem (Arisen) / 不死魔像 (重生者) / 不死魔像 (重生者)
+id = "undead-golem"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

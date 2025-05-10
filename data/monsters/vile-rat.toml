@@ -1,0 +1,10 @@
+# Vile Rat / 可憎的老鼠 / 卑鄙的老鼠
+id = "vile-rat"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

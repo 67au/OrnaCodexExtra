@@ -1,0 +1,10 @@
+# Sphinx Cub / 斯芬克斯幼兽 / 斯芬克斯幼獸
+id = "sphinx-cub"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

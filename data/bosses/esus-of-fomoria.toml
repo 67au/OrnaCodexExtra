@@ -1,0 +1,10 @@
+# Esus of Fomoria / 弗摩尔之埃苏斯 / 弗摩爾族之埃蘇斯
+id = "esus-of-fomoria"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Carman's Gargoyle (Arisen) / 卡门的石像鬼 (重生者) / 卡門的石像鬼 (重生者)
+id = "carmans-gargoyle"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

@@ -1,0 +1,10 @@
+# Arisen Ophion of Olympia / 奥林匹亚之重生俄菲翁 / 奧林匹亞的重生俄菲翁
+id = "arisen-ophion-of-olympia"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

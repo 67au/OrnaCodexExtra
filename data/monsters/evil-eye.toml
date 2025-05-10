@@ -1,0 +1,10 @@
+# Evil Eye / 邪眼 / 邪眼
+id = "evil-eye"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

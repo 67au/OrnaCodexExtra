@@ -1,0 +1,10 @@
+# Covyn / Covyn / Covyn
+id = "covyn"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []

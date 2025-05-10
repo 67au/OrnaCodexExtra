@@ -1,0 +1,10 @@
+# Great Wyvern / 大飞龙 / 大飛龍
+id = "great-wyvern"
+
+[element]
+resist = []
+weak = []
+immune = []
+
+[status]
+immune = []
