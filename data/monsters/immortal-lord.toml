@@ -2,4 +2,4 @@
 id = "immortal-lord"
 
 elementResistances = [ "dark", "holy", "dragon", "arcane" ]
-statusImmunities = [ "blind", "asleep", "stunned", "blight" ]
+statusImmunities = [ "blind", "asleep", "blight" ]
