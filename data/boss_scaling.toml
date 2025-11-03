@@ -1020,23 +1020,23 @@ beguiled-staff-y = 1
 beheaded-assassins-bladed-boots = 1
 # Beheaded Benefactor's Pumpkinhead / 无头献身者的南瓜头 / 喪首施主的南瓜頭
 beheaded-benefactors-pumpkinhead = 1
-# Beheaded Duelist’s Chausses / 无头决斗家的腿链甲 / 喪首決鬥家的鍊甲護腿
+# Beheaded Duelist's Chausses / 无头决斗家的腿链甲 / 喪首決鬥家的鍊甲護腿
 beheaded-duelists-chausses = 1
 # Beheaded High Cleric's Ankh / 无头高阶牧师的生命之符 / 喪首高階牧師的生命之符
 beheaded-high-clerics-ankh = 1
 # Beheaded Merchant's Tunic / 无头商人的罩衫 / 喪首商人的束腰外衣
 beheaded-merchants-tunic = 1
-# Beheaded Scholar's Chargeblade / Beheaded Scholar's Chargeblade / Beheaded Scholar's Chargeblade
+# Beheaded Scholar's Chargeblade / 无头学者的充能剑 / 喪首學者的衝鋒刃
 beheaded-scholars-chargeblade = 1
 # Beheaded Stargazer's Candlehead / 无头观星者的蜡烛头 / 喪首觀星者的燭台
 beheaded-stargazers-candlehead = 1
 # Beheaded Swashbuckler's Jacket / 无头侠客的夹克 / 喪首俠客的外套
 beheaded-swashbucklers-jacket = 1
-# Beheaded Trickster’s Pumpkinhead / 无头诈术师的南瓜头 / 喪首詐術師的南瓜頭
+# Beheaded Trickster's Pumpkinhead / 无头诈术师的南瓜头 / 喪首詐術師的南瓜頭
 beheaded-tricksters-pumpkinhead = 1
-# Beheaded Warden’s Tower Shield / 无头守望者的塔盾 / 喪首守望者的塔盾
+# Beheaded Warden's Tower Shield / 无头守望者的塔盾 / 喪首守望者的塔盾
 beheaded-wardens-tower-shield = 1
-# Beheaded Zwei-fencer’s Cuirass / 无头重武悍将胸甲 / 喪首重武悍將的胸甲
+# Beheaded Zwei-fencer's Cuirass / 无头重武悍将胸甲 / 喪首重武悍將胸甲
 beheaded-zwei-fencers-cuirass = 1
 # Beithir's Staff / 贝希尔法杖 / 貝西爾的法杖
 beithirs-staff = 1
@@ -2908,6 +2908,12 @@ mimic-king-of-kings-head = 1
 minotaur-axe = 1
 # Mirror / 镜子 / 鏡子
 mirror = -1
+# Mnemosyne's Amphora / 谟涅摩叙涅的双耳瓶 / 寧默辛妮的雙耳細頸瓶
+mnemosynes-amphora = 0
+# Mnemosyne's Crepida / 谟涅摩叙涅的凉鞋 / 寧默辛妮的羅馬鞋
+mnemosynes-crepida = 0
+# Mnemosyne's Himation / 谟涅摩叙涅的希玛纯 / 寧默辛妮的學者披衣
+mnemosynes-himation = 0
 # Mochi's Boots of Mercy / Mochi的慈悲长靴 / Mochi的慈悲長靴
 mochis-boots-of-mercy = 1
 # Mochi's Claws / Mochi的利爪 / Mochi的爪爪
