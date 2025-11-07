@@ -1,7 +1,5 @@
 # Shade of Mnemosyne / 谟涅摩叙涅之影 / 寧默辛妮之影
 id = "shade-of-mnemosyne"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+elementImmunities = [ "water", "fire", "lightning", "earthen", "dark", "holy", "dragon", "arcane", "physical" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight" ]
