@@ -2909,11 +2909,11 @@ minotaur-axe = 1
 # Mirror / 镜子 / 鏡子
 mirror = -1
 # Mnemosyne's Amphora / 谟涅摩叙涅的双耳瓶 / 寧默辛妮的雙耳細頸瓶
-mnemosynes-amphora = 0
+mnemosynes-amphora = -1
 # Mnemosyne's Crepida / 谟涅摩叙涅的凉鞋 / 寧默辛妮的羅馬鞋
-mnemosynes-crepida = 0
+mnemosynes-crepida = 1
 # Mnemosyne's Himation / 谟涅摩叙涅的希玛纯 / 寧默辛妮的學者披衣
-mnemosynes-himation = 0
+mnemosynes-himation = 1
 # Mochi's Boots of Mercy / Mochi的慈悲长靴 / Mochi的慈悲長靴
 mochis-boots-of-mercy = 1
 # Mochi's Claws / Mochi的利爪 / Mochi的爪爪
