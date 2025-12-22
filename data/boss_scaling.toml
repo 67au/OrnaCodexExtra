@@ -402,6 +402,12 @@ arisen-fey-banshee-veil = 1
 arisen-fey-crowsong = 1
 # Arisen Fey Macha Pillar / 重生变异玛查支柱 / 重生變異瑪查支柱
 arisen-fey-macha-pillar = 1
+# Arisen Fey Myrmidon Headdress / Arisen Fey Myrmidon Headdress / Arisen Fey Myrmidon Headdress
+arisen-fey-myrmidon-headdress = 0
+# Arisen Fey Myrmidon Legwraps / Arisen Fey Myrmidon Legwraps / Arisen Fey Myrmidon Legwraps
+arisen-fey-myrmidon-legwraps = 0
+# Arisen Fey Myrmidon Tunic / Arisen Fey Myrmidon Tunic / Arisen Fey Myrmidon Tunic
+arisen-fey-myrmidon-tunic = 0
 # Arisen Fey Neman Havoc / 重生变异妮潘凶祸 / 重生變異妮潘凶禍
 arisen-fey-neman-havoc = 1
 # Arisen Fey Plagued Cuirass / 重生变异瘟疫胸甲 / 重生變異瘟疫胸甲
@@ -502,6 +508,18 @@ arisen-menjas-warstaff = 1
 arisen-minotaur-axe = 1
 # Arisen Morrigan's Scroll / 重生摩莉甘卷轴 / 重生的摩莉甘卷軸
 arisen-morrigans-scroll = 1
+# Arisen Myrmidon Headdress / Arisen Myrmidon Headdress / Arisen Myrmidon Headdress
+arisen-myrmidon-headdress = 0
+# Arisen Myrmidon Headdress Diabolus / Arisen Myrmidon Headdress Diabolus / Arisen Myrmidon Headdress Diabolus
+arisen-myrmidon-headdress-diabolus = 0
+# Arisen Myrmidon Legwraps / Arisen Myrmidon Legwraps / Arisen Myrmidon Legwraps
+arisen-myrmidon-legwraps = 0
+# Arisen Myrmidon Legwraps Diabolus / Arisen Myrmidon Legwraps Diabolus / Arisen Myrmidon Legwraps Diabolus
+arisen-myrmidon-legwraps-diabolus = 0
+# Arisen Myrmidon Tunic / Arisen Myrmidon Tunic / Arisen Myrmidon Tunic
+arisen-myrmidon-tunic = 0
+# Arisen Myrmidon Tunic Diabolus / Arisen Myrmidon Tunic Diabolus / Arisen Myrmidon Tunic Diabolus
+arisen-myrmidon-tunic-diabolus = 0
 # Arisen Nagamaki / 重生长卷 / 重生長卷
 arisen-nagamaki = 1
 # Arisen Naggeneen's Hat / 重生纳根因帽子 / 重生納根因的帽子
@@ -2048,6 +2066,12 @@ fey-menjas-hood = 1
 fey-menjas-shield = 1
 # Fey Menja's Warstaff / 变异门妮雅征杖 / 變異梅加征杖
 fey-menjas-warstaff = 1
+# Fey Myrmidon Headdress / Fey Myrmidon Headdress / Fey Myrmidon Headdress
+fey-myrmidon-headdress = 0
+# Fey Myrmidon Legwraps / Fey Myrmidon Legwraps / Fey Myrmidon Legwraps
+fey-myrmidon-legwraps = 0
+# Fey Myrmidon Tunic / Fey Myrmidon Tunic / Fey Myrmidon Tunic
+fey-myrmidon-tunic = 0
 # Fey Neman Cuirass / 变异妮潘胸甲 / 變異妮潘胸甲
 fey-neman-cuirass = 1
 # Fey Neman Greaves / 变异妮潘护胫 / 變異妮潘護脛
@@ -2944,6 +2968,12 @@ morrigans-scroll = 1
 mullos-blinders = 1
 # Myrddin Harp / 梅尔丁竖琴 / 梅爾丁豎琴
 myrddin-harp = 1
+# Myrmidon Headdress / Myrmidon Headdress / Myrmidon Headdress
+myrmidon-headdress = 0
+# Myrmidon Legwraps / Myrmidon Legwraps / Myrmidon Legwraps
+myrmidon-legwraps = 0
+# Myrmidon Tunic / Myrmidon Tunic / Myrmidon Tunic
+myrmidon-tunic = 0
 # Mystic Katar / 秘术拳刃 / 秘術卡塔拉
 mystic-katar = 1
 # Mythril Armor / 秘银盔甲 / 秘銀盔甲
@@ -3186,6 +3216,8 @@ phoenician-shield = 1
 phoenician-shoes = 1
 # Phoenixsong / 凤曲 / 鳳曲
 phoenixsong = 1
+# Piob Mhor / Piob Mhor / Piob Mhor
+piob-mhor = 0
 # Pizza / 比萨 / 披薩
 pizza = -1
 # Pizza Peel / 披萨小铲 / 披薩小鏟
@@ -3352,6 +3384,36 @@ royal-longbow = -1
 royal-shield = -1
 # Royalty / 王权 / 王權
 royalty = -1
+# Ruairc Archistaff / Ruairc Archistaff / Ruairc Archistaff
+ruairc-archistaff = 0
+# Ruairc Axe / Ruairc Axe / Ruairc Axe
+ruairc-axe = 0
+# Ruairc Boots / Ruairc Boots / Ruairc Boots
+ruairc-boots = 0
+# Ruairc Cowl / Ruairc Cowl / Ruairc Cowl
+ruairc-cowl = 0
+# Ruairc Cuirass / Ruairc Cuirass / Ruairc Cuirass
+ruairc-cuirass = 0
+# Ruairc Garb / Ruairc Garb / Ruairc Garb
+ruairc-garb = 0
+# Ruairc Greaves / Ruairc Greaves / Ruairc Greaves
+ruairc-greaves = 0
+# Ruairc Headdress / Ruairc Headdress / Ruairc Headdress
+ruairc-headdress = 0
+# Ruairc Helm / Ruairc Helm / Ruairc Helm
+ruairc-helm = 0
+# Ruairc Hood / Ruairc Hood / Ruairc Hood
+ruairc-hood = 0
+# Ruairc Legwaps / Ruairc Legwaps / Ruairc Legwaps
+ruairc-legwaps = 0
+# Ruairc Robe / Ruairc Robe / Ruairc Robe
+ruairc-robe = 0
+# Ruairc Scythe / Ruairc Scythe / Ruairc Scythe
+ruairc-scythe = 0
+# Ruairc Skirt / Ruairc Skirt / Ruairc Skirt
+ruairc-skirt = 0
+# Ruairc Tunic / Ruairc Tunic / Ruairc Tunic
+ruairc-tunic = 0
 # Ruby Wand / 红宝石魔杖 / 紅寶石魔杖
 ruby-wand = -1
 # Ruggiero's Armor / 鲁杰罗盔甲 / 魯傑羅的盔甲
@@ -3724,6 +3786,14 @@ tundric-sword = -1
 twilight-blade = 1
 # Uchigatana / 打刀 / 打刀
 uchigatana = -1
+# Ulster's Axe / Ulster's Axe / Ulster's Axe
+ulsters-axe = 0
+# Ulster's Crown / Ulster's Crown / Ulster's Crown
+ulsters-crown = 0
+# Ulster's Epee / Ulster's Epee / Ulster's Epee
+ulsters-epee = 0
+# Ulster's Sceptre / Ulster's Sceptre / Ulster's Sceptre
+ulsters-sceptre = 0
 # Untamed Bull / 桀骜公牛 / 桀驁公牛
 untamed-bull = 1
 # Vajra / 金刚杵 / 金剛杵
