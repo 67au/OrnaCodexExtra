@@ -1,7 +1,5 @@
 # Fey Finfolk / Fey Finfolk / Fey Finfolk
 id = "fey-finfolk"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+elementWeaknesses = [ "fire" ]
+elementImmunities = [ "water" ]
