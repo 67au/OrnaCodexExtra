@@ -1,7 +1,5 @@
 # Oillipheist / Oillipheist / Oillipheist
 id = "oillipheist"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+elementResistances = [ "water", "fire", "lightning", "earthen" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
