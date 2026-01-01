@@ -1,7 +1,5 @@
 # Merrow / Merrow / Merrow
 id = "merrow"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+elementWeaknesses = [ "water" ]
+elementImmunities = [ "earthen" ]
