@@ -1,7 +1,5 @@
 # Caoranach / Caoranach / Caoranach
 id = "caoranach"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+elementResistances = [ "water", "fire", "lightning", "earthen" ]
+statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "blind", "asleep", "petrified", "stasis" ]
