@@ -230,7 +230,7 @@ arisen-banshee-robe = 1
 arisen-banshee-robe-diabolus = 1
 # Arisen Banshee Veil / 重生报丧女妖面罩 / 重生報喪女妖面罩
 arisen-banshee-veil = 1
-# Arisen Banshee Veil Diabolus / 恶神重生宝石女妖面罩 / 惡神重生報喪女妖面罩
+# Arisen Banshee Veil Diabolus / 恶神重生报丧女妖面罩 / 惡神重生報喪女妖面罩
 arisen-banshee-veil-diabolus = 1
 # Arisen Batwing Bow / 重生蝙蝠翼弓 / 重生蝙蝠翼弓
 arisen-batwing-bow = 1
@@ -402,11 +402,11 @@ arisen-fey-banshee-veil = 1
 arisen-fey-crowsong = 1
 # Arisen Fey Macha Pillar / 重生变异玛查支柱 / 重生變異瑪查支柱
 arisen-fey-macha-pillar = 1
-# Arisen Fey Myrmidon Headdress / Arisen Fey Myrmidon Headdress / Arisen Fey Myrmidon Headdress
+# Arisen Fey Myrmidon Headdress / 重生变异密尔米顿头饰 / 重生變異密爾米頓頭巾
 arisen-fey-myrmidon-headdress = 1
-# Arisen Fey Myrmidon Legwraps / Arisen Fey Myrmidon Legwraps / Arisen Fey Myrmidon Legwraps
+# Arisen Fey Myrmidon Legwraps / 重生变异密尔米顿裹腿 / 重生變異密爾米頓裹腿
 arisen-fey-myrmidon-legwraps = 1
-# Arisen Fey Myrmidon Tunic / Arisen Fey Myrmidon Tunic / Arisen Fey Myrmidon Tunic
+# Arisen Fey Myrmidon Tunic / 重生变异密尔米顿束腰长衫 / 重生變異密爾米頓束腰外衣
 arisen-fey-myrmidon-tunic = 1
 # Arisen Fey Neman Havoc / 重生变异妮潘凶祸 / 重生變異妮潘凶禍
 arisen-fey-neman-havoc = 1
@@ -508,17 +508,17 @@ arisen-menjas-warstaff = 1
 arisen-minotaur-axe = 1
 # Arisen Morrigan's Scroll / 重生摩莉甘卷轴 / 重生的摩莉甘卷軸
 arisen-morrigans-scroll = 1
-# Arisen Myrmidon Headdress / Arisen Myrmidon Headdress / Arisen Myrmidon Headdress
+# Arisen Myrmidon Headdress / 重生密尔米顿头饰 / 重生密爾米頓頭巾
 arisen-myrmidon-headdress = 0
-# Arisen Myrmidon Headdress Diabolus / Arisen Myrmidon Headdress Diabolus / Arisen Myrmidon Headdress Diabolus
+# Arisen Myrmidon Headdress Diabolus / 恶神重生密尔米顿头饰 / 重生惡神密爾米頓頭巾
 arisen-myrmidon-headdress-diabolus = 0
-# Arisen Myrmidon Legwraps / Arisen Myrmidon Legwraps / Arisen Myrmidon Legwraps
+# Arisen Myrmidon Legwraps / 重生密尔米顿裹腿 / 重生密爾米頓裹腿
 arisen-myrmidon-legwraps = 0
-# Arisen Myrmidon Legwraps Diabolus / Arisen Myrmidon Legwraps Diabolus / Arisen Myrmidon Legwraps Diabolus
+# Arisen Myrmidon Legwraps Diabolus / 恶神重生密尔米顿裹腿 / 重生惡神密爾米頓裹腿
 arisen-myrmidon-legwraps-diabolus = 0
-# Arisen Myrmidon Tunic / Arisen Myrmidon Tunic / Arisen Myrmidon Tunic
+# Arisen Myrmidon Tunic / 重生密尔米顿束腰长衫 / 重生密爾米頓束腰外衣
 arisen-myrmidon-tunic = 0
-# Arisen Myrmidon Tunic Diabolus / Arisen Myrmidon Tunic Diabolus / Arisen Myrmidon Tunic Diabolus
+# Arisen Myrmidon Tunic Diabolus / 恶神重生密尔米顿束腰长衫 / 重生惡神密爾米頓束腰外衣
 arisen-myrmidon-tunic-diabolus = 0
 # Arisen Nagamaki / 重生长卷 / 重生長卷
 arisen-nagamaki = 1
@@ -2066,11 +2066,11 @@ fey-menjas-hood = 1
 fey-menjas-shield = 1
 # Fey Menja's Warstaff / 变异门妮雅征杖 / 變異梅加征杖
 fey-menjas-warstaff = 1
-# Fey Myrmidon Headdress / Fey Myrmidon Headdress / Fey Myrmidon Headdress
+# Fey Myrmidon Headdress / 变异密尔米顿头饰 / 變異密爾米頓頭巾
 fey-myrmidon-headdress = 0
-# Fey Myrmidon Legwraps / Fey Myrmidon Legwraps / Fey Myrmidon Legwraps
+# Fey Myrmidon Legwraps / 变异密尔米顿裹腿 / 變異密爾米頓裹腿
 fey-myrmidon-legwraps = 0
-# Fey Myrmidon Tunic / Fey Myrmidon Tunic / Fey Myrmidon Tunic
+# Fey Myrmidon Tunic / 变异密尔米顿束腰长衫 / 變異密爾米頓束腰外衣
 fey-myrmidon-tunic = 0
 # Fey Neman Cuirass / 变异妮潘胸甲 / 變異妮潘胸甲
 fey-neman-cuirass = 1
@@ -2968,11 +2968,11 @@ morrigans-scroll = 1
 mullos-blinders = 1
 # Myrddin Harp / 梅尔丁竖琴 / 梅爾丁豎琴
 myrddin-harp = 1
-# Myrmidon Headdress / Myrmidon Headdress / Myrmidon Headdress
+# Myrmidon Headdress / 密尔米顿头饰 / 密爾米頓頭巾
 myrmidon-headdress = 1
-# Myrmidon Legwraps / Myrmidon Legwraps / Myrmidon Legwraps
+# Myrmidon Legwraps / 密尔米顿裹腿 / 密爾米頓裹腿
 myrmidon-legwraps = 1
-# Myrmidon Tunic / Myrmidon Tunic / Myrmidon Tunic
+# Myrmidon Tunic / 密尔米顿束腰长衫 / 密爾米頓束腰外衣
 myrmidon-tunic = 1
 # Mystic Katar / 秘术拳刃 / 秘術卡塔拉
 mystic-katar = 1
@@ -3216,7 +3216,7 @@ phoenician-shield = 1
 phoenician-shoes = 1
 # Phoenixsong / 凤曲 / 鳳曲
 phoenixsong = 1
-# Piob Mhor / Piob Mhor / Piob Mhor
+# Piob Mhor / 大高地风笛 / 大高地風琴
 piob-mhor = 0
 # Pizza / 比萨 / 披薩
 pizza = -1
@@ -3384,35 +3384,35 @@ royal-longbow = -1
 royal-shield = -1
 # Royalty / 王权 / 王權
 royalty = -1
-# Ruairc Archistaff / Ruairc Archistaff / Ruairc Archistaff
+# Ruairc Archistaff / 鲁尔克大权杖 / 盧埃克權杖
 ruairc-archistaff = 1
-# Ruairc Axe / Ruairc Axe / Ruairc Axe
+# Ruairc Axe / 鲁尔克之斧 / 盧埃克斧頭
 ruairc-axe = 1
-# Ruairc Boots / Ruairc Boots / Ruairc Boots
+# Ruairc Boots / 鲁尔克长靴 / 盧埃克長靴
 ruairc-boots = 1
-# Ruairc Cowl / Ruairc Cowl / Ruairc Cowl
+# Ruairc Cowl / 鲁尔克风帽 / 盧埃克風帽
 ruairc-cowl = 1
-# Ruairc Cuirass / Ruairc Cuirass / Ruairc Cuirass
+# Ruairc Cuirass / 鲁尔克胸甲 / 盧埃克胸甲
 ruairc-cuirass = 1
-# Ruairc Garb / Ruairc Garb / Ruairc Garb
+# Ruairc Garb / 鲁尔克皮甲 / 盧埃克皮甲
 ruairc-garb = 1
-# Ruairc Greaves / Ruairc Greaves / Ruairc Greaves
+# Ruairc Greaves / 鲁尔克护胫 / 盧埃克護脛
 ruairc-greaves = 1
-# Ruairc Headdress / Ruairc Headdress / Ruairc Headdress
+# Ruairc Headdress / 鲁尔克头饰 / 盧埃克頭巾
 ruairc-headdress = 1
-# Ruairc Helm / Ruairc Helm / Ruairc Helm
+# Ruairc Helm / 鲁尔克头盔 / 盧埃克頭盔
 ruairc-helm = 1
-# Ruairc Hood / Ruairc Hood / Ruairc Hood
+# Ruairc Hood / 鲁尔克兜帽 / 盧埃克兜帽
 ruairc-hood = 1
-# Ruairc Legwaps / Ruairc Legwaps / Ruairc Legwaps
+# Ruairc Legwaps / 鲁尔克裹腿 / 盧埃克裹腿
 ruairc-legwaps = 1
-# Ruairc Robe / Ruairc Robe / Ruairc Robe
+# Ruairc Robe / 鲁尔克法袍 / 盧埃克法袍
 ruairc-robe = 1
-# Ruairc Scythe / Ruairc Scythe / Ruairc Scythe
+# Ruairc Scythe / 鲁尔克镰刀 / 盧埃克鐮刀
 ruairc-scythe = 1
-# Ruairc Skirt / Ruairc Skirt / Ruairc Skirt
+# Ruairc Skirt / 鲁尔克长裙 / 盧埃克長裙
 ruairc-skirt = 1
-# Ruairc Tunic / Ruairc Tunic / Ruairc Tunic
+# Ruairc Tunic / 鲁尔克束腰长衫 / 盧埃克束腰外衣
 ruairc-tunic = 1
 # Ruby Wand / 红宝石魔杖 / 紅寶石魔杖
 ruby-wand = -1
@@ -3786,13 +3786,13 @@ tundric-sword = -1
 twilight-blade = 1
 # Uchigatana / 打刀 / 打刀
 uchigatana = -1
-# Ulster's Axe / Ulster's Axe / Ulster's Axe
+# Ulster's Axe / 阿尔斯特之斧 / 阿爾斯特的斧
 ulsters-axe = 1
-# Ulster's Crown / Ulster's Crown / Ulster's Crown
+# Ulster's Crown / 阿尔斯特王冠 / 阿爾斯特之冠
 ulsters-crown = 1
-# Ulster's Epee / Ulster's Epee / Ulster's Epee
+# Ulster's Epee / 阿尔斯特的佩剑 / 阿爾斯特的刺劍
 ulsters-epee = 1
-# Ulster's Sceptre / Ulster's Sceptre / Ulster's Sceptre
+# Ulster's Sceptre / 阿尔斯特权杖 / 阿爾斯特的權杖
 ulsters-sceptre = 1
 # Untamed Bull / 桀骜公牛 / 桀驁公牛
 untamed-bull = 1
