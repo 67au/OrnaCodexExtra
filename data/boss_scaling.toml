@@ -2710,6 +2710,8 @@ kings-boots = 1
 kings-hood = 1
 # King's Robe / 王之长袍 / 國王的長袍
 kings-robe = 1
+# Knight Sirus Helmet / Knight Sirus Helmet / Knight Sirus Helmet
+knight-sirus-helmet = 0
 # Kobold Armor / 地精盔甲 / 地精盔甲
 kobold-armor = -1
 # Kobold Boots / 地精长靴 / 地精長靴
@@ -2888,6 +2890,8 @@ manticore-hood = 1
 manticore-robe = 1
 # Masamune / 正宗 / 正宗
 masamune = 1
+# Medea's Hairpin / Medea's Hairpin / Medea's Hairpin
+medeas-hairpin = 0
 # Medusa's Bow / 美杜莎之弓 / 梅杜莎的弓
 medusas-bow = 1
 # Medusa's Chestplate / 美杜莎胸甲 / 梅杜莎的胸甲
@@ -3406,6 +3410,8 @@ ruairc-helm = 1
 ruairc-hood = 1
 # Ruairc Legwaps / 鲁尔克裹腿 / 盧埃克裹腿
 ruairc-legwaps = 1
+# Ruairc Legwraps / 鲁尔克裹腿 / 盧埃克裹腿
+ruairc-legwraps = 0
 # Ruairc Robe / 鲁尔克法袍 / 盧埃克法袍
 ruairc-robe = 1
 # Ruairc Scythe / 鲁尔克镰刀 / 盧埃克鐮刀
@@ -3786,13 +3792,13 @@ tundric-sword = -1
 twilight-blade = 1
 # Uchigatana / 打刀 / 打刀
 uchigatana = -1
-# Ulster's Axe / 阿尔斯特之斧 / 阿爾斯特的斧
+# Ulster's Axe / 阿尔斯特的大斧 / 阿爾斯特的斧
 ulsters-axe = 1
 # Ulster's Crown / 阿尔斯特王冠 / 阿爾斯特之冠
 ulsters-crown = 1
 # Ulster's Epee / 阿尔斯特的佩剑 / 阿爾斯特的刺劍
 ulsters-epee = 1
-# Ulster's Sceptre / 阿尔斯特权杖 / 阿爾斯特的權杖
+# Ulster's Sceptre / 阿尔斯特的权杖 / 阿爾斯特的權杖
 ulsters-sceptre = 1
 # Untamed Bull / 桀骜公牛 / 桀驁公牛
 untamed-bull = 1
