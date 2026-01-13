@@ -509,17 +509,17 @@ arisen-minotaur-axe = 1
 # Arisen Morrigan's Scroll / 重生摩莉甘卷轴 / 重生的摩莉甘卷軸
 arisen-morrigans-scroll = 1
 # Arisen Myrmidon Headdress / 重生密尔米顿头饰 / 重生密爾米頓頭巾
-arisen-myrmidon-headdress = 0
+arisen-myrmidon-headdress = 1
 # Arisen Myrmidon Headdress Diabolus / 恶神重生密尔米顿头饰 / 重生惡神密爾米頓頭巾
-arisen-myrmidon-headdress-diabolus = 0
+arisen-myrmidon-headdress-diabolus = 1
 # Arisen Myrmidon Legwraps / 重生密尔米顿裹腿 / 重生密爾米頓裹腿
-arisen-myrmidon-legwraps = 0
+arisen-myrmidon-legwraps = 1
 # Arisen Myrmidon Legwraps Diabolus / 恶神重生密尔米顿裹腿 / 重生惡神密爾米頓裹腿
-arisen-myrmidon-legwraps-diabolus = 0
+arisen-myrmidon-legwraps-diabolus = 1
 # Arisen Myrmidon Tunic / 重生密尔米顿束腰长衫 / 重生密爾米頓束腰外衣
-arisen-myrmidon-tunic = 0
+arisen-myrmidon-tunic = 1
 # Arisen Myrmidon Tunic Diabolus / 恶神重生密尔米顿束腰长衫 / 重生惡神密爾米頓束腰外衣
-arisen-myrmidon-tunic-diabolus = 0
+arisen-myrmidon-tunic-diabolus = 1
 # Arisen Nagamaki / 重生长卷 / 重生長卷
 arisen-nagamaki = 1
 # Arisen Naggeneen's Hat / 重生纳根因帽子 / 重生納根因的帽子
@@ -2067,11 +2067,11 @@ fey-menjas-shield = 1
 # Fey Menja's Warstaff / 变异门妮雅征杖 / 變異梅加征杖
 fey-menjas-warstaff = 1
 # Fey Myrmidon Headdress / 变异密尔米顿头饰 / 變異密爾米頓頭巾
-fey-myrmidon-headdress = 0
+fey-myrmidon-headdress = 1
 # Fey Myrmidon Legwraps / 变异密尔米顿裹腿 / 變異密爾米頓裹腿
-fey-myrmidon-legwraps = 0
+fey-myrmidon-legwraps = 1
 # Fey Myrmidon Tunic / 变异密尔米顿束腰长衫 / 變異密爾米頓束腰外衣
-fey-myrmidon-tunic = 0
+fey-myrmidon-tunic = 1
 # Fey Neman Cuirass / 变异妮潘胸甲 / 變異妮潘胸甲
 fey-neman-cuirass = 1
 # Fey Neman Greaves / 变异妮潘护胫 / 變異妮潘護脛
@@ -2711,7 +2711,7 @@ kings-hood = 1
 # King's Robe / 王之长袍 / 國王的長袍
 kings-robe = 1
 # Knight Sirus Helmet / Knight Sirus Helmet / Knight Sirus Helmet
-knight-sirus-helmet = 0
+knight-sirus-helmet = 1
 # Kobold Armor / 地精盔甲 / 地精盔甲
 kobold-armor = -1
 # Kobold Boots / 地精长靴 / 地精長靴
@@ -2891,7 +2891,7 @@ manticore-robe = 1
 # Masamune / 正宗 / 正宗
 masamune = 1
 # Medea's Hairpin / Medea's Hairpin / Medea's Hairpin
-medeas-hairpin = 0
+medeas-hairpin = 1
 # Medusa's Bow / 美杜莎之弓 / 梅杜莎的弓
 medusas-bow = 1
 # Medusa's Chestplate / 美杜莎胸甲 / 梅杜莎的胸甲
@@ -3411,7 +3411,7 @@ ruairc-hood = 1
 # Ruairc Legwaps / 鲁尔克裹腿 / 盧埃克裹腿
 ruairc-legwaps = 1
 # Ruairc Legwraps / 鲁尔克裹腿 / 盧埃克裹腿
-ruairc-legwraps = 0
+ruairc-legwraps = 1
 # Ruairc Robe / 鲁尔克法袍 / 盧埃克法袍
 ruairc-robe = 1
 # Ruairc Scythe / 鲁尔克镰刀 / 盧埃克鐮刀
