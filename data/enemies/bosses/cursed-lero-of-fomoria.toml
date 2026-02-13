@@ -1,4 +1,9 @@
-# Cursed Lero of Fomoria / 弗摩尔之诅咒的勒罗 / 受詛咒的弗摩爾族之勒羅
-id = "cursed-lero-of-fomoria"
+id = "bosses/cursed-lero-of-fomoria"
 
+[name]
+en = "Cursed Lero of Fomoria"
+zh-hans = "弗摩尔之诅咒的勒罗"
+zh-hant = "受詛咒的弗摩爾族之勒羅"
+
+[data]
 elementWeaknesses = ["water"]

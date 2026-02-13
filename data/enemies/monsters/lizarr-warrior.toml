@@ -1,5 +1,10 @@
-# Lizarr Warrior / 蜥蜴人战士 / 蜥蜴人戰士
-id = "lizarr-warrior"
+id = "monsters/lizarr-warrior"
 
+[name]
+en = "Lizarr Warrior"
+zh-hans = "蜥蜴人战士"
+zh-hant = "蜥蜴人戰士"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire" ]

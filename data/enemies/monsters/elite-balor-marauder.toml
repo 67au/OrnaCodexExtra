@@ -1,4 +1,9 @@
-# Elite Balor Marauder / 精英巴罗尔掠夺者 / 高端巴羅爾掠奪者
-id = "elite-balor-marauder"
+id = "monsters/elite-balor-marauder"
 
+[name]
+en = "Elite Balor Marauder"
+zh-hans = "精英巴罗尔掠夺者"
+zh-hant = "高端巴羅爾掠奪者"
+
+[data]
 elementWeaknesses = ["arcane"]

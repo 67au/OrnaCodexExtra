@@ -1,3 +1,8 @@
-# High Fomorian Mage / 高等弗摩尔族法师 / 高等弗摩爾族法師
-id = "high-fomorian-mage"
+id = "monsters/high-fomorian-mage"
 
+[name]
+en = "High Fomorian Mage"
+zh-hans = "高等弗摩尔族法师"
+zh-hant = "高等弗摩爾族法師"
+
+[data]

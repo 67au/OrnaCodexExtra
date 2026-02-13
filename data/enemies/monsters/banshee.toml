@@ -1,3 +1,8 @@
-# Banshee / 报丧女妖 / 報喪女妖
-id = "banshee"
+id = "monsters/banshee"
 
+[name]
+en = "Banshee"
+zh-hans = "报丧女妖"
+zh-hant = "報喪女妖"
+
+[data]

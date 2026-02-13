@@ -1,6 +1,11 @@
-# Glatisant / 吠兽 / 吠獸
-id = "glatisant"
+id = "bosses/glatisant"
 
+[name]
+en = "Glatisant"
+zh-hans = "吠兽"
+zh-hant = "吠獸"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementImmunities = [ "fire" ]
 elementResistances = [ "lightning" ]

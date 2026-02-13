@@ -1,3 +1,8 @@
-# Conall / 科纳尔 / 科納爾
-id = "conall"
+id = "monsters/conall"
 
+[name]
+en = "Conall"
+zh-hans = "科纳尔"
+zh-hant = "科納爾"
+
+[data]

@@ -1,7 +1,8 @@
-# Beheaded Stargazer / 无头观星者 / 喪首觀星者
-id = "beheaded-stargazer"
+id = "monsters/beheaded-stargazer"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Stargazer"
+zh-hans = "无头观星者"
+zh-hant = "喪首觀星者"
+
+[data]

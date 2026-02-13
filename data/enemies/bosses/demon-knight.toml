@@ -1,4 +1,9 @@
-# Demon Knight / 恶魔骑士 / 惡魔騎士
-id = "demon-knight"
+id = "bosses/demon-knight"
 
+[name]
+en = "Demon Knight"
+zh-hans = "恶魔骑士"
+zh-hant = "惡魔騎士"
+
+[data]
 elementWeaknesses = ["holy"]

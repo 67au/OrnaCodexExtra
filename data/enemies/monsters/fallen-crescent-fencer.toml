@@ -1,3 +1,8 @@
-# Fallen Crescent-Fencer / 堕落新月悍将 / 墮落月牙悍將
-id = "fallen-crescent-fencer"
+id = "monsters/fallen-crescent-fencer"
 
+[name]
+en = "Fallen Crescent-Fencer"
+zh-hans = "堕落新月悍将"
+zh-hant = "墮落月牙悍將"
+
+[data]

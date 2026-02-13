@@ -1,4 +1,9 @@
-# Barbarian / 野蛮人 / 野蠻人
-id = "barbarian"
+id = "monsters/barbarian"
 
+[name]
+en = "Barbarian"
+zh-hans = "野蛮人"
+zh-hant = "野蠻人"
+
+[data]
 elementWeaknesses = [ "water" ]

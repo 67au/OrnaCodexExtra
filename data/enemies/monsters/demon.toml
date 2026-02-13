@@ -1,5 +1,10 @@
-# Demon / 恶魔 / 惡魔
-id = "demon"
+id = "monsters/demon"
 
+[name]
+en = "Demon"
+zh-hans = "恶魔"
+zh-hant = "惡魔"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["dark"]

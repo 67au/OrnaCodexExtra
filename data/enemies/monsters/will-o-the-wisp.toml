@@ -1,4 +1,9 @@
-# Will-o'-the-wisp / 鬼火 / 鬼火
-id = "will-o-the-wisp"
+id = "monsters/will-o-the-wisp"
 
+[name]
+en = "Will-o'-the-wisp"
+zh-hans = "鬼火"
+zh-hant = "鬼火"
+
+[data]
 elementResistances = [ "physical" ]

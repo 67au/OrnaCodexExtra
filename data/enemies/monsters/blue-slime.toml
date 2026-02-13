@@ -1,4 +1,9 @@
-# Blue Slime / 蓝色史莱姆 / 藍色史萊姆
-id = "blue-slime"
+id = "monsters/blue-slime"
 
+[name]
+en = "Blue Slime"
+zh-hans = "蓝色史莱姆"
+zh-hant = "藍色史萊姆"
+
+[data]
 elementResistances = [ "physical" ]

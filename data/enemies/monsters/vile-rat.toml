@@ -1,3 +1,8 @@
-# Vile Rat / 可憎的老鼠 / 卑鄙的老鼠
-id = "vile-rat"
+id = "monsters/vile-rat"
 
+[name]
+en = "Vile Rat"
+zh-hans = "可憎的老鼠"
+zh-hant = "卑鄙的老鼠"
+
+[data]

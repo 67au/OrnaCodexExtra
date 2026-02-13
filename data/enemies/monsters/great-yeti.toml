@@ -1,6 +1,11 @@
-# Great Yeti / 大雪怪 / 大雪怪
-id = "great-yeti"
+id = "monsters/great-yeti"
 
+[name]
+en = "Great Yeti"
+zh-hans = "大雪怪"
+zh-hant = "大雪怪"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementImmunities = [ "water" ]
 statusImmunities = [ "frozen" ]

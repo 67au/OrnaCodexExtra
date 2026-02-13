@@ -1,3 +1,8 @@
-# Great Monoceros / 强大的一角兽 / 強大的一角獸
-id = "great-monoceros"
+id = "monsters/great-monoceros"
 
+[name]
+en = "Great Monoceros"
+zh-hans = "强大的一角兽"
+zh-hant = "強大的一角獸"
+
+[data]

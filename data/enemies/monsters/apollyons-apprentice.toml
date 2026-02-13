@@ -1,5 +1,10 @@
-# Apollyon's Apprentice / 亚玻伦的学徒 / 亞坡倫的學徒
-id = "apollyons-apprentice"
+id = "monsters/apollyons-apprentice"
 
+[name]
+en = "Apollyon's Apprentice"
+zh-hans = "亚玻伦的学徒"
+zh-hant = "亞坡倫的學徒"
+
+[data]
 elementImmunities = [ "dark", "holy", "dragon", "arcane" ]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

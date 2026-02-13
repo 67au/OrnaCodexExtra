@@ -1,5 +1,10 @@
-# Behemoth (Arisen) / 贝西摩斯 (重生者) / 貝西摩斯 (重生者)
-id = "behemoth"
+id = "monsters/behemoth"
 
+[name]
+en = "Behemoth (Arisen)"
+zh-hans = "贝西摩斯 (重生者)"
+zh-hant = "貝西摩斯 (重生者)"
+
+[data]
 elementWeaknesses = [ "fire" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]

@@ -1,6 +1,11 @@
-# Kelpie / 凯尔皮 / 凱爾皮
-id = "kelpie"
+id = "bosses/kelpie"
 
+[name]
+en = "Kelpie"
+zh-hans = "凯尔皮"
+zh-hant = "凱爾皮"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementImmunities = [ "water", "fire", "dark" ]
 elementResistances = [ "dragon" ]

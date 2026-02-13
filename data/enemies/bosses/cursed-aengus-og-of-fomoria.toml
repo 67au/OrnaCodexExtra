@@ -1,6 +1,11 @@
-# Cursed Aengus Og of Fomoria / 弗摩尔之诅咒的安格斯奥格 / 受詛咒的弗摩爾族之安格斯奧格
-id = "cursed-aengus-og-of-fomoria"
+id = "bosses/cursed-aengus-og-of-fomoria"
 
+[name]
+en = "Cursed Aengus Og of Fomoria"
+zh-hans = "弗摩尔之诅咒的安格斯奥格"
+zh-hant = "受詛咒的弗摩爾族之安格斯奧格"
+
+[data]
 elementWeaknesses = [ "water", "dark" ]
 elementImmunities = [ "fire" ]
 elementResistances = [ "lightning", "earthen" ]

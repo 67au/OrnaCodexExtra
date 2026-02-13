@@ -1,5 +1,10 @@
-# Harpy / 鹰身女妖 / 鷹身女妖
-id = "harpy"
+id = "monsters/harpy"
 
+[name]
+en = "Harpy"
+zh-hans = "鹰身女妖"
+zh-hant = "鷹身女妖"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "earthen" ]

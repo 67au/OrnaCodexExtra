@@ -1,4 +1,9 @@
-# Great Jinn / 大神灯精灵 / 大神燈精靈
-id = "great-jinn"
+id = "bosses/great-jinn"
 
+[name]
+en = "Great Jinn"
+zh-hans = "大神灯精灵"
+zh-hant = "大神燈精靈"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]

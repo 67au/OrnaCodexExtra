@@ -1,3 +1,8 @@
-# Bricriu / 布里克留 / 布里克留
-id = "bricriu"
+id = "monsters/bricriu"
 
+[name]
+en = "Bricriu"
+zh-hans = "布里克留"
+zh-hant = "布里克留"
+
+[data]

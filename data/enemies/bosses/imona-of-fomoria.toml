@@ -1,5 +1,10 @@
-# Imona of Fomoria / 弗摩尔之伊莫娜 / 弗摩爾族之埃莫那
-id = "imona-of-fomoria"
+id = "bosses/imona-of-fomoria"
 
+[name]
+en = "Imona of Fomoria"
+zh-hans = "弗摩尔之伊莫娜"
+zh-hant = "弗摩爾族之埃莫那"
+
+[data]
 elementImmunities = [ "water", "earthen" ]
 elementResistances = [ "lightning", "holy" ]

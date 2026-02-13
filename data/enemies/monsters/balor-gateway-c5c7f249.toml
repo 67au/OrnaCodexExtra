@@ -1,6 +1,11 @@
-# Balor Gateway / 巴罗尔任意门 / 巴羅爾任意門
-id = "balor-gateway-c5c7f249"
+id = "monsters/balor-gateway-c5c7f249"
 
+[name]
+en = "Balor Gateway"
+zh-hans = "巴罗尔任意门"
+zh-hant = "巴羅爾任意門"
+
+[data]
 elementWeaknesses = [ "arcane" ]
 elementImmunities = [ "fire", "lightning" ]
 elementResistances = [ "dark", "holy", "dragon" ]

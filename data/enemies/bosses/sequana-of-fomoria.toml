@@ -1,5 +1,10 @@
-# Sequana of Fomoria / 弗摩尔之塞夸纳 / 弗摩爾族之塞夸納
-id = "sequana-of-fomoria"
+id = "bosses/sequana-of-fomoria"
 
+[name]
+en = "Sequana of Fomoria"
+zh-hans = "弗摩尔之塞夸纳"
+zh-hant = "弗摩爾族之塞夸納"
+
+[data]
 elementImmunities = [ "lightning", "holy" ]
 elementResistances = [ "water" ]

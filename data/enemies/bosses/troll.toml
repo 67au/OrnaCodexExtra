@@ -1,3 +1,8 @@
-# Troll / 巨魔 / 巨魔
-id = "troll"
+id = "bosses/troll"
 
+[name]
+en = "Troll"
+zh-hans = "巨魔"
+zh-hant = "巨魔"
+
+[data]

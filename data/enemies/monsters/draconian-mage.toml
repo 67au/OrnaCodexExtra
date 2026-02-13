@@ -1,3 +1,8 @@
-# Draconian Mage / 德肯尼亚族法师 / 德肯尼亞族法師
-id = "draconian-mage"
+id = "monsters/draconian-mage"
 
+[name]
+en = "Draconian Mage"
+zh-hans = "德肯尼亚族法师"
+zh-hant = "德肯尼亞族法師"
+
+[data]

@@ -1,2 +1,8 @@
-# Spiritgarm (Arisen) / 幽灵加姆 (重生者) / 靈獸加姆 (重生者)
-id = "spiritgarm-732978de"
+id = "monsters/spiritgarm-732978de"
+
+[name]
+en = "Spiritgarm (Arisen)"
+zh-hans = "幽灵加姆 (重生者)"
+zh-hant = "靈獸加姆 (重生者)"
+
+[data]

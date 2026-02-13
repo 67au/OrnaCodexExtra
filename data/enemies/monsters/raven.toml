@@ -1,4 +1,9 @@
-# Raven / 渡鸦 / 渡鴉
-id = "raven"
+id = "monsters/raven"
 
+[name]
+en = "Raven"
+zh-hans = "渡鸦"
+zh-hant = "渡鴉"
+
+[data]
 elementResistances = [ "water", "earthen" ]

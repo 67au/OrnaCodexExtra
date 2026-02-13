@@ -1,3 +1,8 @@
-# Fomorian Druid / 弗摩尔族德鲁伊 / 弗摩爾族德魯伊
-id = "fomorian-druid"
+id = "monsters/fomorian-druid"
 
+[name]
+en = "Fomorian Druid"
+zh-hans = "弗摩尔族德鲁伊"
+zh-hant = "弗摩爾族德魯伊"
+
+[data]

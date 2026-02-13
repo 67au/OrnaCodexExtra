@@ -1,4 +1,9 @@
-# Deadwood / 死木 / 死木
-id = "deadwood"
+id = "monsters/deadwood"
 
+[name]
+en = "Deadwood"
+zh-hans = "死木"
+zh-hant = "死木"
+
+[data]
 elementWeaknesses = [ "fire" ]

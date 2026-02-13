@@ -1,6 +1,11 @@
-# Cursed Caticatona of Fomoria / 弗摩尔之诅咒的卡蒂卡托娜 / 受詛咒的弗摩爾族之卡卡托娜
-id = "cursed-caticatona-of-fomoria"
+id = "bosses/cursed-caticatona-of-fomoria"
 
+[name]
+en = "Cursed Caticatona of Fomoria"
+zh-hans = "弗摩尔之诅咒的卡蒂卡托娜"
+zh-hant = "受詛咒的弗摩爾族之卡卡托娜"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementImmunities = [ "holy" ]
 elementResistances = [ "water", "earthen" ]

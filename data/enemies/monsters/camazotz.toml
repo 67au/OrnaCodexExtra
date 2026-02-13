@@ -1,5 +1,10 @@
-# Camazotz (Arisen) / 卡马佐兹 (重生者) / 卡馬佐茲 (重生者)
-id = "camazotz"
+id = "monsters/camazotz"
 
+[name]
+en = "Camazotz (Arisen)"
+zh-hans = "卡马佐兹 (重生者)"
+zh-hant = "卡馬佐茲 (重生者)"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "earthen" ]

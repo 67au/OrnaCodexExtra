@@ -1,3 +1,8 @@
-# Ogre / 食人魔 / 食人魔
-id = "ogre"
+id = "monsters/ogre"
 
+[name]
+en = "Ogre"
+zh-hans = "食人魔"
+zh-hant = "食人魔"
+
+[data]

@@ -1,4 +1,9 @@
-# Almighty Balin / 全能巴林 / 全能的巴林
-id = "almighty-balin"
+id = "raids/almighty-balin"
 
+[name]
+en = "Almighty Balin"
+zh-hans = "全能巴林"
+zh-hant = "全能的巴林"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

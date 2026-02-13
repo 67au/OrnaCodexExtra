@@ -1,5 +1,10 @@
-# Chimera / 奇美拉 / 奇美拉
-id = "chimera"
+id = "monsters/chimera"
 
+[name]
+en = "Chimera"
+zh-hans = "奇美拉"
+zh-hant = "奇美拉"
+
+[data]
 elementWeaknesses = [ "fire", "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

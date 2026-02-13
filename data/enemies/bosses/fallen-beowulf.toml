@@ -1,5 +1,10 @@
-# Fallen Beowulf / 堕落的贝奥武夫 / 墮落的貝奧武夫
-id = "fallen-beowulf"
+id = "bosses/fallen-beowulf"
 
+[name]
+en = "Fallen Beowulf"
+zh-hans = "堕落的贝奥武夫"
+zh-hant = "墮落的貝奧武夫"
+
+[data]
 elementImmunities = ["dragon"]
 statusImmunities = ["frozen", "paralyzed", "rot", "blind", "asleep"]

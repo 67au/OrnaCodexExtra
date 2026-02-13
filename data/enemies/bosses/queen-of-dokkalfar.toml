@@ -1,6 +1,11 @@
-# Queen of Dokkalfar / 夜之精灵女王 / 夜之精靈女王
-id = "queen-of-dokkalfar"
+id = "bosses/queen-of-dokkalfar"
 
+[name]
+en = "Queen of Dokkalfar"
+zh-hans = "夜之精灵女王"
+zh-hant = "夜之精靈女王"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["dark"]
 statusImmunities = ["poisoned", "bleeding", "burning", "rot", "blind", "asleep", "blight", "petrified"]

@@ -1,3 +1,8 @@
-# Twilight Knight / 暮光骑士 / 暮光騎士
-id = "twilight-knight"
+id = "bosses/twilight-knight"
 
+[name]
+en = "Twilight Knight"
+zh-hans = "暮光骑士"
+zh-hant = "暮光騎士"
+
+[data]

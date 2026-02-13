@@ -1,5 +1,10 @@
-# Fey Merrow / 变异人鱼 / 變異人魚
-id = "fey-merrow"
+id = "monsters/fey-merrow"
 
+[name]
+en = "Fey Merrow"
+zh-hans = "变异人鱼"
+zh-hant = "變異人魚"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "earthen" ]

@@ -1,4 +1,9 @@
-# Ophion of Olympia / 奥林匹亚之俄菲翁 / 奧林匹亞的俄菲翁
-id = "ophion-of-olympia"
+id = "raids/ophion-of-olympia"
 
+[name]
+en = "Ophion of Olympia"
+zh-hans = "奥林匹亚之俄菲翁"
+zh-hant = "奧林匹亞的俄菲翁"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

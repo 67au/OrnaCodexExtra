@@ -1,3 +1,8 @@
-# Greater Yokai / 大妖怪 / 大妖怪
-id = "greater-yokai"
+id = "monsters/greater-yokai"
 
+[name]
+en = "Greater Yokai"
+zh-hans = "大妖怪"
+zh-hant = "大妖怪"
+
+[data]

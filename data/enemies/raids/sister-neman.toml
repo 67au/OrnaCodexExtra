@@ -1,5 +1,10 @@
-# Sister Neman / 妮潘 / 妮潘
-id = "sister-neman"
+id = "raids/sister-neman"
 
+[name]
+en = "Sister Neman"
+zh-hans = "妮潘"
+zh-hant = "妮潘"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "def_d", "def_dd", "mag_d", "t__mag_d", "t__mag_dd", "res_dd", "res_d" ]

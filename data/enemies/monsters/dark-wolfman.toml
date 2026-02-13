@@ -1,4 +1,9 @@
-# Dark Wolfman / 黑暗狼人 / 黑暗狼人
-id = "dark-wolfman"
+id = "monsters/dark-wolfman"
 
+[name]
+en = "Dark Wolfman"
+zh-hans = "黑暗狼人"
+zh-hant = "黑暗狼人"
+
+[data]
 elementWeaknesses = [ "fire" ]

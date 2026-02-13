@@ -1,7 +1,8 @@
-# Fey Selkie / 变异海豹女 / 變異海豹女
-id = "fey-selkie"
+id = "monsters/fey-selkie"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Fey Selkie"
+zh-hans = "变异海豹女"
+zh-hant = "變異海豹女"
+
+[data]

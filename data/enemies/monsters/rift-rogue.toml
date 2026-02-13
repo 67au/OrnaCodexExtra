@@ -1,3 +1,8 @@
-# Rift Rogue / 裂隙侠盗 / 裂痕俠盜
-id = "rift-rogue"
+id = "monsters/rift-rogue"
 
+[name]
+en = "Rift Rogue"
+zh-hans = "裂隙侠盗"
+zh-hant = "裂痕俠盜"
+
+[data]

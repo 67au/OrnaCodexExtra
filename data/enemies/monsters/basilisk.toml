@@ -1,5 +1,10 @@
-# Basilisk / 巴西利斯克 / 巴西利斯克
-id = "basilisk"
+id = "monsters/basilisk"
 
+[name]
+en = "Basilisk"
+zh-hans = "巴西利斯克"
+zh-hant = "巴西利斯克"
+
+[data]
 elementWeaknesses = [ "water" ]
 statusImmunities = [ "poisoned", "blight" ]

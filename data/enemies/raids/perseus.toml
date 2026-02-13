@@ -1,5 +1,10 @@
-# Perseus / 珀尔修斯 / 柏修斯
-id = "perseus"
+id = "raids/perseus"
 
+[name]
+en = "Perseus"
+zh-hans = "珀尔修斯"
+zh-hant = "柏修斯"
+
+[data]
 elementResistances = [ "dark" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

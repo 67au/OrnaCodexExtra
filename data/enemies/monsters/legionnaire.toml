@@ -1,5 +1,10 @@
-# Legionnaire / 军团士兵 / 軍團士兵
-id = "legionnaire"
+id = "monsters/legionnaire"
 
+[name]
+en = "Legionnaire"
+zh-hans = "军团士兵"
+zh-hant = "軍團士兵"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["earthen"]

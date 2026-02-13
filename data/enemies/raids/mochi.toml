@@ -1,5 +1,10 @@
-# Mochi / Mochi / Mochi
-id = "mochi"
+id = "raids/mochi"
 
+[name]
+en = "Mochi"
+zh-hans = "Mochi"
+zh-hant = "Mochi"
+
+[data]
 elementImmunities = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

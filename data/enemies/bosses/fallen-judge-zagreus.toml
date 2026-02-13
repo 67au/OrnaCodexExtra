@@ -1,5 +1,10 @@
-# Fallen Judge Zagreus / 堕落判官扎格列欧斯 / 墮落判官扎格柔斯
-id = "fallen-judge-zagreus"
+id = "bosses/fallen-judge-zagreus"
 
+[name]
+en = "Fallen Judge Zagreus"
+zh-hans = "堕落判官扎格列欧斯"
+zh-hant = "墮落判官扎格柔斯"
+
+[data]
 elementImmunities = [ "dark", "holy" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "blind", "asleep", "petrified", "stasis" ]

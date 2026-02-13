@@ -1,5 +1,10 @@
-# Merrow / 人鱼 / 人魚
-id = "merrow"
+id = "monsters/merrow"
 
+[name]
+en = "Merrow"
+zh-hans = "人鱼"
+zh-hant = "人魚"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementImmunities = [ "earthen" ]

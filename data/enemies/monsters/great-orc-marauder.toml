@@ -1,3 +1,8 @@
-# Great Orc Marauder / 强大巨魔掠夺者 / 強大巨魔掠奪者
-id = "great-orc-marauder"
+id = "monsters/great-orc-marauder"
 
+[name]
+en = "Great Orc Marauder"
+zh-hans = "强大巨魔掠夺者"
+zh-hant = "強大巨魔掠奪者"
+
+[data]

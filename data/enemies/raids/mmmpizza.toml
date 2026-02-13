@@ -1,5 +1,10 @@
-# MmmPizza / MmmPizza / MmmPizza
-id = "mmmpizza"
+id = "raids/mmmpizza"
 
+[name]
+en = "MmmPizza"
+zh-hans = "MmmPizza"
+zh-hant = "MmmPizza"
+
+[data]
 elementResistances = [ "fire" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

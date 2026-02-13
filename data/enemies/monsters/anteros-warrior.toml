@@ -1,4 +1,9 @@
-# Anteros Warrior / 安忒洛斯战士 / 安特羅斯戰士
-id = "anteros-warrior"
+id = "monsters/anteros-warrior"
 
+[name]
+en = "Anteros Warrior"
+zh-hans = "安忒洛斯战士"
+zh-hant = "安特羅斯戰士"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

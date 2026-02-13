@@ -1,4 +1,9 @@
-# Anteros Brute / 安忒洛斯野蛮人 / 安特羅斯菁英
-id = "anteros-brute"
+id = "monsters/anteros-brute"
 
+[name]
+en = "Anteros Brute"
+zh-hans = "安忒洛斯野蛮人"
+zh-hant = "安特羅斯菁英"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

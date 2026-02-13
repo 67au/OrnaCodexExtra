@@ -1,5 +1,10 @@
-# Hel / 赫尔 / 赫爾
-id = "hel"
+id = "raids/hel"
 
+[name]
+en = "Hel"
+zh-hans = "赫尔"
+zh-hant = "赫爾"
+
+[data]
 elementImmunities = ["lightning"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

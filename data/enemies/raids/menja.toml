@@ -1,4 +1,9 @@
-# Menja / 门妮雅 / 梅加
-id = "menja"
+id = "raids/menja"
 
+[name]
+en = "Menja"
+zh-hans = "门妮雅"
+zh-hant = "梅加"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "mag_d", "t__mag_d"]

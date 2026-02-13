@@ -1,4 +1,9 @@
-# Anteros Guard / 安忒洛斯守卫 / 安特羅斯守衛
-id = "anteros-guard"
+id = "monsters/anteros-guard"
 
+[name]
+en = "Anteros Guard"
+zh-hans = "安忒洛斯守卫"
+zh-hant = "安特羅斯守衛"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

@@ -1,4 +1,9 @@
-# Snow Elf Mage / 雪精灵法师 / 雪精靈法師
-id = "snow-elf-mage"
+id = "monsters/snow-elf-mage"
 
+[name]
+en = "Snow Elf Mage"
+zh-hans = "雪精灵法师"
+zh-hant = "雪精靈法師"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]

@@ -1,4 +1,9 @@
-# Hobgoblin / 巨型哥布林 / 巨型哥布林
-id = "hobgoblin"
+id = "monsters/hobgoblin"
 
+[name]
+en = "Hobgoblin"
+zh-hans = "巨型哥布林"
+zh-hant = "巨型哥布林"
+
+[data]
 elementWeaknesses = [ "fire" ]

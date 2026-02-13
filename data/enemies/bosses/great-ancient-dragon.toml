@@ -1,4 +1,9 @@
-# Great Ancient Dragon / 原始巨龙 / 古老巨龍
-id = "great-ancient-dragon"
+id = "bosses/great-ancient-dragon"
 
+[name]
+en = "Great Ancient Dragon"
+zh-hans = "原始巨龙"
+zh-hant = "古老巨龍"
+
+[data]
 elementWeaknesses = [ "dragon" ]

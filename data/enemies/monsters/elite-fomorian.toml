@@ -1,4 +1,9 @@
-# Elite Fomorian / 精英弗摩尔族 / 高端弗摩爾族
-id = "elite-fomorian"
+id = "monsters/elite-fomorian"
 
+[name]
+en = "Elite Fomorian"
+zh-hans = "精英弗摩尔族"
+zh-hant = "高端弗摩爾族"
+
+[data]
 elementWeaknesses = [ "lightning" ]

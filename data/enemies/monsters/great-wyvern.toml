@@ -1,5 +1,10 @@
-# Great Wyvern / 大飞龙 / 大飛龍
-id = "great-wyvern"
+id = "monsters/great-wyvern"
 
+[name]
+en = "Great Wyvern"
+zh-hans = "大飞龙"
+zh-hant = "大飛龍"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "water", "fire", "lightning", "dark", "holy", "physical" ]

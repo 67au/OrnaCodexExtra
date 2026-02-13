@@ -1,4 +1,9 @@
-# Glashtyn / 格拉辛 / 格拉斯汀
-id = "glashtyn"
+id = "monsters/glashtyn"
 
+[name]
+en = "Glashtyn"
+zh-hans = "格拉辛"
+zh-hant = "格拉斯汀"
+
+[data]
 elementWeaknesses = ["lightning"]

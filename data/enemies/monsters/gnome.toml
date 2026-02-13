@@ -1,4 +1,9 @@
-# Gnome / 侏儒 / 侏儒
-id = "gnome"
+id = "monsters/gnome"
 
+[name]
+en = "Gnome"
+zh-hans = "侏儒"
+zh-hant = "侏儒"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy", "dragon" ]

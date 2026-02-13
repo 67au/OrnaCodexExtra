@@ -1,6 +1,11 @@
-# Ashen Phoenix / 苍白凤凰 / 蒼白鳳凰
-id = "ashen-phoenix"
+id = "raids/ashen-phoenix"
 
+[name]
+en = "Ashen Phoenix"
+zh-hans = "苍白凤凰"
+zh-hant = "蒼白鳳凰"
+
+[data]
 elementImmunities = [ "fire" ]
 elementResistances = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

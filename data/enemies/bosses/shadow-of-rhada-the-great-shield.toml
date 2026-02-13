@@ -1,4 +1,9 @@
-# Shadow of Rhada, the Great Shield / 巨盾拉达之影 / 大盾拉達之暗影
-id = "shadow-of-rhada-the-great-shield"
+id = "bosses/shadow-of-rhada-the-great-shield"
 
+[name]
+en = "Shadow of Rhada, the Great Shield"
+zh-hans = "巨盾拉达之影"
+zh-hant = "大盾拉達之暗影"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "rot", "blight"]

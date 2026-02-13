@@ -1,4 +1,9 @@
-# Elite Balor Warlock / 精英巴罗尔术士 / 高端巴羅爾術士
-id = "elite-balor-warlock"
+id = "monsters/elite-balor-warlock"
 
+[name]
+en = "Elite Balor Warlock"
+zh-hans = "精英巴罗尔术士"
+zh-hant = "高端巴羅爾術士"
+
+[data]
 elementWeaknesses = ["arcane"]

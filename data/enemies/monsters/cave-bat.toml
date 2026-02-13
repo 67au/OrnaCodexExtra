@@ -1,5 +1,10 @@
-# Cave Bat / 洞穴蝙蝠 / 洞穴蝙蝠
-id = "cave-bat"
+id = "monsters/cave-bat"
 
+[name]
+en = "Cave Bat"
+zh-hans = "洞穴蝙蝠"
+zh-hant = "洞穴蝙蝠"
+
+[data]
 elementResistances = [ "earthen" ]
 statusImmunities = [ "poisoned" ]

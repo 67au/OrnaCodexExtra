@@ -1,4 +1,9 @@
-# Fomor / 弗摩尔 / 弗摩爾
-id = "fomor"
+id = "raids/fomor"
 
+[name]
+en = "Fomor"
+zh-hans = "弗摩尔"
+zh-hant = "弗摩爾"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

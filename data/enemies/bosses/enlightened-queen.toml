@@ -1,3 +1,8 @@
-# Enlightened Queen / 启蒙者之后 / 啟蒙者之后
-id = "enlightened-queen"
+id = "bosses/enlightened-queen"
 
+[name]
+en = "Enlightened Queen"
+zh-hans = "启蒙者之后"
+zh-hant = "啟蒙者之后"
+
+[data]

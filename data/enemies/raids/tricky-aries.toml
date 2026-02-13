@@ -1,5 +1,10 @@
-# Tricky Aries / 狡诈之亚力士 / 狡詐的亞力士
-id = "tricky-aries"
+id = "raids/tricky-aries"
 
+[name]
+en = "Tricky Aries"
+zh-hans = "狡诈之亚力士"
+zh-hant = "狡詐的亞力士"
+
+[data]
 elementResistances = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

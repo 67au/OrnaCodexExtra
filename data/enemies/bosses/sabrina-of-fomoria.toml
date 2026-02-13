@@ -1,5 +1,10 @@
-# Sabrina of Fomoria / 弗摩尔之萨布丽娜 / 弗摩爾族之莎賓娜
-id = "sabrina-of-fomoria"
+id = "bosses/sabrina-of-fomoria"
 
+[name]
+en = "Sabrina of Fomoria"
+zh-hans = "弗摩尔之萨布丽娜"
+zh-hant = "弗摩爾族之莎賓娜"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["dark"]

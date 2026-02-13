@@ -1,4 +1,9 @@
-# The Creator / 造物者 / 造物者
-id = "the-creator"
+id = "raids/the-creator"
 
+[name]
+en = "The Creator"
+zh-hans = "造物者"
+zh-hant = "造物者"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis"]

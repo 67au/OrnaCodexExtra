@@ -1,6 +1,11 @@
-# Frost Core / 寒霜之核 / 寒霜核心
-id = "frost-core"
+id = "monsters/frost-core"
 
+[name]
+en = "Frost Core"
+zh-hans = "寒霜之核"
+zh-hant = "寒霜核心"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["water"]
 statusImmunities = ["frozen"]

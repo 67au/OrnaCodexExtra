@@ -1,4 +1,9 @@
-# Fey Dragon / 变异巨龙 / 變異巨龍
-id = "fey-dragon"
+id = "raids/fey-dragon"
 
+[name]
+en = "Fey Dragon"
+zh-hans = "变异巨龙"
+zh-hant = "變異巨龍"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]

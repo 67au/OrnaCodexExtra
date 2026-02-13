@@ -1,4 +1,9 @@
-# Arisen Yggdrasil / 重生世界树 / 重生世界樹
-id = "arisen-yggdrasil"
+id = "raids/arisen-yggdrasil"
 
+[name]
+en = "Arisen Yggdrasil"
+zh-hans = "重生世界树"
+zh-hant = "重生世界樹"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]

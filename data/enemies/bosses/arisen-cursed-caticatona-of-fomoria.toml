@@ -1,4 +1,9 @@
-# Arisen Cursed Caticatona of Fomoria / 弗摩尔之重生诅咒的卡蒂卡托娜 / 重生受詛咒的弗摩爾族之卡卡托娜
-id = "arisen-cursed-caticatona-of-fomoria"
+id = "bosses/arisen-cursed-caticatona-of-fomoria"
 
+[name]
+en = "Arisen Cursed Caticatona of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的卡蒂卡托娜"
+zh-hant = "重生受詛咒的弗摩爾族之卡卡托娜"
+
+[data]
 elementWeaknesses = ["water"]

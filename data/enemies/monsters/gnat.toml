@@ -1,5 +1,10 @@
-# Gnat / 蚋 / 蚋
-id = "gnat"
+id = "monsters/gnat"
 
+[name]
+en = "Gnat"
+zh-hans = "蚋"
+zh-hant = "蚋"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementResistances = [ "earthen" ]

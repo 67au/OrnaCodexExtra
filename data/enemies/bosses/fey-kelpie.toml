@@ -1,6 +1,11 @@
-# Fey Kelpie / 变异凯尔皮 / 變異凱爾皮
-id = "fey-kelpie"
+id = "bosses/fey-kelpie"
 
+[name]
+en = "Fey Kelpie"
+zh-hans = "变异凯尔皮"
+zh-hant = "變異凱爾皮"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementImmunities = [ "water", "fire", "dark" ]
 elementResistances = [ "dragon" ]

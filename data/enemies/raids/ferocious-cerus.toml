@@ -1,5 +1,10 @@
-# Ferocious Cerus / 凶残金牛凯鲁斯 / 兇殘凱魯斯
-id = "ferocious-cerus"
+id = "raids/ferocious-cerus"
 
+[name]
+en = "Ferocious Cerus"
+zh-hans = "凶残金牛凯鲁斯"
+zh-hant = "兇殘凱魯斯"
+
+[data]
 elementResistances = [ "fire" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

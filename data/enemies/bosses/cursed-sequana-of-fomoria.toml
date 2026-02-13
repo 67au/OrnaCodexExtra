@@ -1,5 +1,10 @@
-# Cursed Sequana of Fomoria / 弗摩尔之诅咒的塞夸纳 / 受詛咒的弗摩爾族之塞夸納
-id = "cursed-sequana-of-fomoria"
+id = "bosses/cursed-sequana-of-fomoria"
 
+[name]
+en = "Cursed Sequana of Fomoria"
+zh-hans = "弗摩尔之诅咒的塞夸纳"
+zh-hant = "受詛咒的弗摩爾族之塞夸納"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["dark", "holy"]

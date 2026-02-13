@@ -1,4 +1,9 @@
-# Garm / 加姆 / 加姆
-id = "garm"
+id = "monsters/garm"
 
+[name]
+en = "Garm"
+zh-hans = "加姆"
+zh-hant = "加姆"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "blind", "asleep", "blight"]

@@ -1,6 +1,11 @@
-# Frightening Skeleton / 惊恐骷髅 / 驚恐骷髏
-id = "frightening-skeleton"
+id = "monsters/frightening-skeleton"
 
+[name]
+en = "Frightening Skeleton"
+zh-hans = "惊恐骷髅"
+zh-hant = "驚恐骷髏"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementResistances = [ "dark" ]
 statusImmunities = [ "bleeding", "burning" ]

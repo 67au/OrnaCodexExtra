@@ -1,4 +1,9 @@
-# Fomorian Lord / 弗摩尔领主 / 弗摩爾領主
-id = "fomorian-lord"
+id = "bosses/fomorian-lord"
 
+[name]
+en = "Fomorian Lord"
+zh-hans = "弗摩尔领主"
+zh-hant = "弗摩爾領主"
+
+[data]
 elementWeaknesses = ["dark"]

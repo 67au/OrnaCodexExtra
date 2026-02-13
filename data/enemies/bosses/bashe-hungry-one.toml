@@ -1,6 +1,11 @@
-# Bashe, Hungry One / 饥饿之巴蛇 / 飢餓之巴蛇
-id = "bashe-hungry-one"
+id = "bosses/bashe-hungry-one"
 
+[name]
+en = "Bashe, Hungry One"
+zh-hans = "饥饿之巴蛇"
+zh-hant = "飢餓之巴蛇"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "fire", "lightning" ]

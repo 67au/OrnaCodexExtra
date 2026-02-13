@@ -1,4 +1,9 @@
-# Crimson Yokai / 赤红妖怪 / 赤紅妖怪
-id = "crimson-yokai"
+id = "monsters/crimson-yokai"
 
+[name]
+en = "Crimson Yokai"
+zh-hans = "赤红妖怪"
+zh-hant = "赤紅妖怪"
+
+[data]
 elementWeaknesses = [ "lightning" ]

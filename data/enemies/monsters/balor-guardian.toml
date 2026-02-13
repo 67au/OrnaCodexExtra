@@ -1,4 +1,9 @@
-# Balor Guardian / 巴罗尔守卫 / 巴羅爾守衛
-id = "balor-guardian"
+id = "monsters/balor-guardian"
 
+[name]
+en = "Balor Guardian"
+zh-hans = "巴罗尔守卫"
+zh-hant = "巴羅爾守衛"
+
+[data]
 elementWeaknesses = ["arcane"]

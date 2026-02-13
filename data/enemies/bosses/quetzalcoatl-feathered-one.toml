@@ -1,6 +1,11 @@
-# Quetzalcoatl, Feathered One / 天翼之羽蛇神 / 天翼之羽蛇神
-id = "quetzalcoatl-feathered-one"
+id = "bosses/quetzalcoatl-feathered-one"
 
+[name]
+en = "Quetzalcoatl, Feathered One"
+zh-hans = "天翼之羽蛇神"
+zh-hant = "天翼之羽蛇神"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "fire", "lightning" ]

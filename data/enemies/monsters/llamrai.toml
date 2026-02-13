@@ -1,2 +1,8 @@
-# Llamrai / 拉姆莱 / 拉姆萊
-id = "llamrai"
+id = "monsters/llamrai"
+
+[name]
+en = "Llamrai"
+zh-hans = "拉姆莱"
+zh-hant = "拉姆萊"
+
+[data]

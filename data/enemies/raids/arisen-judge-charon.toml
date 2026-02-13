@@ -1,5 +1,10 @@
-# Arisen Judge Charon / 重生判官卡戎 / 重生判官凱倫
-id = "arisen-judge-charon"
+id = "raids/arisen-judge-charon"
 
+[name]
+en = "Arisen Judge Charon"
+zh-hans = "重生判官卡戎"
+zh-hant = "重生判官凱倫"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

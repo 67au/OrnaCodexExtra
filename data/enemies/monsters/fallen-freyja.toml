@@ -1,5 +1,10 @@
-# Fallen Freyja / 堕落弗蕾亚 / 墮落弗蕾亞
-id = "fallen-freyja"
+id = "monsters/fallen-freyja"
 
+[name]
+en = "Fallen Freyja"
+zh-hans = "堕落弗蕾亚"
+zh-hant = "墮落弗蕾亞"
+
+[data]
 elementImmunities = ["dragon"]
 statusImmunities = ["asleep"]

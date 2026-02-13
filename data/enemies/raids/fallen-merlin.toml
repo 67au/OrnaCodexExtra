@@ -1,4 +1,9 @@
-# Fallen Merlin / 堕落梅林 / 墮落梅林
-id = "fallen-merlin"
+id = "raids/fallen-merlin"
 
+[name]
+en = "Fallen Merlin"
+zh-hans = "堕落梅林"
+zh-hant = "墮落梅林"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "t__res_d", "res_d", "res_dd"]

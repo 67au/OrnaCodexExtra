@@ -1,5 +1,10 @@
-# Yeti / 雪怪 / 雪怪
-id = "yeti"
+id = "monsters/yeti"
 
+[name]
+en = "Yeti"
+zh-hans = "雪怪"
+zh-hant = "雪怪"
+
+[data]
 elementImmunities = ["water"]
 statusImmunities = ["frozen"]

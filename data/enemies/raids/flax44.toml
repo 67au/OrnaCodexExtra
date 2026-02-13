@@ -1,4 +1,9 @@
-# Flax44 / Flax44 / Flax44
-id = "flax44"
+id = "raids/flax44"
 
+[name]
+en = "Flax44"
+zh-hans = "Flax44"
+zh-hant = "Flax44"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

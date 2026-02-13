@@ -1,6 +1,11 @@
-# Arisen Covyn / 重生Covyn / 重生的Covyn
-id = "arisen-covyn"
+id = "raids/arisen-covyn"
 
+[name]
+en = "Arisen Covyn"
+zh-hans = "重生Covyn"
+zh-hant = "重生的Covyn"
+
+[data]
 elementWeaknesses = [ "arcane" ]
 elementResistances = [ "dark", "holy" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis" ]

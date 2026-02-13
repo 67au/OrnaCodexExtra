@@ -1,6 +1,11 @@
-# Alfar (Arisen) / 古精灵 (重生者) / 古精靈 (重生者)
-id = "alfar-50af8af8"
+id = "monsters/alfar-50af8af8"
 
+[name]
+en = "Alfar (Arisen)"
+zh-hans = "古精灵 (重生者)"
+zh-hant = "古精靈 (重生者)"
+
+[data]
 elementWeaknesses = ["earthen"]
 elementImmunities = ["dark", "holy"]
 elementResistances = ["water"]

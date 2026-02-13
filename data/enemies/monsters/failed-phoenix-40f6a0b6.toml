@@ -1,3 +1,8 @@
-# Failed Phoenix / 失格凤凰 / 衰敗鳳凰
-id = "failed-phoenix-40f6a0b6"
+id = "monsters/failed-phoenix-40f6a0b6"
 
+[name]
+en = "Failed Phoenix"
+zh-hans = "失格凤凰"
+zh-hant = "衰敗鳳凰"
+
+[data]

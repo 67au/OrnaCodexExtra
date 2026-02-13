@@ -1,5 +1,10 @@
-# Dark Elf Lord / 黑暗精灵领主 / 黑暗精靈領主
-id = "dark-elf-lord"
+id = "bosses/dark-elf-lord"
 
+[name]
+en = "Dark Elf Lord"
+zh-hans = "黑暗精灵领主"
+zh-hant = "黑暗精靈領主"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementResistances = [ "water", "fire", "lightning", "dark", "holy" ]

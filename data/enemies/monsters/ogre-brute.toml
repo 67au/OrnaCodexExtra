@@ -1,3 +1,8 @@
-# Ogre Brute / 野蛮食人魔 / 野蠻食人魔
-id = "ogre-brute"
+id = "monsters/ogre-brute"
 
+[name]
+en = "Ogre Brute"
+zh-hans = "野蛮食人魔"
+zh-hant = "野蠻食人魔"
+
+[data]

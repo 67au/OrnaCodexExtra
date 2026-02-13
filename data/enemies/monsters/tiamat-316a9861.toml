@@ -1,6 +1,11 @@
-# Tiamat (Arisen) / 提亚马特 (重生者) / 提亞馬特 (重生者)
-id = "tiamat-316a9861"
+id = "monsters/tiamat-316a9861"
 
+[name]
+en = "Tiamat (Arisen)"
+zh-hans = "提亚马特 (重生者)"
+zh-hant = "提亞馬特 (重生者)"
+
+[data]
 elementWeaknesses = [ "water", "earthen" ]
 elementResistances = [ "fire", "dark", "holy" ]
 statusImmunities = [ "blight" ]

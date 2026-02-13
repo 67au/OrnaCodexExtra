@@ -1,6 +1,11 @@
-# Yelbeghen / 叶尔贝根 / 耶爾貝甘
-id = "yelbeghen"
+id = "bosses/yelbeghen"
 
+[name]
+en = "Yelbeghen"
+zh-hans = "叶尔贝根"
+zh-hant = "耶爾貝甘"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "fire", "lightning" ]

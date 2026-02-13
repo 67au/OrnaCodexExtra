@@ -1,3 +1,8 @@
-# Stray Tatzelwurm / 迷途塔佐蠕虫 / 迷途塔佐蠕蟲
-id = "stray-tatzelwurm"
+id = "monsters/stray-tatzelwurm"
 
+[name]
+en = "Stray Tatzelwurm"
+zh-hans = "迷途塔佐蠕虫"
+zh-hant = "迷途塔佐蠕蟲"
+
+[data]

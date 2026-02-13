@@ -1,5 +1,10 @@
-# Surtr / 史尔特尔 / 史爾特爾
-id = "surtr"
+id = "raids/surtr"
 
+[name]
+en = "Surtr"
+zh-hans = "史尔特尔"
+zh-hant = "史爾特爾"
+
+[data]
 elementImmunities = ["fire"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

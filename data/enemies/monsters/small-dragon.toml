@@ -1,4 +1,9 @@
-# Small Dragon / 小龙 / 小龍
-id = "small-dragon"
+id = "monsters/small-dragon"
 
+[name]
+en = "Small Dragon"
+zh-hans = "小龙"
+zh-hant = "小龍"
+
+[data]
 elementWeaknesses = ["dragon"]

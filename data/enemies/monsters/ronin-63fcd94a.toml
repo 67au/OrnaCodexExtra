@@ -1,3 +1,8 @@
-# Ronin (Arisen) / 浪人 (重生者) / 浪人 (重生者)
-id = "ronin-63fcd94a"
+id = "monsters/ronin-63fcd94a"
 
+[name]
+en = "Ronin (Arisen)"
+zh-hans = "浪人 (重生者)"
+zh-hant = "浪人 (重生者)"
+
+[data]

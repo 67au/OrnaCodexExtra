@@ -1,6 +1,11 @@
-# Cursed Mullo of Fomoria / 弗摩尔之诅咒的穆洛 / 受詛咒的弗摩爾族之穆洛
-id = "cursed-mullo-of-fomoria"
+id = "bosses/cursed-mullo-of-fomoria"
 
+[name]
+en = "Cursed Mullo of Fomoria"
+zh-hans = "弗摩尔之诅咒的穆洛"
+zh-hant = "受詛咒的弗摩爾族之穆洛"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementImmunities = [ "earthen" ]
 elementResistances = [ "water", "fire" ]

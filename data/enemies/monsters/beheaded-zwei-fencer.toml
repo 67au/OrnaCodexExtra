@@ -1,7 +1,8 @@
-# Beheaded Zwei-Fencer / 无头重武悍将 / 喪首重武悍將
-id = "beheaded-zwei-fencer"
+id = "monsters/beheaded-zwei-fencer"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Zwei-Fencer"
+zh-hans = "无头重武悍将"
+zh-hant = "喪首重武悍將"
+
+[data]

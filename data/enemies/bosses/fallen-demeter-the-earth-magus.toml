@@ -1,6 +1,11 @@
-# Fallen Demeter, the Earth Magus / 堕落大地术师狄蜜特 / 墮落的大地術師狄蜜特
-id = "fallen-demeter-the-earth-magus"
+id = "bosses/fallen-demeter-the-earth-magus"
 
+[name]
+en = "Fallen Demeter, the Earth Magus"
+zh-hans = "堕落大地术师狄蜜特"
+zh-hant = "墮落的大地術師狄蜜特"
+
+[data]
 elementWeaknesses = ["lightning"]
 elementImmunities = ["earthen"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

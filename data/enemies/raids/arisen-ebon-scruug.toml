@@ -1,6 +1,11 @@
-# Arisen Ebon Scruug / 重生黑之史古基 / 重生黑之史古基
-id = "arisen-ebon-scruug"
+id = "raids/arisen-ebon-scruug"
 
+[name]
+en = "Arisen Ebon Scruug"
+zh-hans = "重生黑之史古基"
+zh-hant = "重生黑之史古基"
+
+[data]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

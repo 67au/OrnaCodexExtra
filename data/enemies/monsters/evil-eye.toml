@@ -1,3 +1,8 @@
-# Evil Eye / 邪眼 / 邪眼
-id = "evil-eye"
+id = "monsters/evil-eye"
 
+[name]
+en = "Evil Eye"
+zh-hans = "邪眼"
+zh-hant = "邪眼"
+
+[data]

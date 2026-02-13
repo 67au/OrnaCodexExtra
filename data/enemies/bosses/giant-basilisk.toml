@@ -1,5 +1,10 @@
-# Giant Basilisk / 巨大巴西利斯克 / 巨大巴西利斯克
-id = "giant-basilisk"
+id = "bosses/giant-basilisk"
 
+[name]
+en = "Giant Basilisk"
+zh-hans = "巨大巴西利斯克"
+zh-hant = "巨大巴西利斯克"
+
+[data]
 elementWeaknesses = [ "water" ]
 statusImmunities = [ "poisoned", "blight" ]

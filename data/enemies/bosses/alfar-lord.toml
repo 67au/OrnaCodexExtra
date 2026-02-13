@@ -1,6 +1,11 @@
-# Alfar Lord / 古精灵领主 / 古精靈君主
-id = "alfar-lord"
+id = "bosses/alfar-lord"
 
+[name]
+en = "Alfar Lord"
+zh-hans = "古精灵领主"
+zh-hant = "古精靈君主"
+
+[data]
 elementWeaknesses = ["earthen"]
 elementImmunities = ["dark", "holy"]
 elementResistances = ["water"]

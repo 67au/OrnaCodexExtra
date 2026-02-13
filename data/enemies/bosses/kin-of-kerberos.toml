@@ -1,4 +1,9 @@
-# Kin of Kerberos (Arisen) / 刻耳柏洛斯之子 (重生者) / 刻耳柏洛斯之子 (重生者)
-id = "kin-of-kerberos"
+id = "bosses/kin-of-kerberos"
 
+[name]
+en = "Kin of Kerberos (Arisen)"
+zh-hans = "刻耳柏洛斯之子 (重生者)"
+zh-hant = "刻耳柏洛斯之子 (重生者)"
+
+[data]
 statusImmunities = ["burning", "frozen", "paralyzed", "rot"]

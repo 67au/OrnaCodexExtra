@@ -1,5 +1,10 @@
-# Sea Wyvern / 海翼龙 / 海翼龍
-id = "sea-wyvern"
+id = "monsters/sea-wyvern"
 
+[name]
+en = "Sea Wyvern"
+zh-hans = "海翼龙"
+zh-hant = "海翼龍"
+
+[data]
 elementWeaknesses = ["lightning", "dragon"]
 elementImmunities = ["water"]

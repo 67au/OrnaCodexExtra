@@ -1,6 +1,11 @@
-# Sea Demon / 海恶魔 / 海惡魔
-id = "sea-demon"
+id = "monsters/sea-demon"
 
+[name]
+en = "Sea Demon"
+zh-hans = "海恶魔"
+zh-hant = "海惡魔"
+
+[data]
 elementWeaknesses = [ "lightning", "holy" ]
 elementImmunities = [ "water", "fire" ]
 elementResistances = [ "dark" ]

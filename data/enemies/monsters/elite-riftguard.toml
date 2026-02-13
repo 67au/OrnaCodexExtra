@@ -1,3 +1,8 @@
-# Elite Riftguard / 精英裂隙守卫 / 高端裂痕守衛
-id = "elite-riftguard"
+id = "monsters/elite-riftguard"
 
+[name]
+en = "Elite Riftguard"
+zh-hans = "精英裂隙守卫"
+zh-hant = "高端裂痕守衛"
+
+[data]

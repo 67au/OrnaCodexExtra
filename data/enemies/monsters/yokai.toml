@@ -1,3 +1,8 @@
-# Yokai / 妖怪 / 妖怪
-id = "yokai"
+id = "monsters/yokai"
 
+[name]
+en = "Yokai"
+zh-hans = "妖怪"
+zh-hant = "妖怪"
+
+[data]

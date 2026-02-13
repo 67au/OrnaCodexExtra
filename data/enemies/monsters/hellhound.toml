@@ -1,4 +1,9 @@
-# Hellhound / 地狱犬 / 地獄犬
-id = "hellhound"
+id = "monsters/hellhound"
 
+[name]
+en = "Hellhound"
+zh-hans = "地狱犬"
+zh-hant = "地獄犬"
+
+[data]
 elementResistances = [ "dark" ]

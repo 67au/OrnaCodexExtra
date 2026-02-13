@@ -1,6 +1,11 @@
-# Tatzelwurms / 塔佐蠕虫 / 塔佐蠕蟲
-id = "tatzelwurms"
+id = "raids/tatzelwurms"
 
+[name]
+en = "Tatzelwurms"
+zh-hans = "塔佐蠕虫"
+zh-hant = "塔佐蠕蟲"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

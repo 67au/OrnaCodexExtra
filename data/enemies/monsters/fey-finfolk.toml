@@ -1,5 +1,10 @@
-# Fey Finfolk / 变异芬菲克 / 變異芬菲克
-id = "fey-finfolk"
+id = "monsters/fey-finfolk"
 
+[name]
+en = "Fey Finfolk"
+zh-hans = "变异芬菲克"
+zh-hant = "變異芬菲克"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementImmunities = [ "water" ]

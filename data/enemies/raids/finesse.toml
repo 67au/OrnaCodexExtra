@@ -1,4 +1,9 @@
-# Finesse / 芬尼斯 / 芬尼斯
-id = "finesse"
+id = "raids/finesse"
 
+[name]
+en = "Finesse"
+zh-hans = "芬尼斯"
+zh-hant = "芬尼斯"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

@@ -1,4 +1,9 @@
-# Fenrir (Arisen) / 芬里尔 (重生者) / 芬里爾 (重生者)
-id = "fenrir"
+id = "monsters/fenrir"
 
+[name]
+en = "Fenrir (Arisen)"
+zh-hans = "芬里尔 (重生者)"
+zh-hant = "芬里爾 (重生者)"
+
+[data]
 elementWeaknesses = [ "lightning" ]

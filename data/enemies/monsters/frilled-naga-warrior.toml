@@ -1,3 +1,8 @@
-# Frilled Naga Warrior / 褶伞娜迦战士 / 褶傘那伽戰士
-id = "frilled-naga-warrior"
+id = "monsters/frilled-naga-warrior"
 
+[name]
+en = "Frilled Naga Warrior"
+zh-hans = "褶伞娜迦战士"
+zh-hant = "褶傘那伽戰士"
+
+[data]

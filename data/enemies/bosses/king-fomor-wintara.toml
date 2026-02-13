@@ -1,6 +1,11 @@
-# King Fomor, Wintara / 弗摩尔王温塔拉 / 弗摩爾王，溫塔拉
-id = "king-fomor-wintara"
+id = "bosses/king-fomor-wintara"
 
+[name]
+en = "King Fomor, Wintara"
+zh-hans = "弗摩尔王温塔拉"
+zh-hant = "弗摩爾王，溫塔拉"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementImmunities = [ "lightning", "holy" ]
 elementResistances = [ "earthen" ]

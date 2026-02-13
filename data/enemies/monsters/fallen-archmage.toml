@@ -1,3 +1,8 @@
-# Fallen Archmage / 堕落的大法师 / 墮落的大法師
-id = "fallen-archmage"
+id = "monsters/fallen-archmage"
 
+[name]
+en = "Fallen Archmage"
+zh-hans = "堕落的大法师"
+zh-hant = "墮落的大法師"
+
+[data]

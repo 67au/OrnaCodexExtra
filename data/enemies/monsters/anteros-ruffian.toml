@@ -1,4 +1,9 @@
-# Anteros Ruffian / 安忒洛斯流氓 / 安特羅斯痞子
-id = "anteros-ruffian"
+id = "monsters/anteros-ruffian"
 
+[name]
+en = "Anteros Ruffian"
+zh-hans = "安忒洛斯流氓"
+zh-hant = "安特羅斯痞子"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

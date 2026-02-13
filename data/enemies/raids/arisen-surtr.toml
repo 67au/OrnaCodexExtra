@@ -1,5 +1,10 @@
-# Arisen Surtr / 重生史尔特尔 / 重生的史爾特爾
-id = "arisen-surtr"
+id = "raids/arisen-surtr"
 
+[name]
+en = "Arisen Surtr"
+zh-hans = "重生史尔特尔"
+zh-hant = "重生的史爾特爾"
+
+[data]
 elementImmunities = ["fire"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

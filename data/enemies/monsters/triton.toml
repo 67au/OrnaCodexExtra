@@ -1,3 +1,8 @@
-# Triton / 特里同 / 特里頓
-id = "triton"
+id = "monsters/triton"
 
+[name]
+en = "Triton"
+zh-hans = "特里同"
+zh-hant = "特里頓"
+
+[data]

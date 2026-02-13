@@ -1,4 +1,9 @@
-# Dokkalfar Warlock / 夜之精灵术士 / 夜之精靈術士
-id = "dokkalfar-warlock"
+id = "monsters/dokkalfar-warlock"
 
+[name]
+en = "Dokkalfar Warlock"
+zh-hans = "夜之精灵术士"
+zh-hant = "夜之精靈術士"
+
+[data]
 elementWeaknesses = [ "fire" ]

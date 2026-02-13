@@ -1,4 +1,9 @@
-# Yggdrasil / 世界树 / 世界樹
-id = "yggdrasil"
+id = "raids/yggdrasil"
 
+[name]
+en = "Yggdrasil"
+zh-hans = "世界树"
+zh-hant = "世界樹"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]

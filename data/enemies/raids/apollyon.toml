@@ -1,4 +1,9 @@
-# Apollyon / 亚玻伦 / 亞坡倫
-id = "apollyon"
+id = "raids/apollyon"
 
+[name]
+en = "Apollyon"
+zh-hans = "亚玻伦"
+zh-hant = "亞坡倫"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

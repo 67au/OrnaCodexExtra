@@ -1,4 +1,9 @@
-# Red Basilisk / 赤红巴西利斯克 / 赤紅巴西利斯克
-id = "red-basilisk"
+id = "monsters/red-basilisk"
 
+[name]
+en = "Red Basilisk"
+zh-hans = "赤红巴西利斯克"
+zh-hant = "赤紅巴西利斯克"
+
+[data]
 statusImmunities = ["poisoned", "blight"]

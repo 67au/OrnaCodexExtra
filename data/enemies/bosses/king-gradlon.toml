@@ -1,5 +1,10 @@
-# King Gradlon / 格拉德隆王 / 格拉德隆王
-id = "king-gradlon"
+id = "bosses/king-gradlon"
 
+[name]
+en = "King Gradlon"
+zh-hans = "格拉德隆王"
+zh-hant = "格拉德隆王"
+
+[data]
 elementWeaknesses = ["dark"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

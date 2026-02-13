@@ -1,5 +1,10 @@
-# The Last Hippogriff / 最后的骏鹰 / 最後的駿鷹
-id = "the-last-hippogriff"
+id = "raids/the-last-hippogriff"
 
+[name]
+en = "The Last Hippogriff"
+zh-hans = "最后的骏鹰"
+zh-hant = "最後的駿鷹"
+
+[data]
 elementResistances = [ "physical" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "asleep", "stunned", "blight", "petrified", "stasis", "mag_d", "t__mag_d", "t__mag_dd", "res_dd" ]

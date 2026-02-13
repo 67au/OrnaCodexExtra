@@ -1,6 +1,11 @@
-# Sapling / 树苗 / 樹苗
-id = "sapling"
+id = "monsters/sapling"
 
+[name]
+en = "Sapling"
+zh-hans = "树苗"
+zh-hant = "樹苗"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementImmunities = [ "earthen" ]
 elementResistances = [ "water" ]

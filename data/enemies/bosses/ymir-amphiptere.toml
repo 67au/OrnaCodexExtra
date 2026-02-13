@@ -1,6 +1,11 @@
-# Ymir Amphiptere / 原初翼蛇 / 原初翼蛇
-id = "ymir-amphiptere"
+id = "bosses/ymir-amphiptere"
 
+[name]
+en = "Ymir Amphiptere"
+zh-hans = "原初翼蛇"
+zh-hant = "原初翼蛇"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "fire", "lightning" ]

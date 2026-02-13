@@ -1,4 +1,9 @@
-# Eostre of Fomoria / 弗摩尔之厄俄斯特 / 弗摩爾族的俄斯特
-id = "eostre-of-fomoria"
+id = "bosses/eostre-of-fomoria"
 
+[name]
+en = "Eostre of Fomoria"
+zh-hans = "弗摩尔之厄俄斯特"
+zh-hant = "弗摩爾族的俄斯特"
+
+[data]
 elementResistances = [ "fire", "earthen" ]

@@ -1,4 +1,9 @@
-# Pumpkin Spider / 南瓜蜘蛛 / 南瓜蜘蛛
-id = "pumpkin-spider"
+id = "raids/pumpkin-spider"
 
+[name]
+en = "Pumpkin Spider"
+zh-hans = "南瓜蜘蛛"
+zh-hant = "南瓜蜘蛛"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight"]

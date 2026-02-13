@@ -1,4 +1,9 @@
-# Draugr / 尸鬼 / 屍鬼
-id = "draugr"
+id = "monsters/draugr"
 
+[name]
+en = "Draugr"
+zh-hans = "尸鬼"
+zh-hant = "屍鬼"
+
+[data]
 elementWeaknesses = ["earthen"]

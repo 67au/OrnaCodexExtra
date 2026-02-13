@@ -1,3 +1,8 @@
-# Cyclops / 独眼巨人 / 獨眼巨人
-id = "cyclops"
+id = "monsters/cyclops"
 
+[name]
+en = "Cyclops"
+zh-hans = "独眼巨人"
+zh-hant = "獨眼巨人"
+
+[data]

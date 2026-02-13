@@ -1,4 +1,9 @@
-# Bandit Lord / 山贼王 / 山賊王
-id = "bandit-lord"
+id = "bosses/bandit-lord"
 
+[name]
+en = "Bandit Lord"
+zh-hans = "山贼王"
+zh-hant = "山賊王"
+
+[data]
 elementWeaknesses = [ "fire" ]

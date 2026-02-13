@@ -1,3 +1,8 @@
-# Sumner Ares / 「选手」阿瑞斯 / 夏運阿瑞斯
-id = "sumner-ares"
+id = "bosses/sumner-ares"
 
+[name]
+en = "Sumner Ares"
+zh-hans = "「选手」阿瑞斯"
+zh-hant = "夏運阿瑞斯"
+
+[data]

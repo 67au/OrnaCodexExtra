@@ -1,3 +1,8 @@
-# Rat / 老鼠 / 老鼠
-id = "rat"
+id = "monsters/rat"
 
+[name]
+en = "Rat"
+zh-hans = "老鼠"
+zh-hant = "老鼠"
+
+[data]

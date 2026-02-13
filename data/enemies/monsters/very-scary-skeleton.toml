@@ -1,6 +1,11 @@
-# Very Scary Skeleton / 超恐怖骷髅 / 超恐怖骷髏
-id = "very-scary-skeleton"
+id = "monsters/very-scary-skeleton"
 
+[name]
+en = "Very Scary Skeleton"
+zh-hans = "超恐怖骷髅"
+zh-hant = "超恐怖骷髏"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementResistances = [ "dark" ]
 statusImmunities = [ "bleeding", "burning" ]

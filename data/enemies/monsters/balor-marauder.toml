@@ -1,4 +1,9 @@
-# Balor Marauder / 巴罗尔掠夺者 / 巴羅爾掠奪者
-id = "balor-marauder"
+id = "monsters/balor-marauder"
 
+[name]
+en = "Balor Marauder"
+zh-hans = "巴罗尔掠夺者"
+zh-hant = "巴羅爾掠奪者"
+
+[data]
 elementWeaknesses = ["arcane"]

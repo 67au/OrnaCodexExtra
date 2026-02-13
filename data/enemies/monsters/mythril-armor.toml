@@ -1,5 +1,10 @@
-# Mythril Armor / 秘银盔甲 / 秘銀盔甲
-id = "mythril-armor"
+id = "monsters/mythril-armor"
 
+[name]
+en = "Mythril Armor"
+zh-hans = "秘银盔甲"
+zh-hant = "秘銀盔甲"
+
+[data]
 elementWeaknesses = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
 elementResistances = [ "physical" ]

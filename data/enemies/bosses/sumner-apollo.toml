@@ -1,3 +1,8 @@
-# Sumner Apollo / 「选手」阿波罗 / 夏運阿波羅
-id = "sumner-apollo"
+id = "bosses/sumner-apollo"
 
+[name]
+en = "Sumner Apollo"
+zh-hans = "「选手」阿波罗"
+zh-hant = "夏運阿波羅"
+
+[data]

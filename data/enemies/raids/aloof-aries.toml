@@ -1,5 +1,10 @@
-# Aloof Aries / 冷漠之亚力士 / 冷漠的亞力士
-id = "aloof-aries"
+id = "raids/aloof-aries"
 
+[name]
+en = "Aloof Aries"
+zh-hans = "冷漠之亚力士"
+zh-hant = "冷漠的亞力士"
+
+[data]
 elementResistances = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

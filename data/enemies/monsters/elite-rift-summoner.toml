@@ -1,3 +1,8 @@
-# Elite Rift Summoner / 精英裂隙召唤师 / 高端裂痕召喚師
-id = "elite-rift-summoner"
+id = "monsters/elite-rift-summoner"
 
+[name]
+en = "Elite Rift Summoner"
+zh-hans = "精英裂隙召唤师"
+zh-hant = "高端裂痕召喚師"
+
+[data]

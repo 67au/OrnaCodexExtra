@@ -1,6 +1,11 @@
-# Cursed King Fomor, Nocturna / 诅咒的弗摩尔王诺特纳 / 受詛咒的弗摩爾王，諾克圖娜
-id = "cursed-king-fomor-nocturna"
+id = "bosses/cursed-king-fomor-nocturna"
 
+[name]
+en = "Cursed King Fomor, Nocturna"
+zh-hans = "诅咒的弗摩尔王诺特纳"
+zh-hant = "受詛咒的弗摩爾王，諾克圖娜"
+
+[data]
 elementWeaknesses = [ "lightning", "holy" ]
 elementImmunities = [ "earthen" ]
 elementResistances = [ "water" ]

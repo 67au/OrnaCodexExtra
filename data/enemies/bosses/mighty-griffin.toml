@@ -1,6 +1,11 @@
-# Mighty Griffin / 究极格里芬 / 究極格里芬
-id = "mighty-griffin"
+id = "bosses/mighty-griffin"
 
+[name]
+en = "Mighty Griffin"
+zh-hans = "究极格里芬"
+zh-hant = "究極格里芬"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight" ]

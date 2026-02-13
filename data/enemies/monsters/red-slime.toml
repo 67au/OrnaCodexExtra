@@ -1,4 +1,9 @@
-# Red Slime / 红色史莱姆 / 紅色史萊姆
-id = "red-slime"
+id = "monsters/red-slime"
 
+[name]
+en = "Red Slime"
+zh-hans = "红色史莱姆"
+zh-hant = "紅色史萊姆"
+
+[data]
 elementWeaknesses = [ "water" ]

@@ -1,3 +1,8 @@
-# Amarok / 阿玛罗克 / 阿瑪羅克
-id = "amarok"
+id = "monsters/amarok"
 
+[name]
+en = "Amarok"
+zh-hans = "阿玛罗克"
+zh-hant = "阿瑪羅克"
+
+[data]

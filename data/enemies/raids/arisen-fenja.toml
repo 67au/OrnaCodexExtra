@@ -1,4 +1,9 @@
-# Arisen Fenja / 重生芬妮雅 / 重生芬雅
-id = "arisen-fenja"
+id = "raids/arisen-fenja"
 
+[name]
+en = "Arisen Fenja"
+zh-hans = "重生芬妮雅"
+zh-hant = "重生芬雅"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "mag_d", "t__mag_d"]

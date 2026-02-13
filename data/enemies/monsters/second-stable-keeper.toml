@@ -1,3 +1,8 @@
-# Second Stable Keeper / 第二随从 / 第二隨從
-id = "second-stable-keeper"
+id = "monsters/second-stable-keeper"
 
+[name]
+en = "Second Stable Keeper"
+zh-hans = "第二随从"
+zh-hant = "第二隨從"
+
+[data]

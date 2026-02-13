@@ -1,5 +1,10 @@
-# Eistla / 艾斯特拉 / 艾斯特拉
-id = "eistla"
+id = "bosses/eistla"
 
+[name]
+en = "Eistla"
+zh-hans = "艾斯特拉"
+zh-hant = "艾斯特拉"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire", "earthen" ]

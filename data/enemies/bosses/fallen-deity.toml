@@ -1,5 +1,10 @@
-# Fallen Deity / 堕落禘耶禔 / 墮落禘耶禔
-id = "fallen-deity"
+id = "bosses/fallen-deity"
 
+[name]
+en = "Fallen Deity"
+zh-hans = "堕落禘耶禔"
+zh-hant = "墮落禘耶禔"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]
 statusImmunities = [ "frozen", "paralyzed", "rot", "blind", "asleep" ]

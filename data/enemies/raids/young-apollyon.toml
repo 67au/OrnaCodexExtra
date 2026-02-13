@@ -1,5 +1,10 @@
-# Young Apollyon / 青年亚玻伦 / 青年亞坡倫
-id = "young-apollyon"
+id = "raids/young-apollyon"
 
+[name]
+en = "Young Apollyon"
+zh-hans = "青年亚玻伦"
+zh-hant = "青年亞坡倫"
+
+[data]
 elementWeaknesses = ["arcane"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

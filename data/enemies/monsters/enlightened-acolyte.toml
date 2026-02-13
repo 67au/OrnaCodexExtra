@@ -1,3 +1,8 @@
-# Enlightened Acolyte / 启蒙者侍从 / 啟蒙者侍者
-id = "enlightened-acolyte"
+id = "monsters/enlightened-acolyte"
 
+[name]
+en = "Enlightened Acolyte"
+zh-hans = "启蒙者侍从"
+zh-hant = "啟蒙者侍者"
+
+[data]

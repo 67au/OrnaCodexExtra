@@ -1,4 +1,9 @@
-# Last Titan / 最后的泰坦 / 最後的泰坦
-id = "last-titan"
+id = "raids/last-titan"
 
+[name]
+en = "Last Titan"
+zh-hans = "最后的泰坦"
+zh-hant = "最後的泰坦"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

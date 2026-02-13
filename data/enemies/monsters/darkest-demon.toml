@@ -1,6 +1,11 @@
-# Darkest Demon / 深渊恶魔 / 深淵惡魔
-id = "darkest-demon"
+id = "monsters/darkest-demon"
 
+[name]
+en = "Darkest Demon"
+zh-hans = "深渊恶魔"
+zh-hant = "深淵惡魔"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

@@ -1,4 +1,9 @@
-# Ronin / 浪人 / 浪人
-id = "ronin"
+id = "bosses/ronin"
 
+[name]
+en = "Ronin"
+zh-hans = "浪人"
+zh-hant = "浪人"
+
+[data]
 elementWeaknesses = [ "fire" ]

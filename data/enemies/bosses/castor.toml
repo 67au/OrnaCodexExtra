@@ -1,6 +1,11 @@
-# Castor / 卡斯托耳 / 卡斯托耳
-id = "castor"
+id = "bosses/castor"
 
+[name]
+en = "Castor"
+zh-hans = "卡斯托耳"
+zh-hant = "卡斯托耳"
+
+[data]
 elementWeaknesses = ["lightning"]
 elementImmunities = ["water", "fire"]
 statusImmunities = ["poisoned", "bleeding", "frozen", "asleep", "blight"]

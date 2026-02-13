@@ -1,4 +1,9 @@
-# Fey Chimera / 变异奇美拉 / 變異奇美拉
-id = "fey-chimera"
+id = "raids/fey-chimera"
 
+[name]
+en = "Fey Chimera"
+zh-hans = "变异奇美拉"
+zh-hant = "變異奇美拉"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]

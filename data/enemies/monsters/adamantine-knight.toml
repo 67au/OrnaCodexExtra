@@ -1,3 +1,8 @@
-# Adamantine Knight / 精金骑士 / 精金騎士
-id = "adamantine-knight"
+id = "monsters/adamantine-knight"
 
+[name]
+en = "Adamantine Knight"
+zh-hans = "精金骑士"
+zh-hant = "精金騎士"
+
+[data]

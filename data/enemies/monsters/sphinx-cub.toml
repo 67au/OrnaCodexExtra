@@ -1,3 +1,8 @@
-# Sphinx Cub / 斯芬克斯幼兽 / 斯芬克斯幼獸
-id = "sphinx-cub"
+id = "monsters/sphinx-cub"
 
+[name]
+en = "Sphinx Cub"
+zh-hans = "斯芬克斯幼兽"
+zh-hant = "斯芬克斯幼獸"
+
+[data]

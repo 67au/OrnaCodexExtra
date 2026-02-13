@@ -1,5 +1,10 @@
-# Cerberus (Arisen) / 地狱三头犬 (重生者) / 地獄三頭犬 (重生者)
-id = "cerberus-c633f157"
+id = "monsters/cerberus-c633f157"
 
+[name]
+en = "Cerberus (Arisen)"
+zh-hans = "地狱三头犬 (重生者)"
+zh-hant = "地獄三頭犬 (重生者)"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementImmunities = [ "fire", "dark" ]

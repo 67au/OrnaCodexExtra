@@ -1,4 +1,9 @@
-# Balor Dread Biter / 巴罗尔恐怖啃蚀者 / 巴羅爾噬忌者
-id = "balor-dread-biter"
+id = "bosses/balor-dread-biter"
 
+[name]
+en = "Balor Dread Biter"
+zh-hans = "巴罗尔恐怖啃蚀者"
+zh-hant = "巴羅爾噬忌者"
+
+[data]
 elementWeaknesses = ["arcane"]

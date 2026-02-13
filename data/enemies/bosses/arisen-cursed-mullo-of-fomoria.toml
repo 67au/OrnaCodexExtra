@@ -1,5 +1,10 @@
-# Arisen Cursed Mullo of Fomoria / 弗摩尔之重生诅咒的穆洛 / 重生受詛咒的弗摩爾族之穆洛
-id = "arisen-cursed-mullo-of-fomoria"
+id = "bosses/arisen-cursed-mullo-of-fomoria"
 
+[name]
+en = "Arisen Cursed Mullo of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的穆洛"
+zh-hant = "重生受詛咒的弗摩爾族之穆洛"
+
+[data]
 elementWeaknesses = ["fire", "lightning"]
 elementImmunities = ["earthen", "holy"]

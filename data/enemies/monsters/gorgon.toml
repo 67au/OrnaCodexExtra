@@ -1,4 +1,9 @@
-# Gorgon / 戈尔贡 / 戈爾貢
-id = "gorgon"
+id = "monsters/gorgon"
 
+[name]
+en = "Gorgon"
+zh-hans = "戈尔贡"
+zh-hant = "戈爾貢"
+
+[data]
 elementWeaknesses = ["holy"]

@@ -1,6 +1,11 @@
-# Ghost / 鬼 / 鬼
-id = "ghost-6719abf3"
+id = "monsters/ghost-6719abf3"
 
+[name]
+en = "Ghost"
+zh-hans = "鬼"
+zh-hant = "鬼"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["physical"]
 statusImmunities = ["asleep"]

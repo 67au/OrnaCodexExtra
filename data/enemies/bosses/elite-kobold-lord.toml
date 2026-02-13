@@ -1,4 +1,9 @@
-# Elite Kobold Lord / 精英地精领主 / 高端地精領主
-id = "elite-kobold-lord"
+id = "bosses/elite-kobold-lord"
 
+[name]
+en = "Elite Kobold Lord"
+zh-hans = "精英地精领主"
+zh-hant = "高端地精領主"
+
+[data]
 elementWeaknesses = [ "fire" ]

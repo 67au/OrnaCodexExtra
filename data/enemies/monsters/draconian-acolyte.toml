@@ -1,3 +1,8 @@
-# Draconian Acolyte / 德肯尼亚族追随者 / 德肯尼亞族追隨者
-id = "draconian-acolyte"
+id = "monsters/draconian-acolyte"
 
+[name]
+en = "Draconian Acolyte"
+zh-hans = "德肯尼亚族追随者"
+zh-hant = "德肯尼亞族追隨者"
+
+[data]

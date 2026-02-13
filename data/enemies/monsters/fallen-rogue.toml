@@ -1,3 +1,8 @@
-# Fallen Rogue / 堕落侠盗 / 墮落俠盜
-id = "fallen-rogue"
+id = "monsters/fallen-rogue"
 
+[name]
+en = "Fallen Rogue"
+zh-hans = "堕落侠盗"
+zh-hant = "墮落俠盜"
+
+[data]

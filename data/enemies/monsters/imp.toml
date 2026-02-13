@@ -1,3 +1,8 @@
-# Imp / 小恶魔 / 小惡魔
-id = "imp"
+id = "monsters/imp"
 
+[name]
+en = "Imp"
+zh-hans = "小恶魔"
+zh-hant = "小惡魔"
+
+[data]

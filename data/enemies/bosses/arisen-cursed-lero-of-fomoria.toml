@@ -1,4 +1,9 @@
-# Arisen Cursed Lero of Fomoria / 弗摩尔之重生诅咒的勒罗 / 重生受詛咒的弗摩爾族之勒羅
-id = "arisen-cursed-lero-of-fomoria"
+id = "bosses/arisen-cursed-lero-of-fomoria"
 
+[name]
+en = "Arisen Cursed Lero of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的勒罗"
+zh-hant = "重生受詛咒的弗摩爾族之勒羅"
+
+[data]
 elementWeaknesses = ["fire", "earthen"]

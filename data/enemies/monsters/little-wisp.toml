@@ -1,4 +1,9 @@
-# Little Wisp / 小幽光 / 小光精
-id = "little-wisp"
+id = "monsters/little-wisp"
 
+[name]
+en = "Little Wisp"
+zh-hans = "小幽光"
+zh-hant = "小光精"
+
+[data]
 elementResistances = [ "physical" ]

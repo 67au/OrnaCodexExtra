@@ -1,5 +1,10 @@
-# Great Mimic / 强大的宝箱怪 / 強大的寶箱怪
-id = "great-mimic"
+id = "monsters/great-mimic"
 
+[name]
+en = "Great Mimic"
+zh-hans = "强大的宝箱怪"
+zh-hant = "強大的寶箱怪"
+
+[data]
 elementImmunities = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
 elementResistances = [ "physical" ]

@@ -1,5 +1,10 @@
-# Dark Basilisk / 暗黑巴西利斯克 / 暗黑巴西利斯克
-id = "dark-basilisk"
+id = "monsters/dark-basilisk"
 
+[name]
+en = "Dark Basilisk"
+zh-hans = "暗黑巴西利斯克"
+zh-hant = "暗黑巴西利斯克"
+
+[data]
 elementWeaknesses = [ "water" ]
 statusImmunities = [ "poisoned", "blight" ]

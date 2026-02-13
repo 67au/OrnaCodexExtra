@@ -1,6 +1,11 @@
-# Arisen Phoenix / 重生凤凰 / 重生的鳳凰
-id = "arisen-phoenix"
+id = "raids/arisen-phoenix"
 
+[name]
+en = "Arisen Phoenix"
+zh-hans = "重生凤凰"
+zh-hant = "重生的鳳凰"
+
+[data]
 elementImmunities = [ "fire" ]
 elementResistances = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

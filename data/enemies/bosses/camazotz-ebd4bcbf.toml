@@ -1,5 +1,10 @@
-# Camazotz / 卡马佐兹 / 卡馬佐茲
-id = "camazotz-ebd4bcbf"
+id = "bosses/camazotz-ebd4bcbf"
 
+[name]
+en = "Camazotz"
+zh-hans = "卡马佐兹"
+zh-hant = "卡馬佐茲"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "earthen", "dark" ]

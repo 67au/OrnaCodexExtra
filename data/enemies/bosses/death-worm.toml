@@ -1,4 +1,9 @@
-# Death Worm / 死亡蠕虫 / 死蟲
-id = "death-worm"
+id = "bosses/death-worm"
 
+[name]
+en = "Death Worm"
+zh-hans = "死亡蠕虫"
+zh-hant = "死蟲"
+
+[data]
 elementWeaknesses = ["earthen"]

@@ -1,4 +1,9 @@
-# Shadow of Achlys, the Red Dagger / 赤刃艾柯吕斯之影 / 赤刃艾柯呂斯之暗影
-id = "shadow-of-achlys-the-red-dagger"
+id = "bosses/shadow-of-achlys-the-red-dagger"
 
+[name]
+en = "Shadow of Achlys, the Red Dagger"
+zh-hans = "赤刃艾柯吕斯之影"
+zh-hant = "赤刃艾柯呂斯之暗影"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "rot", "blight"]

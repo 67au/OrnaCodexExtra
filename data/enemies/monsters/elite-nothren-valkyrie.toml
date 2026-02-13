@@ -1,5 +1,10 @@
-# Elite Nothren Valkyrie / 精英北族女武神 / 高端北族女武神
-id = "elite-nothren-valkyrie"
+id = "monsters/elite-nothren-valkyrie"
 
+[name]
+en = "Elite Nothren Valkyrie"
+zh-hans = "精英北族女武神"
+zh-hant = "高端北族女武神"
+
+[data]
 elementResistances = [ "water" ]
 statusImmunities = [ "frozen" ]

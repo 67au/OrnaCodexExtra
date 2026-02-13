@@ -1,6 +1,11 @@
-# Hydra (Arisen) / 九头蛇 (重生者) / 九頭蛇 (重生者)
-id = "hydra-d754db90"
+id = "monsters/hydra-d754db90"
 
+[name]
+en = "Hydra (Arisen)"
+zh-hans = "九头蛇 (重生者)"
+zh-hant = "九頭蛇 (重生者)"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "fire" ]
 statusImmunities = [ "poisoned", "burning", "frozen", "paralyzed", "rot", "asleep", "blight", "petrified" ]

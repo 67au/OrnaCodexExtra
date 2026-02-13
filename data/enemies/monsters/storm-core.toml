@@ -1,6 +1,11 @@
-# Storm Core / 风暴之核 / 風暴核心
-id = "storm-core"
+id = "monsters/storm-core"
 
+[name]
+en = "Storm Core"
+zh-hans = "风暴之核"
+zh-hant = "風暴核心"
+
+[data]
 elementWeaknesses = ["earthen"]
 elementImmunities = ["lightning"]
 statusImmunities = ["paralyzed"]

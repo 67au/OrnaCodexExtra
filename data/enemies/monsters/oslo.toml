@@ -1,2 +1,8 @@
-# Oslo / 奥斯陆 / 奧斯陸
-id = "oslo"
+id = "monsters/oslo"
+
+[name]
+en = "Oslo"
+zh-hans = "奥斯陆"
+zh-hant = "奧斯陸"
+
+[data]

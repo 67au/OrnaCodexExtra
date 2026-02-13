@@ -1,5 +1,10 @@
-# Sluagh (Arisen) / 勾魂者 (重生者) / 勾魂者 (重生者)
-id = "sluagh"
+id = "monsters/sluagh"
 
+[name]
+en = "Sluagh (Arisen)"
+zh-hans = "勾魂者 (重生者)"
+zh-hant = "勾魂者 (重生者)"
+
+[data]
 elementImmunities = [ "holy" ]
 elementResistances = [ "dark" ]

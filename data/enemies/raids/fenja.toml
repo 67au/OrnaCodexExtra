@@ -1,4 +1,9 @@
-# Fenja / 芬妮雅 / 芬雅
-id = "fenja"
+id = "raids/fenja"
 
+[name]
+en = "Fenja"
+zh-hans = "芬妮雅"
+zh-hant = "芬雅"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "mag_d", "t__mag_d"]

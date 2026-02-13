@@ -1,4 +1,9 @@
-# Ancient Draugr Mage / 远古尸鬼法师 / 遠古屍鬼法師
-id = "ancient-draugr-mage"
+id = "monsters/ancient-draugr-mage"
 
+[name]
+en = "Ancient Draugr Mage"
+zh-hans = "远古尸鬼法师"
+zh-hant = "遠古屍鬼法師"
+
+[data]
 elementWeaknesses = ["earthen"]

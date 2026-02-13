@@ -1,5 +1,10 @@
-# Caoranach / 考兰纳赫 / 卡蘭納赫
-id = "caoranach"
+id = "bosses/caoranach"
 
+[name]
+en = "Caoranach"
+zh-hans = "考兰纳赫"
+zh-hant = "卡蘭納赫"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "blind", "asleep", "petrified", "stasis" ]

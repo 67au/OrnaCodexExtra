@@ -1,6 +1,11 @@
-# Illuyanka, Made of Stone / 铁石之伊卢扬卡 / 鐵石之伊盧揚卡
-id = "illuyanka-made-of-stone"
+id = "bosses/illuyanka-made-of-stone"
 
+[name]
+en = "Illuyanka, Made of Stone"
+zh-hans = "铁石之伊卢扬卡"
+zh-hant = "鐵石之伊盧揚卡"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "blight", "petrified" ]

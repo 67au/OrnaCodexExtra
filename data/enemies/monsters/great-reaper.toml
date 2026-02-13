@@ -1,6 +1,11 @@
-# Great Reaper / 强大的死神 / 強大的死神
-id = "great-reaper"
+id = "monsters/great-reaper"
 
+[name]
+en = "Great Reaper"
+zh-hans = "强大的死神"
+zh-hant = "強大的死神"
+
+[data]
 elementImmunities = [ "dark" ]
 elementResistances = [ "dragon", "arcane" ]
 statusImmunities = [ "poisoned", "asleep", "blight" ]

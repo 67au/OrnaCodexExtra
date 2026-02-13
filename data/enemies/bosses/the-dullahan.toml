@@ -1,7 +1,8 @@
-# The Dullahan / 杜拉罕 / 無頭騎士
-id = "the-dullahan"
+id = "bosses/the-dullahan"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "The Dullahan"
+zh-hans = "杜拉罕"
+zh-hant = "無頭騎士"
+
+[data]

@@ -1,7 +1,8 @@
-# Beheaded Assassin / 无头刺客 / 喪首刺客
-id = "beheaded-assassin"
+id = "monsters/beheaded-assassin"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Assassin"
+zh-hans = "无头刺客"
+zh-hant = "喪首刺客"
+
+[data]

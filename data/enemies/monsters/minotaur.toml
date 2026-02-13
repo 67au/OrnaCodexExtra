@@ -1,4 +1,9 @@
-# Minotaur (Arisen) / 牛头怪 (重生者) / 牛頭怪 (重生者)
-id = "minotaur"
+id = "monsters/minotaur"
 
+[name]
+en = "Minotaur (Arisen)"
+zh-hans = "牛头怪 (重生者)"
+zh-hant = "牛頭怪 (重生者)"
+
+[data]
 elementWeaknesses = [ "earthen" ]

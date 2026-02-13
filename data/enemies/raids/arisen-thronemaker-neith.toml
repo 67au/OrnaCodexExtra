@@ -1,4 +1,9 @@
-# Arisen Thronemaker Neith / 重生造王者涅伊特 / 重生造王者妮絲
-id = "arisen-thronemaker-neith"
+id = "raids/arisen-thronemaker-neith"
 
+[name]
+en = "Arisen Thronemaker Neith"
+zh-hans = "重生造王者涅伊特"
+zh-hant = "重生造王者妮絲"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

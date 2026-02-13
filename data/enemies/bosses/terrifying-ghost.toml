@@ -1,6 +1,11 @@
-# Terrifying Ghost / 恐慌幽灵 / 恐慌幽靈
-id = "terrifying-ghost"
+id = "bosses/terrifying-ghost"
 
+[name]
+en = "Terrifying Ghost"
+zh-hans = "恐慌幽灵"
+zh-hant = "恐慌幽靈"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementImmunities = [ "dark", "physical" ]
 elementResistances = [ "water", "lightning" ]

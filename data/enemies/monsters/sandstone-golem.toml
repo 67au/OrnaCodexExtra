@@ -1,5 +1,10 @@
-# Sandstone Golem / 砂岩魔像 / 砂岩魔像
-id = "sandstone-golem"
+id = "monsters/sandstone-golem"
 
+[name]
+en = "Sandstone Golem"
+zh-hans = "砂岩魔像"
+zh-hant = "砂岩魔像"
+
+[data]
 elementResistances = [ "physical" ]
 statusImmunities = [ "petrified" ]

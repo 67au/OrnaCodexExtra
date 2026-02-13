@@ -1,4 +1,9 @@
-# Medusa / 美杜莎 / 梅杜莎
-id = "medusa"
+id = "bosses/medusa"
 
+[name]
+en = "Medusa"
+zh-hans = "美杜莎"
+zh-hant = "梅杜莎"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "frozen", "paralyzed", "rot", "blind", "asleep"]

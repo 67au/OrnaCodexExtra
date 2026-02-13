@@ -1,4 +1,9 @@
-# Dark Slime / 暗黑史莱姆 / 暗黑史萊姆
-id = "dark-slime"
+id = "monsters/dark-slime"
 
+[name]
+en = "Dark Slime"
+zh-hans = "暗黑史莱姆"
+zh-hant = "暗黑史萊姆"
+
+[data]
 elementWeaknesses = ["holy"]

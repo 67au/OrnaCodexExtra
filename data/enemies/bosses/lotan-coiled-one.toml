@@ -1,6 +1,11 @@
-# Lotan, Coiled One / 盘蛇罗坍 / 盤蛇羅坍
-id = "lotan-coiled-one"
+id = "bosses/lotan-coiled-one"
 
+[name]
+en = "Lotan, Coiled One"
+zh-hans = "盘蛇罗坍"
+zh-hant = "盤蛇羅坍"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "rot" ]

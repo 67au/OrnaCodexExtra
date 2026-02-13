@@ -1,4 +1,9 @@
-# Jinn / 神灯精灵 / 神燈精靈
-id = "jinn"
+id = "monsters/jinn"
 
+[name]
+en = "Jinn"
+zh-hans = "神灯精灵"
+zh-hant = "神燈精靈"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]

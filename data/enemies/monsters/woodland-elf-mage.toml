@@ -1,4 +1,9 @@
-# Woodland Elf Mage / 林地精灵法师 / 林地精靈法師
-id = "woodland-elf-mage"
+id = "monsters/woodland-elf-mage"
 
+[name]
+en = "Woodland Elf Mage"
+zh-hans = "林地精灵法师"
+zh-hant = "林地精靈法師"
+
+[data]
 elementWeaknesses = [ "water" ]

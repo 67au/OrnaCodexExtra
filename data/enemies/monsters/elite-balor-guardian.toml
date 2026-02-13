@@ -1,4 +1,9 @@
-# Elite Balor Guardian / 精英巴罗尔守卫 / 高端巴羅爾悍將
-id = "elite-balor-guardian"
+id = "monsters/elite-balor-guardian"
 
+[name]
+en = "Elite Balor Guardian"
+zh-hans = "精英巴罗尔守卫"
+zh-hant = "高端巴羅爾悍將"
+
+[data]
 elementWeaknesses = ["arcane"]

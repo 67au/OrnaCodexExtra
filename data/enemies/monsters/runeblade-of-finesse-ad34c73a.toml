@@ -1,3 +1,8 @@
-# Runeblade of Finesse / 芬尼斯的符文剑士 / 芬尼斯的符文劍士
-id = "runeblade-of-finesse-ad34c73a"
+id = "monsters/runeblade-of-finesse-ad34c73a"
 
+[name]
+en = "Runeblade of Finesse"
+zh-hans = "芬尼斯的符文剑士"
+zh-hant = "芬尼斯的符文劍士"
+
+[data]

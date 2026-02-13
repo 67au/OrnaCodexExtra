@@ -1,3 +1,8 @@
-# Green Tatzelwurm / 绿塔佐蠕虫 / 綠塔佐蠕蟲
-id = "green-tatzelwurm"
+id = "monsters/green-tatzelwurm"
 
+[name]
+en = "Green Tatzelwurm"
+zh-hans = "绿塔佐蠕虫"
+zh-hant = "綠塔佐蠕蟲"
+
+[data]

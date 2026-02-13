@@ -1,5 +1,10 @@
-# Dark Elf Rogue / 黑暗精灵侠盗 / 黑暗精靈俠盜
-id = "dark-elf-rogue"
+id = "monsters/dark-elf-rogue"
 
+[name]
+en = "Dark Elf Rogue"
+zh-hans = "黑暗精灵侠盗"
+zh-hant = "黑暗精靈俠盜"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementResistances = [ "water", "lightning", "earthen", "dark", "holy" ]

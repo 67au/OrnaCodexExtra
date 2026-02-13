@@ -1,3 +1,8 @@
-# Sumner Athena / 「选手」雅典娜 / 夏運雅典娜
-id = "sumner-athena"
+id = "bosses/sumner-athena"
 
+[name]
+en = "Sumner Athena"
+zh-hans = "「选手」雅典娜"
+zh-hant = "夏運雅典娜"
+
+[data]

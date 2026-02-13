@@ -1,3 +1,8 @@
-# Phoenix Pledgeling / 凤凰誓约者 / 鳳凰誓約
-id = "phoenix-pledgeling"
+id = "monsters/phoenix-pledgeling"
 
+[name]
+en = "Phoenix Pledgeling"
+zh-hans = "凤凰誓约者"
+zh-hant = "鳳凰誓約"
+
+[data]

@@ -1,5 +1,10 @@
-# Ljosalfar Lord / 日之精灵领主 / 日之精靈領主
-id = "ljosalfar-lord"
+id = "bosses/ljosalfar-lord"
 
+[name]
+en = "Ljosalfar Lord"
+zh-hans = "日之精灵领主"
+zh-hant = "日之精靈領主"
+
+[data]
 elementWeaknesses = ["dark"]
 elementImmunities = ["holy"]

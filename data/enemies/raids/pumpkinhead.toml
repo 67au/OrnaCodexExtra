@@ -1,4 +1,9 @@
-# Pumpkinhead / 南瓜头 / 南瓜頭
-id = "pumpkinhead"
+id = "raids/pumpkinhead"
 
+[name]
+en = "Pumpkinhead"
+zh-hans = "南瓜头"
+zh-hant = "南瓜頭"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight", "petrified", "def_d", "def_dd", "res_d", "res_dd"]

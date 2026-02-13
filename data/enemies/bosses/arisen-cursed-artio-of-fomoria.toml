@@ -1,4 +1,9 @@
-# Arisen Cursed Artio of Fomoria / 弗摩尔之重生诅咒的阿尔提奥 / 重生受詛咒的弗摩爾族之阿蒂奧
-id = "arisen-cursed-artio-of-fomoria"
+id = "bosses/arisen-cursed-artio-of-fomoria"
 
+[name]
+en = "Arisen Cursed Artio of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的阿尔提奥"
+zh-hant = "重生受詛咒的弗摩爾族之阿蒂奧"
+
+[data]
 elementImmunities = ["dark"]

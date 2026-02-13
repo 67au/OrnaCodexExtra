@@ -1,6 +1,11 @@
-# Skeleton / 骷髅 / 骷髏頭
-id = "skeleton-96a555cc"
+id = "monsters/skeleton-96a555cc"
 
+[name]
+en = "Skeleton"
+zh-hans = "骷髅"
+zh-hant = "骷髏頭"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementResistances = [ "dark" ]
 statusImmunities = [ "bleeding", "burning" ]

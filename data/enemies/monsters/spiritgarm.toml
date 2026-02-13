@@ -1,3 +1,8 @@
-# Spiritgarm / 幽灵加姆 / 靈獸加姆
-id = "spiritgarm"
+id = "monsters/spiritgarm"
 
+[name]
+en = "Spiritgarm"
+zh-hans = "幽灵加姆"
+zh-hant = "靈獸加姆"
+
+[data]

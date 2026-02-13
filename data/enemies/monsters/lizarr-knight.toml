@@ -1,5 +1,10 @@
-# Lizarr Knight / 蜥蜴人骑士 / 蜥蜴人騎士
-id = "lizarr-knight"
+id = "monsters/lizarr-knight"
 
+[name]
+en = "Lizarr Knight"
+zh-hans = "蜥蜴人骑士"
+zh-hant = "蜥蜴人騎士"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire" ]

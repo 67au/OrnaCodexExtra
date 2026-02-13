@@ -1,5 +1,10 @@
-# Lost Pharaoh (Arisen) / 失落的法老王 (重生者) / 失落的法老王 (重生者)
-id = "lost-pharaoh"
+id = "monsters/lost-pharaoh"
 
+[name]
+en = "Lost Pharaoh (Arisen)"
+zh-hans = "失落的法老王 (重生者)"
+zh-hant = "失落的法老王 (重生者)"
+
+[data]
 elementImmunities = ["dark"]
 statusImmunities = ["poisoned", "bleeding", "paralyzed", "blind", "asleep", "petrified"]

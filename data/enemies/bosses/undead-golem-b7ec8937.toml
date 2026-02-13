@@ -1,6 +1,11 @@
-# Undead Golem / 不死魔像 / 不死魔像
-id = "undead-golem-b7ec8937"
+id = "bosses/undead-golem-b7ec8937"
 
+[name]
+en = "Undead Golem"
+zh-hans = "不死魔像"
+zh-hant = "不死魔像"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementResistances = [ "physical" ]
 statusImmunities = [ "bleeding" ]

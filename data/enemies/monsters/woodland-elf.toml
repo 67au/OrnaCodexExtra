@@ -1,4 +1,9 @@
-# Woodland Elf / 林地精灵 / 林地精靈
-id = "woodland-elf"
+id = "monsters/woodland-elf"
 
+[name]
+en = "Woodland Elf"
+zh-hans = "林地精灵"
+zh-hant = "林地精靈"
+
+[data]
 elementWeaknesses = [ "water" ]

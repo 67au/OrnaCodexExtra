@@ -1,3 +1,8 @@
-# Great Bear / 强大的熊 / 強大的熊
-id = "great-bear"
+id = "monsters/great-bear"
 
+[name]
+en = "Great Bear"
+zh-hans = "强大的熊"
+zh-hant = "強大的熊"
+
+[data]

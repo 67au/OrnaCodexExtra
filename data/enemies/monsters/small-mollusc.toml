@@ -1,4 +1,9 @@
-# Small Mollusc / 小章鱼 / 小軟體動物
-id = "small-mollusc"
+id = "monsters/small-mollusc"
 
+[name]
+en = "Small Mollusc"
+zh-hans = "小章鱼"
+zh-hant = "小軟體動物"
+
+[data]
 elementResistances = [ "water", "fire" ]

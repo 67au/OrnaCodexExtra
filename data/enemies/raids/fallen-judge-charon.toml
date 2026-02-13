@@ -1,5 +1,10 @@
-# Fallen Judge Charon / 堕落判官卡戎 / 墮落判官凱倫
-id = "fallen-judge-charon"
+id = "raids/fallen-judge-charon"
 
+[name]
+en = "Fallen Judge Charon"
+zh-hans = "堕落判官卡戎"
+zh-hant = "墮落判官凱倫"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

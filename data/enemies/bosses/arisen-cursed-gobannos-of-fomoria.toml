@@ -1,5 +1,10 @@
-# Arisen Cursed Gobannos of Fomoria / 弗摩尔之重生诅咒的戈班诺斯 / 重生受詛咒的弗摩爾族之戈班諾斯
-id = "arisen-cursed-gobannos-of-fomoria"
+id = "bosses/arisen-cursed-gobannos-of-fomoria"
 
+[name]
+en = "Arisen Cursed Gobannos of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的戈班诺斯"
+zh-hant = "重生受詛咒的弗摩爾族之戈班諾斯"
+
+[data]
 elementWeaknesses = ["water", "lightning"]
 elementImmunities = ["dark"]

@@ -1,3 +1,8 @@
-# Damona of Fomoria / 弗摩尔之达默纳 / 弗摩爾族之達摩娜
-id = "damona-of-fomoria"
+id = "bosses/damona-of-fomoria"
 
+[name]
+en = "Damona of Fomoria"
+zh-hans = "弗摩尔之达默纳"
+zh-hant = "弗摩爾族之達摩娜"
+
+[data]

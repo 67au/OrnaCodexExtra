@@ -1,5 +1,10 @@
-# Cactus / 仙人掌 / 仙人掌
-id = "cactus"
+id = "monsters/cactus"
 
+[name]
+en = "Cactus"
+zh-hans = "仙人掌"
+zh-hant = "仙人掌"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementImmunities = [ "water" ]

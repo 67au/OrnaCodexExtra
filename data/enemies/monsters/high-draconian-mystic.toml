@@ -1,3 +1,8 @@
-# High Draconian Mystic / 高等德肯尼亚族秘术士 / 高等德肯尼亞族秘術士
-id = "high-draconian-mystic"
+id = "monsters/high-draconian-mystic"
 
+[name]
+en = "High Draconian Mystic"
+zh-hans = "高等德肯尼亚族秘术士"
+zh-hant = "高等德肯尼亞族秘術士"
+
+[data]

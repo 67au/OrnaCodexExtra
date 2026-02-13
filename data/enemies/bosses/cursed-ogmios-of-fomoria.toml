@@ -1,5 +1,10 @@
-# Cursed Ogmios of Fomoria / 弗摩尔之诅咒的奥格米欧斯 / 受詛咒的弗摩爾族之奧米奧斯
-id = "cursed-ogmios-of-fomoria"
+id = "bosses/cursed-ogmios-of-fomoria"
 
+[name]
+en = "Cursed Ogmios of Fomoria"
+zh-hans = "弗摩尔之诅咒的奥格米欧斯"
+zh-hant = "受詛咒的弗摩爾族之奧米奧斯"
+
+[data]
 elementWeaknesses = [ "earthen", "dark" ]
 elementResistances = [ "holy" ]

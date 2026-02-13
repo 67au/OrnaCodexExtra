@@ -1,5 +1,10 @@
-# Noble Perseus / 尚武之珀尔修斯 / 高貴的柏修斯
-id = "noble-perseus"
+id = "raids/noble-perseus"
 
+[name]
+en = "Noble Perseus"
+zh-hans = "尚武之珀尔修斯"
+zh-hant = "高貴的柏修斯"
+
+[data]
 elementResistances = [ "dark" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

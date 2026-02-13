@@ -1,3 +1,8 @@
-# Elite Rift Rogue / 精英裂隙侠盗 / 高端裂痕俠盜
-id = "elite-rift-rogue"
+id = "monsters/elite-rift-rogue"
 
+[name]
+en = "Elite Rift Rogue"
+zh-hans = "精英裂隙侠盗"
+zh-hant = "高端裂痕俠盜"
+
+[data]

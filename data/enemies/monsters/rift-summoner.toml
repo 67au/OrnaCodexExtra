@@ -1,3 +1,8 @@
-# Rift Summoner / 裂隙召唤师 / 裂痕召喚師
-id = "rift-summoner"
+id = "monsters/rift-summoner"
 
+[name]
+en = "Rift Summoner"
+zh-hans = "裂隙召唤师"
+zh-hant = "裂痕召喚師"
+
+[data]

@@ -1,4 +1,9 @@
-# Undead / 亡灵 / 不死者
-id = "undead"
+id = "monsters/undead"
 
+[name]
+en = "Undead"
+zh-hans = "亡灵"
+zh-hant = "不死者"
+
+[data]
 elementWeaknesses = ["holy"]

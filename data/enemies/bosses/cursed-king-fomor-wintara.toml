@@ -1,5 +1,10 @@
-# Cursed King Fomor, Wintara / 诅咒的弗摩尔王温塔拉 / 受詛咒的弗摩爾王，溫塔拉
-id = "cursed-king-fomor-wintara"
+id = "bosses/cursed-king-fomor-wintara"
 
+[name]
+en = "Cursed King Fomor, Wintara"
+zh-hans = "诅咒的弗摩尔王温塔拉"
+zh-hant = "受詛咒的弗摩爾王，溫塔拉"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "fire" ]

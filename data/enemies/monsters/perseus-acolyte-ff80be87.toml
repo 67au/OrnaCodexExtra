@@ -1,3 +1,8 @@
-# Perseus Acolyte / 珀尔修斯侍从 / 柏修斯追隨者
-id = "perseus-acolyte-ff80be87"
+id = "monsters/perseus-acolyte-ff80be87"
 
+[name]
+en = "Perseus Acolyte"
+zh-hans = "珀尔修斯侍从"
+zh-hant = "柏修斯追隨者"
+
+[data]

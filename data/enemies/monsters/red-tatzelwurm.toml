@@ -1,3 +1,8 @@
-# Red Tatzelwurm / 红塔佐蠕虫 / 紅塔佐蠕蟲
-id = "red-tatzelwurm"
+id = "monsters/red-tatzelwurm"
 
+[name]
+en = "Red Tatzelwurm"
+zh-hans = "红塔佐蠕虫"
+zh-hant = "紅塔佐蠕蟲"
+
+[data]

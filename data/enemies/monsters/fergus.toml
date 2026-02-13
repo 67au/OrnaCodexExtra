@@ -1,3 +1,8 @@
-# Fergus / 弗格斯 / 弗格斯
-id = "fergus"
+id = "monsters/fergus"
 
+[name]
+en = "Fergus"
+zh-hans = "弗格斯"
+zh-hant = "弗格斯"
+
+[data]

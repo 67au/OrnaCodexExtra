@@ -1,3 +1,8 @@
-# Stonewarg (Arisen) / 岩石座狼 (重生者) / 岩石座狼 (重生者)
-id = "stonewarg"
+id = "monsters/stonewarg"
 
+[name]
+en = "Stonewarg (Arisen)"
+zh-hans = "岩石座狼 (重生者)"
+zh-hant = "岩石座狼 (重生者)"
+
+[data]

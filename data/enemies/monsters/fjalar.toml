@@ -1,4 +1,9 @@
-# Fjalar / 法亚拉 / 法亞拉
-id = "fjalar"
+id = "monsters/fjalar"
 
+[name]
+en = "Fjalar"
+zh-hans = "法亚拉"
+zh-hant = "法亞拉"
+
+[data]
 elementImmunities = ["lightning"]

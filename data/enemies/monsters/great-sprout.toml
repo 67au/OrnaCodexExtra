@@ -1,4 +1,9 @@
-# Great Sprout / 大喇叭芽 / 大喇叭芽
-id = "great-sprout"
+id = "monsters/great-sprout"
 
+[name]
+en = "Great Sprout"
+zh-hans = "大喇叭芽"
+zh-hant = "大喇叭芽"
+
+[data]
 elementWeaknesses = ["fire", "earthen"]

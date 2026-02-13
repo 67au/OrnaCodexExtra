@@ -1,7 +1,8 @@
-# Beheaded Duelist / 无头决斗家 / 喪首決鬥家
-id = "beheaded-duelist"
+id = "monsters/beheaded-duelist"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Duelist"
+zh-hans = "无头决斗家"
+zh-hant = "喪首決鬥家"
+
+[data]

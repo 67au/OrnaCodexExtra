@@ -1,3 +1,8 @@
-# Witch / 女巫 / 女巫
-id = "witch"
+id = "monsters/witch"
 
+[name]
+en = "Witch"
+zh-hans = "女巫"
+zh-hant = "女巫"
+
+[data]

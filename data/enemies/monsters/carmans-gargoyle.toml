@@ -1,5 +1,10 @@
-# Carman's Gargoyle (Arisen) / 卡门的石像鬼 (重生者) / 卡門的石像鬼 (重生者)
-id = "carmans-gargoyle"
+id = "monsters/carmans-gargoyle"
 
+[name]
+en = "Carman's Gargoyle (Arisen)"
+zh-hans = "卡门的石像鬼 (重生者)"
+zh-hant = "卡門的石像鬼 (重生者)"
+
+[data]
 elementWeaknesses = [ "water" ]
 statusImmunities = [ "petrified" ]

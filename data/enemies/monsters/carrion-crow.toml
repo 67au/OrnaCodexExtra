@@ -1,5 +1,10 @@
-# Carrion Crow / 腐肉乌鸦 / 腐肉烏鴉
-id = "carrion-crow"
+id = "monsters/carrion-crow"
 
+[name]
+en = "Carrion Crow"
+zh-hans = "腐肉乌鸦"
+zh-hant = "腐肉烏鴉"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementResistances = [ "earthen" ]

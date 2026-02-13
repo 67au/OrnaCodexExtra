@@ -1,4 +1,9 @@
-# Earthworm / 蚯蚓 / 蚯蚓
-id = "earthworm"
+id = "monsters/earthworm"
 
+[name]
+en = "Earthworm"
+zh-hans = "蚯蚓"
+zh-hant = "蚯蚓"
+
+[data]
 elementWeaknesses = [ "lightning" ]

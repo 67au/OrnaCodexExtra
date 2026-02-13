@@ -1,5 +1,10 @@
-# Undead Golem (Arisen) / 不死魔像 (重生者) / 不死魔像 (重生者)
-id = "undead-golem"
+id = "monsters/undead-golem"
 
+[name]
+en = "Undead Golem (Arisen)"
+zh-hans = "不死魔像 (重生者)"
+zh-hant = "不死魔像 (重生者)"
+
+[data]
 elementResistances = [ "physical" ]
 statusImmunities = [ "poisoned", "bleeding", "stunned" ]

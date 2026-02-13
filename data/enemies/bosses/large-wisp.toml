@@ -1,4 +1,9 @@
-# Large Wisp / 大幽光 / 大幽光
-id = "large-wisp"
+id = "bosses/large-wisp"
 
+[name]
+en = "Large Wisp"
+zh-hans = "大幽光"
+zh-hant = "大幽光"
+
+[data]
 elementResistances = [ "physical" ]

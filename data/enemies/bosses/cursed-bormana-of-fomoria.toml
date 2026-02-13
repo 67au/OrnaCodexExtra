@@ -1,6 +1,11 @@
-# Cursed Bormana of Fomoria / 弗摩尔之诅咒的波尔玛纳 / 受詛咒的弗摩爾族之波爾瑪納
-id = "cursed-bormana-of-fomoria"
+id = "bosses/cursed-bormana-of-fomoria"
 
+[name]
+en = "Cursed Bormana of Fomoria"
+zh-hans = "弗摩尔之诅咒的波尔玛纳"
+zh-hant = "受詛咒的弗摩爾族之波爾瑪納"
+
+[data]
 elementWeaknesses = [ "water", "holy" ]
 elementImmunities = [ "fire", "lightning" ]
 elementResistances = [ "earthen", "dark" ]

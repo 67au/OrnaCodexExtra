@@ -1,4 +1,9 @@
-# Follower of Kerberos / 刻耳柏洛斯的追随者 / 刻耳柏洛斯的跟隨者
-id = "follower-of-kerberos-a0c03351"
+id = "monsters/follower-of-kerberos-a0c03351"
 
+[name]
+en = "Follower of Kerberos"
+zh-hans = "刻耳柏洛斯的追随者"
+zh-hant = "刻耳柏洛斯的跟隨者"
+
+[data]
 statusImmunities = ["burning", "frozen", "paralyzed", "rot"]

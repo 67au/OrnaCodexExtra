@@ -1,5 +1,10 @@
-# Vampire Lord / 吸血鬼领主 / 吸血鬼領主
-id = "vampire-lord"
+id = "bosses/vampire-lord"
 
+[name]
+en = "Vampire Lord"
+zh-hans = "吸血鬼领主"
+zh-hant = "吸血鬼領主"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["dark"]

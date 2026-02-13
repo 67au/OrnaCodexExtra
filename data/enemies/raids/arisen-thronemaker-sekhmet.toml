@@ -1,4 +1,9 @@
-# Arisen Thronemaker Sekhmet / 重生造王者塞赫麦特 / 重生造王者塞赫麥特
-id = "arisen-thronemaker-sekhmet"
+id = "raids/arisen-thronemaker-sekhmet"
 
+[name]
+en = "Arisen Thronemaker Sekhmet"
+zh-hans = "重生造王者塞赫麦特"
+zh-hant = "重生造王者塞赫麥特"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

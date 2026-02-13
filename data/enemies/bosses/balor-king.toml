@@ -1,5 +1,10 @@
-# Balor King / 巴罗尔王 / 巴羅爾王
-id = "balor-king"
+id = "bosses/balor-king"
 
+[name]
+en = "Balor King"
+zh-hans = "巴罗尔王"
+zh-hant = "巴羅爾王"
+
+[data]
 elementWeaknesses = [ "arcane" ]
 elementResistances = [ "dark", "holy" ]

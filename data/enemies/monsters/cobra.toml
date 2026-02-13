@@ -1,5 +1,10 @@
-# Cobra / 眼镜蛇 / 眼鏡蛇
-id = "cobra"
+id = "monsters/cobra"
 
+[name]
+en = "Cobra"
+zh-hans = "眼镜蛇"
+zh-hant = "眼鏡蛇"
+
+[data]
 elementWeaknesses = ["earthen"]
 statusImmunities = ["poisoned", "blight"]

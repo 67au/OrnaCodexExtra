@@ -1,4 +1,9 @@
-# Dracon / 德肯 / 德肯
-id = "dracon"
+id = "raids/dracon"
 
+[name]
+en = "Dracon"
+zh-hans = "德肯"
+zh-hant = "德肯"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

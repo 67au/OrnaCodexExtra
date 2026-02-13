@@ -1,4 +1,9 @@
-# Shade of Charon, Grand Summoner (Arisen) / 冠位召唤师卡戎之冥影 (重生者) / 冠位召喚師凱倫之影 (重生者)
-id = "shade-of-charon-grand-summoner"
+id = "monsters/shade-of-charon-grand-summoner"
 
+[name]
+en = "Shade of Charon, Grand Summoner (Arisen)"
+zh-hans = "冠位召唤师卡戎之冥影 (重生者)"
+zh-hant = "冠位召喚師凱倫之影 (重生者)"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "rot", "blight"]

@@ -1,4 +1,9 @@
-# Age-Old Mimic / 古老宝箱怪 / 古老的寶箱怪
-id = "age-old-mimic"
+id = "raids/age-old-mimic"
 
+[name]
+en = "Age-Old Mimic"
+zh-hans = "古老宝箱怪"
+zh-hant = "古老的寶箱怪"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

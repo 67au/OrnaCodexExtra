@@ -1,4 +1,9 @@
-# Lizarr Lord (Arisen) / 蜥蜴人领主 (重生者) / 蜥蜴人領主 (重生者)
-id = "lizarr-lord-9fded6ad"
+id = "monsters/lizarr-lord-9fded6ad"
 
+[name]
+en = "Lizarr Lord (Arisen)"
+zh-hans = "蜥蜴人领主 (重生者)"
+zh-hant = "蜥蜴人領主 (重生者)"
+
+[data]
 elementImmunities = ["water"]

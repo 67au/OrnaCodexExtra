@@ -1,5 +1,10 @@
-# Midnight Gazer / 午夜凝视者 / 午夜凝視者
-id = "midnight-gazer"
+id = "monsters/midnight-gazer"
 
+[name]
+en = "Midnight Gazer"
+zh-hans = "午夜凝视者"
+zh-hant = "午夜凝視者"
+
+[data]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dragon" ]

@@ -1,6 +1,11 @@
-# Nin-kilim / 宁-克利姆 / 寧-克寧姆
-id = "nin-kilim"
+id = "bosses/nin-kilim"
 
+[name]
+en = "Nin-kilim"
+zh-hans = "宁-克利姆"
+zh-hant = "寧-克寧姆"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementResistances = [ "water", "fire", "lightning", "dark", "dragon" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]

@@ -1,3 +1,8 @@
-# Final Stable Keeper / 最终随从 / 最終隨從
-id = "final-stable-keeper"
+id = "monsters/final-stable-keeper"
 
+[name]
+en = "Final Stable Keeper"
+zh-hans = "最终随从"
+zh-hant = "最終隨從"
+
+[data]

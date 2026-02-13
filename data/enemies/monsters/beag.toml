@@ -1,3 +1,8 @@
-# Beag / 蓓格 / 蓓格
-id = "beag"
+id = "monsters/beag"
 
+[name]
+en = "Beag"
+zh-hans = "蓓格"
+zh-hant = "蓓格"
+
+[data]

@@ -1,6 +1,11 @@
-# Flame Core / 火焰之核 / 火焰之核
-id = "flame-core"
+id = "monsters/flame-core"
 
+[name]
+en = "Flame Core"
+zh-hans = "火焰之核"
+zh-hant = "火焰之核"
+
+[data]
 elementWeaknesses = ["water"]
 elementImmunities = ["fire"]
 statusImmunities = ["burning"]

@@ -1,3 +1,8 @@
-# Sumner Hera / 「选手」赫拉 / 夏運赫拉
-id = "sumner-hera"
+id = "bosses/sumner-hera"
 
+[name]
+en = "Sumner Hera"
+zh-hans = "「选手」赫拉"
+zh-hant = "夏運赫拉"
+
+[data]

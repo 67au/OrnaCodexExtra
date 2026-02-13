@@ -1,6 +1,11 @@
-# Buried / 活埋者 / 活埋者
-id = "buried"
+id = "monsters/buried"
 
+[name]
+en = "Buried"
+zh-hans = "活埋者"
+zh-hant = "活埋者"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementImmunities = [ "earthen" ]
 statusImmunities = [ "rot" ]

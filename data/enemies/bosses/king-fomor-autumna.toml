@@ -1,5 +1,10 @@
-# King Fomor, Autumna / 弗摩尔王奥图娜 / 弗摩爾王，阿圖娜
-id = "king-fomor-autumna"
+id = "bosses/king-fomor-autumna"
 
+[name]
+en = "King Fomor, Autumna"
+zh-hans = "弗摩尔王奥图娜"
+zh-hant = "弗摩爾王，阿圖娜"
+
+[data]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water" ]

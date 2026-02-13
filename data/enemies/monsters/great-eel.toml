@@ -1,3 +1,8 @@
-# Great Eel / 巨鳗 / 巨鰻
-id = "great-eel"
+id = "monsters/great-eel"
 
+[name]
+en = "Great Eel"
+zh-hans = "巨鳗"
+zh-hant = "巨鰻"
+
+[data]

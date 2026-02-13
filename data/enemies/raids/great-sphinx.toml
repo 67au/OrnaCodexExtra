@@ -1,5 +1,10 @@
-# Great Sphinx / 斯芬克斯 / 強大的斯芬克斯
-id = "great-sphinx"
+id = "raids/great-sphinx"
 
+[name]
+en = "Great Sphinx"
+zh-hans = "斯芬克斯"
+zh-hant = "強大的斯芬克斯"
+
+[data]
 elementImmunities = ["water", "fire", "lightning", "earthen"]
 statusImmunities = ["poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "stasis", "att_d", "def_d", "def_dd", "mag_d", "res_d", "res_dd"]

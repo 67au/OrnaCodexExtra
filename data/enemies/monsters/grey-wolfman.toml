@@ -1,3 +1,8 @@
-# Grey Wolfman / 灰狼人 / 灰狼人
-id = "grey-wolfman"
+id = "monsters/grey-wolfman"
 
+[name]
+en = "Grey Wolfman"
+zh-hans = "灰狼人"
+zh-hant = "灰狼人"
+
+[data]

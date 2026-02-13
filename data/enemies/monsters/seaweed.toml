@@ -1,4 +1,9 @@
-# Seaweed / 海带 / 海帶
-id = "seaweed"
+id = "monsters/seaweed"
 
+[name]
+en = "Seaweed"
+zh-hans = "海带"
+zh-hant = "海帶"
+
+[data]
 statusImmunities = ["bleeding", "burning"]

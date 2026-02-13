@@ -1,4 +1,9 @@
-# Fallen King Arthus / 堕落亚瑟王 / 墮落亞瑟王
-id = "fallen-king-arthus"
+id = "raids/fallen-king-arthus"
 
+[name]
+en = "Fallen King Arthus"
+zh-hans = "堕落亚瑟王"
+zh-hant = "墮落亞瑟王"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

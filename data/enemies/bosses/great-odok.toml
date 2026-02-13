@@ -1,5 +1,10 @@
-# Great Odok / 强大的亡骸 / 強大的亡骸
-id = "great-odok"
+id = "bosses/great-odok"
 
+[name]
+en = "Great Odok"
+zh-hans = "强大的亡骸"
+zh-hant = "強大的亡骸"
+
+[data]
 elementWeaknesses = ["holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep"]

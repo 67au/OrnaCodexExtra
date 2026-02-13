@@ -1,4 +1,9 @@
-# Fomorian Mage / 弗摩尔族法师 / 弗摩爾族法師
-id = "fomorian-mage"
+id = "monsters/fomorian-mage"
 
+[name]
+en = "Fomorian Mage"
+zh-hans = "弗摩尔族法师"
+zh-hant = "弗摩爾族法師"
+
+[data]
 elementWeaknesses = ["dark"]

@@ -1,5 +1,10 @@
-# Arisen Gymir / 重生盖密尔 / 重生蓋密爾
-id = "arisen-gymir"
+id = "bosses/arisen-gymir"
 
+[name]
+en = "Arisen Gymir"
+zh-hans = "重生盖密尔"
+zh-hant = "重生蓋密爾"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire", "earthen" ]

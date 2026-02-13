@@ -1,6 +1,11 @@
-# Dark Mage / 暗黑法师 / 黑暗法師
-id = "dark-mage"
+id = "monsters/dark-mage"
 
+[name]
+en = "Dark Mage"
+zh-hans = "暗黑法师"
+zh-hant = "黑暗法師"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark" ]
 statusImmunities = [ "bleeding" ]

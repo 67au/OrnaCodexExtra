@@ -1,6 +1,11 @@
-# Agathodaemon / 阿伽忒俄斯 / 阿伽忒俄斯
-id = "agathodaemon"
+id = "bosses/agathodaemon"
 
+[name]
+en = "Agathodaemon"
+zh-hans = "阿伽忒俄斯"
+zh-hant = "阿伽忒俄斯"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "burning", "blight" ]

@@ -1,6 +1,11 @@
-# Mammon / 玛门 / 瑪門
-id = "mammon"
+id = "bosses/mammon"
 
+[name]
+en = "Mammon"
+zh-hans = "玛门"
+zh-hant = "瑪門"
+
+[data]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "dragon", "arcane" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]

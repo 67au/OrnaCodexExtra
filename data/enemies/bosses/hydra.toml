@@ -1,6 +1,11 @@
-# Hydra / 九头蛇 / 九頭蛇
-id = "hydra"
+id = "bosses/hydra"
 
+[name]
+en = "Hydra"
+zh-hans = "九头蛇"
+zh-hant = "九頭蛇"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "fire" ]
 statusImmunities = [ "poisoned", "burning", "frozen", "paralyzed", "rot", "asleep", "blight", "petrified" ]

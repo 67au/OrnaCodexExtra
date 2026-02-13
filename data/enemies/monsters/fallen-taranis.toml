@@ -1,5 +1,10 @@
-# Fallen Taranis / 堕落塔拉尼斯 / 墮落塔拉尼斯
-id = "fallen-taranis"
+id = "monsters/fallen-taranis"
 
+[name]
+en = "Fallen Taranis"
+zh-hans = "堕落塔拉尼斯"
+zh-hant = "墮落塔拉尼斯"
+
+[data]
 elementImmunities = ["lightning"]
 statusImmunities = ["paralyzed"]

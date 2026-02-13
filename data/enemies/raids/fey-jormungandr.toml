@@ -1,4 +1,9 @@
-# Fey Jormungandr / 变异耶梦加得 / 變異耶夢加德
-id = "fey-jormungandr"
+id = "raids/fey-jormungandr"
 
+[name]
+en = "Fey Jormungandr"
+zh-hans = "变异耶梦加得"
+zh-hant = "變異耶夢加德"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

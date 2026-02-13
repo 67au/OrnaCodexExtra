@@ -1,3 +1,8 @@
-# First Stable Keeper / 第一随从 / 第一隨從
-id = "first-stable-keeper"
+id = "monsters/first-stable-keeper"
 
+[name]
+en = "First Stable Keeper"
+zh-hans = "第一随从"
+zh-hant = "第一隨從"
+
+[data]

@@ -1,6 +1,11 @@
-# Cerberus / 地狱三头犬 / 地獄三頭犬
-id = "cerberus"
+id = "bosses/cerberus"
 
+[name]
+en = "Cerberus"
+zh-hans = "地狱三头犬"
+zh-hant = "地獄三頭犬"
+
+[data]
 elementWeaknesses = [ "water", "lightning" ]
 elementImmunities = [ "fire" ]
 elementResistances = [ "dark" ]

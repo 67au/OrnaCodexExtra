@@ -1,4 +1,9 @@
-# Greater Snake / 大蛇 / 大蛇
-id = "greater-snake"
+id = "monsters/greater-snake"
 
+[name]
+en = "Greater Snake"
+zh-hans = "大蛇"
+zh-hant = "大蛇"
+
+[data]
 elementWeaknesses = ["earthen"]

@@ -1,5 +1,10 @@
-# Sea Drake / 海龙兽 / 海龍獸
-id = "sea-drake"
+id = "monsters/sea-drake"
 
+[name]
+en = "Sea Drake"
+zh-hans = "海龙兽"
+zh-hant = "海龍獸"
+
+[data]
 elementWeaknesses = ["lightning", "dragon"]
 elementImmunities = ["water"]

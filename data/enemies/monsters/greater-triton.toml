@@ -1,3 +1,8 @@
-# Greater Triton / 巨大特里同 / 巨大特里頓
-id = "greater-triton"
+id = "monsters/greater-triton"
 
+[name]
+en = "Greater Triton"
+zh-hans = "巨大特里同"
+zh-hant = "巨大特里頓"
+
+[data]

@@ -1,5 +1,10 @@
-# Arisen Morrigan / 重生摩莉甘 / 重生的摩莉甘
-id = "arisen-morrigan"
+id = "raids/arisen-morrigan"
 
+[name]
+en = "Arisen Morrigan"
+zh-hans = "重生摩莉甘"
+zh-hant = "重生的摩莉甘"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "def_d", "def_dd", "mag_d", "t__mag_d", "t__mag_dd", "res_dd", "res_d" ]

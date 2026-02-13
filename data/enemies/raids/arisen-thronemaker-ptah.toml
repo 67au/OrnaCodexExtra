@@ -1,4 +1,9 @@
-# Arisen Thronemaker Ptah / 重生造王者普塔 / 重生造王者普塔
-id = "arisen-thronemaker-ptah"
+id = "raids/arisen-thronemaker-ptah"
 
+[name]
+en = "Arisen Thronemaker Ptah"
+zh-hans = "重生造王者普塔"
+zh-hant = "重生造王者普塔"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

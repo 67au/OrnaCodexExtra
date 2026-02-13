@@ -1,6 +1,11 @@
-# Vritra the Steadfast / 坚毅之弗栗多 / 堅毅之弗栗多
-id = "vritra-the-steadfast"
+id = "bosses/vritra-the-steadfast"
 
+[name]
+en = "Vritra the Steadfast"
+zh-hans = "坚毅之弗栗多"
+zh-hant = "堅毅之弗栗多"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "paralyzed" ]

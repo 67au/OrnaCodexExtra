@@ -1,5 +1,10 @@
-# Cockatrice / 鸡蛇 / 雞蛇
-id = "cockatrice"
+id = "bosses/cockatrice"
 
+[name]
+en = "Cockatrice"
+zh-hans = "鸡蛇"
+zh-hant = "雞蛇"
+
+[data]
 elementWeaknesses = [ "fire" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]

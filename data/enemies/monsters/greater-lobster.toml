@@ -1,3 +1,8 @@
-# Greater Lobster / 巨型海螯虾 / 大龍蝦
-id = "greater-lobster"
+id = "monsters/greater-lobster"
 
+[name]
+en = "Greater Lobster"
+zh-hans = "巨型海螯虾"
+zh-hant = "大龍蝦"
+
+[data]

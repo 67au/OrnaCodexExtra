@@ -1,5 +1,10 @@
-# Anubis / 阿努比斯 / 阿努比斯
-id = "anubis"
+id = "bosses/anubis"
 
+[name]
+en = "Anubis"
+zh-hans = "阿努比斯"
+zh-hant = "阿努比斯"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

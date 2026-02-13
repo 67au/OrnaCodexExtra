@@ -1,3 +1,8 @@
-# Elite Orc / 精英半兽人 / 高端半獸人
-id = "elite-orc"
+id = "monsters/elite-orc"
 
+[name]
+en = "Elite Orc"
+zh-hans = "精英半兽人"
+zh-hant = "高端半獸人"
+
+[data]

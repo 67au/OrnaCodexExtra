@@ -1,3 +1,8 @@
-# Goblin Lord / 哥布林领主 / 哥布林領主
-id = "goblin-lord"
+id = "bosses/goblin-lord"
 
+[name]
+en = "Goblin Lord"
+zh-hans = "哥布林领主"
+zh-hant = "哥布林領主"
+
+[data]

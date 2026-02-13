@@ -1,5 +1,10 @@
-# Lost Pharaoh / 失落的法老王 / 失落的法老王
-id = "lost-pharaoh-0f685085"
+id = "bosses/lost-pharaoh-0f685085"
 
+[name]
+en = "Lost Pharaoh"
+zh-hans = "失落的法老王"
+zh-hant = "失落的法老王"
+
+[data]
 elementImmunities = ["dark"]
 statusImmunities = ["poisoned", "bleeding", "asleep", "petrified"]

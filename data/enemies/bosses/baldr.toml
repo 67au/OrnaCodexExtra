@@ -1,5 +1,10 @@
-# Baldr / 巴德尔 / 巴德爾
-id = "baldr"
+id = "bosses/baldr"
 
+[name]
+en = "Baldr"
+zh-hans = "巴德尔"
+zh-hant = "巴德爾"
+
+[data]
 elementWeaknesses = [ "water" ]
 statusImmunities = [ "burning", "frozen", "paralyzed", "rot", "blind", "blight" ]

@@ -1,6 +1,11 @@
-# Arisen Dagda / 重生达格达 / 重生的達格達
-id = "arisen-dagda"
+id = "bosses/arisen-dagda"
 
+[name]
+en = "Arisen Dagda"
+zh-hans = "重生达格达"
+zh-hant = "重生的達格達"
+
+[data]
 elementWeaknesses = [ "arcane" ]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

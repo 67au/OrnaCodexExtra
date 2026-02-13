@@ -1,4 +1,9 @@
-# Cernunnos / 科尔努诺斯 / 科爾努諾斯
-id = "cernunnos"
+id = "monsters/cernunnos"
 
+[name]
+en = "Cernunnos"
+zh-hans = "科尔努诺斯"
+zh-hant = "科爾努諾斯"
+
+[data]
 elementImmunities = ["dark", "holy"]

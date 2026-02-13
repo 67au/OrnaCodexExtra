@@ -1,5 +1,10 @@
-# Storm Knight / 暴风骑士 / 暴風騎士
-id = "storm-knight"
+id = "monsters/storm-knight"
 
+[name]
+en = "Storm Knight"
+zh-hans = "暴风骑士"
+zh-hant = "暴風騎士"
+
+[data]
 elementWeaknesses = ["earthen"]
 elementImmunities = ["lightning"]

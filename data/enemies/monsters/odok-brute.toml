@@ -1,5 +1,10 @@
-# Odok Brute / 亡骸精英 / 亡骸精英
-id = "odok-brute"
+id = "monsters/odok-brute"
 
+[name]
+en = "Odok Brute"
+zh-hans = "亡骸精英"
+zh-hant = "亡骸精英"
+
+[data]
 elementWeaknesses = ["holy"]
 statusImmunities = ["bleeding"]

@@ -1,4 +1,9 @@
-# Arisen Ophion of Olympia / 奥林匹亚之重生俄菲翁 / 奧林匹亞的重生俄菲翁
-id = "arisen-ophion-of-olympia"
+id = "raids/arisen-ophion-of-olympia"
 
+[name]
+en = "Arisen Ophion of Olympia"
+zh-hans = "奥林匹亚之重生俄菲翁"
+zh-hant = "奧林匹亞的重生俄菲翁"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

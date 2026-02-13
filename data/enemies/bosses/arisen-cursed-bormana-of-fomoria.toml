@@ -1,3 +1,8 @@
-# Arisen Cursed Bormana of Fomoria / 弗摩尔之重生诅咒的波尔玛纳 / 重生受詛咒的弗摩爾族之波爾瑪納
-id = "arisen-cursed-bormana-of-fomoria"
+id = "bosses/arisen-cursed-bormana-of-fomoria"
 
+[name]
+en = "Arisen Cursed Bormana of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的波尔玛纳"
+zh-hant = "重生受詛咒的弗摩爾族之波爾瑪納"
+
+[data]

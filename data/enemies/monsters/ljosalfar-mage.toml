@@ -1,5 +1,10 @@
-# Ljosalfar Mage / 日之精灵法师 / 日之精靈法師
-id = "ljosalfar-mage"
+id = "monsters/ljosalfar-mage"
 
+[name]
+en = "Ljosalfar Mage"
+zh-hans = "日之精灵法师"
+zh-hant = "日之精靈法師"
+
+[data]
 elementWeaknesses = ["dark"]
 elementImmunities = ["holy"]

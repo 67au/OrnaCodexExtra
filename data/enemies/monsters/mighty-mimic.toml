@@ -1,5 +1,10 @@
-# Mighty Mimic / 究极宝箱怪 / 究極寶箱怪
-id = "mighty-mimic"
+id = "monsters/mighty-mimic"
 
+[name]
+en = "Mighty Mimic"
+zh-hans = "究极宝箱怪"
+zh-hant = "究極寶箱怪"
+
+[data]
 elementImmunities = ["water", "fire", "lightning", "earthen", "dark", "holy", "arcane", "physical"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "t__mag_dd"]

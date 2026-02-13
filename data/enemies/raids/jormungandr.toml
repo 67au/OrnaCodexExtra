@@ -1,4 +1,9 @@
-# Jormungandr / 耶梦加得 / 耶夢加德
-id = "jormungandr"
+id = "raids/jormungandr"
 
+[name]
+en = "Jormungandr"
+zh-hans = "耶梦加得"
+zh-hant = "耶夢加德"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

@@ -1,3 +1,8 @@
-# Bloodwarg (Arisen) / 嗜血座狼 (重生者) / 血腥座狼 (重生者)
-id = "bloodwarg-dfa97df9"
+id = "monsters/bloodwarg-dfa97df9"
 
+[name]
+en = "Bloodwarg (Arisen)"
+zh-hans = "嗜血座狼 (重生者)"
+zh-hant = "血腥座狼 (重生者)"
+
+[data]

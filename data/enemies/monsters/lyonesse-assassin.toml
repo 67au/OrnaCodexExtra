@@ -1,4 +1,9 @@
-# Lyonesse Assassin / 里昂内斯刺客 / 里昂內斯刺客
-id = "lyonesse-assassin"
+id = "monsters/lyonesse-assassin"
 
+[name]
+en = "Lyonesse Assassin"
+zh-hans = "里昂内斯刺客"
+zh-hant = "里昂內斯刺客"
+
+[data]
 elementWeaknesses = [ "lightning", "dark" ]

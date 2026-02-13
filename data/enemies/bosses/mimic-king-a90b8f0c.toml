@@ -1,6 +1,11 @@
-# Mimic King / 宝箱王 / 寶箱王
-id = "mimic-king-a90b8f0c"
+id = "bosses/mimic-king-a90b8f0c"
 
+[name]
+en = "Mimic King"
+zh-hans = "宝箱王"
+zh-hant = "寶箱王"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementImmunities = [ "water", "fire", "lightning", "earthen" ]
 elementResistances = [ "dark", "holy" ]

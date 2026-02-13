@@ -1,5 +1,10 @@
-# Arisen Cursed King Fomor, Sumner / 重生诅咒的弗摩尔王萨姆纳 / 重生受詛咒的弗摩爾王，薩姆納
-id = "arisen-cursed-king-fomor-sumner"
+id = "bosses/arisen-cursed-king-fomor-sumner"
 
+[name]
+en = "Arisen Cursed King Fomor, Sumner"
+zh-hans = "重生诅咒的弗摩尔王萨姆纳"
+zh-hant = "重生受詛咒的弗摩爾王，薩姆納"
+
+[data]
 elementWeaknesses = ["earthen", "dark"]
 elementImmunities = ["fire"]

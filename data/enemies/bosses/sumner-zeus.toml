@@ -1,3 +1,8 @@
-# Sumner Zeus / 「选手」宙斯 / 夏運宙斯
-id = "sumner-zeus"
+id = "bosses/sumner-zeus"
 
+[name]
+en = "Sumner Zeus"
+zh-hans = "「选手」宙斯"
+zh-hant = "夏運宙斯"
+
+[data]

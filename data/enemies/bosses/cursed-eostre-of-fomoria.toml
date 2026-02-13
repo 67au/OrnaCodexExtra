@@ -1,5 +1,10 @@
-# Cursed Eostre of Fomoria / 弗摩尔之诅咒的厄俄斯特 / 受詛咒的弗摩爾族之俄斯特
-id = "cursed-eostre-of-fomoria"
+id = "bosses/cursed-eostre-of-fomoria"
 
+[name]
+en = "Cursed Eostre of Fomoria"
+zh-hans = "弗摩尔之诅咒的厄俄斯特"
+zh-hant = "受詛咒的弗摩爾族之俄斯特"
+
+[data]
 elementImmunities = [ "water", "fire" ]
 elementResistances = [ "earthen" ]

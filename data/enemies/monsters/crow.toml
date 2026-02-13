@@ -1,4 +1,9 @@
-# Crow / 乌鸦 / 烏鴉
-id = "crow"
+id = "monsters/crow"
 
+[name]
+en = "Crow"
+zh-hans = "乌鸦"
+zh-hant = "烏鴉"
+
+[data]
 elementResistances = [ "earthen" ]

@@ -1,5 +1,10 @@
-# Immortal Lord / 不朽领主 / 不朽領主
-id = "immortal-lord-418e5cff"
+id = "bosses/immortal-lord-418e5cff"
 
+[name]
+en = "Immortal Lord"
+zh-hans = "不朽领主"
+zh-hant = "不朽領主"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon", "arcane" ]
 statusImmunities = [ "blind", "asleep", "blight" ]

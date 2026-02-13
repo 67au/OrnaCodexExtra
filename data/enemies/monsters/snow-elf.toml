@@ -1,4 +1,9 @@
-# Snow Elf / 雪精灵 / 雪精靈
-id = "snow-elf"
+id = "monsters/snow-elf"
 
+[name]
+en = "Snow Elf"
+zh-hans = "雪精灵"
+zh-hant = "雪精靈"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]

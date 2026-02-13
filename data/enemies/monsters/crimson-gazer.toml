@@ -1,5 +1,10 @@
-# Crimson Gazer / 深红凝视者 / 赤紅凝視者
-id = "crimson-gazer"
+id = "monsters/crimson-gazer"
 
+[name]
+en = "Crimson Gazer"
+zh-hans = "深红凝视者"
+zh-hant = "赤紅凝視者"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire", "earthen", "dark", "holy", "dragon" ]

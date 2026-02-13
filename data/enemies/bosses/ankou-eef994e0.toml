@@ -1,6 +1,11 @@
-# Ankou / 安库 / 安庫
-id = "ankou-eef994e0"
+id = "bosses/ankou-eef994e0"
 
+[name]
+en = "Ankou"
+zh-hans = "安库"
+zh-hant = "安庫"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water", "lightning", "earthen" ]

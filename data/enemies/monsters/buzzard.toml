@@ -1,4 +1,9 @@
-# Buzzard / 秃鹰 / 禿鷹
-id = "buzzard"
+id = "monsters/buzzard"
 
+[name]
+en = "Buzzard"
+zh-hans = "秃鹰"
+zh-hant = "禿鷹"
+
+[data]
 elementWeaknesses = [ "water", "earthen" ]

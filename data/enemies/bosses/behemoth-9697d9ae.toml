@@ -1,5 +1,10 @@
-# Behemoth / 贝西摩斯 / 貝西摩斯
-id = "behemoth-9697d9ae"
+id = "bosses/behemoth-9697d9ae"
 
+[name]
+en = "Behemoth"
+zh-hans = "贝西摩斯"
+zh-hant = "貝西摩斯"
+
+[data]
 elementWeaknesses = [ "fire" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]

@@ -1,5 +1,10 @@
-# Untarnished Perseus / 无瑕之珀尔修斯 / 無瑕的柏修斯
-id = "untarnished-perseus"
+id = "raids/untarnished-perseus"
 
+[name]
+en = "Untarnished Perseus"
+zh-hans = "无瑕之珀尔修斯"
+zh-hant = "無瑕的柏修斯"
+
+[data]
 elementResistances = [ "dark" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

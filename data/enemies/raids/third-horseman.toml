@@ -1,5 +1,10 @@
-# Third Horseman / 第三骑士 / 第三騎士
-id = "third-horseman"
+id = "raids/third-horseman"
 
+[name]
+en = "Third Horseman"
+zh-hans = "第三骑士"
+zh-hant = "第三騎士"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

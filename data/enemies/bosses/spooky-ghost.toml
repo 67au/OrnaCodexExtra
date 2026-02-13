@@ -1,6 +1,11 @@
-# Spooky Ghost / 诡异幽灵 / 詭異幽靈
-id = "spooky-ghost"
+id = "bosses/spooky-ghost"
 
+[name]
+en = "Spooky Ghost"
+zh-hans = "诡异幽灵"
+zh-hant = "詭異幽靈"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementImmunities = [ "dark", "physical" ]
 elementResistances = [ "water", "lightning" ]

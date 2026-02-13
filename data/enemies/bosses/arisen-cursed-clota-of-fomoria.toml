@@ -1,4 +1,9 @@
-# Arisen Cursed Clota of Fomoria / 弗摩尔之重生诅咒的克洛塔 / 重生受詛咒的弗摩爾族之克洛塔
-id = "arisen-cursed-clota-of-fomoria"
+id = "bosses/arisen-cursed-clota-of-fomoria"
 
+[name]
+en = "Arisen Cursed Clota of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的克洛塔"
+zh-hant = "重生受詛咒的弗摩爾族之克洛塔"
+
+[data]
 elementResistances = [ "holy" ]

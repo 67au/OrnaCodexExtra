@@ -1,5 +1,10 @@
-# Lizarr Lord / 蜥蜴人领主 / 蜥蜴人領主
-id = "lizarr-lord"
+id = "bosses/lizarr-lord"
 
+[name]
+en = "Lizarr Lord"
+zh-hans = "蜥蜴人领主"
+zh-hant = "蜥蜴人領主"
+
+[data]
 elementWeaknesses = ["lightning"]
 elementImmunities = ["water"]

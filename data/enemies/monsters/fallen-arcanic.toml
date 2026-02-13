@@ -1,5 +1,10 @@
-# Fallen Arcanic / 堕落奥术剑士 / 墮落奧術劍士
-id = "fallen-arcanic"
+id = "monsters/fallen-arcanic"
 
+[name]
+en = "Fallen Arcanic"
+zh-hans = "堕落奥术剑士"
+zh-hant = "墮落奧術劍士"
+
+[data]
 elementImmunities = ["arcane"]
 statusImmunities = ["asleep"]

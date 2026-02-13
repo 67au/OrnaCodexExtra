@@ -1,5 +1,10 @@
-# Aegir / 埃吉尔 / 埃吉爾
-id = "aegir"
+id = "bosses/aegir"
 
+[name]
+en = "Aegir"
+zh-hans = "埃吉尔"
+zh-hant = "埃吉爾"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire", "earthen" ]

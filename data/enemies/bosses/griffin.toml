@@ -1,6 +1,11 @@
-# Griffin / 格里芬 / 格里芬
-id = "griffin"
+id = "bosses/griffin"
 
+[name]
+en = "Griffin"
+zh-hans = "格里芬"
+zh-hant = "格里芬"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep", "blight" ]

@@ -1,7 +1,8 @@
-# Selkie / 海豹女 / 海豹女
-id = "selkie"
+id = "monsters/selkie"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Selkie"
+zh-hans = "海豹女"
+zh-hant = "海豹女"
+
+[data]

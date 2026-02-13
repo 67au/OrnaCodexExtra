@@ -1,3 +1,8 @@
-# Manticore / 蝎狮 / 蠍獅
-id = "manticore"
+id = "bosses/manticore"
 
+[name]
+en = "Manticore"
+zh-hans = "蝎狮"
+zh-hant = "蠍獅"
+
+[data]

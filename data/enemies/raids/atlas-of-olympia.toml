@@ -1,4 +1,9 @@
-# Atlas of Olympia / 奥林匹亚之阿特拉斯 / 奧林匹亞的阿特拉斯
-id = "atlas-of-olympia"
+id = "raids/atlas-of-olympia"
 
+[name]
+en = "Atlas of Olympia"
+zh-hans = "奥林匹亚之阿特拉斯"
+zh-hant = "奧林匹亞的阿特拉斯"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

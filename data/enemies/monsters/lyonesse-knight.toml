@@ -1,4 +1,9 @@
-# Lyonesse Knight / 里昂内斯骑士 / 里昂內斯騎士
-id = "lyonesse-knight"
+id = "monsters/lyonesse-knight"
 
+[name]
+en = "Lyonesse Knight"
+zh-hans = "里昂内斯骑士"
+zh-hant = "里昂內斯騎士"
+
+[data]
 elementWeaknesses = [ "lightning", "dark" ]

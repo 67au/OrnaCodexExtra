@@ -1,5 +1,10 @@
-# Dark Elf Mage / 黑暗精灵法师 / 黑暗精靈法師
-id = "dark-elf-mage"
+id = "monsters/dark-elf-mage"
 
+[name]
+en = "Dark Elf Mage"
+zh-hans = "黑暗精灵法师"
+zh-hant = "黑暗精靈法師"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "fire", "lightning", "earthen", "dark", "holy" ]

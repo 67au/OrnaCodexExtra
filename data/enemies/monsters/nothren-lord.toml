@@ -1,5 +1,10 @@
-# Nothren Lord / 北族领主 / 北族領主
-id = "nothren-lord"
+id = "monsters/nothren-lord"
 
+[name]
+en = "Nothren Lord"
+zh-hans = "北族领主"
+zh-hant = "北族領主"
+
+[data]
 elementResistances = [ "water" ]
 statusImmunities = [ "frozen" ]

@@ -1,3 +1,8 @@
-# Orc Lord (Arisen) / 半兽人领主 (重生者) / 半獸人君王 (重生者)
-id = "orc-lord"
+id = "monsters/orc-lord"
 
+[name]
+en = "Orc Lord (Arisen)"
+zh-hans = "半兽人领主 (重生者)"
+zh-hant = "半獸人君王 (重生者)"
+
+[data]

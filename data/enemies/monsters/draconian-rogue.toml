@@ -1,3 +1,8 @@
-# Draconian Rogue / 德肯尼亚族侠盗 / 德肯尼亞族俠盜
-id = "draconian-rogue"
+id = "monsters/draconian-rogue"
 
+[name]
+en = "Draconian Rogue"
+zh-hans = "德肯尼亚族侠盗"
+zh-hant = "德肯尼亞族俠盜"
+
+[data]

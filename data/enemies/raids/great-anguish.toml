@@ -1,4 +1,9 @@
-# Great Anguish / 苦难主宰 / 煎熬之主
-id = "great-anguish"
+id = "raids/great-anguish"
 
+[name]
+en = "Great Anguish"
+zh-hans = "苦难主宰"
+zh-hant = "煎熬之主"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "att_d", "def_d", "def_dd", "t__def_d", "t__att_d", "t__mag_d", "t__mag_dd", "t__res_d", "t__att_dd", "t__def_dd", "t__def_ddd", "t__res_dd", "res_d", "res_dd", "t__dex_d", "lyon_s_mark", "dmg_dd"]

@@ -1,5 +1,10 @@
-# Cerus / 凯鲁斯 / 凱魯斯
-id = "cerus"
+id = "raids/cerus"
 
+[name]
+en = "Cerus"
+zh-hans = "凯鲁斯"
+zh-hant = "凱魯斯"
+
+[data]
 elementResistances = [ "fire" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

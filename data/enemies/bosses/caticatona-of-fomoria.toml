@@ -1,6 +1,11 @@
-# Caticatona of Fomoria / 弗摩尔之卡蒂卡托娜 / 弗摩爾族之卡卡托娜
-id = "caticatona-of-fomoria"
+id = "bosses/caticatona-of-fomoria"
 
+[name]
+en = "Caticatona of Fomoria"
+zh-hans = "弗摩尔之卡蒂卡托娜"
+zh-hant = "弗摩爾族之卡卡托娜"
+
+[data]
 elementWeaknesses = [ "fire", "lightning" ]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water", "holy" ]

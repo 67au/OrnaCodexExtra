@@ -1,6 +1,11 @@
-# Alfar Mage / 古精灵法师 / 古精靈法師
-id = "alfar-mage-fe8adf12"
+id = "monsters/alfar-mage-fe8adf12"
 
+[name]
+en = "Alfar Mage"
+zh-hans = "古精灵法师"
+zh-hant = "古精靈法師"
+
+[data]
 elementWeaknesses = ["earthen"]
 elementImmunities = ["dark", "holy"]
 elementResistances = ["water"]

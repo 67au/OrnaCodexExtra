@@ -1,6 +1,11 @@
-# Dagda / 达格达 / 達格達
-id = "dagda"
+id = "bosses/dagda"
 
+[name]
+en = "Dagda"
+zh-hans = "达格达"
+zh-hant = "達格達"
+
+[data]
 elementWeaknesses = [ "arcane" ]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

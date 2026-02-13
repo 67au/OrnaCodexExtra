@@ -1,6 +1,11 @@
-# Arcane Flame / 奥术火焰 / 奧術火焰
-id = "arcane-flame"
+id = "monsters/arcane-flame"
 
+[name]
+en = "Arcane Flame"
+zh-hans = "奥术火焰"
+zh-hant = "奧術火焰"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementImmunities = [ "fire", "dark", "dragon" ]
 elementResistances = [ "arcane" ]

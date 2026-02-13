@@ -1,4 +1,9 @@
-# Ratman / 鼠男 / 鼠男
-id = "ratman"
+id = "monsters/ratman"
 
+[name]
+en = "Ratman"
+zh-hans = "鼠男"
+zh-hant = "鼠男"
+
+[data]
 statusImmunities = ["poisoned", "blight"]

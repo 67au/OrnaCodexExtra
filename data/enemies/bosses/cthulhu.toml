@@ -1,6 +1,11 @@
-# Cthulhu / 克苏鲁 / 克蘇魯
-id = "cthulhu"
+id = "bosses/cthulhu"
 
+[name]
+en = "Cthulhu"
+zh-hans = "克苏鲁"
+zh-hant = "克蘇魯"
+
+[data]
 elementImmunities = [ "water", "fire" ]
 elementResistances = [ "dark", "holy" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]

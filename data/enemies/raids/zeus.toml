@@ -1,5 +1,10 @@
-# Zeus / 宙斯 / 宙斯
-id = "zeus"
+id = "raids/zeus"
 
+[name]
+en = "Zeus"
+zh-hans = "宙斯"
+zh-hant = "宙斯"
+
+[data]
 elementImmunities = ["lightning"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "t__res_d", "res_d", "res_dd"]

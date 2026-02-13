@@ -1,5 +1,10 @@
-# The Fool / 愚人 / 愚人
-id = "the-fool-ef1c6cb2"
+id = "raids/the-fool-ef1c6cb2"
 
+[name]
+en = "The Fool"
+zh-hans = "愚人"
+zh-hant = "愚人"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy", "dragon" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

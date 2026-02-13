@@ -1,6 +1,11 @@
-# Typhon (Arisen) / 堤丰 (重生者) / 堤豐 (重生者)
-id = "typhon"
+id = "monsters/typhon"
 
+[name]
+en = "Typhon (Arisen)"
+zh-hans = "堤丰 (重生者)"
+zh-hant = "堤豐 (重生者)"
+
+[data]
 elementWeaknesses = [ "water", "earthen" ]
 elementResistances = [ "fire", "dark", "holy" ]
 statusImmunities = [ "blight" ]

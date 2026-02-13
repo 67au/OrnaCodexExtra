@@ -1,6 +1,11 @@
-# Dokkalfar Lord / 夜之精灵领主 / 夜之精靈領主
-id = "dokkalfar-lord"
+id = "bosses/dokkalfar-lord"
 
+[name]
+en = "Dokkalfar Lord"
+zh-hans = "夜之精灵领主"
+zh-hant = "夜之精靈領主"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["dark"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

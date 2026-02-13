@@ -1,7 +1,8 @@
-# Beheaded Benefactor / 无头献身者 / 喪首施主
-id = "beheaded-benefactor"
+id = "monsters/beheaded-benefactor"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Benefactor"
+zh-hans = "无头献身者"
+zh-hant = "喪首施主"
+
+[data]

@@ -1,6 +1,11 @@
-# Bormana of Fomoria / 弗摩尔之波尔玛纳 / 弗摩爾族之波爾瑪納
-id = "bormana-of-fomoria"
+id = "bosses/bormana-of-fomoria"
 
+[name]
+en = "Bormana of Fomoria"
+zh-hans = "弗摩尔之波尔玛纳"
+zh-hant = "弗摩爾族之波爾瑪納"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementImmunities = [ "earthen" ]
 elementResistances = [ "water", "holy" ]

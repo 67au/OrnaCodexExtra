@@ -1,3 +1,8 @@
-# Tower Guardian / 塔之守护者 / 塔之守護者
-id = "tower-guardian"
+id = "monsters/tower-guardian"
 
+[name]
+en = "Tower Guardian"
+zh-hans = "塔之守护者"
+zh-hant = "塔之守護者"
+
+[data]

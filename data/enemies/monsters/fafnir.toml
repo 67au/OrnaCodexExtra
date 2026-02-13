@@ -1,5 +1,10 @@
-# Fafnir (Arisen) / 法夫纳 (重生者) / 法夫納 (重生者)
-id = "fafnir"
+id = "monsters/fafnir"
 
+[name]
+en = "Fafnir (Arisen)"
+zh-hans = "法夫纳 (重生者)"
+zh-hant = "法夫納 (重生者)"
+
+[data]
 elementResistances = [ "dark", "holy" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

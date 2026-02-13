@@ -1,4 +1,9 @@
-# Odin / 奥丁 / 奧丁
-id = "odin"
+id = "bosses/odin"
 
+[name]
+en = "Odin"
+zh-hans = "奥丁"
+zh-hant = "奧丁"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

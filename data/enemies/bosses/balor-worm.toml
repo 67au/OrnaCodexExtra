@@ -1,4 +1,9 @@
-# Balor Worm / 巴罗尔蠕虫 / 巴羅爾蠕蟲
-id = "balor-worm"
+id = "bosses/balor-worm"
 
+[name]
+en = "Balor Worm"
+zh-hans = "巴罗尔蠕虫"
+zh-hant = "巴羅爾蠕蟲"
+
+[data]
 elementWeaknesses = ["arcane"]

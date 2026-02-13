@@ -1,5 +1,10 @@
-# Gymir / 盖密尔 / 蓋密爾
-id = "gymir"
+id = "bosses/gymir"
 
+[name]
+en = "Gymir"
+zh-hans = "盖密尔"
+zh-hant = "蓋密爾"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementImmunities = [ "water", "fire", "earthen" ]

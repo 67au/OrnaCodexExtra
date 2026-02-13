@@ -1,3 +1,8 @@
-# Fallen Starseeker / 堕落逐星者 / 墮落逐星者
-id = "fallen-starseeker"
+id = "monsters/fallen-starseeker"
 
+[name]
+en = "Fallen Starseeker"
+zh-hans = "堕落逐星者"
+zh-hant = "墮落逐星者"
+
+[data]

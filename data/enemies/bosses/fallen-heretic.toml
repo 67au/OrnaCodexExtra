@@ -1,5 +1,10 @@
-# Fallen Heretic / 堕落的赫勒提克 / 墮落的赫勒提克
-id = "fallen-heretic"
+id = "bosses/fallen-heretic"
 
+[name]
+en = "Fallen Heretic"
+zh-hans = "堕落的赫勒提克"
+zh-hant = "墮落的赫勒提克"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]
 statusImmunities = [ "frozen", "paralyzed", "rot", "blind", "asleep" ]

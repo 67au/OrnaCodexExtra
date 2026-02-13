@@ -1,6 +1,11 @@
-# Fallen Hero, Lover Lost / 堕落英雄恋逝 / 墮落英雄戀逝
-id = "fallen-hero-lover-lost"
+id = "bosses/fallen-hero-lover-lost"
 
+[name]
+en = "Fallen Hero, Lover Lost"
+zh-hans = "堕落英雄恋逝"
+zh-hant = "墮落英雄戀逝"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["dark"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "rot", "asleep", "blight"]

@@ -1,4 +1,9 @@
-# Shade of Charon, Grand Summoner / 冠位召唤师卡戎之冥影 / 冠位召喚師凱倫之影
-id = "shade-of-charon-grand-summoner-a33af9a0"
+id = "bosses/shade-of-charon-grand-summoner-a33af9a0"
 
+[name]
+en = "Shade of Charon, Grand Summoner"
+zh-hans = "冠位召唤师卡戎之冥影"
+zh-hant = "冠位召喚師凱倫之影"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "rot", "blight"]

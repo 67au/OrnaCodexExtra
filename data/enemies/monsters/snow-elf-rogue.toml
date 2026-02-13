@@ -1,4 +1,9 @@
-# Snow Elf Rogue / 雪精灵侠盗 / 雪精靈俠盜
-id = "snow-elf-rogue"
+id = "monsters/snow-elf-rogue"
 
+[name]
+en = "Snow Elf Rogue"
+zh-hans = "雪精灵侠盗"
+zh-hant = "雪精靈俠盜"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]

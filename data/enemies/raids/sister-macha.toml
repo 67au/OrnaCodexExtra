@@ -1,5 +1,10 @@
-# Sister Macha / 玛查 / 瑪查
-id = "sister-macha"
+id = "raids/sister-macha"
 
+[name]
+en = "Sister Macha"
+zh-hans = "玛查"
+zh-hant = "瑪查"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "def_d", "def_dd", "mag_d", "t__mag_d", "t__mag_dd", "res_dd", "res_d" ]

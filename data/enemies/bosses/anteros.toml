@@ -1,4 +1,9 @@
-# Anteros / 安忒洛斯 / 安特羅斯
-id = "anteros"
+id = "bosses/anteros"
 
+[name]
+en = "Anteros"
+zh-hans = "安忒洛斯"
+zh-hant = "安特羅斯"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

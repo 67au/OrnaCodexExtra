@@ -1,4 +1,9 @@
-# Anteros Knave / 安忒洛斯恶徒 / 安特羅斯惡棍
-id = "anteros-knave"
+id = "monsters/anteros-knave"
 
+[name]
+en = "Anteros Knave"
+zh-hans = "安忒洛斯恶徒"
+zh-hant = "安特羅斯惡棍"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

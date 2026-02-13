@@ -1,6 +1,11 @@
-# Skeleton Warrior / 骷髅战士 / 骷髏戰士
-id = "skeleton-warrior"
+id = "monsters/skeleton-warrior"
 
+[name]
+en = "Skeleton Warrior"
+zh-hans = "骷髅战士"
+zh-hant = "骷髏戰士"
+
+[data]
 elementWeaknesses = [ "water", "holy" ]
 elementResistances = [ "dark" ]
 statusImmunities = [ "bleeding" ]

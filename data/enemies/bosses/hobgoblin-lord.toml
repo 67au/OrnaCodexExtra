@@ -1,3 +1,8 @@
-# Hobgoblin Lord / 巨型哥布林领主 / 巨型哥布林領主
-id = "hobgoblin-lord"
+id = "bosses/hobgoblin-lord"
 
+[name]
+en = "Hobgoblin Lord"
+zh-hans = "巨型哥布林领主"
+zh-hant = "巨型哥布林領主"
+
+[data]

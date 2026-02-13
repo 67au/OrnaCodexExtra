@@ -1,5 +1,10 @@
-# Walking Wood / 行木 / 行木
-id = "walking-wood"
+id = "monsters/walking-wood"
 
+[name]
+en = "Walking Wood"
+zh-hans = "行木"
+zh-hant = "行木"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["earthen"]

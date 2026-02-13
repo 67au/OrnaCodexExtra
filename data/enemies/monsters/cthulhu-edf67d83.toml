@@ -1,6 +1,11 @@
-# Cthulhu (Arisen) / 克苏鲁 (重生者) / 克蘇魯 (重生者)
-id = "cthulhu-edf67d83"
+id = "monsters/cthulhu-edf67d83"
 
+[name]
+en = "Cthulhu (Arisen)"
+zh-hans = "克苏鲁 (重生者)"
+zh-hant = "克蘇魯 (重生者)"
+
+[data]
 elementImmunities = [ "water", "fire" ]
 elementResistances = [ "earthen", "dark", "holy" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

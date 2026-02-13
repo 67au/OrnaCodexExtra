@@ -1,4 +1,9 @@
-# Hobgoblin Mage / 巨型哥布林法师 / 巨型哥布林法師
-id = "hobgoblin-mage"
+id = "monsters/hobgoblin-mage"
 
+[name]
+en = "Hobgoblin Mage"
+zh-hans = "巨型哥布林法师"
+zh-hant = "巨型哥布林法師"
+
+[data]
 elementWeaknesses = [ "fire" ]

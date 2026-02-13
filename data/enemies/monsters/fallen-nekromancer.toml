@@ -1,5 +1,10 @@
-# Fallen Nekromancer / 堕落死灵法师 / 墮落死靈法師
-id = "fallen-nekromancer"
+id = "monsters/fallen-nekromancer"
 
+[name]
+en = "Fallen Nekromancer"
+zh-hans = "堕落死灵法师"
+zh-hant = "墮落死靈法師"
+
+[data]
 elementImmunities = ["dark"]
 statusImmunities = ["asleep"]

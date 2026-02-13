@@ -1,4 +1,9 @@
-# Greater Vampire / 高等吸血鬼 / 高等吸血鬼
-id = "greater-vampire"
+id = "monsters/greater-vampire"
 
+[name]
+en = "Greater Vampire"
+zh-hans = "高等吸血鬼"
+zh-hant = "高等吸血鬼"
+
+[data]
 elementWeaknesses = ["holy"]

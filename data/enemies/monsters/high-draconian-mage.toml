@@ -1,3 +1,8 @@
-# High Draconian Mage / 高等德肯尼亚族法师 / 高等德肯尼亞族法師
-id = "high-draconian-mage"
+id = "monsters/high-draconian-mage"
 
+[name]
+en = "High Draconian Mage"
+zh-hans = "高等德肯尼亚族法师"
+zh-hant = "高等德肯尼亞族法師"
+
+[data]

@@ -1,3 +1,8 @@
-# Aries Acolyte / 亚力士侍从 / 亞力士追隨者
-id = "aries-acolyte-738a517f"
+id = "monsters/aries-acolyte-738a517f"
 
+[name]
+en = "Aries Acolyte"
+zh-hans = "亚力士侍从"
+zh-hant = "亞力士追隨者"
+
+[data]

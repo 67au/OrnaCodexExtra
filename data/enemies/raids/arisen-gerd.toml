@@ -1,4 +1,9 @@
-# Arisen Gerd / 重生葛德 / 重生葛德
-id = "arisen-gerd"
+id = "raids/arisen-gerd"
 
+[name]
+en = "Arisen Gerd"
+zh-hans = "重生葛德"
+zh-hant = "重生葛德"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "mag_d", "t__mag_d"]

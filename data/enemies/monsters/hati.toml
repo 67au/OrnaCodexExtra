@@ -1,5 +1,10 @@
-# Hati / 哈提 / 哈提
-id = "hati"
+id = "monsters/hati"
 
+[name]
+en = "Hati"
+zh-hans = "哈提"
+zh-hant = "哈提"
+
+[data]
 elementImmunities = [ "holy" ]
 elementResistances = [ "dark" ]

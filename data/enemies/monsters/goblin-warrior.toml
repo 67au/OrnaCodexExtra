@@ -1,3 +1,8 @@
-# Goblin Warrior / 哥布林战士 / 哥布林戰士
-id = "goblin-warrior"
+id = "monsters/goblin-warrior"
 
+[name]
+en = "Goblin Warrior"
+zh-hans = "哥布林战士"
+zh-hant = "哥布林戰士"
+
+[data]

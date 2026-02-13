@@ -1,2 +1,8 @@
-# Stonewarg / 岩石座狼 / 岩石座狼
-id = "stonewarg-b4d838aa"
+id = "monsters/stonewarg-b4d838aa"
+
+[name]
+en = "Stonewarg"
+zh-hans = "岩石座狼"
+zh-hant = "岩石座狼"
+
+[data]

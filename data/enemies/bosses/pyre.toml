@@ -1,6 +1,11 @@
-# Pyre / 派磊 / 派磊
-id = "pyre"
+id = "bosses/pyre"
 
+[name]
+en = "Pyre"
+zh-hans = "派磊"
+zh-hant = "派磊"
+
+[data]
 elementWeaknesses = ["water"]
 elementImmunities = ["fire"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

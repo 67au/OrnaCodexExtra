@@ -1,4 +1,9 @@
-# Lyonesse Warlock / 里昂内斯术士 / 里昂內斯術士
-id = "lyonesse-warlock"
+id = "monsters/lyonesse-warlock"
 
+[name]
+en = "Lyonesse Warlock"
+zh-hans = "里昂内斯术士"
+zh-hant = "里昂內斯術士"
+
+[data]
 elementWeaknesses = [ "lightning", "dark" ]

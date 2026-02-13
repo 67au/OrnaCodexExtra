@@ -1,5 +1,10 @@
-# Elite Draconian Mage / 精英德肯尼亚族法师 / 高端德肯尼亞族法師
-id = "elite-draconian-mage"
+id = "monsters/elite-draconian-mage"
 
+[name]
+en = "Elite Draconian Mage"
+zh-hans = "精英德肯尼亚族法师"
+zh-hant = "高端德肯尼亞族法師"
+
+[data]
 elementWeaknesses = ["dragon"]
 elementImmunities = ["dark", "holy"]

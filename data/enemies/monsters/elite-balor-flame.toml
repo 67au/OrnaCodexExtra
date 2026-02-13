@@ -1,6 +1,11 @@
-# Elite Balor Flame / 精英巴罗尔火焰 / 高端巴羅爾火焰
-id = "elite-balor-flame"
+id = "monsters/elite-balor-flame"
 
+[name]
+en = "Elite Balor Flame"
+zh-hans = "精英巴罗尔火焰"
+zh-hant = "高端巴羅爾火焰"
+
+[data]
 elementWeaknesses = [ "water", "earthen", "arcane" ]
 elementImmunities = [ "fire", "lightning", "dark", "holy", "dragon" ]
 elementResistances = [ "physical" ]

@@ -1,4 +1,9 @@
-# Goblin / 哥布林 / 哥布林
-id = "goblin"
+id = "monsters/goblin"
 
+[name]
+en = "Goblin"
+zh-hans = "哥布林"
+zh-hant = "哥布林"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]

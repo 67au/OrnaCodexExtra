@@ -1,6 +1,11 @@
-# Naggeneen / 纳根因 / 納根因
-id = "naggeneen"
+id = "raids/naggeneen"
 
+[name]
+en = "Naggeneen"
+zh-hans = "纳根因"
+zh-hant = "納根因"
+
+[data]
 elementImmunities = [ "water", "lightning", "holy" ]
 elementResistances = [ "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

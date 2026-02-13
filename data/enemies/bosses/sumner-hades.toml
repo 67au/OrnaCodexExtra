@@ -1,3 +1,8 @@
-# Sumner Hades / 「选手」黑帝斯 / 夏運黑帝斯
-id = "sumner-hades"
+id = "bosses/sumner-hades"
 
+[name]
+en = "Sumner Hades"
+zh-hans = "「选手」黑帝斯"
+zh-hant = "夏運黑帝斯"
+
+[data]

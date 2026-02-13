@@ -1,3 +1,8 @@
-# Lobster / 海螯虾 / 龍蝦
-id = "lobster"
+id = "monsters/lobster"
 
+[name]
+en = "Lobster"
+zh-hans = "海螯虾"
+zh-hant = "龍蝦"
+
+[data]

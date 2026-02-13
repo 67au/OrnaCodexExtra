@@ -1,6 +1,11 @@
-# Jelly / 果冻 / 果凍
-id = "jelly"
+id = "monsters/jelly"
 
+[name]
+en = "Jelly"
+zh-hans = "果冻"
+zh-hant = "果凍"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementImmunities = [ "water" ]
 elementResistances = [ "fire", "physical" ]

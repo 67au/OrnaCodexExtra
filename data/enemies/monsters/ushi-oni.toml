@@ -1,3 +1,8 @@
-# Ushi-oni / 牛鬼 / 牛鬼
-id = "ushi-oni"
+id = "monsters/ushi-oni"
 
+[name]
+en = "Ushi-oni"
+zh-hans = "牛鬼"
+zh-hant = "牛鬼"
+
+[data]

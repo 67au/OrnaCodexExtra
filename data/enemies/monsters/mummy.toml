@@ -1,4 +1,9 @@
-# Mummy / 木乃伊 / 木乃伊
-id = "mummy"
+id = "monsters/mummy"
 
+[name]
+en = "Mummy"
+zh-hans = "木乃伊"
+zh-hant = "木乃伊"
+
+[data]
 statusImmunities = ["poisoned", "frozen", "paralyzed", "rot", "asleep"]

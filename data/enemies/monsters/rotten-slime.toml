@@ -1,5 +1,10 @@
-# Rotten Slime / 腐烂史莱姆 / 腐爛史萊姆
-id = "rotten-slime"
+id = "monsters/rotten-slime"
 
+[name]
+en = "Rotten Slime"
+zh-hans = "腐烂史莱姆"
+zh-hant = "腐爛史萊姆"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
 statusImmunities = [ "poisoned" ]

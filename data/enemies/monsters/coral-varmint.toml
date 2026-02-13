@@ -1,6 +1,11 @@
-# Coral Varmint / 珊瑚厄兽 / 珊瑚厄獸
-id = "coral-varmint"
+id = "monsters/coral-varmint"
 
+[name]
+en = "Coral Varmint"
+zh-hans = "珊瑚厄兽"
+zh-hant = "珊瑚厄獸"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "fire" ]
 statusImmunities = [ "poisoned", "blight" ]

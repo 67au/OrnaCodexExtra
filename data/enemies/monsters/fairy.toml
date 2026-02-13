@@ -1,5 +1,10 @@
-# Fairy / 仙女 / 仙女
-id = "fairy"
+id = "monsters/fairy"
 
+[name]
+en = "Fairy"
+zh-hans = "仙女"
+zh-hant = "仙女"
+
+[data]
 elementWeaknesses = ["dark"]
 elementImmunities = ["holy"]

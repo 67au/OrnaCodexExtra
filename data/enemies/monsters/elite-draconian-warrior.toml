@@ -1,5 +1,10 @@
-# Elite Draconian Warrior / 精英德肯尼亚族战士 / 高端德肯尼亞戰士
-id = "elite-draconian-warrior"
+id = "monsters/elite-draconian-warrior"
 
+[name]
+en = "Elite Draconian Warrior"
+zh-hans = "精英德肯尼亚族战士"
+zh-hant = "高端德肯尼亞戰士"
+
+[data]
 elementWeaknesses = ["dragon"]
 elementImmunities = ["dark", "holy"]

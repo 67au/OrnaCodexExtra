@@ -1,6 +1,11 @@
-# Fallen Ithra, the White Knight / 堕落白骑士以斯拉 / 墮落白騎士以斯拉
-id = "fallen-ithra-the-white-knight"
+id = "bosses/fallen-ithra-the-white-knight"
 
+[name]
+en = "Fallen Ithra, the White Knight"
+zh-hans = "堕落白骑士以斯拉"
+zh-hant = "墮落白騎士以斯拉"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["water"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

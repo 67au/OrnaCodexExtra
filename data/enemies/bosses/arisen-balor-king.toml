@@ -1,6 +1,11 @@
-# Arisen Balor King / 重生巴罗尔王 / 重生巴羅爾王
-id = "arisen-balor-king"
+id = "bosses/arisen-balor-king"
 
+[name]
+en = "Arisen Balor King"
+zh-hans = "重生巴罗尔王"
+zh-hant = "重生巴羅爾王"
+
+[data]
 elementWeaknesses = [ "arcane" ]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]

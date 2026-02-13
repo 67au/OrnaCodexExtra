@@ -1,7 +1,8 @@
-# Beheaded Warden / 无头守望者 / 喪首守望者
-id = "beheaded-warden"
+id = "monsters/beheaded-warden"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Warden"
+zh-hans = "无头守望者"
+zh-hant = "喪首守望者"
+
+[data]

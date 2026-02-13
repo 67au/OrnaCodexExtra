@@ -1,5 +1,10 @@
-# Arisen Hel / 重生赫尔 / 重生赫爾
-id = "arisen-hel"
+id = "raids/arisen-hel"
 
+[name]
+en = "Arisen Hel"
+zh-hans = "重生赫尔"
+zh-hant = "重生赫爾"
+
+[data]
 elementImmunities = ["lightning"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

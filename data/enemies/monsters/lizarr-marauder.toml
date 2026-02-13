@@ -1,5 +1,10 @@
-# Lizarr Marauder / 蜥蜴人强盗 / 蜥蜴人強盜
-id = "lizarr-marauder"
+id = "monsters/lizarr-marauder"
 
+[name]
+en = "Lizarr Marauder"
+zh-hans = "蜥蜴人强盗"
+zh-hant = "蜥蜴人強盜"
+
+[data]
 elementWeaknesses = ["lightning"]
 elementImmunities = ["water", "fire"]

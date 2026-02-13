@@ -1,5 +1,10 @@
-# First Horseman / 第一骑士 / 第一騎士
-id = "first-horseman"
+id = "raids/first-horseman"
 
+[name]
+en = "First Horseman"
+zh-hans = "第一骑士"
+zh-hant = "第一騎士"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

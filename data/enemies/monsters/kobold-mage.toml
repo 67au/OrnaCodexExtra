@@ -1,4 +1,9 @@
-# Kobold Mage / 地精法师 / 地精法師
-id = "kobold-mage"
+id = "monsters/kobold-mage"
 
+[name]
+en = "Kobold Mage"
+zh-hans = "地精法师"
+zh-hant = "地精法師"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon" ]

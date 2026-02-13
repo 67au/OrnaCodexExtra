@@ -1,4 +1,9 @@
-# Carman (Arisen) / 卡门 (重生者) / 卡門 (重生者)
-id = "carman-5458cf68"
+id = "monsters/carman-5458cf68"
 
+[name]
+en = "Carman (Arisen)"
+zh-hans = "卡门 (重生者)"
+zh-hant = "卡門 (重生者)"
+
+[data]
 elementWeaknesses = [ "fire" ]

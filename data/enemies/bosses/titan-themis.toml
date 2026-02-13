@@ -1,6 +1,11 @@
-# Titan Themis / 泰坦忒弥斯 / 泰坦泰美斯
-id = "titan-themis"
+id = "bosses/titan-themis"
 
+[name]
+en = "Titan Themis"
+zh-hans = "泰坦忒弥斯"
+zh-hant = "泰坦泰美斯"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "dark", "holy" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "blind", "asleep", "petrified" ]

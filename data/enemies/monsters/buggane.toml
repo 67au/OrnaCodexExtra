@@ -1,3 +1,8 @@
-# Buggane / 布根 / 布甘
-id = "buggane"
+id = "monsters/buggane"
 
+[name]
+en = "Buggane"
+zh-hans = "布根"
+zh-hant = "布甘"
+
+[data]

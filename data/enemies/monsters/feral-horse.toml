@@ -1,3 +1,8 @@
-# Feral Horse / 野马 / 野馬
-id = "feral-horse"
+id = "monsters/feral-horse"
 
+[name]
+en = "Feral Horse"
+zh-hans = "野马"
+zh-hant = "野馬"
+
+[data]

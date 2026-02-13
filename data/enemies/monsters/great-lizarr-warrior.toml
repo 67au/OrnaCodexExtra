@@ -1,5 +1,10 @@
-# Great Lizarr Warrior / 强大的蜥蜴人战士 / 強大的蜥蜴人戰士
-id = "great-lizarr-warrior"
+id = "monsters/great-lizarr-warrior"
 
+[name]
+en = "Great Lizarr Warrior"
+zh-hans = "强大的蜥蜴人战士"
+zh-hant = "強大的蜥蜴人戰士"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire" ]

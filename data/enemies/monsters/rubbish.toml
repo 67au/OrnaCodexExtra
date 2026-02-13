@@ -1,3 +1,8 @@
-# Rubbish / 垃圾 / 垃圾
-id = "rubbish"
+id = "monsters/rubbish"
 
+[name]
+en = "Rubbish"
+zh-hans = "垃圾"
+zh-hant = "垃圾"
+
+[data]

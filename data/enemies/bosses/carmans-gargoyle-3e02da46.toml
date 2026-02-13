@@ -1,4 +1,9 @@
-# Carman's Gargoyle / 卡门的石像鬼 / 卡門的石像鬼
-id = "carmans-gargoyle-3e02da46"
+id = "bosses/carmans-gargoyle-3e02da46"
 
+[name]
+en = "Carman's Gargoyle"
+zh-hans = "卡门的石像鬼"
+zh-hant = "卡門的石像鬼"
+
+[data]
 statusImmunities = ["petrified"]

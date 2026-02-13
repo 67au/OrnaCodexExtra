@@ -1,6 +1,11 @@
-# King of Ljosalfar / 日之精灵王 / 日之精靈王
-id = "king-of-ljosalfar"
+id = "raids/king-of-ljosalfar"
 
+[name]
+en = "King of Ljosalfar"
+zh-hans = "日之精灵王"
+zh-hant = "日之精靈王"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementImmunities = [ "holy" ]
 elementResistances = [ "fire", "lightning" ]

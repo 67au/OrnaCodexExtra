@@ -1,5 +1,10 @@
-# Final Horseman / 终末骑士 / 終末騎士
-id = "final-horseman"
+id = "raids/final-horseman"
 
+[name]
+en = "Final Horseman"
+zh-hans = "终末骑士"
+zh-hant = "終末騎士"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

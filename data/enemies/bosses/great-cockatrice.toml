@@ -1,5 +1,10 @@
-# Great Cockatrice / 大鸡蛇 / 大雞蛇
-id = "great-cockatrice"
+id = "bosses/great-cockatrice"
 
+[name]
+en = "Great Cockatrice"
+zh-hans = "大鸡蛇"
+zh-hant = "大雞蛇"
+
+[data]
 elementWeaknesses = [ "fire" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]

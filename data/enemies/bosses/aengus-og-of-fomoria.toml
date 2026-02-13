@@ -1,6 +1,11 @@
-# Aengus Og of Fomoria / 弗摩尔之安格斯奥格 / 弗摩爾族之安格斯奧格
-id = "aengus-og-of-fomoria"
+id = "bosses/aengus-og-of-fomoria"
 
+[name]
+en = "Aengus Og of Fomoria"
+zh-hans = "弗摩尔之安格斯奥格"
+zh-hant = "弗摩爾族之安格斯奧格"
+
+[data]
 elementWeaknesses = [ "lightning", "earthen" ]
 elementImmunities = [ "holy" ]
 elementResistances = [ "fire" ]

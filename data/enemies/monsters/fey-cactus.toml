@@ -1,6 +1,11 @@
-# Fey Cactus / 变异仙人掌 / 變異仙人掌
-id = "fey-cactus"
+id = "monsters/fey-cactus"
 
+[name]
+en = "Fey Cactus"
+zh-hans = "变异仙人掌"
+zh-hant = "變異仙人掌"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementImmunities = [ "earthen" ]
 elementResistances = [ "water", "lightning" ]

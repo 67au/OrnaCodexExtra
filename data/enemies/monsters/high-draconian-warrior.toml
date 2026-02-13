@@ -1,3 +1,8 @@
-# High Draconian Warrior / 高等德肯尼亚族战士 / 高等德肯尼亞戰士
-id = "high-draconian-warrior"
+id = "monsters/high-draconian-warrior"
 
+[name]
+en = "High Draconian Warrior"
+zh-hans = "高等德肯尼亚族战士"
+zh-hant = "高等德肯尼亞戰士"
+
+[data]

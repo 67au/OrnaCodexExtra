@@ -1,6 +1,11 @@
-# Titan Selene / 泰坦塞勒涅 / 泰坦塞勒涅
-id = "titan-selene"
+id = "bosses/titan-selene"
 
+[name]
+en = "Titan Selene"
+zh-hans = "泰坦塞勒涅"
+zh-hant = "泰坦塞勒涅"
+
+[data]
 elementWeaknesses = ["fire", "holy"]
 elementImmunities = ["earthen", "dark"]
 statusImmunities = ["bleeding", "frozen", "paralyzed", "rot", "blind", "asleep", "petrified"]

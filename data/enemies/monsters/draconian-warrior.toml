@@ -1,3 +1,8 @@
-# Draconian Warrior / 德肯尼亚族战士 / 德肯尼亞族
-id = "draconian-warrior"
+id = "monsters/draconian-warrior"
 
+[name]
+en = "Draconian Warrior"
+zh-hans = "德肯尼亚族战士"
+zh-hant = "德肯尼亞族"
+
+[data]

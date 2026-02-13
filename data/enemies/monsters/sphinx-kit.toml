@@ -1,3 +1,8 @@
-# Sphinx Kit / 斯芬克斯幼崽 / 斯芬克斯幼崽
-id = "sphinx-kit"
+id = "monsters/sphinx-kit"
 
+[name]
+en = "Sphinx Kit"
+zh-hans = "斯芬克斯幼崽"
+zh-hant = "斯芬克斯幼崽"
+
+[data]

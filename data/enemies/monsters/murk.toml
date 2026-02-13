@@ -1,4 +1,9 @@
-# Murk / 泥沼怪 / 淤濁
-id = "murk"
+id = "monsters/murk"
 
+[name]
+en = "Murk"
+zh-hans = "泥沼怪"
+zh-hant = "淤濁"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy", "dragon", "arcane" ]

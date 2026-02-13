@@ -1,7 +1,8 @@
-# Arisen Dullahan / 重生杜拉罕 / 重生無頭騎士
-id = "arisen-dullahan"
+id = "bosses/arisen-dullahan"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Arisen Dullahan"
+zh-hans = "重生杜拉罕"
+zh-hant = "重生無頭騎士"
+
+[data]

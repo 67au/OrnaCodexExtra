@@ -1,5 +1,9 @@
-# Arachne / 阿剌克涅 / 阿剌克涅
-id = "arachne"
+id = "bosses/arachne"
 
+[name]
+en = "Arachne"
+zh-hans = "阿剌克涅"
+zh-hant = "阿剌克涅"
+
+[data]
 elementWeaknesses = ["fire"]
-

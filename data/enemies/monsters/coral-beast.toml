@@ -1,6 +1,11 @@
-# Coral Beast / 珊瑚野兽 / 珊瑚野獸
-id = "coral-beast"
+id = "monsters/coral-beast"
 
+[name]
+en = "Coral Beast"
+zh-hans = "珊瑚野兽"
+zh-hant = "珊瑚野獸"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "fire" ]
 statusImmunities = [ "poisoned", "blight" ]

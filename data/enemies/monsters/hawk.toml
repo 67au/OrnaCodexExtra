@@ -1,5 +1,10 @@
-# Hawk / 鹰 / 鷹
-id = "hawk"
+id = "monsters/hawk"
 
+[name]
+en = "Hawk"
+zh-hans = "鹰"
+zh-hant = "鷹"
+
+[data]
 elementWeaknesses = [ "water", "lightning" ]
 elementResistances = [ "earthen" ]

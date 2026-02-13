@@ -1,4 +1,9 @@
-# Asteria of Olympia / 奥林匹亚之阿斯忒里亚 / 奧林匹亞的阿斯忒里亞
-id = "asteria-of-olympia"
+id = "raids/asteria-of-olympia"
 
+[name]
+en = "Asteria of Olympia"
+zh-hans = "奥林匹亚之阿斯忒里亚"
+zh-hant = "奧林匹亞的阿斯忒里亞"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

@@ -1,4 +1,9 @@
-# Bat / 蝙蝠 / 蝙蝠
-id = "bat"
+id = "monsters/bat"
 
+[name]
+en = "Bat"
+zh-hans = "蝙蝠"
+zh-hant = "蝙蝠"
+
+[data]
 elementResistances = [ "earthen" ]

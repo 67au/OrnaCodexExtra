@@ -1,4 +1,9 @@
-# Arisen Cade / 重生卡德 / 重生卡德
-id = "arisen-cade"
+id = "raids/arisen-cade"
 
+[name]
+en = "Arisen Cade"
+zh-hans = "重生卡德"
+zh-hant = "重生卡德"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

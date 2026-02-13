@@ -1,6 +1,11 @@
-# Zaltys, Friendly One / 善意之萨勒蒂斯 / 善意之薩勒蒂斯
-id = "zaltys-friendly-one"
+id = "bosses/zaltys-friendly-one"
 
+[name]
+en = "Zaltys, Friendly One"
+zh-hans = "善意之萨勒蒂斯"
+zh-hant = "善意之薩勒蒂斯"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "frozen", "blight" ]

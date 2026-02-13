@@ -1,5 +1,10 @@
-# Grand Knight Lugus / 冠位骑士卢古斯 / 冠位騎士盧古斯
-id = "grand-knight-lugus"
+id = "raids/grand-knight-lugus"
 
+[name]
+en = "Grand Knight Lugus"
+zh-hans = "冠位骑士卢古斯"
+zh-hant = "冠位騎士盧古斯"
+
+[data]
 elementImmunities = ["fire", "lightning", "dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

@@ -1,6 +1,11 @@
-# Crimson Wood / 深红木 / 深紅木
-id = "crimson-wood"
+id = "monsters/crimson-wood"
 
+[name]
+en = "Crimson Wood"
+zh-hans = "深红木"
+zh-hant = "深紅木"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["earthen"]
 statusImmunities = ["poisoned", "paralyzed", "rot", "blind", "blight"]

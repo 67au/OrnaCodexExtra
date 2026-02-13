@@ -1,4 +1,9 @@
-# Thronemaker Sekhmet / 造王者塞赫麦特 / 造王者塞赫麥特
-id = "thronemaker-sekhmet"
+id = "raids/thronemaker-sekhmet"
 
+[name]
+en = "Thronemaker Sekhmet"
+zh-hans = "造王者塞赫麦特"
+zh-hant = "造王者塞赫麥特"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

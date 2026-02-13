@@ -1,3 +1,8 @@
-# Fallen Zwei-Caster / 堕落重武法师 / 墮落重武法師
-id = "fallen-zwei-caster"
+id = "monsters/fallen-zwei-caster"
 
+[name]
+en = "Fallen Zwei-Caster"
+zh-hans = "堕落重武法师"
+zh-hant = "墮落重武法師"
+
+[data]

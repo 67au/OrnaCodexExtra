@@ -1,5 +1,10 @@
-# Fallen Gaia / 堕落盖亚 / 墮落蓋亞
-id = "fallen-gaia"
+id = "monsters/fallen-gaia"
 
+[name]
+en = "Fallen Gaia"
+zh-hans = "堕落盖亚"
+zh-hant = "墮落蓋亞"
+
+[data]
 elementImmunities = ["earthen"]
 statusImmunities = ["rot"]

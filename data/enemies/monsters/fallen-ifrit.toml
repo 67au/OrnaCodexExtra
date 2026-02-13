@@ -1,5 +1,10 @@
-# Fallen Ifrit / 堕落伊芙利特 / 墮落伊夫利特
-id = "fallen-ifrit"
+id = "monsters/fallen-ifrit"
 
+[name]
+en = "Fallen Ifrit"
+zh-hans = "堕落伊芙利特"
+zh-hant = "墮落伊夫利特"
+
+[data]
 elementImmunities = ["fire"]
 statusImmunities = ["burning"]

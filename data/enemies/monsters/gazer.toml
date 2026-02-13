@@ -1,5 +1,10 @@
-# Gazer / 凝视者 / 凝視者
-id = "gazer"
+id = "monsters/gazer"
 
+[name]
+en = "Gazer"
+zh-hans = "凝视者"
+zh-hant = "凝視者"
+
+[data]
 elementImmunities = [ "lightning" ]
 elementResistances = [ "dark", "holy", "physical" ]

@@ -1,4 +1,9 @@
-# Succubus / 魅魔 / 魅魔
-id = "succubus"
+id = "monsters/succubus"
 
+[name]
+en = "Succubus"
+zh-hans = "魅魔"
+zh-hant = "魅魔"
+
+[data]
 elementResistances = [ "earthen" ]

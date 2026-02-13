@@ -1,5 +1,10 @@
-# King Fomor, Sumner / 弗摩尔王萨姆纳 / 弗摩爾王，薩姆納
-id = "king-fomor-sumner"
+id = "bosses/king-fomor-sumner"
 
+[name]
+en = "King Fomor, Sumner"
+zh-hans = "弗摩尔王萨姆纳"
+zh-hant = "弗摩爾王，薩姆納"
+
+[data]
 elementWeaknesses = ["lightning", "holy"]
 elementImmunities = ["dark"]

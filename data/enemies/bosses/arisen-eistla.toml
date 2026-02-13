@@ -1,5 +1,10 @@
-# Arisen Eistla / 重生艾斯特拉 / 重生艾斯特拉
-id = "arisen-eistla"
+id = "bosses/arisen-eistla"
 
+[name]
+en = "Arisen Eistla"
+zh-hans = "重生艾斯特拉"
+zh-hant = "重生艾斯特拉"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire", "earthen" ]

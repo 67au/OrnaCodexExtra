@@ -1,6 +1,11 @@
-# Cursed Sabrina of Fomoria / 弗摩尔之诅咒的萨布丽娜 / 受詛咒的弗摩爾族之莎賓娜
-id = "cursed-sabrina-of-fomoria"
+id = "bosses/cursed-sabrina-of-fomoria"
 
+[name]
+en = "Cursed Sabrina of Fomoria"
+zh-hans = "弗摩尔之诅咒的萨布丽娜"
+zh-hant = "受詛咒的弗摩爾族之莎賓娜"
+
+[data]
 elementWeaknesses = [ "lightning", "dark" ]
 elementImmunities = [ "water", "fire" ]
 elementResistances = [ "earthen", "holy" ]

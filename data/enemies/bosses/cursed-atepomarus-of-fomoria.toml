@@ -1,5 +1,10 @@
-# Cursed Atepomarus of Fomoria / 弗摩尔之诅咒的阿特波玛鲁斯 / 受詛咒的弗摩爾族之阿特波馬羅斯
-id = "cursed-atepomarus-of-fomoria"
+id = "bosses/cursed-atepomarus-of-fomoria"
 
+[name]
+en = "Cursed Atepomarus of Fomoria"
+zh-hans = "弗摩尔之诅咒的阿特波玛鲁斯"
+zh-hant = "受詛咒的弗摩爾族之阿特波馬羅斯"
+
+[data]
 elementWeaknesses = ["lightning"]
 elementImmunities = ["earthen"]

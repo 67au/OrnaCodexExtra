@@ -1,5 +1,10 @@
-# Magma Golem / 熔岩魔像 / 熔岩魔像
-id = "magma-golem"
+id = "monsters/magma-golem"
 
+[name]
+en = "Magma Golem"
+zh-hans = "熔岩魔像"
+zh-hant = "熔岩魔像"
+
+[data]
 elementWeaknesses = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
 elementResistances = [ "physical" ]

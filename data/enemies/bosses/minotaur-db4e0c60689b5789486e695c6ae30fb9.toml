@@ -1,4 +1,9 @@
-# Minotaur / 牛头怪 / 牛頭怪
-id = "minotaur-db4e0c60689b5789486e695c6ae30fb9"
+id = "bosses/minotaur-db4e0c60689b5789486e695c6ae30fb9"
 
+[name]
+en = "Minotaur"
+zh-hans = "牛头怪"
+zh-hant = "牛頭怪"
+
+[data]
 elementWeaknesses = [ "earthen" ]

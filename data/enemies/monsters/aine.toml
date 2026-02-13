@@ -1,3 +1,8 @@
-# Aine / 艾涅 / 艾涅
-id = "aine"
+id = "monsters/aine"
 
+[name]
+en = "Aine"
+zh-hans = "艾涅"
+zh-hant = "艾涅"
+
+[data]

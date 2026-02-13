@@ -1,2 +1,8 @@
-# Sumner Artemis / 「选手」阿尔忒弥斯 / 夏運阿提米絲
-id = "sumner-artemis"
+id = "bosses/sumner-artemis"
+
+[name]
+en = "Sumner Artemis"
+zh-hans = "「选手」阿尔忒弥斯"
+zh-hant = "夏運阿提米絲"
+
+[data]

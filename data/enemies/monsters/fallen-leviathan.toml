@@ -1,5 +1,10 @@
-# Fallen Leviathan / 堕落利维坦 / 墮落利維坦
-id = "fallen-leviathan"
+id = "monsters/fallen-leviathan"
 
+[name]
+en = "Fallen Leviathan"
+zh-hans = "堕落利维坦"
+zh-hant = "墮落利維坦"
+
+[data]
 elementImmunities = ["water"]
 statusImmunities = ["frozen"]

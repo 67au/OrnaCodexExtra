@@ -1,3 +1,8 @@
-# Great Orc / 强大的半兽人 / 強大的半獸人
-id = "great-orc"
+id = "monsters/great-orc"
 
+[name]
+en = "Great Orc"
+zh-hans = "强大的半兽人"
+zh-hant = "強大的半獸人"
+
+[data]

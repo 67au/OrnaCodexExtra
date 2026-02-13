@@ -1,5 +1,10 @@
-# Dark Widow / 暗黑寡妇 / 暗黑寡婦
-id = "dark-widow"
+id = "monsters/dark-widow"
 
+[name]
+en = "Dark Widow"
+zh-hans = "暗黑寡妇"
+zh-hant = "暗黑寡婦"
+
+[data]
 elementWeaknesses = [ "fire" ]
 statusImmunities = [ "poisoned" ]

@@ -1,6 +1,11 @@
-# Maelor / 梅勒 / 梅勒
-id = "maelor"
+id = "raids/maelor"
 
+[name]
+en = "Maelor"
+zh-hans = "梅勒"
+zh-hant = "梅勒"
+
+[data]
 elementImmunities = [ "dark" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

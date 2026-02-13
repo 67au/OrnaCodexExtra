@@ -1,6 +1,11 @@
-# Goibhniu of Fomoria / 弗摩尔之戈夫努 / 弗摩爾族之戈夫紐
-id = "goibhniu-of-fomoria"
+id = "bosses/goibhniu-of-fomoria"
 
+[name]
+en = "Goibhniu of Fomoria"
+zh-hans = "弗摩尔之戈夫努"
+zh-hant = "弗摩爾族之戈夫紐"
+
+[data]
 elementWeaknesses = [ "water", "lightning" ]
 elementImmunities = [ "dark" ]
 elementResistances = [ "fire", "holy" ]

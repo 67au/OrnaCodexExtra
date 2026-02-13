@@ -1,3 +1,8 @@
-# Amadan / 阿玛丹 / 阿瑪丹
-id = "amadan"
+id = "bosses/amadan"
 
+[name]
+en = "Amadan"
+zh-hans = "阿玛丹"
+zh-hant = "阿瑪丹"
+
+[data]

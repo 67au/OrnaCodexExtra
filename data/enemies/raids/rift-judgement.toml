@@ -1,5 +1,10 @@
-# Rift Judgement / 裂隙审判 / 裂痕審判
-id = "rift-judgement"
+id = "raids/rift-judgement"
 
+[name]
+en = "Rift Judgement"
+zh-hans = "裂隙审判"
+zh-hant = "裂痕審判"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

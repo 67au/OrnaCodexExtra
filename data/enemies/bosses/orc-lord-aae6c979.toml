@@ -1,3 +1,8 @@
-# Orc Lord / 半兽人领主 / 半獸人君王
-id = "orc-lord-aae6c979"
+id = "bosses/orc-lord-aae6c979"
 
+[name]
+en = "Orc Lord"
+zh-hans = "半兽人领主"
+zh-hant = "半獸人君王"
+
+[data]

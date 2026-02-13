@@ -1,3 +1,8 @@
-# Fallen Mage / 堕落法师 / 墮落法師
-id = "fallen-mage"
+id = "monsters/fallen-mage"
 
+[name]
+en = "Fallen Mage"
+zh-hans = "堕落法师"
+zh-hant = "墮落法師"
+
+[data]

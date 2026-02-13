@@ -1,5 +1,10 @@
-# Mighty Yeti / 究极雪怪 / 究極雪怪
-id = "mighty-yeti"
+id = "monsters/mighty-yeti"
 
+[name]
+en = "Mighty Yeti"
+zh-hans = "究极雪怪"
+zh-hant = "究極雪怪"
+
+[data]
 elementImmunities = ["water"]
 statusImmunities = ["frozen"]

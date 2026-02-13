@@ -1,4 +1,9 @@
-# Black Widow / 黑寡妇 / 黑寡婦
-id = "black-widow"
+id = "monsters/black-widow"
 
+[name]
+en = "Black Widow"
+zh-hans = "黑寡妇"
+zh-hant = "黑寡婦"
+
+[data]
 elementWeaknesses = [ "fire" ]

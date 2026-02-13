@@ -1,4 +1,9 @@
-# Draconian Lord (Arisen) / 德肯尼亚族之主 (重生者) / 德肯尼亞族之主 (重生者)
-id = "draconian-lord"
+id = "monsters/draconian-lord"
 
+[name]
+en = "Draconian Lord (Arisen)"
+zh-hans = "德肯尼亚族之主 (重生者)"
+zh-hant = "德肯尼亞族之主 (重生者)"
+
+[data]
 elementWeaknesses = [ "lightning" ]

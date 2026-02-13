@@ -1,7 +1,8 @@
-# Beheaded Scholar / 无头学者 / 喪首學者
-id = "beheaded-scholar"
+id = "monsters/beheaded-scholar"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Scholar"
+zh-hans = "无头学者"
+zh-hant = "喪首學者"
+
+[data]

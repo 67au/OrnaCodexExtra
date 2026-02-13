@@ -1,3 +1,8 @@
-# Great Pegasus / 强大的天马 / 強大的天馬
-id = "great-pegasus"
+id = "monsters/great-pegasus"
 
+[name]
+en = "Great Pegasus"
+zh-hans = "强大的天马"
+zh-hant = "強大的天馬"
+
+[data]

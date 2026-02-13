@@ -1,4 +1,9 @@
-# Seer / 眼怪 / 眼怪
-id = "seer"
+id = "monsters/seer"
 
+[name]
+en = "Seer"
+zh-hans = "眼怪"
+zh-hant = "眼怪"
+
+[data]
 statusImmunities = ["blind"]

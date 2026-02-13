@@ -1,5 +1,10 @@
-# Lero of Fomoria / 弗摩尔之勒罗 / 弗摩爾族之勒羅
-id = "lero-of-fomoria"
+id = "bosses/lero-of-fomoria"
 
+[name]
+en = "Lero of Fomoria"
+zh-hans = "弗摩尔之勒罗"
+zh-hant = "弗摩爾族之勒羅"
+
+[data]
 elementWeaknesses = ["dark", "holy"]
 elementImmunities = ["water"]

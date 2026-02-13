@@ -1,3 +1,8 @@
-# Fallen Thief / 堕落盗贼 / 墮落盜賊
-id = "fallen-thief"
+id = "monsters/fallen-thief"
 
+[name]
+en = "Fallen Thief"
+zh-hans = "堕落盗贼"
+zh-hant = "墮落盜賊"
+
+[data]

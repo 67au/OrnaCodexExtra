@@ -1,4 +1,9 @@
-# Great Mollusc / 巨型章鱼 / 巨大章魚
-id = "great-mollusc"
+id = "monsters/great-mollusc"
 
+[name]
+en = "Great Mollusc"
+zh-hans = "巨型章鱼"
+zh-hant = "巨大章魚"
+
+[data]
 elementResistances = [ "water", "fire" ]

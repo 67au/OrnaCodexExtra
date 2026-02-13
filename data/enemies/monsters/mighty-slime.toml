@@ -1,4 +1,9 @@
-# Mighty Slime / 究极史莱姆 / 究極史萊姆
-id = "mighty-slime"
+id = "monsters/mighty-slime"
 
+[name]
+en = "Mighty Slime"
+zh-hans = "究极史莱姆"
+zh-hant = "究極史萊姆"
+
+[data]
 statusImmunities = ["asleep"]

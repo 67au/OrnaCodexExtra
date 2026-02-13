@@ -1,3 +1,8 @@
-# Riftguard / 裂隙守卫 / 裂痕守衛
-id = "riftguard"
+id = "monsters/riftguard"
 
+[name]
+en = "Riftguard"
+zh-hans = "裂隙守卫"
+zh-hant = "裂痕守衛"
+
+[data]

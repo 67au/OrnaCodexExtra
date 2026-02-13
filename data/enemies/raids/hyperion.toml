@@ -1,5 +1,10 @@
-# Hyperion / 亥伯龙 / 海柏利昂
-id = "hyperion"
+id = "raids/hyperion"
 
+[name]
+en = "Hyperion"
+zh-hans = "亥伯龙"
+zh-hant = "海柏利昂"
+
+[data]
 elementImmunities = ["dark", "holy", "dragon", "arcane"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

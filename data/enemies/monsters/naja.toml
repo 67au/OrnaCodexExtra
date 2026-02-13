@@ -1,5 +1,10 @@
-# Naja / 娜迦 / 納迦
-id = "naja"
+id = "monsters/naja"
 
+[name]
+en = "Naja"
+zh-hans = "娜迦"
+zh-hant = "納迦"
+
+[data]
 elementWeaknesses = ["earthen"]
 statusImmunities = ["poisoned", "blight"]

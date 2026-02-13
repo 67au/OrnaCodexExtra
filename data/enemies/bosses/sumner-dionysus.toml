@@ -1,3 +1,8 @@
-# Sumner Dionysus / 「选手」狄俄尼索斯 / 夏運戴歐尼修斯
-id = "sumner-dionysus"
+id = "bosses/sumner-dionysus"
 
+[name]
+en = "Sumner Dionysus"
+zh-hans = "「选手」狄俄尼索斯"
+zh-hant = "夏運戴歐尼修斯"
+
+[data]

@@ -1,5 +1,10 @@
-# Medea, Arisen Queen / 重生者女王美狄亚 / 重生者女王美狄亞
-id = "medea-arisen-queen"
+id = "bosses/medea-arisen-queen"
 
+[name]
+en = "Medea, Arisen Queen"
+zh-hans = "重生者女王美狄亚"
+zh-hant = "重生者女王美狄亞"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "rot", "asleep", "blight", "petrified", "stasis", "att_d", "def_d", "def_dd", "t__def_d", "t__att_d", "mag_d", "t__mag_d", "t__mag_dd", "t__res_d", "t__att_dd", "t__def_dd", "t__def_ddd", "t__res_dd", "res_dd" ]

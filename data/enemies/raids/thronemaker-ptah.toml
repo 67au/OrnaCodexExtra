@@ -1,4 +1,9 @@
-# Thronemaker Ptah / 造王者普塔 / 造王者普塔
-id = "thronemaker-ptah"
+id = "raids/thronemaker-ptah"
 
+[name]
+en = "Thronemaker Ptah"
+zh-hans = "造王者普塔"
+zh-hant = "造王者普塔"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

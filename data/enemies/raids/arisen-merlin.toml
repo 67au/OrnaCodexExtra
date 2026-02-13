@@ -1,4 +1,9 @@
-# Arisen Merlin / 重生梅林 / 重生的梅林
-id = "arisen-merlin"
+id = "raids/arisen-merlin"
 
+[name]
+en = "Arisen Merlin"
+zh-hans = "重生梅林"
+zh-hant = "重生的梅林"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "t__res_d", "res_d", "res_dd"]

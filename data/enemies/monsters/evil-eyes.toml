@@ -1,4 +1,9 @@
-# Evil Eyes / 邪恶之眼 / 邪惡之眼
-id = "evil-eyes"
+id = "monsters/evil-eyes"
 
+[name]
+en = "Evil Eyes"
+zh-hans = "邪恶之眼"
+zh-hant = "邪惡之眼"
+
+[data]
 elementImmunities = ["lightning"]

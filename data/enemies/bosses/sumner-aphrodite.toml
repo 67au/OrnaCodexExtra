@@ -1,3 +1,8 @@
-# Sumner Aphrodite / 「选手」阿佛洛狄忒 / 夏運阿芙蘿黛蒂
-id = "sumner-aphrodite"
+id = "bosses/sumner-aphrodite"
 
+[name]
+en = "Sumner Aphrodite"
+zh-hans = "「选手」阿佛洛狄忒"
+zh-hant = "夏運阿芙蘿黛蒂"
+
+[data]

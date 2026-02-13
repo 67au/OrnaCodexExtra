@@ -1,5 +1,10 @@
-# Guivre / 蛇龙基威尔 / 蛇龍基威爾
-id = "guivre"
+id = "monsters/guivre"
 
+[name]
+en = "Guivre"
+zh-hans = "蛇龙基威尔"
+zh-hant = "蛇龍基威爾"
+
+[data]
 elementWeaknesses = [ "water" ]
 statusImmunities = [ "blight" ]

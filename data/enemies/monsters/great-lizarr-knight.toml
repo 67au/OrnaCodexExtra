@@ -1,5 +1,10 @@
-# Great Lizarr Knight / 强大的蜥蜴人骑士 / 上級蜥蜴人騎士
-id = "great-lizarr-knight"
+id = "monsters/great-lizarr-knight"
 
+[name]
+en = "Great Lizarr Knight"
+zh-hans = "强大的蜥蜴人骑士"
+zh-hant = "上級蜥蜴人騎士"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire" ]

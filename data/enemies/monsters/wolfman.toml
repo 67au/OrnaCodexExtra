@@ -1,4 +1,9 @@
-# Wolfman / 狼人 / 狼人
-id = "wolfman"
+id = "monsters/wolfman"
 
+[name]
+en = "Wolfman"
+zh-hans = "狼人"
+zh-hant = "狼人"
+
+[data]
 elementWeaknesses = [ "lightning" ]

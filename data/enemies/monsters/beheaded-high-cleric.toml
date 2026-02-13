@@ -1,7 +1,8 @@
-# Beheaded High Cleric / 无头高阶牧师 / 喪首高階牧師
-id = "beheaded-high-cleric"
+id = "monsters/beheaded-high-cleric"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded High Cleric"
+zh-hans = "无头高阶牧师"
+zh-hant = "喪首高階牧師"
+
+[data]

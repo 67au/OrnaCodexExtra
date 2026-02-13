@@ -1,5 +1,10 @@
-# Pegasus / 天马 / 天馬
-id = "pegasus"
+id = "monsters/pegasus"
 
+[name]
+en = "Pegasus"
+zh-hans = "天马"
+zh-hant = "天馬"
+
+[data]
 elementImmunities = ["water", "holy"]
 statusImmunities = ["poisoned", "bleeding", "frozen", "paralyzed", "blind", "asleep"]

@@ -1,3 +1,8 @@
-# Pumpkin Spider / 南瓜蜘蛛 / 南瓜蜘蛛
-id = "pumpkin-spider"
+id = "monsters/pumpkin-spider"
 
+[name]
+en = "Pumpkin Spider"
+zh-hans = "南瓜蜘蛛"
+zh-hant = "南瓜蜘蛛"
+
+[data]

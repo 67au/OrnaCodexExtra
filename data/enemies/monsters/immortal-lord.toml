@@ -1,5 +1,10 @@
-# Immortal Lord (Arisen) / 不朽领主 (重生者) / 不朽領主 (重生者)
-id = "immortal-lord"
+id = "monsters/immortal-lord"
 
+[name]
+en = "Immortal Lord (Arisen)"
+zh-hans = "不朽领主 (重生者)"
+zh-hant = "不朽領主 (重生者)"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon", "arcane" ]
 statusImmunities = [ "blind", "asleep", "blight" ]

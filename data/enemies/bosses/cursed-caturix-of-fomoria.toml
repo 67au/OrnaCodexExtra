@@ -1,6 +1,11 @@
-# Cursed Caturix of Fomoria / 弗摩尔之诅咒的卡图里克斯 / 受詛咒的弗摩爾族之卡圖里克斯
-id = "cursed-caturix-of-fomoria"
+id = "bosses/cursed-caturix-of-fomoria"
 
+[name]
+en = "Cursed Caturix of Fomoria"
+zh-hans = "弗摩尔之诅咒的卡图里克斯"
+zh-hant = "受詛咒的弗摩爾族之卡圖里克斯"
+
+[data]
 elementWeaknesses = [ "water", "fire" ]
 elementImmunities = [ "lightning" ]
 elementResistances = [ "earthen", "holy" ]

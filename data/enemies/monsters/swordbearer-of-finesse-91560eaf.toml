@@ -1,3 +1,8 @@
-# Swordbearer of Finesse / 芬尼斯的负剑者 / 芬尼斯的長劍職人
-id = "swordbearer-of-finesse-91560eaf"
+id = "monsters/swordbearer-of-finesse-91560eaf"
 
+[name]
+en = "Swordbearer of Finesse"
+zh-hans = "芬尼斯的负剑者"
+zh-hant = "芬尼斯的長劍職人"
+
+[data]

@@ -1,3 +1,8 @@
-# Orc Marauder / 半兽人掠夺者 / 巨魔掠奪者
-id = "orc-marauder"
+id = "monsters/orc-marauder"
 
+[name]
+en = "Orc Marauder"
+zh-hans = "半兽人掠夺者"
+zh-hant = "巨魔掠奪者"
+
+[data]

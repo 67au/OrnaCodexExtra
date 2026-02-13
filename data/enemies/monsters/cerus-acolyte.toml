@@ -1,3 +1,8 @@
-# Cerus Acolyte / 凯鲁斯侍从 / 凱魯斯追隨者
-id = "cerus-acolyte"
+id = "monsters/cerus-acolyte"
 
+[name]
+en = "Cerus Acolyte"
+zh-hans = "凯鲁斯侍从"
+zh-hant = "凱魯斯追隨者"
+
+[data]

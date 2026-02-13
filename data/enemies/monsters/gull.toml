@@ -1,5 +1,10 @@
-# Gull / 海鸥 / 海鷗
-id = "gull"
+id = "monsters/gull"
 
+[name]
+en = "Gull"
+zh-hans = "海鸥"
+zh-hant = "海鷗"
+
+[data]
 elementImmunities = [ "earthen" ]
 elementResistances = [ "water" ]

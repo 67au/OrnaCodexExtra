@@ -1,3 +1,8 @@
-# Lost Memory / 失落记忆 / 失落記憶
-id = "lost-memory"
+id = "monsters/lost-memory"
 
+[name]
+en = "Lost Memory"
+zh-hans = "失落记忆"
+zh-hant = "失落記憶"
+
+[data]

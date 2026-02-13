@@ -1,4 +1,9 @@
-# Fomorian Rogue / 弗摩尔族侠盗 / 弗摩爾族俠盜
-id = "fomorian-rogue"
+id = "monsters/fomorian-rogue"
 
+[name]
+en = "Fomorian Rogue"
+zh-hans = "弗摩尔族侠盗"
+zh-hant = "弗摩爾族俠盜"
+
+[data]
 elementWeaknesses = ["dark"]

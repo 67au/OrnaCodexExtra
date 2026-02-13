@@ -1,4 +1,9 @@
-# ob / ob / ob
-id = "ob"
+id = "raids/ob"
 
+[name]
+en = "ob"
+zh-hans = "ob"
+zh-hant = "ob"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

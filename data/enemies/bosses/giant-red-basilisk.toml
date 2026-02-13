@@ -1,5 +1,10 @@
-# Giant Red Basilisk / 巨型赤红巴西利斯克 / 巨型赤紅巴西利斯克
-id = "giant-red-basilisk"
+id = "bosses/giant-red-basilisk"
 
+[name]
+en = "Giant Red Basilisk"
+zh-hans = "巨型赤红巴西利斯克"
+zh-hant = "巨型赤紅巴西利斯克"
+
+[data]
 elementWeaknesses = [ "water" ]
 statusImmunities = [ "poisoned", "blight" ]

@@ -1,4 +1,9 @@
-# Fomorian Warrior / 弗摩尔族战士 / 弗摩爾族戰士
-id = "fomorian-warrior"
+id = "monsters/fomorian-warrior"
 
+[name]
+en = "Fomorian Warrior"
+zh-hans = "弗摩尔族战士"
+zh-hant = "弗摩爾族戰士"
+
+[data]
 elementWeaknesses = ["dark"]

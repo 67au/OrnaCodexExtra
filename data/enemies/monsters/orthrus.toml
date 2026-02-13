@@ -1,4 +1,9 @@
-# Orthrus / 欧特鲁斯 / 歐西魯斯
-id = "orthrus"
+id = "monsters/orthrus"
 
+[name]
+en = "Orthrus"
+zh-hans = "欧特鲁斯"
+zh-hant = "歐西魯斯"
+
+[data]
 elementWeaknesses = [ "fire" ]

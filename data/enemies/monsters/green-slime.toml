@@ -1,3 +1,8 @@
-# Green Slime / 绿史莱姆 / 綠史萊姆
-id = "green-slime"
+id = "monsters/green-slime"
 
+[name]
+en = "Green Slime"
+zh-hans = "绿史莱姆"
+zh-hant = "綠史萊姆"
+
+[data]

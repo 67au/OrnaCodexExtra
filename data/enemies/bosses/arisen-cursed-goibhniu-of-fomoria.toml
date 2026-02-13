@@ -1,5 +1,10 @@
-# Arisen Cursed Goibhniu of Fomoria / 弗摩尔之重生诅咒的戈夫努 / 重生受詛咒的弗摩爾族之戈夫紐
-id = "arisen-cursed-goibhniu-of-fomoria"
+id = "bosses/arisen-cursed-goibhniu-of-fomoria"
 
+[name]
+en = "Arisen Cursed Goibhniu of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的戈夫努"
+zh-hant = "重生受詛咒的弗摩爾族之戈夫紐"
+
+[data]
 elementImmunities = [ "earthen" ]
 elementResistances = [ "lightning", "holy" ]

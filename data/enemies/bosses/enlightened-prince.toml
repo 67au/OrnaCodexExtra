@@ -1,3 +1,8 @@
-# Enlightened Prince / 启蒙者王子 / 啟蒙者王子
-id = "enlightened-prince"
+id = "bosses/enlightened-prince"
 
+[name]
+en = "Enlightened Prince"
+zh-hans = "启蒙者王子"
+zh-hant = "啟蒙者王子"
+
+[data]

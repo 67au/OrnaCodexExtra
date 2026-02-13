@@ -1,3 +1,8 @@
-# Fallen Warrior / 堕落战士 / 墮落戰士
-id = "fallen-warrior"
+id = "monsters/fallen-warrior"
 
+[name]
+en = "Fallen Warrior"
+zh-hans = "堕落战士"
+zh-hant = "墮落戰士"
+
+[data]

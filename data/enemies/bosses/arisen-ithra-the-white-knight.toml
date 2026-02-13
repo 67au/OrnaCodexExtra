@@ -1,6 +1,11 @@
-# Arisen Ithra, the White Knight / 重生白骑士以斯拉 / 重生白騎士以斯拉
-id = "arisen-ithra-the-white-knight"
+id = "bosses/arisen-ithra-the-white-knight"
 
+[name]
+en = "Arisen Ithra, the White Knight"
+zh-hans = "重生白骑士以斯拉"
+zh-hant = "重生白騎士以斯拉"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["water"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

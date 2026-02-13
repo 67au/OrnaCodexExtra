@@ -1,5 +1,10 @@
-# Elite Kobold / 精英地精 / 高端地精
-id = "elite-kobold"
+id = "monsters/elite-kobold"
 
+[name]
+en = "Elite Kobold"
+zh-hans = "精英地精"
+zh-hant = "高端地精"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon" ]
 elementWeaknesses = [ "fire" ]

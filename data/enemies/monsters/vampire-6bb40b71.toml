@@ -1,4 +1,9 @@
-# Vampire / 吸血鬼 / 吸血鬼
-id = "vampire-6bb40b71"
+id = "monsters/vampire-6bb40b71"
 
+[name]
+en = "Vampire"
+zh-hans = "吸血鬼"
+zh-hant = "吸血鬼"
+
+[data]
 elementWeaknesses = [ "water", "holy" ]

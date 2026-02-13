@@ -1,3 +1,8 @@
-# Headless / 无头者 / 無頭者
-id = "headless"
+id = "monsters/headless"
 
+[name]
+en = "Headless"
+zh-hans = "无头者"
+zh-hant = "無頭者"
+
+[data]

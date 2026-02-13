@@ -1,6 +1,11 @@
-# Scruug / 史古基 / 史古基
-id = "scruug"
+id = "raids/scruug"
 
+[name]
+en = "Scruug"
+zh-hans = "史古基"
+zh-hant = "史古基"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water" ]

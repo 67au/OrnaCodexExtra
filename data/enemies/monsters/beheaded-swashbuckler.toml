@@ -1,7 +1,8 @@
-# Beheaded Swashbuckler / 无头侠客 / 喪首俠客
-id = "beheaded-swashbuckler"
+id = "monsters/beheaded-swashbuckler"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Swashbuckler"
+zh-hans = "无头侠客"
+zh-hant = "喪首俠客"
+
+[data]

@@ -1,6 +1,11 @@
-# Reaper / 死神 / 死神
-id = "reaper"
+id = "monsters/reaper"
 
+[name]
+en = "Reaper"
+zh-hans = "死神"
+zh-hant = "死神"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementResistances = [ "dark" ]
 statusImmunities = [ "bleeding" ]

@@ -1,4 +1,9 @@
-# Hades / 黑帝斯 / 黑帝斯
-id = "hades"
+id = "bosses/hades"
 
+[name]
+en = "Hades"
+zh-hans = "黑帝斯"
+zh-hant = "黑帝斯"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

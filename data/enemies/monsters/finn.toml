@@ -1,3 +1,8 @@
-# Finn / 芬恩 / 芬恩
-id = "finn"
+id = "monsters/finn"
 
+[name]
+en = "Finn"
+zh-hans = "芬恩"
+zh-hant = "芬恩"
+
+[data]

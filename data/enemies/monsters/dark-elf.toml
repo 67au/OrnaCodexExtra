@@ -1,4 +1,9 @@
-# Dark Elf / 黑暗精灵 / 黑暗精靈
-id = "dark-elf"
+id = "monsters/dark-elf"
 
+[name]
+en = "Dark Elf"
+zh-hans = "黑暗精灵"
+zh-hant = "黑暗精靈"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]

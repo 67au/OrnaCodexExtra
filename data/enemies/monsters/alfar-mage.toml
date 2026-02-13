@@ -1,6 +1,11 @@
-# Alfar Mage (Arisen) / 古精灵法师 (重生者) / 古精靈法師 (重生者)
-id = "alfar-mage"
+id = "monsters/alfar-mage"
 
+[name]
+en = "Alfar Mage (Arisen)"
+zh-hans = "古精灵法师 (重生者)"
+zh-hant = "古精靈法師 (重生者)"
+
+[data]
 elementWeaknesses = ["earthen"]
 elementImmunities = ["dark", "holy"]
 elementResistances = ["water"]

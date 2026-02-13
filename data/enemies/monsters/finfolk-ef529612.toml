@@ -1,5 +1,10 @@
-# Finfolk (Arisen) / 芬菲克 (重生者) / 芬菲克 (重生者)
-id = "finfolk-ef529612"
+id = "monsters/finfolk-ef529612"
 
+[name]
+en = "Finfolk (Arisen)"
+zh-hans = "芬菲克 (重生者)"
+zh-hant = "芬菲克 (重生者)"
+
+[data]
 elementImmunities = [ "water" ]
 elementResistances = [ "fire" ]

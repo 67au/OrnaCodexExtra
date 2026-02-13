@@ -1,6 +1,11 @@
-# Phoenix / 凤凰 / 鳳凰
-id = "phoenix"
+id = "raids/phoenix"
 
+[name]
+en = "Phoenix"
+zh-hans = "凤凰"
+zh-hant = "鳳凰"
+
+[data]
 elementImmunities = [ "fire" ]
 elementResistances = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

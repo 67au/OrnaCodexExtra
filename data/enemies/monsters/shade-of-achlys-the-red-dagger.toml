@@ -1,4 +1,9 @@
-# Shade of Achlys, the Red Dagger (Arisen) / 赤刃艾柯吕斯之冥影 (重生者) / 赤刃艾柯呂斯之影 (重生者)
-id = "shade-of-achlys-the-red-dagger"
+id = "monsters/shade-of-achlys-the-red-dagger"
 
+[name]
+en = "Shade of Achlys, the Red Dagger (Arisen)"
+zh-hans = "赤刃艾柯吕斯之冥影 (重生者)"
+zh-hant = "赤刃艾柯呂斯之影 (重生者)"
+
+[data]
 statusImmunities = [ "poisoned", "bleeding", "burning", "rot", "blight" ]

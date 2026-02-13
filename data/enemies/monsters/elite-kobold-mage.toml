@@ -1,5 +1,10 @@
-# Elite Kobold Mage / 精英地精法师 / 高端地精法師
-id = "elite-kobold-mage"
+id = "monsters/elite-kobold-mage"
 
+[name]
+en = "Elite Kobold Mage"
+zh-hans = "精英地精法师"
+zh-hant = "高端地精法師"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon" ]
 elementWeaknesses = [ "fire" ]

@@ -1,5 +1,10 @@
-# Cursed Artio of Fomoria / 弗摩尔之诅咒的阿尔提奥 / 受詛咒的弗摩爾族之阿蒂奧
-id = "cursed-artio-of-fomoria"
+id = "bosses/cursed-artio-of-fomoria"
 
+[name]
+en = "Cursed Artio of Fomoria"
+zh-hans = "弗摩尔之诅咒的阿尔提奥"
+zh-hant = "受詛咒的弗摩爾族之阿蒂奧"
+
+[data]
 elementImmunities = [ "lightning", "dark" ]
 elementResistances = [ "earthen" ]

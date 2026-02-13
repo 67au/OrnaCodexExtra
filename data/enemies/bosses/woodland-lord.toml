@@ -1,6 +1,11 @@
-# Woodland Lord / 林地之主 / 林地之主
-id = "woodland-lord"
+id = "bosses/woodland-lord"
 
+[name]
+en = "Woodland Lord"
+zh-hans = "林地之主"
+zh-hant = "林地之主"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementImmunities = [ "fire", "lightning" ]
 elementResistances = [ "dark", "holy", "dragon" ]

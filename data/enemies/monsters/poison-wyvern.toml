@@ -1,5 +1,10 @@
-# Poison Wyvern / 猛毒飞龙 / 猛毒飛龍
-id = "poison-wyvern"
+id = "monsters/poison-wyvern"
 
+[name]
+en = "Poison Wyvern"
+zh-hans = "猛毒飞龙"
+zh-hant = "猛毒飛龍"
+
+[data]
 elementWeaknesses = ["dragon"]
 statusImmunities = ["poisoned", "blight"]

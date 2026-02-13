@@ -1,3 +1,8 @@
-# Amergin / 阿默金 / 阿默金
-id = "amergin"
+id = "monsters/amergin"
 
+[name]
+en = "Amergin"
+zh-hans = "阿默金"
+zh-hant = "阿默金"
+
+[data]

@@ -1,6 +1,11 @@
-# Turned King Lyncus / 「被变形之王」林克斯 / 被轉化之王林科斯
-id = "turned-king-lyncus"
+id = "raids/turned-king-lyncus"
 
+[name]
+en = "Turned King Lyncus"
+zh-hans = "「被变形之王」林克斯"
+zh-hant = "被轉化之王林科斯"
+
+[data]
 elementImmunities = [ "dragon" ]
 elementResistances = [ "water", "fire", "lightning", "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis", "att_d", "def_d", "def_dd", "mag_d", "res_dd", "res_d", "t__dex_d", "lyon_s_mark" ]

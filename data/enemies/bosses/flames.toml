@@ -1,6 +1,11 @@
-# Flames / 火焰团 / 火焰
-id = "flames"
+id = "bosses/flames"
 
+[name]
+en = "Flames"
+zh-hans = "火焰团"
+zh-hant = "火焰"
+
+[data]
 elementWeaknesses = [ "water", "earthen" ]
 elementImmunities = [ "fire" ]
 elementResistances = [ "physical" ]

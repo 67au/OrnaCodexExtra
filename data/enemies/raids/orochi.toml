@@ -1,6 +1,11 @@
-# Orochi / 八岐大蛇 / 八岐大蛇
-id = "orochi"
+id = "raids/orochi"
 
+[name]
+en = "Orochi"
+zh-hans = "八岐大蛇"
+zh-hant = "八岐大蛇"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

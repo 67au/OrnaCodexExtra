@@ -1,4 +1,9 @@
-# Balor Assassin / 巴罗尔刺客 / 巴羅爾刺客
-id = "balor-assassin"
+id = "monsters/balor-assassin"
 
+[name]
+en = "Balor Assassin"
+zh-hans = "巴罗尔刺客"
+zh-hant = "巴羅爾刺客"
+
+[data]
 elementWeaknesses = ["arcane"]

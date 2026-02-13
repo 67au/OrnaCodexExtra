@@ -1,6 +1,11 @@
-# Blue Flame / 蓝色火焰 / 藍色火焰
-id = "blue-flame"
+id = "monsters/blue-flame"
 
+[name]
+en = "Blue Flame"
+zh-hans = "蓝色火焰"
+zh-hant = "藍色火焰"
+
+[data]
 elementWeaknesses = [ "lightning", "earthen" ]
 elementImmunities = [ "water", "fire" ]
 elementResistances = [ "physical" ]

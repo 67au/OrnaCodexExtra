@@ -1,4 +1,9 @@
-# Cave Sprout / 穴居新芽 / 穴居新芽
-id = "cave-sprout"
+id = "monsters/cave-sprout"
 
+[name]
+en = "Cave Sprout"
+zh-hans = "穴居新芽"
+zh-hant = "穴居新芽"
+
+[data]
 elementWeaknesses = ["fire", "earthen"]

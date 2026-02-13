@@ -1,6 +1,11 @@
-# Skeleton Rogue / 骷髅侠盗 / 骷髏俠盜
-id = "skeleton-rogue"
+id = "monsters/skeleton-rogue"
 
+[name]
+en = "Skeleton Rogue"
+zh-hans = "骷髅侠盗"
+zh-hant = "骷髏俠盜"
+
+[data]
 elementWeaknesses = [ "water", "holy" ]
 elementImmunities = [ "dark" ]
 statusImmunities = [ "bleeding" ]

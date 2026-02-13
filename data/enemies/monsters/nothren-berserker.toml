@@ -1,5 +1,10 @@
-# Nothren Berserker / 北族狂战士 / 北族狂戰士
-id = "nothren-berserker"
+id = "monsters/nothren-berserker"
 
+[name]
+en = "Nothren Berserker"
+zh-hans = "北族狂战士"
+zh-hant = "北族狂戰士"
+
+[data]
 elementResistances = [ "water" ]
 statusImmunities = [ "frozen" ]

@@ -1,4 +1,9 @@
-# Gerd / 葛德 / 葛德
-id = "gerd"
+id = "raids/gerd"
 
+[name]
+en = "Gerd"
+zh-hans = "葛德"
+zh-hant = "葛德"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "mag_d", "t__mag_d"]

@@ -1,3 +1,8 @@
-# Fallen Knight / 堕落骑士 / 墮落騎士
-id = "fallen-knight"
+id = "monsters/fallen-knight"
 
+[name]
+en = "Fallen Knight"
+zh-hans = "堕落骑士"
+zh-hant = "墮落騎士"
+
+[data]

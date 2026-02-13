@@ -1,5 +1,10 @@
-# Darkrift Counsel / 暗域裂隙辩护士 / 暗黑裂痕辯護人
-id = "darkrift-counsel-1ac216f1"
+id = "monsters/darkrift-counsel-1ac216f1"
 
+[name]
+en = "Darkrift Counsel"
+zh-hans = "暗域裂隙辩护士"
+zh-hant = "暗黑裂痕辯護人"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementResistances = [ "dark" ]

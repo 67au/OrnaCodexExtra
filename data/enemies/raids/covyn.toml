@@ -1,6 +1,11 @@
-# Covyn / Covyn / Covyn
-id = "covyn"
+id = "raids/covyn"
 
+[name]
+en = "Covyn"
+zh-hans = "Covyn"
+zh-hant = "Covyn"
+
+[data]
 elementWeaknesses = [ "arcane" ]
 elementResistances = [ "dark", "holy" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "windswept", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis" ]

@@ -1,3 +1,8 @@
-# Wild Wolf / 野狼 / 野狼
-id = "wild-wolf"
+id = "monsters/wild-wolf"
 
+[name]
+en = "Wild Wolf"
+zh-hans = "野狼"
+zh-hant = "野狼"
+
+[data]

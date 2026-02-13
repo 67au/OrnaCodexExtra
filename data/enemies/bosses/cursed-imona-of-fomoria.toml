@@ -1,5 +1,10 @@
-# Cursed Imona of Fomoria / 弗摩尔之诅咒的伊莫娜 / 受詛咒的弗摩爾族之埃莫那
-id = "cursed-imona-of-fomoria"
+id = "bosses/cursed-imona-of-fomoria"
 
+[name]
+en = "Cursed Imona of Fomoria"
+zh-hans = "弗摩尔之诅咒的伊莫娜"
+zh-hant = "受詛咒的弗摩爾族之埃莫那"
+
+[data]
 elementWeaknesses = [ "water", "holy" ]
 elementResistances = [ "lightning" ]

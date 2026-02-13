@@ -1,5 +1,10 @@
-# Nothren Warlock / 北族术士 / 北族術士
-id = "nothren-warlock"
+id = "monsters/nothren-warlock"
 
+[name]
+en = "Nothren Warlock"
+zh-hans = "北族术士"
+zh-hant = "北族術士"
+
+[data]
 elementResistances = [ "water" ]
 statusImmunities = [ "frozen" ]

@@ -1,7 +1,8 @@
-# Beheaded Merchant / 无头商人 / 喪首商人
-id = "beheaded-merchant"
+id = "monsters/beheaded-merchant"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Merchant"
+zh-hans = "无头商人"
+zh-hant = "喪首商人"
+
+[data]

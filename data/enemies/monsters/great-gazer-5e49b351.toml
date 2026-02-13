@@ -1,5 +1,10 @@
-# Great Gazer (Arisen) / 强大的凝视者 (重生者) / 強大的凝視者 (重生者)
-id = "great-gazer-5e49b351"
+id = "monsters/great-gazer-5e49b351"
 
+[name]
+en = "Great Gazer (Arisen)"
+zh-hans = "强大的凝视者 (重生者)"
+zh-hant = "強大的凝視者 (重生者)"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementImmunities = [ "physical" ]

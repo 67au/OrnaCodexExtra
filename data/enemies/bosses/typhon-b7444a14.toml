@@ -1,5 +1,10 @@
-# Typhon / 堤丰 / 堤豐
-id = "typhon-b7444a14"
+id = "bosses/typhon-b7444a14"
 
+[name]
+en = "Typhon"
+zh-hans = "堤丰"
+zh-hant = "堤豐"
+
+[data]
 elementWeaknesses = ["dragon"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

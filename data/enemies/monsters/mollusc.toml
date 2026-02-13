@@ -1,4 +1,9 @@
-# Mollusc / 章鱼 / 軟體動物
-id = "mollusc"
+id = "monsters/mollusc"
 
+[name]
+en = "Mollusc"
+zh-hans = "章鱼"
+zh-hant = "軟體動物"
+
+[data]
 elementResistances = [ "water", "fire" ]

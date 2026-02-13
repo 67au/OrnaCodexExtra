@@ -1,4 +1,9 @@
-# Ancient Cyclops / 远古独眼巨人 / 遠古獨眼巨人
-id = "ancient-cyclops"
+id = "monsters/ancient-cyclops"
 
+[name]
+en = "Ancient Cyclops"
+zh-hans = "远古独眼巨人"
+zh-hant = "遠古獨眼巨人"
+
+[data]
 elementWeaknesses = ["earthen"]

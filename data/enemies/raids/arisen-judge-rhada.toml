@@ -1,5 +1,10 @@
-# Arisen Judge Rhada / 重生判官拉达 / 重生判官拉達
-id = "arisen-judge-rhada"
+id = "raids/arisen-judge-rhada"
 
+[name]
+en = "Arisen Judge Rhada"
+zh-hans = "重生判官拉达"
+zh-hant = "重生判官拉達"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

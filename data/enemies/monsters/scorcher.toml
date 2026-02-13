@@ -1,5 +1,10 @@
-# Scorcher / 灼烧者 / 灼燒者
-id = "scorcher"
+id = "monsters/scorcher"
 
+[name]
+en = "Scorcher"
+zh-hans = "灼烧者"
+zh-hant = "灼燒者"
+
+[data]
 elementWeaknesses = ["water"]
 elementImmunities = ["fire"]

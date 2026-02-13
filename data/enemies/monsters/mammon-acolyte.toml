@@ -1,3 +1,8 @@
-# Mammon Acolyte / 玛门追随者 / 瑪門追隨者
-id = "mammon-acolyte"
+id = "monsters/mammon-acolyte"
 
+[name]
+en = "Mammon Acolyte"
+zh-hans = "玛门追随者"
+zh-hant = "瑪門追隨者"
+
+[data]

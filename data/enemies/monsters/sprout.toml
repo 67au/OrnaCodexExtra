@@ -1,4 +1,9 @@
-# Sprout / 初芽 / 初芽
-id = "sprout"
+id = "monsters/sprout"
 
+[name]
+en = "Sprout"
+zh-hans = "初芽"
+zh-hant = "初芽"
+
+[data]
 elementWeaknesses = ["fire"]

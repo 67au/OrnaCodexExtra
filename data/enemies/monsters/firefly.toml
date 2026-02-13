@@ -1,5 +1,10 @@
-# Firefly / 萤火虫 / 螢火蟲
-id = "firefly"
+id = "monsters/firefly"
 
+[name]
+en = "Firefly"
+zh-hans = "萤火虫"
+zh-hant = "螢火蟲"
+
+[data]
 elementWeaknesses = ["water"]
 elementImmunities = ["fire"]

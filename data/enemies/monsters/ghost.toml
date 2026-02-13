@@ -1,6 +1,11 @@
-# Ghost / 鬼 / 鬼
-id = "ghost"
+id = "monsters/ghost"
 
+[name]
+en = "Ghost"
+zh-hans = "鬼"
+zh-hant = "鬼"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["physical"]
 statusImmunities = ["asleep"]

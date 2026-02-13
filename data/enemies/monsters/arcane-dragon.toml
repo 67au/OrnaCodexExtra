@@ -1,4 +1,9 @@
-# Arcane Dragon / 奥术龙 / 奧術龍
-id = "arcane-dragon"
+id = "monsters/arcane-dragon"
 
+[name]
+en = "Arcane Dragon"
+zh-hans = "奥术龙"
+zh-hant = "奧術龍"
+
+[data]
 elementWeaknesses = ["dragon"]

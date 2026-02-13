@@ -1,4 +1,9 @@
-# Bandit / 土匪 / 土匪
-id = "bandit"
+id = "monsters/bandit"
 
+[name]
+en = "Bandit"
+zh-hans = "土匪"
+zh-hant = "土匪"
+
+[data]
 elementWeaknesses = [ "lightning" ]

@@ -1,6 +1,11 @@
-# Kraken / 克拉肯 / 克拉肯
-id = "kraken"
+id = "bosses/kraken"
 
+[name]
+en = "Kraken"
+zh-hans = "克拉肯"
+zh-hant = "克拉肯"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["arcane"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "asleep"]

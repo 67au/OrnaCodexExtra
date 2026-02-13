@@ -1,4 +1,9 @@
-# Cursed Damona of Fomoria / 弗摩尔之诅咒的达默纳 / 受詛咒的弗摩爾族之達摩娜
-id = "cursed-damona-of-fomoria"
+id = "bosses/cursed-damona-of-fomoria"
 
+[name]
+en = "Cursed Damona of Fomoria"
+zh-hans = "弗摩尔之诅咒的达默纳"
+zh-hant = "受詛咒的弗摩爾族之達摩娜"
+
+[data]
 elementImmunities = ["earthen", "dark"]

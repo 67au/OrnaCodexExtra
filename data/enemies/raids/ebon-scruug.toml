@@ -1,6 +1,11 @@
-# Ebon Scruug / 黑之史古基 / 黑之史古基
-id = "ebon-scruug"
+id = "raids/ebon-scruug"
 
+[name]
+en = "Ebon Scruug"
+zh-hans = "黑之史古基"
+zh-hant = "黑之史古基"
+
+[data]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

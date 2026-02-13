@@ -1,5 +1,10 @@
-# Fallen Realmshifter / 堕落的域界易形者 / 墮落的域界易形者
-id = "fallen-realmshifter"
+id = "bosses/fallen-realmshifter"
 
+[name]
+en = "Fallen Realmshifter"
+zh-hans = "堕落的域界易形者"
+zh-hant = "墮落的域界易形者"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["frozen", "paralyzed", "rot", "blind", "asleep"]

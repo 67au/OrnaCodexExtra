@@ -1,5 +1,10 @@
-# Zu / 安祖鸟 / 祖鳥
-id = "zu"
+id = "monsters/zu"
 
+[name]
+en = "Zu"
+zh-hans = "安祖鸟"
+zh-hant = "祖鳥"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "earthen" ]

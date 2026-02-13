@@ -1,4 +1,9 @@
-# Arisen Quetzalcoatl / 重生羽蛇神 / 重生羽蛇神
-id = "arisen-quetzalcoatl"
+id = "raids/arisen-quetzalcoatl"
 
+[name]
+en = "Arisen Quetzalcoatl"
+zh-hans = "重生羽蛇神"
+zh-hant = "重生羽蛇神"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

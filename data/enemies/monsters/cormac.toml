@@ -1,3 +1,8 @@
-# Cormac / 康马克 / 康馬克
-id = "cormac"
+id = "monsters/cormac"
 
+[name]
+en = "Cormac"
+zh-hans = "康马克"
+zh-hant = "康馬克"
+
+[data]

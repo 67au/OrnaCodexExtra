@@ -1,6 +1,11 @@
-# Mullo of Fomoria / 弗摩尔之穆洛 / 弗摩爾族之穆洛
-id = "mullo-of-fomoria"
+id = "bosses/mullo-of-fomoria"
 
+[name]
+en = "Mullo of Fomoria"
+zh-hans = "弗摩尔之穆洛"
+zh-hant = "弗摩爾族之穆洛"
+
+[data]
 elementWeaknesses = [ "fire", "holy" ]
 elementImmunities = [ "water", "lightning" ]
 elementResistances = [ "earthen", "dark" ]

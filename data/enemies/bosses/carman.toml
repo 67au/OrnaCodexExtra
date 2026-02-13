@@ -1,4 +1,9 @@
-# Carman / 卡门 / 卡門
-id = "carman"
+id = "bosses/carman"
 
+[name]
+en = "Carman"
+zh-hans = "卡门"
+zh-hant = "卡門"
+
+[data]
 elementWeaknesses = [ "fire" ]

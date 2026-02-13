@@ -1,4 +1,9 @@
-# Cursed King Fomor, Sumner / 诅咒的弗摩尔王萨姆纳 / 受詛咒的弗摩爾王，薩姆納
-id = "cursed-king-fomor-sumner"
+id = "bosses/cursed-king-fomor-sumner"
 
+[name]
+en = "Cursed King Fomor, Sumner"
+zh-hans = "诅咒的弗摩尔王萨姆纳"
+zh-hant = "受詛咒的弗摩爾王，薩姆納"
+
+[data]
 elementResistances = [ "fire" ]

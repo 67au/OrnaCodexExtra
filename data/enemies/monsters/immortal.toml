@@ -1,5 +1,10 @@
-# Immortal / 不朽者 / 不朽者
-id = "immortal"
+id = "monsters/immortal"
 
+[name]
+en = "Immortal"
+zh-hans = "不朽者"
+zh-hant = "不朽者"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon", "arcane" ]
 statusImmunities = [ "blind", "asleep", "stunned", "blight" ]

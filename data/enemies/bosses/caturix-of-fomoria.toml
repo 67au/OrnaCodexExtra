@@ -1,6 +1,11 @@
-# Caturix of Fomoria / 弗摩尔之卡图里克斯 / 弗摩爾族之卡圖里克斯
-id = "caturix-of-fomoria"
+id = "bosses/caturix-of-fomoria"
 
+[name]
+en = "Caturix of Fomoria"
+zh-hans = "弗摩尔之卡图里克斯"
+zh-hant = "弗摩爾族之卡圖里克斯"
+
+[data]
 elementWeaknesses = [ "fire", "holy" ]
 elementImmunities = [ "lightning", "earthen" ]
 elementResistances = [ "water" ]

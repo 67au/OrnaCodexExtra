@@ -1,4 +1,9 @@
-# Fey Cockatrice / 变异鸡蛇 / 變異雞蛇
-id = "fey-cockatrice"
+id = "raids/fey-cockatrice"
 
+[name]
+en = "Fey Cockatrice"
+zh-hans = "变异鸡蛇"
+zh-hant = "變異雞蛇"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]

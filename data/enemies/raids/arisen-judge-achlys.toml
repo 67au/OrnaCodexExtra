@@ -1,5 +1,10 @@
-# Arisen Judge Achlys / 重生判官艾柯吕斯 / 重生判官艾柯呂斯
-id = "arisen-judge-achlys"
+id = "raids/arisen-judge-achlys"
 
+[name]
+en = "Arisen Judge Achlys"
+zh-hans = "重生判官艾柯吕斯"
+zh-hant = "重生判官艾柯呂斯"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

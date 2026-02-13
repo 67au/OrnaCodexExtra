@@ -1,5 +1,10 @@
-# Dokkalfar / 夜之精灵 / 夜之精靈
-id = "dokkalfar"
+id = "monsters/dokkalfar"
 
+[name]
+en = "Dokkalfar"
+zh-hans = "夜之精灵"
+zh-hant = "夜之精靈"
+
+[data]
 elementWeaknesses = [ "lightning", "holy" ]
 elementImmunities = [ "dark" ]

@@ -1,5 +1,10 @@
-# Draugr Lord / 尸鬼领主 / 屍鬼領主
-id = "draugr-lord"
+id = "bosses/draugr-lord"
 
+[name]
+en = "Draugr Lord"
+zh-hans = "尸鬼领主"
+zh-hant = "屍鬼領主"
+
+[data]
 elementWeaknesses = ["earthen"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

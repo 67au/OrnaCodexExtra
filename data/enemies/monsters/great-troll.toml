@@ -1,3 +1,8 @@
-# Great Troll / 强大的巨魔 / 強大的巨魔
-id = "great-troll"
+id = "monsters/great-troll"
 
+[name]
+en = "Great Troll"
+zh-hans = "强大的巨魔"
+zh-hant = "強大的巨魔"
+
+[data]

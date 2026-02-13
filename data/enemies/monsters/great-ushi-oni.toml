@@ -1,4 +1,9 @@
-# Great Ushi-oni / 大牛鬼 / 大牛鬼
-id = "great-ushi-oni"
+id = "monsters/great-ushi-oni"
 
+[name]
+en = "Great Ushi-oni"
+zh-hans = "大牛鬼"
+zh-hant = "大牛鬼"
+
+[data]
 elementWeaknesses = ["dark"]

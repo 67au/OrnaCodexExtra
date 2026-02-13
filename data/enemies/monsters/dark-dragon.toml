@@ -1,5 +1,10 @@
-# Dark Dragon / 暗黑龙 / 暗黑龍
-id = "dark-dragon"
+id = "monsters/dark-dragon"
 
+[name]
+en = "Dark Dragon"
+zh-hans = "暗黑龙"
+zh-hant = "暗黑龍"
+
+[data]
 elementWeaknesses = ["holy", "dragon"]
 elementImmunities = ["dark"]

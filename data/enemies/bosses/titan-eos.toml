@@ -1,6 +1,11 @@
-# Titan Eos / 泰坦厄俄斯 / 泰坦愛奧斯
-id = "titan-eos"
+id = "bosses/titan-eos"
 
+[name]
+en = "Titan Eos"
+zh-hans = "泰坦厄俄斯"
+zh-hant = "泰坦愛奧斯"
+
+[data]
 elementWeaknesses = ["dark"]
 elementImmunities = ["fire", "holy"]
 statusImmunities = ["poisoned", "bleeding", "frozen", "paralyzed", "rot", "petrified"]

@@ -1,6 +1,11 @@
-# Ankou (Arisen) / 安库 (重生者) / 安庫 (重生者)
-id = "ankou"
+id = "monsters/ankou"
 
+[name]
+en = "Ankou (Arisen)"
+zh-hans = "安库 (重生者)"
+zh-hant = "安庫 (重生者)"
+
+[data]
 elementWeaknesses = [ "fire" ]
 elementImmunities = [ "dark" ]
 elementResistances = [ "water", "lightning", "earthen" ]

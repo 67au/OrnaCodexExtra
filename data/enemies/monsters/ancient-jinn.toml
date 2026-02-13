@@ -1,5 +1,10 @@
-# Ancient Jinn / 远古神灯精灵 / 遠古神燈精靈
-id = "ancient-jinn"
+id = "monsters/ancient-jinn"
 
+[name]
+en = "Ancient Jinn"
+zh-hans = "远古神灯精灵"
+zh-hant = "遠古神燈精靈"
+
+[data]
 elementWeaknesses = ["earthen"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

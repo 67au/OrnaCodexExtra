@@ -1,3 +1,8 @@
-# Kobold Lord / 地精领主 / 地精領主
-id = "kobold-lord"
+id = "bosses/kobold-lord"
 
+[name]
+en = "Kobold Lord"
+zh-hans = "地精领主"
+zh-hant = "地精領主"
+
+[data]

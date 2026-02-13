@@ -1,6 +1,11 @@
-# Coral Serpent / 珊瑚蛇人 / 珊瑚蛇人
-id = "coral-serpent"
+id = "monsters/coral-serpent"
 
+[name]
+en = "Coral Serpent"
+zh-hans = "珊瑚蛇人"
+zh-hant = "珊瑚蛇人"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "fire" ]
 statusImmunities = [ "poisoned", "blight" ]

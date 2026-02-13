@@ -1,4 +1,9 @@
-# Kobold / 地精 / 地精
-id = "kobold"
+id = "monsters/kobold"
 
+[name]
+en = "Kobold"
+zh-hans = "地精"
+zh-hant = "地精"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon" ]

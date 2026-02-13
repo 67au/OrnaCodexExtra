@@ -1,3 +1,8 @@
-# Fenrir / 芬里尔 / 芬里爾
-id = "fenrir-b21e25dd"
+id = "bosses/fenrir-b21e25dd"
 
+[name]
+en = "Fenrir"
+zh-hans = "芬里尔"
+zh-hant = "芬里爾"
+
+[data]

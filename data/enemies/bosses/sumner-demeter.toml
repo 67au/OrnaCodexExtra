@@ -1,3 +1,8 @@
-# Sumner Demeter / 「选手」狄蜜特 / 夏運狄蜜特
-id = "sumner-demeter"
+id = "bosses/sumner-demeter"
 
+[name]
+en = "Sumner Demeter"
+zh-hans = "「选手」狄蜜特"
+zh-hant = "夏運狄蜜特"
+
+[data]

@@ -1,6 +1,11 @@
-# Ortanite Golem / 欧坦尼魔像 / 歐坦尼魔像
-id = "ortanite-golem"
+id = "monsters/ortanite-golem"
 
+[name]
+en = "Ortanite Golem"
+zh-hans = "欧坦尼魔像"
+zh-hant = "歐坦尼魔像"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementImmunities = [ "fire", "lightning", "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

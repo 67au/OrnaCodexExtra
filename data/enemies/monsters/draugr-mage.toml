@@ -1,4 +1,9 @@
-# Draugr Mage / 尸鬼法师 / 屍鬼法師
-id = "draugr-mage"
+id = "monsters/draugr-mage"
 
+[name]
+en = "Draugr Mage"
+zh-hans = "尸鬼法师"
+zh-hant = "屍鬼法師"
+
+[data]
 elementWeaknesses = ["earthen"]

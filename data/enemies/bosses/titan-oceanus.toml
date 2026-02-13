@@ -1,6 +1,11 @@
-# Titan Oceanus / 泰坦俄刻阿诺斯 / 泰坦奧克亞諾斯
-id = "titan-oceanus"
+id = "bosses/titan-oceanus"
 
+[name]
+en = "Titan Oceanus"
+zh-hans = "泰坦俄刻阿诺斯"
+zh-hant = "泰坦奧克亞諾斯"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementImmunities = [ "water" ]
 elementResistances = [ "fire" ]

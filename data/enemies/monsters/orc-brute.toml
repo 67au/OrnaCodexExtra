@@ -1,3 +1,8 @@
-# Orc Brute / 野蛮半兽人 / 野蠻半獸人
-id = "orc-brute"
+id = "monsters/orc-brute"
 
+[name]
+en = "Orc Brute"
+zh-hans = "野蛮半兽人"
+zh-hant = "野蠻半獸人"
+
+[data]

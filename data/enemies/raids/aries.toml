@@ -1,5 +1,10 @@
-# Aries / 亚力士 / 亞力士
-id = "aries"
+id = "raids/aries"
 
+[name]
+en = "Aries"
+zh-hans = "亚力士"
+zh-hant = "亞力士"
+
+[data]
 elementResistances = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight" ]

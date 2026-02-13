@@ -1,4 +1,9 @@
-# Greater Cyclops / 大独眼巨人 / 大獨眼巨人
-id = "greater-cyclops"
+id = "monsters/greater-cyclops"
 
+[name]
+en = "Greater Cyclops"
+zh-hans = "大独眼巨人"
+zh-hant = "大獨眼巨人"
+
+[data]
 elementWeaknesses = [ "lightning" ]

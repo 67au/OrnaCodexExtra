@@ -1,4 +1,9 @@
-# Fey Yeti / 变异雪怪 / 變異雪怪
-id = "fey-yeti"
+id = "raids/fey-yeti"
 
+[name]
+en = "Fey Yeti"
+zh-hans = "变异雪怪"
+zh-hant = "變異雪怪"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]

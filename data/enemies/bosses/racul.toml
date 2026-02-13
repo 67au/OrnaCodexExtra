@@ -1,6 +1,11 @@
-# Racul / 路卡尔 / 路卡爾
-id = "racul"
+id = "bosses/racul"
 
+[name]
+en = "Racul"
+zh-hans = "路卡尔"
+zh-hant = "路卡爾"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["dark", "arcane"]
 statusImmunities = ["poisoned", "asleep", "blight"]

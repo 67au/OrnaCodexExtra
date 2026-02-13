@@ -1,4 +1,9 @@
-# Atepomarus of Fomoria / 弗摩尔之阿特波玛鲁斯 / 弗摩爾族之阿特波馬羅斯
-id = "atepomarus-of-fomoria"
+id = "bosses/atepomarus-of-fomoria"
 
+[name]
+en = "Atepomarus of Fomoria"
+zh-hans = "弗摩尔之阿特波玛鲁斯"
+zh-hant = "弗摩爾族之阿特波馬羅斯"
+
+[data]
 elementWeaknesses = ["earthen"]

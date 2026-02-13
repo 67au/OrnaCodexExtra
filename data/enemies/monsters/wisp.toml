@@ -1,4 +1,9 @@
-# Wisp / 幽光 / 幽光
-id = "wisp"
+id = "monsters/wisp"
 
+[name]
+en = "Wisp"
+zh-hans = "幽光"
+zh-hant = "幽光"
+
+[data]
 elementResistances = [ "physical" ]

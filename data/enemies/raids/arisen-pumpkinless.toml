@@ -1,5 +1,10 @@
-# Arisen Pumpkinless / 重生南瓜头 -无头骑士- / 重生南無瓜
-id = "arisen-pumpkinless"
+id = "raids/arisen-pumpkinless"
 
+[name]
+en = "Arisen Pumpkinless"
+zh-hans = "重生南瓜头 -无头骑士-"
+zh-hant = "重生南無瓜"
+
+[data]
 elementWeaknesses = ["holy", "arcane"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified", "def_d", "def_dd", "res_d", "res_dd"]

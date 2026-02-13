@@ -1,5 +1,10 @@
-# Greater Demon / 大惡魔 / 大惡魔
-id = "greater-demon"
+id = "monsters/greater-demon"
 
+[name]
+en = "Greater Demon"
+zh-hans = "大惡魔"
+zh-hant = "大惡魔"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["dark"]

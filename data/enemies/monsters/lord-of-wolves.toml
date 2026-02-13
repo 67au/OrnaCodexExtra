@@ -1,4 +1,9 @@
-# Lord of Wolves (Arisen) / 群狼之主 (重生者) / 群狼之主 (重生者)
-id = "lord-of-wolves"
+id = "monsters/lord-of-wolves"
 
+[name]
+en = "Lord of Wolves (Arisen)"
+zh-hans = "群狼之主 (重生者)"
+zh-hant = "群狼之主 (重生者)"
+
+[data]
 elementResistances = [ "earthen" ]

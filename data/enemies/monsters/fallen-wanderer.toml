@@ -1,3 +1,8 @@
-# Fallen Wanderer / 堕落流浪者 / 墮落遊人
-id = "fallen-wanderer"
+id = "monsters/fallen-wanderer"
 
+[name]
+en = "Fallen Wanderer"
+zh-hans = "堕落流浪者"
+zh-hant = "墮落遊人"
+
+[data]

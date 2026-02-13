@@ -1,5 +1,10 @@
-# Orichalcum Golem / 奥利哈钢魔像 / 奧利哈鋼魔像
-id = "orichalcum-golem"
+id = "monsters/orichalcum-golem"
 
+[name]
+en = "Orichalcum Golem"
+zh-hans = "奥利哈钢魔像"
+zh-hant = "奧利哈鋼魔像"
+
+[data]
 elementWeaknesses = [ "water", "earthen" ]
 elementImmunities = [ "physical" ]

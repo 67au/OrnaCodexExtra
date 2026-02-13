@@ -1,5 +1,10 @@
-# Fafnir / 法夫纳 / 法夫納
-id = "fafnir-66402ab7"
+id = "bosses/fafnir-66402ab7"
 
+[name]
+en = "Fafnir"
+zh-hans = "法夫纳"
+zh-hant = "法夫納"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "dark", "holy" ]

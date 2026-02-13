@@ -1,4 +1,9 @@
-# Kin of Kerberos / 刻耳柏洛斯之子 / 刻耳柏洛斯之子
-id = "kin-of-kerberos-762be157"
+id = "bosses/kin-of-kerberos-762be157"
 
+[name]
+en = "Kin of Kerberos"
+zh-hans = "刻耳柏洛斯之子"
+zh-hant = "刻耳柏洛斯之子"
+
+[data]
 statusImmunities = ["burning", "frozen", "paralyzed", "rot"]

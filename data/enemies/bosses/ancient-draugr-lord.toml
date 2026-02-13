@@ -1,5 +1,10 @@
-# Ancient Draugr Lord / 远古尸鬼领主 / 遠古屍鬼領主
-id = "ancient-draugr-lord"
+id = "bosses/ancient-draugr-lord"
 
+[name]
+en = "Ancient Draugr Lord"
+zh-hans = "远古尸鬼领主"
+zh-hant = "遠古屍鬼領主"
+
+[data]
 elementWeaknesses = ["earthen"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight"]

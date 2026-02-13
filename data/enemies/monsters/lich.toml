@@ -1,4 +1,9 @@
-# Lich / 巫妖 / 巫妖
-id = "lich"
+id = "monsters/lich"
 
+[name]
+en = "Lich"
+zh-hans = "巫妖"
+zh-hant = "巫妖"
+
+[data]
 elementResistances = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]

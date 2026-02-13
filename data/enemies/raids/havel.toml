@@ -1,4 +1,9 @@
-# Havel / Havel / Havel
-id = "havel"
+id = "raids/havel"
 
+[name]
+en = "Havel"
+zh-hans = "Havel"
+zh-hant = "Havel"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

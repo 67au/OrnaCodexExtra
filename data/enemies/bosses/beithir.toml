@@ -1,6 +1,11 @@
-# Beithir / 贝希尔 / 貝西爾
-id = "beithir"
+id = "bosses/beithir"
 
+[name]
+en = "Beithir"
+zh-hans = "贝希尔"
+zh-hant = "貝西爾"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "lightning" ]
 statusImmunities = [ "blight", "petrified" ]

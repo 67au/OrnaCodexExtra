@@ -1,6 +1,11 @@
-# Gorynych, Son of Mountains / 群山之子戈里尼奇 / 群山之子戈里尼奇
-id = "gorynych-son-of-mountains"
+id = "bosses/gorynych-son-of-mountains"
 
+[name]
+en = "Gorynych, Son of Mountains"
+zh-hans = "群山之子戈里尼奇"
+zh-hant = "群山之子戈里尼奇"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementImmunities = [ "dark", "holy" ]
 elementResistances = [ "fire", "lightning" ]

@@ -1,6 +1,11 @@
-# Earth Core / 大地之核 / 大地核心
-id = "earth-core"
+id = "monsters/earth-core"
 
+[name]
+en = "Earth Core"
+zh-hans = "大地之核"
+zh-hant = "大地核心"
+
+[data]
 elementWeaknesses = ["lightning"]
 elementImmunities = ["earthen"]
 statusImmunities = ["poisoned", "stunned"]

@@ -1,5 +1,10 @@
-# Sluagh / 勾魂者 / 勾魂者
-id = "sluagh-a557fcc4"
+id = "bosses/sluagh-a557fcc4"
 
+[name]
+en = "Sluagh"
+zh-hans = "勾魂者"
+zh-hant = "勾魂者"
+
+[data]
 elementImmunities = [ "holy" ]
 elementResistances = [ "dark" ]

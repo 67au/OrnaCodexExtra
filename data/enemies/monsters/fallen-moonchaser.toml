@@ -1,3 +1,8 @@
-# Fallen Moonchaser / 堕落追月者 / 墮落追月者
-id = "fallen-moonchaser"
+id = "monsters/fallen-moonchaser"
 
+[name]
+en = "Fallen Moonchaser"
+zh-hans = "堕落追月者"
+zh-hant = "墮落追月者"
+
+[data]

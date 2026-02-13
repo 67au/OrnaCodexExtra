@@ -1,3 +1,8 @@
-# Great Phoenix Pledge / 强大凤凰誓约者 / 大鳳凰之誓
-id = "great-phoenix-pledge"
+id = "monsters/great-phoenix-pledge"
 
+[name]
+en = "Great Phoenix Pledge"
+zh-hans = "强大凤凰誓约者"
+zh-hant = "大鳳凰之誓"
+
+[data]

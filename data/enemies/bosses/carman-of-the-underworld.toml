@@ -1,3 +1,8 @@
-# Carman of the Underworld / 冥府卡门 / 地獄卡門
-id = "carman-of-the-underworld"
+id = "bosses/carman-of-the-underworld"
 
+[name]
+en = "Carman of the Underworld"
+zh-hans = "冥府卡门"
+zh-hant = "地獄卡門"
+
+[data]

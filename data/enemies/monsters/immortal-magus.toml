@@ -1,5 +1,10 @@
-# Immortal Magus / 不朽术师 / 不朽術師
-id = "immortal-magus"
+id = "monsters/immortal-magus"
 
+[name]
+en = "Immortal Magus"
+zh-hans = "不朽术师"
+zh-hant = "不朽術師"
+
+[data]
 elementResistances = [ "dark", "holy", "dragon", "arcane" ]
 statusImmunities = [ "blind", "asleep", "stunned", "blight" ]

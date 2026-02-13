@@ -1,7 +1,8 @@
-# Beheaded Trickster / 无头诈术师 / 喪首詐術師
-id = "beheaded-trickster"
+id = "monsters/beheaded-trickster"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Beheaded Trickster"
+zh-hans = "无头诈术师"
+zh-hant = "喪首詐術師"
+
+[data]

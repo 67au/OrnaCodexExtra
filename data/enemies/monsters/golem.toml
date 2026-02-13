@@ -1,6 +1,11 @@
-# Golem / 魔像 / 魔像
-id = "golem"
+id = "monsters/golem"
 
+[name]
+en = "Golem"
+zh-hans = "魔像"
+zh-hant = "魔像"
+
+[data]
 elementWeaknesses = [ "water", "fire", "lightning", "dark", "holy" ]
 elementResistances = [ "physical" ]
 statusImmunities = [ "petrified" ]

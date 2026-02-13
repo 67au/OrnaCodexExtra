@@ -1,6 +1,11 @@
-# Arisen King Meliodas / 重生王者梅里欧达斯 / 重生王者梅里歐達斯
-id = "arisen-king-meliodas"
+id = "bosses/arisen-king-meliodas"
 
+[name]
+en = "Arisen King Meliodas"
+zh-hans = "重生王者梅里欧达斯"
+zh-hant = "重生王者梅里歐達斯"
+
+[data]
 elementWeaknesses = ["dark"]
 elementImmunities = ["holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

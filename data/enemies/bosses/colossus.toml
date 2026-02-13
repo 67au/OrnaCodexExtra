@@ -1,6 +1,11 @@
-# Colossus / 巨像 / 巨像
-id = "colossus"
+id = "bosses/colossus"
 
+[name]
+en = "Colossus"
+zh-hans = "巨像"
+zh-hant = "巨像"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "fire", "lightning", "earthen", "dark", "holy", "dragon", "physical" ]
 statusImmunities = [ "asleep", "petrified" ]

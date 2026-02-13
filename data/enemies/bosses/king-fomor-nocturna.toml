@@ -1,4 +1,9 @@
-# King Fomor, Nocturna / 弗摩尔王诺特纳 / 弗摩爾王，諾克圖娜
-id = "king-fomor-nocturna"
+id = "bosses/king-fomor-nocturna"
 
+[name]
+en = "King Fomor, Nocturna"
+zh-hans = "弗摩尔王诺特纳"
+zh-hant = "弗摩爾王，諾克圖娜"
+
+[data]
 elementResistances = [ "fire" ]

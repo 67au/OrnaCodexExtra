@@ -1,6 +1,11 @@
-# Arisen Naggeneen / 重生纳根因 / 重生納根因
-id = "arisen-naggeneen"
+id = "raids/arisen-naggeneen"
 
+[name]
+en = "Arisen Naggeneen"
+zh-hans = "重生纳根因"
+zh-hant = "重生納根因"
+
+[data]
 elementImmunities = [ "water", "lightning", "holy" ]
 elementResistances = [ "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]

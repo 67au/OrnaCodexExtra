@@ -1,5 +1,10 @@
-# Living Armor / 活盔甲 / 會動的盔甲
-id = "living-armor"
+id = "monsters/living-armor"
 
+[name]
+en = "Living Armor"
+zh-hans = "活盔甲"
+zh-hant = "會動的盔甲"
+
+[data]
 elementWeaknesses = [ "water", "fire", "lightning", "earthen", "dark", "holy" ]
 elementResistances = [ "physical" ]

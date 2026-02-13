@@ -1,5 +1,10 @@
-# Frost Mage / 冰霜法师 / 冰霜法師
-id = "frost-mage"
+id = "monsters/frost-mage"
 
+[name]
+en = "Frost Mage"
+zh-hans = "冰霜法师"
+zh-hant = "冰霜法師"
+
+[data]
 elementWeaknesses = ["lightning"]
 elementImmunities = ["water"]

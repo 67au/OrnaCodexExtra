@@ -1,5 +1,10 @@
-# Tiamat / 提亚马特 / 提亞馬特
-id = "tiamat"
+id = "bosses/tiamat"
 
+[name]
+en = "Tiamat"
+zh-hans = "提亚马特"
+zh-hant = "提亞馬特"
+
+[data]
 elementWeaknesses = [ "dragon" ]
 elementResistances = [ "fire", "dark", "holy" ]

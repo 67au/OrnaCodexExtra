@@ -1,5 +1,10 @@
-# Dangy / Dangy / Dangy
-id = "dangy"
+id = "raids/dangy"
 
+[name]
+en = "Dangy"
+zh-hans = "Dangy"
+zh-hant = "Dangy"
+
+[data]
 elementWeaknesses = ["dark"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

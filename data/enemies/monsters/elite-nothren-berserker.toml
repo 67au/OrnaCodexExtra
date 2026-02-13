@@ -1,5 +1,10 @@
-# Elite Nothren Berserker / 精英北族狂战士 / 高端北族狂戰士
-id = "elite-nothren-berserker"
+id = "monsters/elite-nothren-berserker"
 
+[name]
+en = "Elite Nothren Berserker"
+zh-hans = "精英北族狂战士"
+zh-hant = "高端北族狂戰士"
+
+[data]
 elementResistances = [ "water" ]
 statusImmunities = [ "frozen" ]

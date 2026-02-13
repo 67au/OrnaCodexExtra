@@ -1,6 +1,11 @@
-# Nidhogg / 尼德霍格 / 尼德霍格
-id = "nidhogg"
+id = "monsters/nidhogg"
 
+[name]
+en = "Nidhogg"
+zh-hans = "尼德霍格"
+zh-hant = "尼德霍格"
+
+[data]
 elementWeaknesses = ["earthen"]
 elementImmunities = ["fire", "lightning", "dragon"]
 statusImmunities = ["frozen", "paralyzed", "asleep"]

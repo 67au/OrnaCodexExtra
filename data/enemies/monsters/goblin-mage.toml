@@ -1,3 +1,8 @@
-# Goblin Mage / 哥布林法师 / 哥布林法師
-id = "goblin-mage"
+id = "monsters/goblin-mage"
 
+[name]
+en = "Goblin Mage"
+zh-hans = "哥布林法师"
+zh-hant = "哥布林法師"
+
+[data]

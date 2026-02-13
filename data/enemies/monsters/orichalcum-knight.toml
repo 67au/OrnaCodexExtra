@@ -1,4 +1,9 @@
-# Orichalcum Knight / 奥利哈钢骑士 / 奧利哈鋼騎士
-id = "orichalcum-knight"
+id = "monsters/orichalcum-knight"
 
+[name]
+en = "Orichalcum Knight"
+zh-hans = "奥利哈钢骑士"
+zh-hant = "奧利哈鋼騎士"
+
+[data]
 elementWeaknesses = [ "earthen" ]

@@ -1,6 +1,11 @@
-# Balor Flame / 巴罗尔火焰 / 巴羅爾火焰
-id = "balor-flame"
+id = "monsters/balor-flame"
 
+[name]
+en = "Balor Flame"
+zh-hans = "巴罗尔火焰"
+zh-hant = "巴羅爾火焰"
+
+[data]
 elementWeaknesses = [ "water", "earthen", "arcane" ]
 elementImmunities = [ "fire", "lightning", "dark", "holy", "dragon" ]
 elementResistances = [ "physical" ]

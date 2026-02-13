@@ -1,3 +1,8 @@
-# Arisen Cursed Sequana of Fomoria / 弗摩尔之重生诅咒的塞夸纳 / 重生受詛咒的弗摩爾族之塞夸納
-id = "arisen-cursed-sequana-of-fomoria"
+id = "bosses/arisen-cursed-sequana-of-fomoria"
 
+[name]
+en = "Arisen Cursed Sequana of Fomoria"
+zh-hans = "弗摩尔之重生诅咒的塞夸纳"
+zh-hant = "重生受詛咒的弗摩爾族之塞夸納"
+
+[data]

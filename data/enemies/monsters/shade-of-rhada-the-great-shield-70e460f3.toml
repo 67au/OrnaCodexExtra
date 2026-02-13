@@ -1,4 +1,9 @@
-# Shade of Rhada, the Great Shield (Arisen) / 巨盾拉达之冥影 (重生者) / 大盾拉達之影 (重生者)
-id = "shade-of-rhada-the-great-shield-70e460f3"
+id = "monsters/shade-of-rhada-the-great-shield-70e460f3"
 
+[name]
+en = "Shade of Rhada, the Great Shield (Arisen)"
+zh-hans = "巨盾拉达之冥影 (重生者)"
+zh-hant = "大盾拉達之影 (重生者)"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "rot", "blight"]

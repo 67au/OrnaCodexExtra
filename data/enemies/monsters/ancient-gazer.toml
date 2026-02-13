@@ -1,5 +1,10 @@
-# Ancient Gazer / 远古凝视者 / 遠古凝視者
-id = "ancient-gazer"
+id = "monsters/ancient-gazer"
 
+[name]
+en = "Ancient Gazer"
+zh-hans = "远古凝视者"
+zh-hant = "遠古凝視者"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementResistances = [ "physical" ]

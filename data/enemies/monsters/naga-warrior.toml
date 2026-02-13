@@ -1,3 +1,8 @@
-# Naga Warrior / 娜迦战士 / 那伽戰士
-id = "naga-warrior"
+id = "monsters/naga-warrior"
 
+[name]
+en = "Naga Warrior"
+zh-hans = "娜迦战士"
+zh-hant = "那伽戰士"
+
+[data]

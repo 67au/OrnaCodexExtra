@@ -1,3 +1,8 @@
-# Fallen Zwei-Fencer / 堕落重武悍将 / 墮落重武悍將
-id = "fallen-zwei-fencer"
+id = "monsters/fallen-zwei-fencer"
 
+[name]
+en = "Fallen Zwei-Fencer"
+zh-hans = "堕落重武悍将"
+zh-hant = "墮落重武悍將"
+
+[data]

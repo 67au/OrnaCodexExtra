@@ -1,4 +1,9 @@
-# Turul / 图鲁 / 圖魯
-id = "turul"
+id = "monsters/turul"
 
+[name]
+en = "Turul"
+zh-hans = "图鲁"
+zh-hant = "圖魯"
+
+[data]
 elementImmunities = ["lightning"]

@@ -1,6 +1,11 @@
-# Fallen Gilgamesh / 堕落的吉尔伽美什 / 墮落的吉爾伽美什
-id = "fallen-gilgamesh"
+id = "bosses/fallen-gilgamesh"
 
+[name]
+en = "Fallen Gilgamesh"
+zh-hans = "堕落的吉尔伽美什"
+zh-hant = "墮落的吉爾伽美什"
+
+[data]
 elementImmunities = [ "arcane" ]
 elementResistances = [ "dragon" ]
 statusImmunities = [ "frozen", "paralyzed", "rot", "blind", "asleep" ]

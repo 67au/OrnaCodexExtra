@@ -1,4 +1,9 @@
-# Polar Bear / 北极熊 / 北極熊
-id = "polar-bear"
+id = "monsters/polar-bear"
 
+[name]
+en = "Polar Bear"
+zh-hans = "北极熊"
+zh-hant = "北極熊"
+
+[data]
 elementWeaknesses = [ "fire" ]

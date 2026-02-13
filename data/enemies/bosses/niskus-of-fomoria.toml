@@ -1,5 +1,10 @@
-# Niskus of Fomoria / 弗摩尔之尼斯库斯 / 弗摩爾族之尼斯庫斯
-id = "niskus-of-fomoria"
+id = "bosses/niskus-of-fomoria"
 
+[name]
+en = "Niskus of Fomoria"
+zh-hans = "弗摩尔之尼斯库斯"
+zh-hant = "弗摩爾族之尼斯庫斯"
+
+[data]
 elementImmunities = [ "earthen", "holy" ]
 elementResistances = [ "dark" ]

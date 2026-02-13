@@ -1,4 +1,9 @@
-# Demon Prince / 恶魔王子 / 惡魔王子
-id = "demon-prince"
+id = "bosses/demon-prince"
 
+[name]
+en = "Demon Prince"
+zh-hans = "恶魔王子"
+zh-hant = "惡魔王子"
+
+[data]
 elementWeaknesses = ["holy"]

@@ -1,5 +1,10 @@
-# Skoll / 斯刻尔 / 斯科爾
-id = "skoll"
+id = "monsters/skoll"
 
+[name]
+en = "Skoll"
+zh-hans = "斯刻尔"
+zh-hant = "斯科爾"
+
+[data]
 elementImmunities = [ "dark" ]
 elementResistances = [ "holy" ]

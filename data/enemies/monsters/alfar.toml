@@ -1,5 +1,11 @@
-# Alfar / 古精灵 / 古精靈
-id = "alfar"
+id = "monsters/alfar"
+
+[name]
+en = "Alfar"
+zh-hans = "古精灵"
+zh-hant = "古精靈"
+
+[data]
 elementWeaknesses = ["earthen"]
 elementImmunities = ["dark", "holy"]
 elementResistances = ["water"]

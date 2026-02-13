@@ -1,4 +1,9 @@
-# Warg / 座狼 / 座狼
-id = "warg"
+id = "monsters/warg"
 
+[name]
+en = "Warg"
+zh-hans = "座狼"
+zh-hant = "座狼"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "blind", "asleep", "blight"]

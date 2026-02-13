@@ -1,6 +1,11 @@
-# Gheist / 鬼魂 / 鬼魂
-id = "gheist"
+id = "monsters/gheist"
 
+[name]
+en = "Gheist"
+zh-hans = "鬼魂"
+zh-hant = "鬼魂"
+
+[data]
 elementWeaknesses = ["holy"]
 elementImmunities = ["dark", "physical"]
 statusImmunities = ["asleep"]

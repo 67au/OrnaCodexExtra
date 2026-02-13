@@ -1,7 +1,8 @@
-# Titan Mnemosyne / 泰坦谟涅摩叙涅 / 泰坦寧默辛妮
-id = "titan-mnemosyne"
+id = "bosses/titan-mnemosyne"
 
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[name]
+en = "Titan Mnemosyne"
+zh-hans = "泰坦谟涅摩叙涅"
+zh-hant = "泰坦寧默辛妮"
+
+[data]

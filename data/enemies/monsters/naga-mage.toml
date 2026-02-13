@@ -1,3 +1,8 @@
-# Naga Mage / 娜迦法师 / 那伽法師
-id = "naga-mage"
+id = "monsters/naga-mage"
 
+[name]
+en = "Naga Mage"
+zh-hans = "娜迦法师"
+zh-hant = "那伽法師"
+
+[data]

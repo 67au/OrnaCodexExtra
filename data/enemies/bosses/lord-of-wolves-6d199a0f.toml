@@ -1,3 +1,8 @@
-# Lord of Wolves / 群狼之主 / 群狼之主
-id = "lord-of-wolves-6d199a0f"
+id = "bosses/lord-of-wolves-6d199a0f"
 
+[name]
+en = "Lord of Wolves"
+zh-hans = "群狼之主"
+zh-hant = "群狼之主"
+
+[data]

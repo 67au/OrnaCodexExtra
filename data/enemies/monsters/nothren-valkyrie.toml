@@ -1,5 +1,10 @@
-# Nothren Valkyrie / 北族女武神 / 北族女武神
-id = "nothren-valkyrie"
+id = "monsters/nothren-valkyrie"
 
+[name]
+en = "Nothren Valkyrie"
+zh-hans = "北族女武神"
+zh-hant = "北族女武神"
+
+[data]
 elementResistances = [ "water" ]
 statusImmunities = [ "frozen" ]

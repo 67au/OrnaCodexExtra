@@ -1,4 +1,9 @@
-# Apollyon's Pupil / 亚玻伦的弟子 / 亞坡倫的弟子
-id = "apollyons-pupil"
+id = "monsters/apollyons-pupil"
 
+[name]
+en = "Apollyon's Pupil"
+zh-hans = "亚玻伦的弟子"
+zh-hant = "亞坡倫的弟子"
+
+[data]
 elementImmunities = ["earthen"]

@@ -1,3 +1,8 @@
-# Snake / 蛇 / 蛇
-id = "snake"
+id = "monsters/snake"
 
+[name]
+en = "Snake"
+zh-hans = "蛇"
+zh-hant = "蛇"
+
+[data]

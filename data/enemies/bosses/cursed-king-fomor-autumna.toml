@@ -1,6 +1,11 @@
-# Cursed King Fomor, Autumna / 诅咒的弗摩尔王奥图娜 / 受詛咒的弗摩爾王，阿圖娜
-id = "cursed-king-fomor-autumna"
+id = "bosses/cursed-king-fomor-autumna"
 
+[name]
+en = "Cursed King Fomor, Autumna"
+zh-hans = "诅咒的弗摩尔王奥图娜"
+zh-hant = "受詛咒的弗摩爾王，阿圖娜"
+
+[data]
 elementWeaknesses = [ "holy" ]
 elementImmunities = [ "lightning", "earthen" ]
 elementResistances = [ "fire" ]

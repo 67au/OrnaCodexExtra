@@ -1,4 +1,9 @@
-# Lesser Sluagh / 低阶勾魂者 / 低階勾魂者
-id = "lesser-sluagh"
+id = "monsters/lesser-sluagh"
 
+[name]
+en = "Lesser Sluagh"
+zh-hans = "低阶勾魂者"
+zh-hant = "低階勾魂者"
+
+[data]
 elementWeaknesses = ["holy"]

@@ -1,5 +1,10 @@
-# Cavelord / 岩窟王 / 巖窟王
-id = "cavelord"
+id = "bosses/cavelord"
 
+[name]
+en = "Cavelord"
+zh-hans = "岩窟王"
+zh-hant = "巖窟王"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "blind", "asleep", "stunned", "blight" ]

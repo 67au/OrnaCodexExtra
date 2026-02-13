@@ -1,5 +1,10 @@
-# Frost Troll / 寒霜巨魔 / 寒霜巨魔
-id = "frost-troll"
+id = "monsters/frost-troll"
 
+[name]
+en = "Frost Troll"
+zh-hans = "寒霜巨魔"
+zh-hant = "寒霜巨魔"
+
+[data]
 elementWeaknesses = ["fire"]
 elementImmunities = ["water"]

@@ -1,6 +1,10 @@
-# Oillipheist / 奥利菲斯特 / 奧利菲斯特
-id = "oillipheist"
+id = "bosses/oillipheist"
 
+[name]
+en = "Oillipheist"
+zh-hans = "奥利菲斯特"
+zh-hant = "奧利菲斯特"
+
+[data]
 elementImmunities = [ "water", "fire", "lightning", "earthen" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified" ]
-

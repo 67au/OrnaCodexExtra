@@ -1,5 +1,10 @@
-# Phaethon / 法厄同 / 法厄同
-id = "phaethon"
+id = "monsters/phaethon"
 
+[name]
+en = "Phaethon"
+zh-hans = "法厄同"
+zh-hant = "法厄同"
+
+[data]
 elementWeaknesses = ["dark"]
 elementImmunities = ["holy"]

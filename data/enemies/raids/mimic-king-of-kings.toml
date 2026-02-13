@@ -1,4 +1,9 @@
-# Mimic King of Kings / 箱王之王 / 箱王之王
-id = "mimic-king-of-kings"
+id = "raids/mimic-king-of-kings"
 
+[name]
+en = "Mimic King of Kings"
+zh-hans = "箱王之王"
+zh-hant = "箱王之王"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

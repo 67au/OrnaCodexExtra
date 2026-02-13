@@ -1,4 +1,9 @@
-# Arisen Balin / 重生巴林 / 重生巴林
-id = "arisen-balin"
+id = "raids/arisen-balin"
 
+[name]
+en = "Arisen Balin"
+zh-hans = "重生巴林"
+zh-hant = "重生巴林"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

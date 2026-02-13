@@ -1,6 +1,11 @@
-# Dark Pegasus / 暗黑天马 / 暗黑天馬
-id = "dark-pegasus"
+id = "monsters/dark-pegasus"
 
+[name]
+en = "Dark Pegasus"
+zh-hans = "暗黑天马"
+zh-hant = "暗黑天馬"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementImmunities = [ "water", "dark", "holy" ]
 statusImmunities = [ "poisoned", "bleeding", "frozen", "paralyzed", "blind", "asleep" ]

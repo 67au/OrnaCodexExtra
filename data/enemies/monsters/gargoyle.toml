@@ -1,6 +1,11 @@
-# Gargoyle / 石像鬼 / 石像魔
-id = "gargoyle"
+id = "monsters/gargoyle"
 
+[name]
+en = "Gargoyle"
+zh-hans = "石像鬼"
+zh-hant = "石像魔"
+
+[data]
 elementWeaknesses = [ "water", "earthen" ]
 elementImmunities = [ "fire" ]
 elementResistances = [ "lightning", "dark", "holy" ]

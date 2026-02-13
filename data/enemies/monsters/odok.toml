@@ -1,5 +1,10 @@
-# Odok / 亡骸 / 亡骸
-id = "odok"
+id = "monsters/odok"
 
+[name]
+en = "Odok"
+zh-hans = "亡骸"
+zh-hant = "亡骸"
+
+[data]
 elementWeaknesses = ["holy"]
 statusImmunities = ["bleeding"]

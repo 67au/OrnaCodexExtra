@@ -1,3 +1,8 @@
-# Third Stable Keeper / 第三随从 / 第三隨從
-id = "third-stable-keeper"
+id = "monsters/third-stable-keeper"
 
+[name]
+en = "Third Stable Keeper"
+zh-hans = "第三随从"
+zh-hant = "第三隨從"
+
+[data]

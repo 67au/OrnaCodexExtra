@@ -1,4 +1,9 @@
-# Drake / 龙兽 / 龍獸
-id = "drake"
+id = "monsters/drake"
 
+[name]
+en = "Drake"
+zh-hans = "龙兽"
+zh-hant = "龍獸"
+
+[data]
 elementWeaknesses = ["dragon"]

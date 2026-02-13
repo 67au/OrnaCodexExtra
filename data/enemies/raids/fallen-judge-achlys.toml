@@ -1,5 +1,10 @@
-# Fallen Judge Achlys / 堕落判官艾柯吕斯 / 墮落判官艾柯呂斯
-id = "fallen-judge-achlys"
+id = "raids/fallen-judge-achlys"
 
+[name]
+en = "Fallen Judge Achlys"
+zh-hans = "堕落判官艾柯吕斯"
+zh-hant = "墮落判官艾柯呂斯"
+
+[data]
 elementImmunities = ["dark", "holy"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

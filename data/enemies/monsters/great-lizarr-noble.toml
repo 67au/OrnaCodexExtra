@@ -1,5 +1,10 @@
-# Great Lizarr Noble / 强大的蜥蜴人贵族 / 強大的蜥蜴人貴族
-id = "great-lizarr-noble"
+id = "monsters/great-lizarr-noble"
 
+[name]
+en = "Great Lizarr Noble"
+zh-hans = "强大的蜥蜴人贵族"
+zh-hant = "強大的蜥蜴人貴族"
+
+[data]
 elementWeaknesses = ["lightning"]
 elementImmunities = ["water", "fire"]

@@ -1,4 +1,9 @@
-# Starlord / 星爵 / 星爵
-id = "starlord"
+id = "raids/starlord"
 
+[name]
+en = "Starlord"
+zh-hans = "星爵"
+zh-hant = "星爵"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

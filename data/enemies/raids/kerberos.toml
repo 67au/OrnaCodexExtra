@@ -1,5 +1,10 @@
-# Kerberos / 刻耳柏洛斯 / 刻耳柏洛斯
-id = "kerberos"
+id = "raids/kerberos"
 
+[name]
+en = "Kerberos"
+zh-hans = "刻耳柏洛斯"
+zh-hant = "刻耳柏洛斯"
+
+[data]
 elementImmunities = ["dark", "holy", "dragon"]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight", "petrified"]

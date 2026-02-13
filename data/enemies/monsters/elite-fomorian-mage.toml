@@ -1,4 +1,9 @@
-# Elite Fomorian Mage / 精英弗摩尔族法师 / 高端弗摩爾族法師
-id = "elite-fomorian-mage"
+id = "monsters/elite-fomorian-mage"
 
+[name]
+en = "Elite Fomorian Mage"
+zh-hans = "精英弗摩尔族法师"
+zh-hant = "高端弗摩爾族法師"
+
+[data]
 elementWeaknesses = [ "earthen" ]

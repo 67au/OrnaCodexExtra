@@ -1,6 +1,11 @@
-# Clota of Fomoria / 弗摩尔之克洛塔 / 弗摩爾族之克洛塔
-id = "clota-of-fomoria"
+id = "bosses/clota-of-fomoria"
 
+[name]
+en = "Clota of Fomoria"
+zh-hans = "弗摩尔之克洛塔"
+zh-hant = "弗摩爾族之克洛塔"
+
+[data]
 elementWeaknesses = [ "fire", "earthen" ]
 elementImmunities = [ "water" ]
 elementResistances = [ "lightning" ]

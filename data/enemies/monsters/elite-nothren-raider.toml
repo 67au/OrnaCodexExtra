@@ -1,5 +1,10 @@
-# Elite Nothren Raider / 精英北族强袭者 / 高端北族強襲者
-id = "elite-nothren-raider"
+id = "monsters/elite-nothren-raider"
 
+[name]
+en = "Elite Nothren Raider"
+zh-hans = "精英北族强袭者"
+zh-hant = "高端北族強襲者"
+
+[data]
 elementResistances = [ "water" ]
 statusImmunities = [ "frozen" ]

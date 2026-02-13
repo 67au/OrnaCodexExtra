@@ -1,6 +1,11 @@
-# Infernal Bear / 炼狱熊 / 煉獄熊
-id = "infernal-bear"
+id = "monsters/infernal-bear"
 
+[name]
+en = "Infernal Bear"
+zh-hans = "炼狱熊"
+zh-hant = "煉獄熊"
+
+[data]
 elementWeaknesses = [ "water" ]
 elementResistances = [ "fire" ]
 statusImmunities = [ "burning" ]

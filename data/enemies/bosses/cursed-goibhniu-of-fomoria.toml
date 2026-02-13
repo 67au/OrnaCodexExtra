@@ -1,6 +1,11 @@
-# Cursed Goibhniu of Fomoria / 弗摩尔之诅咒的戈夫努 / 受詛咒的弗摩爾族之戈夫紐
-id = "cursed-goibhniu-of-fomoria"
+id = "bosses/cursed-goibhniu-of-fomoria"
 
+[name]
+en = "Cursed Goibhniu of Fomoria"
+zh-hans = "弗摩尔之诅咒的戈夫努"
+zh-hant = "受詛咒的弗摩爾族之戈夫紐"
+
+[data]
 elementWeaknesses = [ "earthen" ]
 elementImmunities = [ "lightning", "dark" ]
 elementResistances = [ "fire" ]

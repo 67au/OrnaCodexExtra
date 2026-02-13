@@ -1,5 +1,10 @@
-# Elite Nothren Warlock / 精英北族术士 / 高端北族術士
-id = "elite-nothren-warlock"
+id = "monsters/elite-nothren-warlock"
 
+[name]
+en = "Elite Nothren Warlock"
+zh-hans = "精英北族术士"
+zh-hant = "高端北族術士"
+
+[data]
 elementResistances = [ "water" ]
 statusImmunities = [ "frozen" ]

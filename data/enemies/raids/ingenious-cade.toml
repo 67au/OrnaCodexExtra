@@ -1,4 +1,9 @@
-# Ingenious Cade / 巧手卡德 / 巧手卡德
-id = "ingenious-cade"
+id = "raids/ingenious-cade"
 
+[name]
+en = "Ingenious Cade"
+zh-hans = "巧手卡德"
+zh-hant = "巧手卡德"
+
+[data]
 statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "stunned", "blight"]

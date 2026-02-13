@@ -1,3 +1,8 @@
-# Bloodwarg / 嗜血座狼 / 血腥座狼
-id = "bloodwarg"
+id = "monsters/bloodwarg"
 
+[name]
+en = "Bloodwarg"
+zh-hans = "嗜血座狼"
+zh-hant = "血腥座狼"
+
+[data]

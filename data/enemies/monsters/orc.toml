@@ -1,3 +1,8 @@
-# Orc / 半兽人 / 半獸人
-id = "orc"
+id = "monsters/orc"
 
+[name]
+en = "Orc"
+zh-hans = "半兽人"
+zh-hant = "半獸人"
+
+[data]

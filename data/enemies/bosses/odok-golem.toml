@@ -1,5 +1,10 @@
-# Odok Golem / 亡骸魔像 / 亡骸魔像
-id = "odok-golem"
+id = "bosses/odok-golem"
 
+[name]
+en = "Odok Golem"
+zh-hans = "亡骸魔像"
+zh-hant = "亡骸魔像"
+
+[data]
 elementResistances = [ "earthen", "dark", "arcane" ]
 statusImmunities = [ "poisoned", "bleeding", "burning", "asleep", "blight" ]

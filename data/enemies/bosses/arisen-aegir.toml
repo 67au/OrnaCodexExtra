@@ -1,5 +1,10 @@
-# Arisen Aegir / 重生埃吉尔 / 重生埃吉爾
-id = "arisen-aegir"
+id = "bosses/arisen-aegir"
 
+[name]
+en = "Arisen Aegir"
+zh-hans = "重生埃吉尔"
+zh-hant = "重生埃吉爾"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "fire", "earthen" ]

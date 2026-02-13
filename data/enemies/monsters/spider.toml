@@ -1,3 +1,8 @@
-# Spider / 蜘蛛 / 蜘蛛
-id = "spider"
+id = "monsters/spider"
 
+[name]
+en = "Spider"
+zh-hans = "蜘蛛"
+zh-hant = "蜘蛛"
+
+[data]

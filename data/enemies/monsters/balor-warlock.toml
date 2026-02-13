@@ -1,4 +1,9 @@
-# Balor Warlock / 巴罗尔术士 / 巴羅爾術士
-id = "balor-warlock"
+id = "monsters/balor-warlock"
 
+[name]
+en = "Balor Warlock"
+zh-hans = "巴罗尔术士"
+zh-hant = "巴羅爾術士"
+
+[data]
 elementWeaknesses = ["arcane"]

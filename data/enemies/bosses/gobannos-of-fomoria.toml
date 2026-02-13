@@ -1,5 +1,10 @@
-# Gobannos of Fomoria / 弗摩尔之戈班诺斯 / 弗摩爾族之戈班諾斯
-id = "gobannos-of-fomoria"
+id = "bosses/gobannos-of-fomoria"
 
+[name]
+en = "Gobannos of Fomoria"
+zh-hans = "弗摩尔之戈班诺斯"
+zh-hant = "弗摩爾族之戈班諾斯"
+
+[data]
 elementWeaknesses = ["dark"]
 elementImmunities = ["holy"]

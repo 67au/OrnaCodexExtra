@@ -1,6 +1,11 @@
-# Ancient Mimic / 远古宝箱怪 / 遠古寶箱怪
-id = "ancient-mimic"
+id = "monsters/ancient-mimic"
 
+[name]
+en = "Ancient Mimic"
+zh-hans = "远古宝箱怪"
+zh-hant = "遠古寶箱怪"
+
+[data]
 elementWeaknesses = [ "arcane" ]
 elementImmunities = [ "water", "fire", "lightning", "earthen", "physical" ]
 elementResistances = [ "dark", "holy", "dragon" ]

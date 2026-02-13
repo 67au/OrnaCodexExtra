@@ -1,6 +1,11 @@
-# Finfolk / 芬菲克 / 芬菲克
-id = "finfolk"
+id = "bosses/finfolk"
 
+[name]
+en = "Finfolk"
+zh-hans = "芬菲克"
+zh-hant = "芬菲克"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementImmunities = [ "water" ]
 elementResistances = [ "fire" ]

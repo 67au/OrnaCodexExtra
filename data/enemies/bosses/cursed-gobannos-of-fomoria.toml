@@ -1,5 +1,10 @@
-# Cursed Gobannos of Fomoria / 弗摩尔之诅咒的戈班诺斯 / 受詛咒的弗摩爾族之戈班諾斯
-id = "cursed-gobannos-of-fomoria"
+id = "bosses/cursed-gobannos-of-fomoria"
 
+[name]
+en = "Cursed Gobannos of Fomoria"
+zh-hans = "弗摩尔之诅咒的戈班诺斯"
+zh-hant = "受詛咒的弗摩爾族之戈班諾斯"
+
+[data]
 elementWeaknesses = [ "lightning" ]
 elementResistances = [ "water", "holy" ]
