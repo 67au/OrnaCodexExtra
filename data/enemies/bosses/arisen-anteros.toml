@@ -4,3 +4,6 @@ id = "bosses/arisen-anteros"
 en = "Arisen Anteros"
 zh-hans = "重生安忒洛斯"
 zh-hant = "重生安特羅斯"
+
+[data]
+elementResistances = [ "water", "fire", "lightning", "earthen" ]
