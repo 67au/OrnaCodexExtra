@@ -4,3 +4,5 @@ id = "monsters/giant-tortoise"
 en = "Giant Tortoise"
 zh-hans = "巨型陆龟"
 zh-hant = "巨型陸龜"
+
+[data]

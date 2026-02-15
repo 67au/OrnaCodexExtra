@@ -4,3 +4,5 @@ id = "monsters/giant-panda"
 en = "Giant Panda"
 zh-hans = "大熊猫"
 zh-hant = "巨型熊貓"
+
+[data]

@@ -4,3 +4,5 @@ id = "monsters/mountain-gorilla"
 en = "Mountain Gorilla"
 zh-hans = "山地大猩猩"
 zh-hant = "山地猩猩"
+
+[data]
