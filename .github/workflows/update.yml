@@ -40,7 +40,7 @@ jobs:
           python-version: 3.13
       - run: uv sync --directory ./crawler
       - name: Update Repo
-        run: uv run --directory ./crawler main.py update_extra --extra ../data
+        run: uv run --directory ./crawler main.py update_extra --input 'output' --output '../data'
       - name: Push Changes
         id: push
         shell: bash
