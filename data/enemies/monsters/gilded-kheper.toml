@@ -1,0 +1,12 @@
+id = "monsters/gilded-kheper"
+
+[name]
+en = "Gilded Kheper"
+zh-hans = "镀金圣甲虫"
+zh-hant = "Gilded Kheper"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "raids/arisen-thronemaker-osiris"
+
+[name]
+en = "Arisen Thronemaker Osiris"
+zh-hans = "重生造王者奥西里斯"
+zh-hant = "Arisen Thronemaker Osiris"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

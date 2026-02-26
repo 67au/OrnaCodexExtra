@@ -1,0 +1,12 @@
+id = "bosses/shade-of-sekhmet"
+
+[name]
+en = "Shade of Sekhmet"
+zh-hans = "塞赫麦特之影"
+zh-hant = "Shade of Sekhmet"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
