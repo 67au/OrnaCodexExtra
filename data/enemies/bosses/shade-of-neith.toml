@@ -1,0 +1,12 @@
+id = "bosses/shade-of-neith"
+
+[name]
+en = "Shade of Neith"
+zh-hans = "涅伊特之影"
+zh-hant = "Shade of Neith"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

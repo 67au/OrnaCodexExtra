@@ -1,0 +1,12 @@
+id = "monsters/apshait"
+
+[name]
+en = "Apshait"
+zh-hans = "阿普什艾特"
+zh-hant = "Apshait"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

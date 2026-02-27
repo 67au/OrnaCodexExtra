@@ -1,0 +1,12 @@
+id = "monsters/ramesses-of-the-east"
+
+[name]
+en = "Ramesses of the East"
+zh-hans = "东方的拉美西斯"
+zh-hant = "Ramesses of the East"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

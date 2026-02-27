@@ -1,0 +1,12 @@
+id = "bosses/shade-of-ptah"
+
+[name]
+en = "Shade of Ptah"
+zh-hans = "普塔之影"
+zh-hant = "Shade of Ptah"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

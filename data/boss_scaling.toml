@@ -2,6 +2,10 @@
 aaru-armor = 1
 # Aaru Boots / 雅卢长靴 / 雅盧長靴
 aaru-boots = 1
+# Aaru Circlet / 雅卢头饰 / Aaru Circlet
+aaru-circlet = 0
+# Aaru Dagger / 雅卢匕首 / Aaru Dagger
+aaru-dagger = 0
 # Aaru Garb / 雅卢皮甲 / 雅盧皮甲
 aaru-garb = 1
 # Aaru Headwrap / 雅卢头饰 / 雅盧頭飾
@@ -14,6 +18,8 @@ aaru-hood = 1
 aaru-leggings = 1
 # Aaru Robe / 雅卢法袍 / 雅盧法袍
 aaru-robe = 1
+# Aaru Shield / 雅卢之盾 / Aaru Shield
+aaru-shield = 0
 # Aaru Skirt / 雅卢裙装 / 雅盧裙
 aaru-skirt = 1
 # Abyssal Armor / 深渊盔甲 / 深淵盔甲
@@ -186,8 +192,12 @@ arisen-aaru-hood = 1
 arisen-aaru-leggings = 1
 # Arisen Aaru Robe / 重生雅卢法袍 / 重生雅盧法袍
 arisen-aaru-robe = 1
+# Arisen Aaru Sandals / 重生雅卢凉鞋 / Arisen Aaru Sandals
+arisen-aaru-sandals = 0
 # Arisen Aaru Skirt / 重生雅卢裙装 / 重生雅盧裙子
 arisen-aaru-skirt = 1
+# Arisen Aaru Tunic / 重生雅卢束腰外衣 / Arisen Aaru Tunic
+arisen-aaru-tunic = 0
 # Arisen Ankh / 重生生命之符 / 重生生命之符
 arisen-ankh = 1
 # Arisen Armor / 重生盔甲 / 重生盔甲
@@ -1734,6 +1744,8 @@ earthen-arrows = -1
 earthen-pike = -1
 # Earthen Sceptre / 大地权杖 / 大地權杖
 earthen-sceptre = -1
+# Eastern Mask / 东方面具 / Eastern Mask
+eastern-mask = 0
 # Eastern Regalia / 东方王权象征 / 東方王權
 eastern-regalia = 1
 # Ebon Candy Cane / 黑之拐杖糖 / 黑之拐杖糖
@@ -2114,6 +2126,8 @@ fey-surtrs-sword = 1
 fey-yeti-coat = 1
 # Fey Yeti Horns / 变异雪怪角 / 變異雪怪角
 fey-yeti-horns = 1
+# Final Decree / 最终敕令 / Final Decree
+final-decree = 0
 # Final Horseman's Armor / 最终骑士盔甲 / 最終騎士的盔甲
 final-horsemans-armor = 1
 # Final Horseman's Boots / 最终骑士长靴 / 最終騎士的長靴
@@ -2484,6 +2498,8 @@ heavy-arrows = -1
 heavy-boots = -1
 # Heimdall's Shield / 海姆达尔之盾 / 海姆達爾之盾
 heimdalls-shield = 1
+# Heka / 赫卡 / Heka
+heka = 0
 # Helhest / 海斯特 / 海斯特
 helhest = 1
 # Hellfire Armor / 狱炎盔甲 / 獄炎盔甲
@@ -3006,6 +3022,8 @@ naggeneens-hat = 1
 naggeneens-song = 1
 # Needles / 飞针 / 飛針
 needles = -1
+# Nekhakha / 连枷权杖 / Nekhakha
+nekhakha = 0
 # Nekromancer's Staff / 死灵法师之杖 / 死靈法師之杖
 nekromancers-staff = -1
 # Neman Cuirass / 妮潘胸甲 / 妮潘胸甲

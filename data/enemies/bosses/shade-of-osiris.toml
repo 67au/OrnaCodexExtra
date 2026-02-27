@@ -1,0 +1,12 @@
+id = "bosses/shade-of-osiris"
+
+[name]
+en = "Shade of Osiris"
+zh-hans = "奥西里斯之影"
+zh-hant = "Shade of Osiris"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
