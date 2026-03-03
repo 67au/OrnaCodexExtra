@@ -1,0 +1,12 @@
+id = "monsters/alfar-mage-36d8dea2"
+
+[name]
+en = "Alfar Mage (Arisen)"
+zh-hans = "古精灵法师 (重生者)"
+zh-hant = "古精靈法師 (重生者)"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
