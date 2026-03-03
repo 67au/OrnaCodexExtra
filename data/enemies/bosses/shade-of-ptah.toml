@@ -5,8 +5,5 @@ en = "Shade of Ptah"
 zh-hans = "普塔之影"
 zh-hant = "普塔之影"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+

@@ -5,8 +5,4 @@ en = "Kheper"
 zh-hans = "圣甲虫"
 zh-hant = "Kheper"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]

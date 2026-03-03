@@ -5,8 +5,4 @@ en = "Shade of Neith"
 zh-hans = "涅伊特之影"
 zh-hant = "妮絲之影"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]

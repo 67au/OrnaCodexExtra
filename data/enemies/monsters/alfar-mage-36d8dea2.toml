@@ -5,8 +5,8 @@ en = "Alfar Mage (Arisen)"
 zh-hans = "古精灵法师 (重生者)"
 zh-hant = "古精靈法師 (重生者)"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+elementWeaknesses = ["earthen"]
+elementImmunities = ["dark", "holy"]
+elementResistances = ["water"]
+statusImmunities = ["paralyzed", "asleep", "stunned", "blight"]

@@ -5,8 +5,5 @@ en = "Aaru Cobra"
 zh-hans = "雅卢眼镜蛇"
 zh-hant = "雅盧眼鏡蛇"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+

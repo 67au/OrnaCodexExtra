@@ -5,8 +5,16 @@ en = "Arisen Thronemaker Osiris"
 zh-hans = "重生造王者奥西里斯"
 zh-hant = "重生造王者歐西里斯"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+statusImmunities = [
+    "poisoned",
+    "bleeding",
+    "burning",
+    "frozen",
+    "paralyzed",
+    "rot",
+    "blind",
+    "asleep",
+    "stunned",
+    "blight",
+]

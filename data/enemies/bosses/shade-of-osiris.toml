@@ -5,8 +5,5 @@ en = "Shade of Osiris"
 zh-hans = "奥西里斯之影"
 zh-hant = "歐西里斯之影"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+

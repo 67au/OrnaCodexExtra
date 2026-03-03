@@ -5,8 +5,5 @@ en = "Shade of Sekhmet"
 zh-hans = "塞赫麦特之影"
 zh-hant = "塞赫麥特之影"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+
