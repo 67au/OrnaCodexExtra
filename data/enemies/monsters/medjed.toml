@@ -5,8 +5,5 @@ en = "Medjed"
 zh-hans = "梅杰德"
 zh-hant = "Medjed"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+

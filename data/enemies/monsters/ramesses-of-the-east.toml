@@ -5,8 +5,4 @@ en = "Ramesses of the East"
 zh-hans = "东方拉美西斯"
 zh-hant = "Ramesses of the East"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
