@@ -2727,7 +2727,7 @@ kings-hood = 1
 # King's Robe / 王之长袍 / 國王的長袍
 kings-robe = 1
 # Knight Sirus Helmet / 骑士赛勒斯头盔 / 騎士賽勒斯頭盔
-knight-sirus-helmet = 1
+knight-sirus-helmet = -1
 # Kobold Armor / 地精盔甲 / 地精盔甲
 kobold-armor = -1
 # Kobold Boots / 地精长靴 / 地精長靴
