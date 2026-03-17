@@ -2126,7 +2126,7 @@ fey-surtrs-sword = 1
 fey-yeti-coat = 1
 # Fey Yeti Horns / 变异雪怪角 / 變異雪怪角
 fey-yeti-horns = 1
-# Final Decree / 最终敕令 / Final Decree
+# Final Decree / 最终敕令 / 最高判決
 final-decree = 1
 # Final Horseman's Armor / 最终骑士盔甲 / 最終騎士的盔甲
 final-horsemans-armor = 1
@@ -2498,7 +2498,7 @@ heavy-arrows = -1
 heavy-boots = -1
 # Heimdall's Shield / 海姆达尔之盾 / 海姆達爾之盾
 heimdalls-shield = 1
-# Heka / 赫卡 / Heka
+# Heka / 赫卡 / 赫卡
 heka = 1
 # Helhest / 海斯特 / 海斯特
 helhest = 1
@@ -3022,7 +3022,7 @@ naggeneens-hat = 1
 naggeneens-song = 1
 # Needles / 飞针 / 飛針
 needles = -1
-# Nekhakha / 连枷权杖 / Nekhakha
+# Nekhakha / 连枷权杖 / 連枷
 nekhakha = 1
 # Nekromancer's Staff / 死灵法师之杖 / 死靈法師之杖
 nekromancers-staff = -1

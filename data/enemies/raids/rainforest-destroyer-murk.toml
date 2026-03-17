@@ -1,0 +1,12 @@
+id = "raids/rainforest-destroyer-murk"
+
+[name]
+en = "Rainforest Destroyer Murk"
+zh-hans = "Rainforest Destroyer Murk"
+zh-hant = "Rainforest Destroyer Murk"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
