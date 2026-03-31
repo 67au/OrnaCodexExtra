@@ -1,0 +1,12 @@
+id = "raids/fallen-king-centaurus"
+
+[name]
+en = "Fallen King Centaurus"
+zh-hans = "Fallen King Centaurus"
+zh-hant = "墮落之王森陶洛斯"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

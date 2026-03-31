@@ -1,0 +1,12 @@
+id = "monsters/ljosalfar-knight-c43a9903"
+
+[name]
+en = "Ljosalfar Knight"
+zh-hans = "日之精灵骑士"
+zh-hant = "日之精靈騎士"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

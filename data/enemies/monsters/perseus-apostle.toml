@@ -1,0 +1,12 @@
+id = "monsters/perseus-apostle"
+
+[name]
+en = "Perseus Apostle"
+zh-hans = "Perseus Apostle"
+zh-hant = "柏修斯使徒"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
