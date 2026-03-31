@@ -1,0 +1,12 @@
+id = "monsters/cerus-apostle"
+
+[name]
+en = "Cerus Apostle"
+zh-hans = "Cerus Apostle"
+zh-hant = "凱魯斯使徒"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

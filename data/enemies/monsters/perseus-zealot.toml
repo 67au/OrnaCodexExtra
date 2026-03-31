@@ -1,0 +1,12 @@
+id = "monsters/perseus-zealot"
+
+[name]
+en = "Perseus Zealot"
+zh-hans = "Perseus Zealot"
+zh-hant = "柏修斯狂熱者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
