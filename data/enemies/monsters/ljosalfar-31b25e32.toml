@@ -1,0 +1,12 @@
+id = "monsters/ljosalfar-31b25e32"
+
+[name]
+en = "Ljosalfar"
+zh-hans = "日之精灵"
+zh-hant = "日之精靈"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

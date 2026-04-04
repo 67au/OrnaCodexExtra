@@ -1,0 +1,12 @@
+id = "monsters/aries-apostle"
+
+[name]
+en = "Aries Apostle"
+zh-hans = "Aries Apostle"
+zh-hant = "亞力士使徒"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
