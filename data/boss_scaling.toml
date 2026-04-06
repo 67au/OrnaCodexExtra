@@ -1344,6 +1344,10 @@ cowl-of-dynasty = 1
 cracked-mirror = 1
 # Crest of Avalon / 阿瓦隆纹章 / 阿瓦隆的紋章
 crest-of-avalon = 1
+# Cretan Arrows / Cretan Arrows / 克里特之箭
+cretan-arrows = 0
+# Cretan Compound Bow / Cretan Compound Bow / 克里特複合弓
+cretan-compound-bow = 0
 # Crook and Flail / 牧羊杖与连枷 / 壞蛋與連枷
 crook-and-flail = 1
 # Crooked Shotel / 弯曲短刀 / 彎曲短刀
@@ -2126,7 +2130,7 @@ fey-surtrs-sword = 1
 fey-yeti-coat = 1
 # Fey Yeti Horns / 变异雪怪角 / 變異雪怪角
 fey-yeti-horns = 1
-# Final Decree / 最终敕令 / Final Decree
+# Final Decree / 最终敕令 / 最高判決
 final-decree = 1
 # Final Horseman's Armor / 最终骑士盔甲 / 最終騎士的盔甲
 final-horsemans-armor = 1
@@ -2498,7 +2502,7 @@ heavy-arrows = -1
 heavy-boots = -1
 # Heimdall's Shield / 海姆达尔之盾 / 海姆達爾之盾
 heimdalls-shield = 1
-# Heka / 赫卡 / Heka
+# Heka / 赫卡 / 赫卡
 heka = 1
 # Helhest / 海斯特 / 海斯特
 helhest = 1
@@ -2604,12 +2608,16 @@ hood-of-dynasty = 1
 hood-of-wolves = -1
 # Horned Armor / 角铠 / 角鎧
 horned-armor = 1
+# Horned Corinthian Helmet / Horned Corinthian Helmet / 角飾科林斯頭盔
+horned-corinthian-helmet = 0
 # Horned Helmet / 尖角头盔 / 尖角頭盔
 horned-helmet = 1
 # Horned Hood / 有角兜帽 / 有角的兜帽
 horned-hood = 1
 # Horror / 恐惧杖 / 恐懼杖
 horror = 1
+# Horseshoes / Horseshoes / 馬蹄鐵
+horseshoes = 0
 # Horus's Robe / 荷鲁斯法袍 / 荷魯斯的法袍
 horuss-robe = -1
 # Houserobe of Dynasty / 王朝睡袍 / 王朝睡袍
@@ -2794,6 +2802,8 @@ leviathan-cuirass = -1
 lichs-staff = -1
 # Lifeshaker / 撼命者 / 撼命者
 lifeshaker = 1
+# Linothorax / Linothorax / 亞麻胸甲
+linothorax = 0
 # Lizarr Armor / 蜥蜴人盔甲 / 蜥蜴人盔甲
 lizarr-armor = -1
 # Lizarr Blade / 蜥蜴人之刃 / 蜥蜴人之刃
@@ -3022,7 +3032,7 @@ naggeneens-hat = 1
 naggeneens-song = 1
 # Needles / 飞针 / 飛針
 needles = -1
-# Nekhakha / 连枷权杖 / Nekhakha
+# Nekhakha / 连枷权杖 / 連枷
 nekhakha = 1
 # Nekromancer's Staff / 死灵法师之杖 / 死靈法師之杖
 nekromancers-staff = -1

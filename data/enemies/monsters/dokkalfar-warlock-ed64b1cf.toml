@@ -1,0 +1,12 @@
+id = "monsters/dokkalfar-warlock-ed64b1cf"
+
+[name]
+en = "Dokkalfar Warlock"
+zh-hans = "夜之精灵术士"
+zh-hant = "夜之精靈術士"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
