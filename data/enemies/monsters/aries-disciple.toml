@@ -5,8 +5,4 @@ en = "Aries Disciple"
 zh-hans = "Aries Disciple"
 zh-hant = "亞力士信徒"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]

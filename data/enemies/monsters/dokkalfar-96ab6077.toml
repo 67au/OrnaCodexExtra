@@ -5,8 +5,6 @@ en = "Dokkalfar"
 zh-hans = "夜之精灵"
 zh-hant = "夜之精靈"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+elementWeaknesses = [ "dark" ]
+elementImmunities = [ "holy" ]

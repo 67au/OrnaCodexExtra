@@ -6,5 +6,5 @@ zh-hans = "日之精灵"
 zh-hant = "日之精靈"
 
 [data]
-elementWeaknesses = ["dark"]
-elementImmunities = ["holy"]
+elementWeaknesses = [ "lightning", "holy" ]
+elementImmunities = [ "dark" ]

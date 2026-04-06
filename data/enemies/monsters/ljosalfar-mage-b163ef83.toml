@@ -5,8 +5,5 @@ en = "Ljosalfar Mage"
 zh-hans = "日之精灵法师"
 zh-hant = "日之精靈法師"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+elementWeaknesses = [ "fire" ]

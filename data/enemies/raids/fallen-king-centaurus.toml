@@ -5,8 +5,5 @@ en = "Fallen King Centaurus"
 zh-hans = "Fallen King Centaurus"
 zh-hant = "墮落之王森陶洛斯"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+statusImmunities = [ "poisoned", "bleeding", "windswept", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "drenched", "stunned", "blight", "petrified", "stasis", "att_d", "def_d", "def_dd", "mag_d", "t__dex_d", "res_d", "res_dd" ]

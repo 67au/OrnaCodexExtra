@@ -5,8 +5,5 @@ en = "Minotaur"
 zh-hans = "牛头怪"
 zh-hant = "牛頭怪"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+elementWeaknesses = [ "earthen" ]

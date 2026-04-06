@@ -5,8 +5,5 @@ en = "Rainforest Destroyer Murk"
 zh-hans = "Rainforest Destroyer Murk"
 zh-hant = "雨林毀滅者淤濁"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
+statusImmunities = [ "poisoned", "bleeding", "burning", "paralyzed", "blight" ]

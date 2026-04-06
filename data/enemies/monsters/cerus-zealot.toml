@@ -5,8 +5,4 @@ en = "Cerus Zealot"
 zh-hans = "Cerus Zealot"
 zh-hant = "凱魯斯狂熱者"
 
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []
+[data]
