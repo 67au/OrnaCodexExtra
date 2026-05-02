@@ -1,0 +1,12 @@
+id = "monsters/apprentice-of-flames-renewed"
+
+[name]
+en = "Apprentice of Flames Renewed"
+zh-hans = "Apprentice of Flames Renewed"
+zh-hant = "Apprentice of Flames Renewed"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

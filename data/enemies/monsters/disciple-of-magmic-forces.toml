@@ -1,0 +1,12 @@
+id = "monsters/disciple-of-magmic-forces"
+
+[name]
+en = "Disciple of Magmic Forces"
+zh-hans = "Disciple of Magmic Forces"
+zh-hant = "Disciple of Magmic Forces"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

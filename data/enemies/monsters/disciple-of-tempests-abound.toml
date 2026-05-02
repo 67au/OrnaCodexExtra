@@ -1,0 +1,12 @@
+id = "monsters/disciple-of-tempests-abound"
+
+[name]
+en = "Disciple of Tempests Abound"
+zh-hans = "Disciple of Tempests Abound"
+zh-hant = "Disciple of Tempests Abound"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

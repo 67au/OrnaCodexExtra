@@ -1,0 +1,12 @@
+id = "monsters/pupil-of-the-tides"
+
+[name]
+en = "Pupil of the Tides"
+zh-hans = "Pupil of the Tides"
+zh-hant = "潮之學生"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

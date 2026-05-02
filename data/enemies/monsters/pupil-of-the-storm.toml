@@ -1,0 +1,12 @@
+id = "monsters/pupil-of-the-storm"
+
+[name]
+en = "Pupil of the Storm"
+zh-hans = "Pupil of the Storm"
+zh-hant = "Pupil of the Storm"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "monsters/apprentice-of-lightning-contained"
+
+[name]
+en = "Apprentice of Lightning Contained"
+zh-hans = "Apprentice of Lightning Contained"
+zh-hant = "Apprentice of Lightning Contained"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "monsters/apprentice-of-earthen-might"
+
+[name]
+en = "Apprentice of Earthen Might"
+zh-hans = "Apprentice of Earthen Might"
+zh-hant = "Apprentice of Earthen Might"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

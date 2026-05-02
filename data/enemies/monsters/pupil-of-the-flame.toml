@@ -1,0 +1,12 @@
+id = "monsters/pupil-of-the-flame"
+
+[name]
+en = "Pupil of the Flame"
+zh-hans = "Pupil of the Flame"
+zh-hant = "烈火的學生"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

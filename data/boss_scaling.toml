@@ -1344,9 +1344,9 @@ cowl-of-dynasty = 1
 cracked-mirror = 1
 # Crest of Avalon / 阿瓦隆纹章 / 阿瓦隆的紋章
 crest-of-avalon = 1
-# Cretan Arrows / Cretan Arrows / 克里特之箭
+# Cretan Arrows / 克里特之箭 / 克里特之箭
 cretan-arrows = 1
-# Cretan Compound Bow / Cretan Compound Bow / 克里特複合弓
+# Cretan Compound Bow / 克里特复合弓 / 克里特複合弓
 cretan-compound-bow = 1
 # Crook and Flail / 牧羊杖与连枷 / 壞蛋與連枷
 crook-and-flail = 1
@@ -2608,7 +2608,7 @@ hood-of-dynasty = 1
 hood-of-wolves = -1
 # Horned Armor / 角铠 / 角鎧
 horned-armor = 1
-# Horned Corinthian Helmet / Horned Corinthian Helmet / 角飾科林斯頭盔
+# Horned Corinthian Helmet / 有角科林斯式头盔 / 角飾科林斯頭盔
 horned-corinthian-helmet = 1
 # Horned Helmet / 尖角头盔 / 尖角頭盔
 horned-helmet = 1
@@ -2616,7 +2616,7 @@ horned-helmet = 1
 horned-hood = 1
 # Horror / 恐惧杖 / 恐懼杖
 horror = 1
-# Horseshoes / Horseshoes / 馬蹄鐵
+# Horseshoes / 马蹄铁 / 馬蹄鐵
 horseshoes = 1
 # Horus's Robe / 荷鲁斯法袍 / 荷魯斯的法袍
 horuss-robe = -1
@@ -2802,7 +2802,7 @@ leviathan-cuirass = -1
 lichs-staff = -1
 # Lifeshaker / 撼命者 / 撼命者
 lifeshaker = 1
-# Linothorax / Linothorax / 亞麻胸甲
+# Linothorax / 亚麻胸甲 / 亞麻胸甲
 linothorax = 1
 # Lizarr Armor / 蜥蜴人盔甲 / 蜥蜴人盔甲
 lizarr-armor = -1
@@ -3828,6 +3828,38 @@ ulsters-crown = 1
 ulsters-epee = 1
 # Ulster's Sceptre / 阿尔斯特的权杖 / 阿爾斯特的權杖
 ulsters-sceptre = 1
+# Umbral Acolyte's Dagger / Umbral Acolyte's Dagger / Umbral Acolyte's Dagger
+umbral-acolytes-dagger = 0
+# Umbral Acolyte's Shield / Umbral Acolyte's Shield / Umbral Acolyte's Shield
+umbral-acolytes-shield = 0
+# Umbral Acolyte's Staff / Umbral Acolyte's Staff / Umbral Acolyte's Staff
+umbral-acolytes-staff = 0
+# Umbral Acolyte's Sword / Umbral Acolyte's Sword / Umbral Acolyte's Sword
+umbral-acolytes-sword = 0
+# Umbral Apprentice's Dagger / Umbral Apprentice's Dagger / Umbral Apprentice's Dagger
+umbral-apprentices-dagger = 0
+# Umbral Apprentice's Shield / Umbral Apprentice's Shield / Umbral Apprentice's Shield
+umbral-apprentices-shield = 0
+# Umbral Apprentice's Staff / Umbral Apprentice's Staff / 本影學徒法杖
+umbral-apprentices-staff = 0
+# Umbral Apprentice's Sword / Umbral Apprentice's Sword / Umbral Apprentice's Sword
+umbral-apprentices-sword = 0
+# Umbral Disciple's Dagger / Umbral Disciple's Dagger / 本影信徒匕首
+umbral-disciples-dagger = 0
+# Umbral Disciple's Shield / Umbral Disciple's Shield / Umbral Disciple's Shield
+umbral-disciples-shield = 0
+# Umbral Disciple's Staff / Umbral Disciple's Staff / Umbral Disciple's Staff
+umbral-disciples-staff = 0
+# Umbral Disciple's Sword / Umbral Disciple's Sword / Umbral Disciple's Sword
+umbral-disciples-sword = 0
+# Umbral Pupil's Dagger / Umbral Pupil's Dagger / Umbral Pupil's Dagger
+umbral-pupils-dagger = 0
+# Umbral Pupil's Shield / Umbral Pupil's Shield / 本影學生之盾
+umbral-pupils-shield = 0
+# Umbral Pupil's Staff / Umbral Pupil's Staff / Umbral Pupil's Staff
+umbral-pupils-staff = 0
+# Umbral Pupil's Sword / Umbral Pupil's Sword / Umbral Pupil's Sword
+umbral-pupils-sword = 0
 # Untamed Bull / 桀骜公牛 / 桀驁公牛
 untamed-bull = 1
 # Vajra / 金刚杵 / 金剛杵
