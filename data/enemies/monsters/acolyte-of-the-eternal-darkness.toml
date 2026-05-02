@@ -1,0 +1,12 @@
+id = "monsters/acolyte-of-the-eternal-darkness"
+
+[name]
+en = "Acolyte of the Eternal Darkness"
+zh-hans = "Acolyte of the Eternal Darkness"
+zh-hant = "永恆黑暗的追隨者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

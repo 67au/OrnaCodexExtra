@@ -1,0 +1,12 @@
+id = "monsters/disciple-of-destructive-quakes"
+
+[name]
+en = "Disciple of Destructive Quakes"
+zh-hans = "Disciple of Destructive Quakes"
+zh-hant = "Disciple of Destructive Quakes"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

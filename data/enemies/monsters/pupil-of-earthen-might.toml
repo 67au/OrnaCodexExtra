@@ -1,0 +1,12 @@
+id = "monsters/pupil-of-earthen-might"
+
+[name]
+en = "Pupil of Earthen Might"
+zh-hans = "Pupil of Earthen Might"
+zh-hant = "大地之力學生"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

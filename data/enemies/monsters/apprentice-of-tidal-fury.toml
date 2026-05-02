@@ -1,0 +1,12 @@
+id = "monsters/apprentice-of-tidal-fury"
+
+[name]
+en = "Apprentice of Tidal Fury"
+zh-hans = "Apprentice of Tidal Fury"
+zh-hant = "憤怒潮汐的學徒"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
