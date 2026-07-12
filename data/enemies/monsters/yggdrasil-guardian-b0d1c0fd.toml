@@ -1,0 +1,12 @@
+id = "monsters/yggdrasil-guardian-b0d1c0fd"
+
+[name]
+en = "Yggdrasil Guardian"
+zh-hans = "世界树守护者"
+zh-hant = "世界樹守護者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

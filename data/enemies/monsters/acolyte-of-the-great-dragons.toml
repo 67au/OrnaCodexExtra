@@ -1,0 +1,12 @@
+id = "monsters/acolyte-of-the-great-dragons"
+
+[name]
+en = "Acolyte of the Great Dragons"
+zh-hans = "远古巨龙之随者"
+zh-hant = "遠古巨龍追隨者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

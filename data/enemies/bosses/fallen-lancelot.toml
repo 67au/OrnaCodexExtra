@@ -1,0 +1,12 @@
+id = "bosses/fallen-lancelot"
+
+[name]
+en = "Fallen Lancelot"
+zh-hans = "堕落的兰斯洛特"
+zh-hant = "墮落的蘭斯洛特"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

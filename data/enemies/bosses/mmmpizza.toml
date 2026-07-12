@@ -1,0 +1,12 @@
+id = "bosses/mmmpizza"
+
+[name]
+en = "MmmPizza"
+zh-hans = "MmmPizza"
+zh-hant = "MmmPizza"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

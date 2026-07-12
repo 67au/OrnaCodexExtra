@@ -1,0 +1,12 @@
+id = "monsters/arisen-bloodwarg"
+
+[name]
+en = "Arisen Bloodwarg"
+zh-hans = "重生嗜血座狼"
+zh-hant = "重生血腥座狼"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "monsters/disciple-of-the-lost-arts-combined"
+
+[name]
+en = "Disciple of the Lost Arts Combined"
+zh-hans = "失落秘术之信徒"
+zh-hant = "統合失落藝術之弟子"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

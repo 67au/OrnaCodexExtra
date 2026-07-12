@@ -1,0 +1,12 @@
+id = "monsters/undead-634b7e5e"
+
+[name]
+en = "Undead"
+zh-hans = "亡灵"
+zh-hant = "不死者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

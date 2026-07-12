@@ -1,0 +1,12 @@
+id = "monsters/burning-chorus-1a1ee7f3"
+
+[name]
+en = "Burning Chorus"
+zh-hans = "灼燃合唱"
+zh-hant = "燃燒頌歌"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

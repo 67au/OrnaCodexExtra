@@ -1,0 +1,12 @@
+id = "bosses/lamenter"
+
+[name]
+en = "Lamenter"
+zh-hans = "哀悼者"
+zh-hant = "哀嘆的人"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

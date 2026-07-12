@@ -1,0 +1,12 @@
+id = "monsters/ember-choirist-f398eca1"
+
+[name]
+en = "Ember Choirist"
+zh-hans = "余烬颂歌"
+zh-hant = "燼火合唱者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

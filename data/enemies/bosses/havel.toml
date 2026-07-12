@@ -1,0 +1,12 @@
+id = "bosses/havel"
+
+[name]
+en = "Havel"
+zh-hans = "Havel"
+zh-hant = "Havel"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

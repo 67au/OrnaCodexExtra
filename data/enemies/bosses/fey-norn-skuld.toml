@@ -1,0 +1,12 @@
+id = "bosses/fey-norn-skuld"
+
+[name]
+en = "Fey Norn Skuld"
+zh-hans = "变异诺伦女神诗寇蒂"
+zh-hant = "變異諾倫女神詩蔻蒂"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

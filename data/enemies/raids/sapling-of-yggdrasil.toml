@@ -1,0 +1,12 @@
+id = "raids/sapling-of-yggdrasil"
+
+[name]
+en = "Sapling of Yggdrasil"
+zh-hans = "世界树的树苗"
+zh-hant = "世界樹的樹苗"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

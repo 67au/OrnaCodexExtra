@@ -1,0 +1,12 @@
+id = "bosses/cursed-brunor"
+
+[name]
+en = "Cursed Brunor"
+zh-hans = "诅咒的布鲁诺"
+zh-hant = "被詛咒的布魯諾"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

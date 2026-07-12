@@ -1,0 +1,12 @@
+id = "monsters/fey-stonewarg"
+
+[name]
+en = "Fey Stonewarg (Arisen)"
+zh-hans = "变异岩石座狼 (重生者)"
+zh-hant = "變異岩石座狼 (重生者)"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "bosses/arisen-norn-skuld"
+
+[name]
+en = "Arisen Norn Skuld"
+zh-hans = "重生诺伦女神诗寇蒂"
+zh-hant = "重生諾倫女神詩蔻蒂"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

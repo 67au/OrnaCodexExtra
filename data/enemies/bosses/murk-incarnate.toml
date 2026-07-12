@@ -1,0 +1,12 @@
+id = "bosses/murk-incarnate"
+
+[name]
+en = "Murk Incarnate"
+zh-hans = "泥沼化身"
+zh-hant = "淤濁的化身"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

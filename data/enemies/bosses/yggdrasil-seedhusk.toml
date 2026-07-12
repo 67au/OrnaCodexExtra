@@ -1,0 +1,12 @@
+id = "bosses/yggdrasil-seedhusk"
+
+[name]
+en = "Yggdrasil Seedhusk"
+zh-hans = "世界树种壳"
+zh-hant = "世界樹種殼"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

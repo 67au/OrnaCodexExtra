@@ -1,0 +1,12 @@
+id = "monsters/disciple-of-destructive-quakes"
+
+[name]
+en = "Disciple of Destructive Quakes"
+zh-hans = "地裂山崩之信徒"
+zh-hant = "地動山搖之信徒"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

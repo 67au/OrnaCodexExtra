@@ -1,0 +1,12 @@
+id = "bosses/ob"
+
+[name]
+en = "ob"
+zh-hans = "ob"
+zh-hant = "ob"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "bosses/purrly"
+
+[name]
+en = "Purrly"
+zh-hans = "Purrly"
+zh-hant = "Purrly"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

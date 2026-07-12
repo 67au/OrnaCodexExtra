@@ -1,0 +1,12 @@
+id = "monsters/fey-bloodwarg"
+
+[name]
+en = "Fey Bloodwarg (Arisen)"
+zh-hans = "变异嗜血座狼 (重生者)"
+zh-hant = "變異血腥座狼 (重生者)"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
