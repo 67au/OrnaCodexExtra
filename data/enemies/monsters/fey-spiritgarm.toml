@@ -1,0 +1,12 @@
+id = "monsters/fey-spiritgarm"
+
+[name]
+en = "Fey Spiritgarm (Arisen)"
+zh-hans = "变异幽灵加姆 (重生者)"
+zh-hant = "變異靈獸加姆 (重生者)"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

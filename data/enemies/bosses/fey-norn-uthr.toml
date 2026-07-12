@@ -1,0 +1,12 @@
+id = "bosses/fey-norn-uthr"
+
+[name]
+en = "Fey Norn Uthr"
+zh-hans = "变异诺伦女神乌尔德"
+zh-hant = "變異諾倫女神兀兒德"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "bosses/fallen-brunor"
+
+[name]
+en = "Fallen Brunor"
+zh-hans = "堕落布鲁诺"
+zh-hant = "墮落的布魯諾"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

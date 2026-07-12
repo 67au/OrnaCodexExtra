@@ -2,11 +2,5 @@ id = "monsters/perseus-disciple"
 
 [name]
 en = "Perseus Disciple"
-zh-hans = "Perseus Disciple"
+zh-hans = "珀尔修斯信徒"
 zh-hant = "柏修斯信徒"
-
-# [data]
-# elementWeaknesses = []
-# elementImmunities = []
-# elementResistances = []
-# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "raids/cursed-king-arthus"
+
+[name]
+en = "Cursed King Arthus"
+zh-hans = "诅咒的亚瑟王"
+zh-hant = "被詛咒的亞瑟王"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

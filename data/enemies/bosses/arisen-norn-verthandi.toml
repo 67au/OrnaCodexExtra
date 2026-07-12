@@ -1,0 +1,12 @@
+id = "bosses/arisen-norn-verthandi"
+
+[name]
+en = "Arisen Norn Verthandi"
+zh-hans = "重生诺伦女神薇儿丹蒂"
+zh-hant = "重生諾倫女神蓓兒丹娣"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

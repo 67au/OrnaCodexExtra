@@ -1,0 +1,12 @@
+id = "bosses/mochi"
+
+[name]
+en = "Mochi"
+zh-hans = "Mochi"
+zh-hant = "Mochi"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

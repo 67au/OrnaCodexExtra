@@ -1,0 +1,12 @@
+id = "monsters/bloom-requiem"
+
+[name]
+en = "Bloom Requiem"
+zh-hans = "繁花镇魂曲"
+zh-hant = "最後綻放安魂曲"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

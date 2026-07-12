@@ -1,0 +1,12 @@
+id = "monsters/acolyte-of-the-divine-light"
+
+[name]
+en = "Acolyte of the Divine Light"
+zh-hans = "神圣光辉之随者"
+zh-hant = "聖光追隨者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "raids/treeling-of-yggdrasil"
+
+[name]
+en = "Treeling of Yggdrasil"
+zh-hans = "世界树的幼树"
+zh-hant = "世界樹的幼樹"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

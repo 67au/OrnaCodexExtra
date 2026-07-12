@@ -1,0 +1,12 @@
+id = "bosses/norn-uthr"
+
+[name]
+en = "Norn Uthr"
+zh-hans = "诺伦女神乌尔德"
+zh-hant = "諾倫女神兀兒德"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

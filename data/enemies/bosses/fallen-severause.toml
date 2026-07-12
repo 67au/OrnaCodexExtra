@@ -1,0 +1,12 @@
+id = "bosses/fallen-severause"
+
+[name]
+en = "Fallen Severause"
+zh-hans = "堕落的西弗勒斯"
+zh-hant = "墮落的塞弗勞斯"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

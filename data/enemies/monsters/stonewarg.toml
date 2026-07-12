@@ -1,8 +1,8 @@
 id = "monsters/stonewarg"
 
 [name]
-en = "Stonewarg (Arisen)"
-zh-hans = "岩石座狼 (重生者)"
-zh-hant = "岩石座狼 (重生者)"
+en = "Stonewarg"
+zh-hans = "岩石座狼"
+zh-hant = "岩石座狼"
 
 [data]

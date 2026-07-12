@@ -1,0 +1,12 @@
+id = "bosses/the-creator"
+
+[name]
+en = "The Creator"
+zh-hans = "造物者"
+zh-hant = "造物者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

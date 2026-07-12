@@ -1,0 +1,12 @@
+id = "bosses/flax44"
+
+[name]
+en = "Flax44"
+zh-hans = "Flax44"
+zh-hant = "Flax44"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

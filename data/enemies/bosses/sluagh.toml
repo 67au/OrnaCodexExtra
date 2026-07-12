@@ -1,0 +1,12 @@
+id = "bosses/sluagh"
+
+[name]
+en = "Sluagh"
+zh-hans = "勾魂者"
+zh-hant = "勾魂者"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

@@ -1,0 +1,12 @@
+id = "bosses/cursed-lancelot"
+
+[name]
+en = "Cursed Lancelot"
+zh-hans = "诅咒的兰斯洛特"
+zh-hant = "被詛咒的蘭斯洛特"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

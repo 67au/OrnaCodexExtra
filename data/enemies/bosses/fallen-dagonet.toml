@@ -1,0 +1,12 @@
+id = "bosses/fallen-dagonet"
+
+[name]
+en = "Fallen Dagonet"
+zh-hans = "堕落达葛奈"
+zh-hant = "墮落達戈內特"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

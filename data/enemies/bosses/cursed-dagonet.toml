@@ -1,0 +1,12 @@
+id = "bosses/cursed-dagonet"
+
+[name]
+en = "Cursed Dagonet"
+zh-hans = "诅咒的达葛奈"
+zh-hant = "被詛咒的達戈內特"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

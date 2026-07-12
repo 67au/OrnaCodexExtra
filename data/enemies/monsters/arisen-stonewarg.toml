@@ -1,0 +1,12 @@
+id = "monsters/arisen-stonewarg"
+
+[name]
+en = "Arisen Stonewarg"
+zh-hans = "重生岩石座狼"
+zh-hant = "重生岩石座狼"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

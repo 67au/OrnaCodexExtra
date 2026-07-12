@@ -1,0 +1,12 @@
+id = "bosses/dangy"
+
+[name]
+en = "Dangy"
+zh-hans = "Dangy"
+zh-hant = "Dangy"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

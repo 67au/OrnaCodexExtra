@@ -1,0 +1,12 @@
+id = "monsters/arisen-spiritgarm"
+
+[name]
+en = "Arisen Spiritgarm"
+zh-hans = "重生幽灵加姆"
+zh-hant = "重生靈獸加姆"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

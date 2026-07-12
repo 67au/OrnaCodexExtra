@@ -1,0 +1,12 @@
+id = "monsters/disciple-of-oceans-combined"
+
+[name]
+en = "Disciple of Oceans Combined"
+zh-hans = "沧海合流之信徒"
+zh-hant = "萬洋統合之信徒"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []

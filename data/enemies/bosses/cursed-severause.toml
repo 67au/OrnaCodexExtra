@@ -1,0 +1,12 @@
+id = "bosses/cursed-severause"
+
+[name]
+en = "Cursed Severause"
+zh-hans = "诅咒的西弗勒斯"
+zh-hant = "被詛咒的塞弗勞斯"
+
+# [data]
+# elementWeaknesses = []
+# elementImmunities = []
+# elementResistances = []
+# statusImmunities = []
