@@ -6,4 +6,4 @@ zh-hans = "世界树"
 zh-hant = "世界樹"
 
 [data]
-statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight"]
+statusImmunities = ["poisoned", "bleeding", "burning", "frozen", "paralyzed", "rot", "blind", "asleep", "blight", "stasis", "def_d", "def_dd", "res_d", "res_dd" ]
